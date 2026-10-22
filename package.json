@@ -1,0 +1,27 @@
+{
+  "name": "soic-knowledge-vault",
+  "version": "1.0.0",
+  "description": "Structured Reference Engine for SOIC TVGP Investing Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "sync": "node scripts/sync.js",
+    "build": "npm run sync && npm run docs:build"
+  },
+  "keywords": [
+    "soic",
+    "investing",
+    "tvgp",
+    "valuation",
+    "knowledge-base"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress": "^1.6.3"
+  }
+}
