@@ -17,6 +17,68 @@
         {
           "text": "🗺️ Sub-Course Overview (D3)",
           "link": "/courses/chk/"
+        },
+        {
+          "text": "⚡ Summary Reference Cards (D2)",
+          "link": "/courses/chk/CHK_Summary_Reference"
+        },
+        {
+          "text": "📑 Detailed Lecture Reports (D1)",
+          "collapsed": false,
+          "items": [
+            {
+              "text": "Lec 01: Riding the Giant: Discovering Ma...",
+              "link": "/courses/chk/CHK_Lec01_Report"
+            },
+            {
+              "text": "Lec 02: Identifying Investment Themes: C...",
+              "link": "/courses/chk/CHK_Lec02_Report"
+            },
+            {
+              "text": "Lec 03: Identifying Thematic Tailwinds, ...",
+              "link": "/courses/chk/CHK_Lec03_Report"
+            },
+            {
+              "text": "Lec 04: Spotting Growth Businesses: Rela...",
+              "link": "/courses/chk/CHK_Lec04_Report"
+            },
+            {
+              "text": "Lec 05: Spotting Growth Businesses (Part...",
+              "link": "/courses/chk/CHK_Lec05_Report"
+            },
+            {
+              "text": "Lec 06: Spotting J-Curve Businesses, Mar...",
+              "link": "/courses/chk/CHK_Lec06_Report"
+            },
+            {
+              "text": "Lec 07: CHK_Lec07_Report",
+              "link": "/courses/chk/CHK_Lec07_Report"
+            },
+            {
+              "text": "Lec 08: How to Read Management Like a Fu...",
+              "link": "/courses/chk/CHK_Lec08_Report"
+            },
+            {
+              "text": "Lec 09: Foundations of Stock Valuation: ...",
+              "link": "/courses/chk/CHK_Lec09_Report"
+            },
+            {
+              "text": "Lec 10: Valuation Principles, Avoiding V...",
+              "link": "/courses/chk/CHK_Lec10_Report"
+            },
+            {
+              "text": "Lec 11: Valuation Dynamics: Value Traps,...",
+              "link": "/courses/chk/CHK_Lec11_Report"
+            },
+            {
+              "text": "Lec 12: Market Environment Cycles, Secto...",
+              "link": "/courses/chk/CHK_Lec12_Report"
+            },
+            {
+              "text": "Lec 13: Financial Modelling & Forward Va...",
+              "link": "/courses/chk/CHK_Lec13_Report"
+            }
+          ]
         }
       ]
     }
