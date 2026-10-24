@@ -1,0 +1,1776 @@
+{
+  "lectureId": "FA_Lec05",
+  "subcourse": "fa",
+  "rawFilename": "FA_Lec05_research-a-stock-from-scratch-transcript.txt",
+  "lectureTitle": "Class 5 Research a Stock from Scratch",
+  "courseTitle": "Crash Course",
+  "totalDurationSeconds": 12118,
+  "totalDurationFormatted": "3:21:58",
+  "totalCues": 294,
+  "cues": [
+    {
+      "id": "cue-3",
+      "timestamp": "0:00:03",
+      "seconds": 3,
+      "text": "I invests, welcome to SOIC. Hopefully all of you are doing well. Hi everyone. No? Hi everyone, hopefully all of you are doing well. Great. We will just start the webinar shortly. Yeah, finally doing better. I think back to back I fell in though this happened like after multiple years. So now finally in much better health."
+    },
+    {
+      "id": "cue-50",
+      "timestamp": "0:00:50",
+      "seconds": 50,
+      "text": "Right. Praji ja ke diko. Last one week se I have been not well. I think cash flow's ke recording aaj hi daali hai. It's a con life. I'll just confirm with the team. It is live now. Cash flow recording is live. So you just refresh the thing. It is live. So hopefully all of you are doing well great random mother is recovering right now she's not allowed to speak for at least a month and yeah so I'll just share the presentation All right, hopefully the presentation is built to all."
+    },
+    {
+      "id": "cue-100",
+      "timestamp": "0:01:40",
+      "seconds": 100,
+      "text": "We'll start sharply in two minutes. Just a a second. Alright. Just connecting the mic. You you you you you Alright, adding now the mic is connected, the voice quality will be much better."
+    },
+    {
+      "id": "cue-219",
+      "timestamp": "0:03:39",
+      "seconds": 219,
+      "text": "Awesome. So just opening the chat section, hopefully all of you are doing well. Is the sound better now? Awesome, awesome. Great. So with this, I think we'll just start the session and I think session start can be just a brief overview of the market that we'll do. So we'll just brief overview of the markets so that a lot of you can get an idea of where we are and then we'll start. So just a second over here. All right."
+    },
+    {
+      "id": "cue-255",
+      "timestamp": "0:04:15",
+      "seconds": 255,
+      "text": "So just a brief overview of the markets, just to show you where we are on the indices and index level so that it gets a lot of clarity for you, what type of expectations you should have. So first let's open 50-50. I think recently we did a market capsule series in which we discussed what is going on in the market at this time. So, see again, technicals, fundamentals and valuations, we can sort of decode the markets. So, When we look at DAO theory, anything that we look at in technical analysis comes from DAO theory. It simply talks about what? There are three types of trends."
+    },
+    {
+      "id": "cue-298",
+      "timestamp": "0:04:58",
+      "seconds": 298,
+      "text": "One is uptrend, second is sideways trend and third is downtrend. So let's look at the nifty-fifty index, what is going on at this time? So just to give you an idea before we start the webinar, is that earlier we were forming higher highs. If you look at this high, it was higher than the previous high. So from March 2023, this trend was continuing. So from March 2023, this trend was continuing."
+    },
+    {
+      "id": "cue-321",
+      "timestamp": "0:05:21",
+      "seconds": 321,
+      "text": "But now we have formed a lower high that this high is lower than the previous high so this just signals that the trend has been broken so near term the trend has been broken and the valuation basis is 21.9 times the earnings but the earnings growth rate has been slowing down. So I think marginally all of you should adjust your expectations accordingly. Why so?"
+    },
+    {
+      "id": "cue-345",
+      "timestamp": "0:05:45",
+      "seconds": 345,
+      "text": "Because from here, markets might enter, so it will be best case that we go sideways trend and now there may be a head and shoulder breakdown so you can see this is a left shoulder, this is a head and this is a right shoulder and actually if there is a head and shoulder breakdown then probably there will be more downside to nifty but just as an idea, it is important to do expectations in the near term but what will be the opportunity?"
+    },
+    {
+      "id": "cue-372",
+      "timestamp": "0:06:12",
+      "seconds": 372,
+      "text": "If nifty comes at 22, 000 or 22, 200 levels, then the p ratio of nifty will go below 20 times So that will be a really interesting opportunity for basically lump sums or top ups on an index level. So this is Just a brief analysis which I wanted to do with all of you because I thought this is important because the changes in the market, the changes in the market are in 1 to 1 and a half year so actually currently we have a character change which has happened in the broader indices right? So the character changes we should be a bit more careful."
+    },
+    {
+      "id": "cue-411",
+      "timestamp": "0:06:51",
+      "seconds": 411,
+      "text": "And we should be 3-4 times more sure about the business that we are planning to invest in or we are planning to buy. But definitely, the satellite type portfolio is the one that takes 2-3% high risk bets. So, maybe you have time to temper down on that also And those who invest for 3-5 years, like we do So, what can happen there is that in the near term, the index of NIFTY The valuation will go up to 20B or 21B on TTM So forward, it will go up to 19 times, maybe 99.5 times which will make the risk reward very favorable from an index perspective."
+    },
+    {
+      "id": "cue-447",
+      "timestamp": "0:07:27",
+      "seconds": 447,
+      "text": "Now just before I go forward, was this easy to understand? For SOIC tripe members, who are SOIC students, who are new to SOIC, it might be difficult for you to understand, But was it easy to understand? Because it is like this is how the character of the index has changed. So just temper your expectations exactly right awesome so accordingly temporary or expectation right right so we will start the webinar with scratch and I think SOIC students got the message all right So we will start the webinar with scratch and I think S.O.I.C students got the message."
+    },
+    {
+      "id": "cue-487",
+      "timestamp": "0:08:07",
+      "seconds": 487,
+      "text": "Alright, so we will start the webinar with scratch, step by step, investing process and investing checklist. So I will take you to the basics of how you can basically build an investing checklist and how you can do live case studies or where and where and how you can build your base scenario accordingly. But just before I start, a standard disclaimer that nothing in this presentation should be considered as a by-your-self recommendation."
+    },
+    {
+      "id": "cue-513",
+      "timestamp": "0:08:33",
+      "seconds": 513,
+      "text": "Pure purpose of this presentation is to give you an idea or a framework on how you can sort of build an investing checklist and we'll take a lot of examples and a lot of examples from the past as well. So that will give you a good idea of how to build a checklist when you are doing the fundamental analysis or technical analysis. But before we start the entire process of the checklist, we will learn two ratios, that is return on equity and return on capital employee."
+    },
+    {
+      "id": "cue-538",
+      "timestamp": "0:08:58",
+      "seconds": 538,
+      "text": "So, by learning the concept of ROE and ROC, then we will go to the investing checklist then things will become much easier for you First we will see what is ROE and how is ROE calculated So what is the return on equity I think if we are taking two ratios in finance so these are probably some of the two of the most important ratios So what is ROE? So ROE is nothing but the equity of the owners, the owner's interest in a business. So what is an owner earning on the money that he has invested into a business? So that is what return on equity means."
+    },
+    {
+      "id": "cue-570",
+      "timestamp": "0:09:30",
+      "seconds": 570,
+      "text": "So it is called shareholders equity, owners equity. And you will see a line item by equity, on the screener. You will see equity capital plus reserves, that is total equity of a business. So owners equity is a very simple concept. Suppose, again this is an old example, but let's take an example of the So he invests 100 rupees in a samosa shop. So he invests 100 rupees in a Samosa shop, so he invests 100 rupees in Samosa shop and he borrow 100 rupees from his father. So in the first year of business operations, he earns 50 rupees of profit. So how much equity did the owner earn?"
+    },
+    {
+      "id": "cue-603",
+      "timestamp": "0:10:03",
+      "seconds": 603,
+      "text": "So how much ROE should be? Owner has put 100 and made 50 rupees so what will be the ROE of the business? If the owner has put in 100 rupees and he has earned 50 rupees on it so return on equity how much is the business? In the comments a very simple example to understand, at least 50% are OEGAs, right? Awesome, right? But total capital, how much is employed in the business, if we are borrowing from father for 100 rupees, then total capital is so employed in the business, it will be 200 rupees. Because 100 rupees is borrowed from father and 100 rupees is from yourself."
+    },
+    {
+      "id": "cue-650",
+      "timestamp": "0:10:50",
+      "seconds": 650,
+      "text": "Correct? So, keep this concept with you right now, what is ROE and what is ROC, right? So, I will come to ROC's concept but now we will come to ROE, right? So, first we will focus on ROE, I will come after ROC. So, what is return on equity? So, ROE indicates a company's profitability by imagining how much shareholders earn for their investment in the company."
+    },
+    {
+      "id": "cue-675",
+      "timestamp": "0:11:15",
+      "seconds": 675,
+      "text": "ROE signifies how good the company is in generating returns on investment received from shareholders and formula for calculating ROE is nothing but profit after tax upon equity where net worth is equity share capital and reserves and surplus So we calculate a business's life ROE and you guys help me in calculating ROE so let's do this thought experiment and let's do this example so we take business in the name of Thanga Mile and calculate its return on equity so in Thanga Mile, how much profit was there in 2024? Can everyone see? How much profit was there in 2024?"
+    },
+    {
+      "id": "cue-711",
+      "timestamp": "0:11:51",
+      "seconds": 711,
+      "text": "How much profit was there, folks? 123 crores, right? So what happened? Did the net profit of the company become? Now in 2023, how much equity was there in the company? If we take a simple example, right? So how much equity was there in 2024? So what we will do is, we will add 466 crores to 27 crores. So in equity, there are two things, equity, capital and reserves, which we see on the screener. There are many other things but we simplify our life on the screener. There are only two things in equity, reserves and equity capital."
+    },
+    {
+      "id": "cue-745",
+      "timestamp": "0:12:25",
+      "seconds": 745,
+      "text": "So, when we add reserves and equity capital, 466 plus 27, what will be your answer? The answer will be 490, 3 crores. Equity means the shareholder's money is invested in the business. Right? So let's calculate the return on equity now. So let's calculate the return on equity now. So let's calculate the return on equity now. Simple example. So now participate in this. So I'm just turning the chat section off. The shareholder's money is earning a lot of money. That is what it means."
+    },
+    {
+      "id": "cue-786",
+      "timestamp": "0:13:06",
+      "seconds": 786,
+      "text": "Now let's take an example This is the profit of 123 crores And it is 493 crore equity So if we divide net profit of 1 share holders equity What is the answer? So everyone can do this, so what is your answer basically? So the answer will be something like 24-25% 24.9% is your answer, 25% is round off Is everyone getting the same answer? 123-493 Same answer for everyone? Awesome So what can you see from ROE that business is earning on the capital of shareholders, so you get a good idea."
+    },
+    {
+      "id": "cue-840",
+      "timestamp": "0:14:00",
+      "seconds": 840,
+      "text": "Basically, if we assume the cost of capital in India is around 10% and if you want to take a business loan on an average or what the cost of capital is for doing a business is for a business, then we take a rough rule of thumb, 10%."
+    },
+    {
+      "id": "cue-855",
+      "timestamp": "0:14:15",
+      "seconds": 855,
+      "text": "I am not going to speak in the CFA language that we will do capital asset pricing model because it is very complicated and we don't have any use for it but we assume that if we put 100 rupees in a business or invest in India, we can make 10% of it then the cost of a business of capital is 10% so this company is earning 25% ROE so what is the good or bad of this company? Let me know in the comments what do you think? Is the ROE level good or bad? Is it a good ROE at the company's making or it's a bad ROE at the company's making?"
+    },
+    {
+      "id": "cue-897",
+      "timestamp": "0:14:57",
+      "seconds": 897,
+      "text": "A very good example is that we should look at versus peers so very good example Umang, so we should look at peers versus and we will look at it in stand-alone so that too is looking good for ROE company so we will look at that too 25% ROE is nothing short of if you see it, for Indian corporates it is a phenomenal ROE. Nifty 50 ROE, according to Nifty 500 ROE if we take Nifty 500 index and calculate top 500 corporates ROE then what number does India have? Can anyone give an answer? The answer is 14% ROE and top 500 corporate's are we calculate the Indian number can you give any answer to this?"
+    },
+    {
+      "id": "cue-941",
+      "timestamp": "0:15:41",
+      "seconds": 941,
+      "text": "The answer is 14% are we 14% is the are we of Indian corporate today so Indian corporate's 14% are we, so this company is earning 25% ROE. Is it a good or a bad ROE to 1? It's a very good ROE to 1, right? If we take an example of corporates, Now let's take an example of Kalyan Jullers. If we come to Kalyan Jullers, we calculate the ROE of Kalyan Jullers. Again, jewelry detail is a business where generally ROE is between 13% to 15% because someone can tell why ROE is less in this business? The rest of the retailers who are doing business on the scale Can anyone tell me why it is less?"
+    },
+    {
+      "id": "cue-988",
+      "timestamp": "0:16:28",
+      "seconds": 988,
+      "text": "Ganga Mail is an exception but why is generally ROE lesser for jewelry retail? Go to business and think about it, don't think about financial ratios Just think about the business, why could the ROE be lower in this business? If the owner's equity capital is in a business, then where will the majority investment go? In jewelry business?"
+    },
+    {
+      "id": "cue-1011",
+      "timestamp": "0:16:51",
+      "seconds": 1011,
+      "text": "The answer is correct, it is because of inventory Inventory is a very high demand in the business This is a very high inventory model business because you have to keep the gold inventory and as the gold prices keep increasing, then your inventory also keeps increasing, not suppose that like 10 grams gold again, I am taking a rough assumption, first 10, 000 rupees was it, now let's take an example that the price goes to like one or two lakhs beyond again, the real units are taking pricing but just for an example. So then you will see that same 10 gram of gold more working capital is required."
+    },
+    {
+      "id": "cue-1050",
+      "timestamp": "0:17:30",
+      "seconds": 1050,
+      "text": "So that will make it easier for you that you have to invest more money in inventory. Generally this is a lower ROE business model. But there is scalability because there is a huge time in India. Unorganized jewelers are losing market share to organized jewellers What is happening? If the gold price keeps increasing Then the new business center to unorganized jewelry retail Then do you think their investment plus store will go up drastically if an unorganized jeweler wants to enter today. Investment per stole will increase, inventory will also increase."
+    },
+    {
+      "id": "cue-1090",
+      "timestamp": "0:18:10",
+      "seconds": 1090,
+      "text": "And inventory of gold price is already increasing. So why is that? So this problem is still there. So let's see in Kalyan jeweler's case. Now let's calculate all the ROE. So the path of Kalyan Jullers is 596 crore and how much is the equity capital in 2024? That is 3159 plus 1030. So we will do 3159 plus 1030. So how much equity capital do you have? 4189 crores equity in denominator Is it true? 4189 is the answer And our pad is of 596 crore So how much is your RUE? Can everyone calculate with me?"
+    },
+    {
+      "id": "cue-1135",
+      "timestamp": "0:18:55",
+      "seconds": 1135,
+      "text": "The quota is 4, just simple 596 crores is 4189 crores Corporate P-Rexo's data is used by A-Squity software so we basically remove top 500. So that is a paid software. It's like I think worth 1 lakh rupees per annum. So generally you will get news or the reports of Motilal Oswal. But generally it is not published anywhere. Right. Again, the idea is not to sort of, ROE is always given here. The idea is just to make sure that everyone understands the rationale behind it."
+    },
+    {
+      "id": "cue-1180",
+      "timestamp": "0:19:40",
+      "seconds": 1180,
+      "text": "So I am calculating it from you. So ROE will always be given here. But let's take one more example. Now let's go into a little more detail in ROE. Let's take an example of any business, of R&D industries. So first of all, again, I keep making these things."
+    },
+    {
+      "id": "cue-1198",
+      "timestamp": "0:19:58",
+      "seconds": 1198,
+      "text": "So, what we talked about in the beginning, now just by looking at the chart, what do you think, that stock is in uptrend, downtrend, sideways trend, so I am preparing it so that the checklist gets easy, stock is in uptrend, downtrend, sideways trend, first it came to uptrend in the middle briefly, then after that stock is in the downtrend, you can see that the stock is falling, so we can say downtrend, lower highs are forming, this high is lower than the previous high, this high is lower than the previous high, so the lower lows are forming in the stock again and again, lower lows are also forming and lower highs are also forming, so we can say that the stock is in the downtrend now, right, perfect."
+    },
+    {
+      "id": "cue-1238",
+      "timestamp": "0:20:38",
+      "seconds": 1238,
+      "text": "So, If we take an example here, the stock is in a very heavy downtrend. What has happened to the ROE? A very simple example to study. What is the return on equity of the business? ROE is increasing and decreasing. Everyone should focus on this. Now you have to calculate R.O.E. Easy or not. Decrease or Birdie. The R.O.E. Of the business is falling. It is decreasing at the moment, right? Almost ROE has halved, right? Almost 50% fall in the ROE."
+    },
+    {
+      "id": "cue-1280",
+      "timestamp": "0:21:20",
+      "seconds": 1280,
+      "text": "But now the interesting concept which comes is just over here, that you can break down ROE into three parts, that we have just seen that ROE is nothing but the concept of net profit upon shareholder's equity Let's take average equity, let's divide last 2 years' equity by 2 But we keep shareholder's equity to make it easy But ROE has 3 parts If ROE is improving or not improving in any company, then it is only for 3 reasons What are the reasons? Whenever we calculate ROE, the first reason that we look at is the net profit margins. What are the net profit margins in the business?"
+    },
+    {
+      "id": "cue-1320",
+      "timestamp": "0:22:00",
+      "seconds": 1320,
+      "text": "Second thing that we look at is asset turnover. And last thing that we look at is assets upon equity. Now let's take an example, if a business has a equity of 1 rs and 2 rs of assets are invested in it, then the extra 1 rs asset will probably be borrowed from the debt market or somewhere else. This is also called as a financial leverage concept. 1 rs of equity is supporting how many rupees of asset. Similarly, sales upon asset turns is that 1 rupee of assets leads to how many rupees of sales. Now let's take a very simple example. Now just think of it."
+    },
+    {
+      "id": "cue-1365",
+      "timestamp": "0:22:45",
+      "seconds": 1365,
+      "text": "If a business has net profit margin of 8%, assets upon equity are one, that means business is not borrowing from equity, and making asset of 1 rupee. But the asset turnover ratio of the company, that improves, that means the asset turnover was 2 times earlier, now it has become 3 times. So in this scenario, do you think that ROE has improved or declined? If asset turnover has become 2 times or 3 times, what will happen to the ROE? If the ROE is 2 times 3 times, then the asset will turn if the asset turn is improved, then what will happen to you?"
+    },
+    {
+      "id": "cue-1402",
+      "timestamp": "0:23:22",
+      "seconds": 1402,
+      "text": "ROE will improve if the asset turn is 2 times 3 times 3 times ROE will become Aceturn. 2 times 3 times Aceturn. I mean same assets above 3 rupees are being sold. So a simple example to understand. Now another question that arises. Right? Another question that arises. He a business now let's listen to this question carefully. What common sense question. Abhi mai accounting wali language milko nahi jara. Ek business tha jis ka. Fixed, as it turns main basically aapke doh cheez hauti. As it's company left hand of ex assets mil upte. I'm not going into the accounting language at all."
+    },
+    {
+      "id": "cue-1439",
+      "timestamp": "0:23:59",
+      "seconds": 1439,
+      "text": "Basically, you make property, plant, and equipment from the assets. Or the other major use of assets is working capital so there was a business there were trade receivers in their business meaning if I do sales and suppose I do SOIC membership we sell it is not a problem, you use membership after 3 months you give us money Right? So let's take an example like that. After 3 months, we think that the trade is received. We have shown the sale that we have sold 15, 000 membership. But after 3 months, we will get the money."
+    },
+    {
+      "id": "cue-1472",
+      "timestamp": "0:24:32",
+      "seconds": 1472,
+      "text": "But now what happens is because our brand perception improves and our bargaining power improves that now instead of taking money from you in three months, I start taking money from basically one of the students for example, the fee in one month. So from three months, the trade receivals fall to one month. Now, I'm not giving you an example of net profit or sales up on asset terms, sales are big, assets are big on equity. But if my trade receivals that are blocked that falls from three months to one month, Which line item in the DuPont ratio will improve?"
+    },
+    {
+      "id": "cue-1507",
+      "timestamp": "0:25:07",
+      "seconds": 1507,
+      "text": "We call it DuPont Which line item will give you improvement? It is a very simple question If my trade receivable falls I was selling more on the lower side, now you are selling less on the lower side So what will be the particular line item through which basically what will be that one particular line item which will show a reducing trend and which will lead to an improvement. What's the first simple example? Working capital days are going to be very bad. Okay, that's good. But the first thing that will impact this is Acid turnover ratio."
+    },
+    {
+      "id": "cue-1556",
+      "timestamp": "0:25:56",
+      "seconds": 1556,
+      "text": "So, the ACID turnover ratio, right? So, the ACID turnover ratio that will show an improving trend or a declining trend, what do you think? Will my asset turnover ratio improve or decline? What do you think folks? Asset turns improving or decline? So as it a turnover, we will tend to improve. Simple thought process is that when you are doing business, intuitively think that you are doing business and your business assets are mostly employed in two places. One is fixed assets, which you put in the shop."
+    },
+    {
+      "id": "cue-1603",
+      "timestamp": "0:26:43",
+      "seconds": 1603,
+      "text": "The other is that you invested in working capital or you have got your money in the trade receivable basically you have sold it and took it and took time to take back the money or you have made inventory excess and you are paying the money on time so your working capital will have a major money investor So can I say if my working capital days fall Now suppose if I was earlier taking money back from my customers in 90 days But now I am taking the money back in 30 days So don't you agree with me that my investment amount will fall in working capital?"
+    },
+    {
+      "id": "cue-1640",
+      "timestamp": "0:27:20",
+      "seconds": 1640,
+      "text": "Because earlier I had to block money for 90 days, now I am doing it for 30 days Don't you agree with me on that aspect? So you will understand intuitively Right? You will understand something intuitive? Correct Right? So basically right intuitive you will understand something correct right so basically yes net profit can impact you can say that you need less working capital loans so your interest cost can fall so net profit can increase but in that case, financial leverage will also be there. So that will be a different scenario."
+    },
+    {
+      "id": "cue-1673",
+      "timestamp": "0:27:53",
+      "seconds": 1673,
+      "text": "It can happen that net profit can also increase because interest costs can increase. But again, we are going into some complication. Let's do it simply. Whenever a business experiences improvement in working capital days or lesser amount of working capital required, generally the asset turnover ratio improves and return on equity improves. But now another question, I get very aggressive in my business, I think cycle is going well. Example is that I think cycle is going well in my business. And I put up 8 more shops. If people are making paints, I open 8 shops of paints for post-COVID."
+    },
+    {
+      "id": "cue-1709",
+      "timestamp": "0:28:29",
+      "seconds": 1709,
+      "text": "Although 2 shops are doing well. But right now, there are a lot of plots in economy. But I have set up 6 more shops right? So if I have increased the fixed assets in that scenario, I have set up 6 more shops what do you think happens to my asset turnover ratio if my sales doesn't increase at that speed like earlier I had 2 shops, so I was able to sell atleast 10 rupees but now I have 8 shops in total and I am selling almost 20 rupees So first I had 2 shops where I was selling 10 rupees, now I have 8 shops where I am selling for 20 rupees."
+    },
+    {
+      "id": "cue-1746",
+      "timestamp": "0:29:06",
+      "seconds": 1746,
+      "text": "In this scenario, you might think that the fixed asset turns are increasing or are they falling? But is my sale increasing or are they falling? What do you think is happening in this scenario? Again, listen to the question. Earlier I had 2 shops and I was selling for 10 rupees. Now I have 8 shops and I am selling for 20 rupees. So in this scenario, is my sales increasing or is it getting worse? So in this scenario, is my sales getting worse or is it getting worse? The sales are. Per shop, the sales are decreasing or increasing. Per shop. Per shop sale is decreasing. Right."
+    },
+    {
+      "id": "cue-1784",
+      "timestamp": "0:29:44",
+      "seconds": 1784,
+      "text": "Because per shop my sale is decreasing. So per shop if my sale is decreasing then my asset turns will be increasing or decreasing. Asset turns will also fall. So in such a scenario what will happen to the RUE? Will the return on equity increase or decrease? The return on equity will end up decreasing in such a scenario. Exactly. So actually, the purpose of this activity is that I am forcing you to think that when ROE increases, what is the scenario?"
+    },
+    {
+      "id": "cue-1818",
+      "timestamp": "0:30:18",
+      "seconds": 1818,
+      "text": "So whenever you are reading business con calls or whenever you are listening to a company or management you start intuitively understanding that the ROE of this business is increasing so here I will give you a simple example first I took an Aarti Industries example so now I will open the screener sheet of SOIC. Just a second, alright. The upper screener sheet will look like this. Just a moment. So we just opened a screener sheet, alright. And what do we do here? So using Excel in Apple is very difficult because it is not optimized on made for excel."
+    },
+    {
+      "id": "cue-1860",
+      "timestamp": "0:31:00",
+      "seconds": 1860,
+      "text": "So what we do here is simple, we go to the ratios and we look at the company's return on equity. This is the 2 point ratio of the RTI industry. Now just over here. The last three years, your ROES column. Last at least, in the last five years, now the ROE is on a calling trajectory. Let me just open this in full and zoom it in. But the major reason for the decline in ROE, right? If we look at the last 2 years or last 3 years, so what is contributing to this fall of ROE in the comments?"
+    },
+    {
+      "id": "cue-1905",
+      "timestamp": "0:31:45",
+      "seconds": 1905,
+      "text": "What are the major reasons for the ROE fall? First, net profit margin is reducing You can see that net profit margin is reducing 4-5 years ago, net profit margin was 12% and net profit margin was 19% But now net profit margin is 7% In the last 2 years, the company's asset turns are decreasing and increasing. Asset turns are also reducing in the last two years."
+    },
+    {
+      "id": "cue-1943",
+      "timestamp": "0:32:23",
+      "seconds": 1943,
+      "text": "Financial leverage, from last two years it is broadly constant, before that financial leverage was very high, so it could have been a little less in the business but financial leverage has been reduced since last 2-3 years Generally, in which sectors do margins fall because B2B businesses are looking at? In which sectors do margins fall? Where there are tailwinds or headwinds? Do answer this question. Because when we are going towards the checklist, I am building your base for the checklist. Which industries do you take margins for? Where are headwinds or tailwinds?"
+    },
+    {
+      "id": "cue-1984",
+      "timestamp": "0:33:04",
+      "seconds": 1984,
+      "text": "Those who don't know words, headwinds or tailwinds will be more familiar with them what are headwinds?"
+    },
+    {
+      "id": "cue-1990",
+      "timestamp": "0:33:10",
+      "seconds": 1990,
+      "text": "When there is a plane road ahead there are headwinds so the time taken to reach a destination becomes higher whereas when there are tailwinds, when there is a plane, it reaches the destination faster so when there are advants in the industry, when there is a dumping, when there is a rising power in the industry or when there is a competition, then competition is getting excessive and financial ratios are saying that something is not good in the US business they are saying that something is not good. Even if I don't increase the business, something is not good. Basically can I say that?"
+    },
+    {
+      "id": "cue-2033",
+      "timestamp": "0:33:53",
+      "seconds": 2033,
+      "text": "Right because financial leverage concept is nothing, financial leverage simply means that per 1 rupee of assets you have only how much equity is left? Now suppose if I have 3 Rupes of assets and 1 Rupes of equity, then I can't get money on the tree. It is not possible that the money is on the tree. So, what is the simple example? The additional 2 rupees of the money I invested in the asset, so that will highly possible that is coming from debt. So, it means that for 1 rupees of equity that this business has it is holding 3 rupees of assets."
+    },
+    {
+      "id": "cue-2085",
+      "timestamp": "0:34:45",
+      "seconds": 2085,
+      "text": "So additional 2 rupees can be done, because of debt, that's why we call it financial leverage That you leverage more business and build assets Because equity will be 1 rupees, if it is 3 rupees then additional 2 rupees will be given That is highly possible, it's coming from debt That's why we call it financial leverage ratio See financial leverage can be beneficial Let me take you back to Siddhan's example So why debt is also powerful if used well But again it really depends So in Siddhi's business, if we take Siddhan's example the owner's equity is 100 rupees and profit is of 50 rupees."
+    },
+    {
+      "id": "cue-2123",
+      "timestamp": "0:35:23",
+      "seconds": 2123,
+      "text": "So it's 50% ROE. Even though total capital employed is 200 rupees. Because where did 100 rupees come from? From borrowing. So can I say if a company takes debt and is able to make profits on that, then basically that company will have a higher ROE versus a company which is not taking debt? Is it possible for me to say that? Is it possible for me to say that with this example it becomes clearer if financial leverage is also bonded in businesses? Exactly someone wrote that banks are highly levered, so how do banks make money? You gave a very good example, right?"
+    },
+    {
+      "id": "cue-2162",
+      "timestamp": "0:36:02",
+      "seconds": 2162,
+      "text": "How does this money get into the banks? In banks, because if we simplify it a little more, see one is for all, if we simplify it more, what is the simple thing? If we just look at the formula of DuPont, We can call it Return On Asset. How can we call it Return On Asset? Basically, we will cut sales and sales. So, if someone comes from Mac, then it will be cool. So, what will be left? Net profit of On Asset. So, I can call this formula return on asset. How can I say return on asset to so many formulas? Again, this is for intuitive understanding."
+    },
+    {
+      "id": "cue-2198",
+      "timestamp": "0:36:38",
+      "seconds": 2198,
+      "text": "Again, you can say that you don't need to do all this if you are reading from con calls. But you should understand intuitively. So this is known as Deteron Acids. Can ROE offer business increase if the promoter starts selling his stake? Do you think it will have any impact on ROE if the promoter sells his stake? If the promoter shares the holding, suppose 60% is now, then the open market shares will start selling. Do you think ROE will increase or decrease in that scenario? Will there be any impact?"
+    },
+    {
+      "id": "cue-2249",
+      "timestamp": "0:37:29",
+      "seconds": 2249,
+      "text": "ROE will more or less be the same right? Because there is no fresh existing shares that you are selling, there is no money in the business or there is some bloat on the balance sheet there will be no impact guys no share capital reduced, open market selling that they are promoting does that impact the share capital of a company? There will be no impact right? When there is a dilution that is exactly So now let me take an example that there is a company which comes up with a QIP. What is the QIP? Qualified institutional placement."
+    },
+    {
+      "id": "cue-2295",
+      "timestamp": "0:38:15",
+      "seconds": 2295,
+      "text": "The number of shares issued by the company increases let's take an example here just a second folks, I think I still have a bit of chest congestion so no worries, right? So just take an example just over here Now if a company, let's take an example, in the case of PI Industries, the company came in and did a QIP. After doing QIP, the equity capital of the company increased. If you look here, the company issued 1 crore-36 lakhs at 1449 rupees. The company's equity capital on the balance sheet increased and securities premium. See, on face value, equity capital increase."
+    },
+    {
+      "id": "cue-2339",
+      "timestamp": "0:38:59",
+      "seconds": 2339,
+      "text": "The premium that comes in your reserves, the reserves of the company also increased very quickly. Now let me ask you a question. If a company issues more shares, right, and if the profit remains the same, listen to the question again, if the company issues more shares and the profits remain the same, in that scenario will the return on equity go up or go down? Actually, in the balance sheet, your equity is increasing but your profit is still the same. The return on equity of a business in this scenario will tend to go down. When the promoter sells his stake, that won't matter."
+    },
+    {
+      "id": "cue-2383",
+      "timestamp": "0:39:43",
+      "seconds": 2383,
+      "text": "Why that won't matter? Because there is no fresh issue of shares. Existing agan mein paas 100 shares hai business mein, on na 40 on katta hoon. 40 ke maine 10 publik mein bejdeye. 100 to samee raya kar right? 100 to samee raya ne wale hai. Bhas meri holding change ori hai."
+    },
+    {
+      "id": "cue-2396",
+      "timestamp": "0:39:56",
+      "seconds": 2396,
+      "text": "I have 100 shares in my business and I own 40 I have sold 40 in public, so 100 will be the same My holding is changing In this scenario, your equity will increase and the share on earnings will also increase basically the number of shares will increase, net profit remains the same so the EPS will reduce the same scenario is expanding and the same for the numerator so ROE decreases so a lot of times what happens if we take an example of all the Gama's if we look at the stock price of all the Gama's then 20-22 minutes peaked out and a lot of times what happens is that the peak of the cycle when people are chasing the profits so if you check here, the reserves are very fast so there will be a little contribution of profits but the contribution of profits was so much because the profits would be added back to the reserves so the profits here will be added back from almost 100 crore in the business but the reserves would be increased from almost 800 crore, So we will see in corporate actions So the company did QIP here Almost around 500 crores There was more than 500 crores of QIP that was in 2021 and the money of QIP that company still hasn't been able to deploy and company still sitting on almost I think 1000 crores of cash right?"
+    },
+    {
+      "id": "cue-2476",
+      "timestamp": "0:41:16",
+      "seconds": 2476,
+      "text": "732 crores of cash is equivalent to 732 crores of investment and almost 137 crores of investments are still in the company right? So in this scenario what has happened is that the company did QIP But we could not increase profits according to that So what will be ROE in this scenario?"
+    },
+    {
+      "id": "cue-2495",
+      "timestamp": "0:41:35",
+      "seconds": 2495,
+      "text": "Let's calculate it once Let's do it together So in 2021, the equity of the company was 488 crores plus 17 crores So we can say that in 2021 the company's equity was almost 505 crores in 2021, company's profit was 113 crores so let's calculate the ROE together folks simple example right if my profit is 113 crores and my equity is 505 crores so What is my ROE in this scenario? Can everyone calculate How much was my ROE?"
+    },
+    {
+      "id": "cue-2543",
+      "timestamp": "0:42:23",
+      "seconds": 2543,
+      "text": "ROE was 22.37% Now let's take an example My profit in 2024 is 198 crores Profit is 60-70% Let's calculate the ROI of the business When you invest money in the balance sheet So it's a profit of 198 crores let's look at 2024 they can issue more shares to raise money for the business at any time so let's take an example let's look at the equity of 1469 crores and how much profit is there of 198 crores so in this scenario, my ROI is almost 80% but my ROI is so much 13.47% 13.47% Right 13.47% So again a question over there."
+    },
+    {
+      "id": "cue-2623",
+      "timestamp": "0:43:43",
+      "seconds": 2623,
+      "text": "So do you think all the villages who raised incremental money, still can use it well according to the profits they have made, what do you think now the question becomes easy to understand Over the last 2-3 years Have they been able to use the money well Currently the answer is No Right?"
+    },
+    {
+      "id": "cue-2646",
+      "timestamp": "0:44:06",
+      "seconds": 2646,
+      "text": "Currently the answer is no See not all QIPs are bad because what sometimes happens is that the company's expansion is very big and when the company is doing a big expansion, then the company might not have enough money to do QIP I still remember this in Deepak Nitrite's case In Deepak Nitrite's case, he did multiple QIPs If you understand, in 2017-2018, he actually did 3 QIPs back to back. When a company is doing 3 QIPs back to back, they are issuing 3 times of shares to institutions, then maybe the company is doing some big Kpex. Do you agree with me that the company is doing some big work?"
+    },
+    {
+      "id": "cue-2686",
+      "timestamp": "0:44:46",
+      "seconds": 2686,
+      "text": "What is the need for this much money? It's logical to think that if you have so much money, why should you do it? CapEx means Capacity Expansion, capital expenditure company. Right, so in this scenario, the example is that because the company did 3 QIBs, so actually in between 2016-18, because those who have done the master in fundamental analysis classes, now you can source the balance sheet, those who have not done it, you can watch our free video on the YouTube of the balance sheet. The video of 2 hours will be clear to you."
+    },
+    {
+      "id": "cue-2729",
+      "timestamp": "0:45:29",
+      "seconds": 2729,
+      "text": "If it is not clear, then clear it because it is very important in the language of fundamentals So actually in 2016-18 if we look at the fixed asset base of the company then how big was the fixed asset base? Almost 3 times Almost. Three times. So why will a company go for QIB instead of debt? Good question. Actually, I will answer this question and then I will go to ROC."
+    },
+    {
+      "id": "cue-2773",
+      "timestamp": "0:46:13",
+      "seconds": 2773,
+      "text": "But someone has a very good question that the company had almost made 1500 crore KBX So instead of doing 1000 crores of QIP, let's take a roughly example The company would have taken 1000 crore debt So the company already had debt on it So let's take an example that suppose in 2018 The company would have put in 1000 crore additional debt And the company would have spent 2000 crores on debt and the company would have invested 2000 crores. And the company would have invested 900 crores. Don't you think if any downturn had come in the market, that would have been risky for the company?"
+    },
+    {
+      "id": "cue-2806",
+      "timestamp": "0:46:46",
+      "seconds": 2806,
+      "text": "What do you think? Could the company have been bankrupt if something was down turned? The company might have become over leveraged. Also another reason why do companies do QIP? Why are you watching them these days? Can anyone answer me? Why are we watching them these this?"
+    },
+    {
+      "id": "cue-2837",
+      "timestamp": "0:47:17",
+      "seconds": 2837,
+      "text": "It's a very simple question these days companies are raising excessive amount of capital people think that capital is raising it's fun, preferential capital is raising what is the stock being free it will be 10x people are screening on twitter the preferential issue is coming what do you think when is the equity raise when is the IPO When equity is cheap or expensive? Common sense question, when sentiment is good for equity or bad for equity?"
+    },
+    {
+      "id": "cue-2876",
+      "timestamp": "0:47:56",
+      "seconds": 2876,
+      "text": "It's a common sensible question Sentiment will be very good for equity or very bad for equity then more equity can be raised or bad sentiment will be raised Currently good valuations are there No doubt even if I was a promoter of a company, my company was at 80 times P ratio. Maybe I would have used the time to OIP. Because I would have gotten more cash on the balance sheet. Easy to raise equity. Today, everyone is running for money. Like you have an example. So QIP will be there. Because companies will say that company will use this money."
+    },
+    {
+      "id": "cue-2919",
+      "timestamp": "0:48:39",
+      "seconds": 2919,
+      "text": "Many people say that institutions are smart money, so we will see QIP But I will give you an example, because our ROE case was stopped, so in India mart's time, the PE ratio of 105 times and who should be awarded funds? To Ariesag Asia consumer fund, Platinum Asia fund, Kotak funds, Kotak India mid cap fund, right? And the company that raised the money, right?"
+    },
+    {
+      "id": "cue-2965",
+      "timestamp": "0:49:25",
+      "seconds": 2965,
+      "text": "I think that they said that they'll do, I think that's an interesting thing that the company said that they'll use this money for acquisitions and stuff. Which date of 2021 was the money raised? Finally, February 23, 2021. Why was it worth 1100 crores? Why was there an extra 2% post in the promoters? So let's see what happened in February 2021 in February 2021 the stock price was 105 times and the stock price was 4, 890 rupees split with adjusted some people say QIP has smart money so they will be more aware. What has happened to the smart money over the last 3 years?"
+    },
+    {
+      "id": "cue-3010",
+      "timestamp": "0:50:10",
+      "seconds": 3010,
+      "text": "Can anyone answer that? Smart money comes in QIP? What's the share price right now? Promoter is smart. Dr. Prasanna, promoter understands peak valuation. I would say promoter is smart person. Because he has done QIP on high valuation, he has taken money in high valuation. And look at the smartness of the example. Look at the more smartness. What did promoters do after doing QIP? And anyone give me an example QIB's money was raised what promoters are doing in 2022 and 2023 a very good case study a very good case study."
+    },
+    {
+      "id": "cue-3072",
+      "timestamp": "0:51:12",
+      "seconds": 3072,
+      "text": "Now, what does that doing? Share buyback, right? Buyback at a lower valuation. No, not necessarily. Again, it was at the time of the tailwind. No, this is legal, but the promoter understands capital allocation. What does this mean? The promoter understands capital allocation? Yes or no? Is this a pricey QIP or cheap buyback? Does the promoter understand capital allocation? Yes or no? Yes, the promoter is smart guy."
+    },
+    {
+      "id": "cue-3129",
+      "timestamp": "0:52:09",
+      "seconds": 3129,
+      "text": "He understands capital allocation, right? But why negative? What is what is negative about it? Market is a is a place where buyers and sellers come. If there is demand from the buyer to buy on stock at 100p, so why would a seller sell? Just think about it. What is so negative about it? If you read the book Outsiders, companies openly did QIPs and stuff and to raise equity capital at the perfect point of time. So again, it is buyers who need to do due diligence."
+    },
+    {
+      "id": "cue-3167",
+      "timestamp": "0:52:47",
+      "seconds": 3167,
+      "text": "So markets are not some place where you will get free lunches because he at the end promoters are also sellers right promoters are also humans right they understand all these things very intuitively but he is the one who is an example to give you how is it means that the qip is also there so you should be a little aware because when will the QIP be on the sentiment peak or bottom what do you think? Do you think QIPs are on the bottom sentiment?"
+    },
+    {
+      "id": "cue-3199",
+      "timestamp": "0:53:19",
+      "seconds": 3199,
+      "text": "I have never seen it in any company IPO is at the bottom of the sentiment It's rare It's possible that I am in need of the business But generally what I have seen If QIP is coming in the hottest sector at that time of the market generally I think it's a sign that we should be a bit careful I'm not saying you should sell the investment, you should write it off, but we should be a bit careful. If today a EMS business where the PGE ratio of 150 times is coming, that 150 times will be the absolute best valuation that business has ever gotten in its history."
+    },
+    {
+      "id": "cue-3243",
+      "timestamp": "0:54:03",
+      "seconds": 3243,
+      "text": "But if you are coming to QIP at 150 times per ratio, is it a good sign or a bad sign? For an investor, see buyers' due decisions should be made. If this is going on for the time being, no one will get a bad sign. I will just have some coffee."
+    },
+    {
+      "id": "cue-3291",
+      "timestamp": "0:54:51",
+      "seconds": 3291,
+      "text": "We should be a bit more careful when excess amount of money is being raised but coming back to the topic of return on equity, right? So If the company's margins are improved, then the company's ROE can be improved. If the company's sales can be improved, then ROE can be improved. If the company's asset turns can be improved, then ROE can be improved. And assets upon equity, if the company takes reasonable debt and the company does good with it, then again ROE can be improved. So how can ROE's return on equity for a company improve? So what are the various ways? First, improving profit margins."
+    },
+    {
+      "id": "cue-3326",
+      "timestamp": "0:55:26",
+      "seconds": 3326,
+      "text": "Second, higher fixed asset turns. Third, lowering working capital needs. Fourth, increasing capacity utilization. Fifth, by taking on more debt, debt is used well. Sixth, operating leverage Ketru. And seventh, by paying lower taxes. Now let me give you a question. In 2018-2019, I think in September, the corporate tax rate in India was cut from 33-34% to 25-26%. That particular day, the 50 or 50 cents itself was up 3-5% in one day and stocks like Bajaj finance and everything was up 10-20% in one day, Asian banks was also up. What was the direct impact on ROE of a tax cut?"
+    },
+    {
+      "id": "cue-3385",
+      "timestamp": "0:56:25",
+      "seconds": 3385,
+      "text": "Net profit margin increased if tax cut was there right? Pat would have exploded Right, Pat would have exploded. Right, similar question. Now today hotel industry is in a favorable up cycle. Listen to the question carefully. Today the hotel industry is in a favorable upcycle and what is happening is that the occupancy, how many hotel rooms you can basically sell out in a day, occupancy is increasing and even the pricing of the hotels is going up, a price of one hotel room is going up, right."
+    },
+    {
+      "id": "cue-3427",
+      "timestamp": "0:57:07",
+      "seconds": 3427,
+      "text": "So in this scenario will the return on equity of the industry improve or will it go down, what will happen to the ROE of the industry? In this scenario the ROE of the industry will start improving right?"
+    },
+    {
+      "id": "cue-3453",
+      "timestamp": "0:57:33",
+      "seconds": 3453,
+      "text": "Same question now look at some of the, if we look at the transmission sector in the transmission sector in Europe, in the US and in India three things are common that wherever there is a green energy there is the biggest problem that you have to pay a lot of KPEGs on the transmission so today if we take the example of power grid, the national electricity plan So according to NEP, it has to be KPEX of 9.15 lakh crores But the biggest problem in India I was listening to an interview The MD of Power Grid He went to some of the capital good players office and said supply the transformer on time supply the wires on time supply the conductors on time The MD himself is basically going to two companies which are into capital good manufacturing of transmission sector."
+    },
+    {
+      "id": "cue-3504",
+      "timestamp": "0:58:24",
+      "seconds": 3504,
+      "text": "Will that indicate a higher demand for the equipment or a higher supply? If the demand is higher or the supply is less, what is that leading to? Higher prices for the equipment or lower prices? It leads to higher prices for the equipment. What happened to this such scenario? Will the ROE of the industry go up? Will it go up? The ROE will go up. Right? And might keep increasing till the Kpex pen starts falling or the supply starts catching up Profit pool will increase So how do you find products with higher ROE or demand?"
+    },
+    {
+      "id": "cue-3555",
+      "timestamp": "0:59:15",
+      "seconds": 3555,
+      "text": "We will do this in a theme based question but let me take you through a case study. You see a business called R Industries. And the ROE of this business, you will find it different in multiple times of history. In 2019, how much ROE? It was 136 crore profit and the company's equity was around 1200 crore. Times of history may different luggage up to 2019 make it not only the one 36 crore profit and company cut 1200 crore the as per the most equity that 136 crore profit and 1200 crore equity in 2019. 11% Arohi."
+    },
+    {
+      "id": "cue-3598",
+      "timestamp": "0:59:58",
+      "seconds": 3598,
+      "text": "Today, in 2024, the company has a pat of 825 crores and in 2024, the company's equity is almost 3900 crores. So, the company has a 2900 crore equity and a 25 crore Pat. So, what is the ROE? 825 upon 3900 crore. Yes, ROE should be compared to the past of the last 2-3 years. Like, the screener you have given, see, I am making you all manually so that you can You can see so the AROE consistently has gone above air because of improving trend in the transmission sector."
+    },
+    {
+      "id": "cue-3645",
+      "timestamp": "1:00:45",
+      "seconds": 3645,
+      "text": "So, to explain all this to you by purpose, whatever we look at or whatever, basically whenever there is an improvement in the business or the industry, first place it will reflect in your first ratio, it will be return on equity for a business. The first place where whenever there is an improvement in the business or in the industry, the first place where it will have an effect is on the return on equity for a business. That is something that all of you must remember. Now you can do these examples yourself. So I'll give you some of the case studies."
+    },
+    {
+      "id": "cue-3691",
+      "timestamp": "1:01:31",
+      "seconds": 3691,
+      "text": "Well, you can study the case studies of Neurin labs. When their CDMO business as a percentage of the business was lesser, how much was the company's ROE in 2019, how much was it in 2021, how much was it in 2023, and how much was it in recently in 2024. The same case study can be done in the case of the Loris labs. In the case of the Loris labs, how much ROE was in 2020-2021 and how much is going on now. Same you can do in time technology and in the last 10 years, what happened to the ROE of Arman Finance?"
+    },
+    {
+      "id": "cue-3724",
+      "timestamp": "1:02:04",
+      "seconds": 3724,
+      "text": "Because it will show a cyclical trend when it explodes for 2-3 years what happens and when it basically explodes on the lower side for 1 year what happens to the ROE because it is a cyclical business 1 year goes bad, then 2 years are good then 1 year or 18 months are bad, then 2 years are good. So, the Arman Finance also do this experiment. So, you can also apply a Dupont and you can manually calculate it. And in ROE, what is that particular trigger which is causing the expansion or contraction in the ROE? This is a homework that you can do. And what else can you do?"
+    },
+    {
+      "id": "cue-3754",
+      "timestamp": "1:02:34",
+      "seconds": 3754,
+      "text": "We have seen the ROE of the other industries because of lower acid turns and all this is happening. But now I will ask you another question. Let's look at the business of SRF. Let's look at ROE in the business of SRF. First, we have to understand the story of the financial ratio and then the business story. In charts, we can see that if we look at charts, then in the uptrend, downtrend, sideways trend, which trend? Is it likely that its ratios will be bad for the last 3 years? Is it likely that market will be bad or improving?"
+    },
+    {
+      "id": "cue-3799",
+      "timestamp": "1:03:19",
+      "seconds": 3799,
+      "text": "These ratios will be going bad, right? These ratios are going to be spoiling the business. See, I will take a question in a few days. So again, if we look here, first look at the operating margins of the company margins are being collected here margins for the company are declining trajectory, margins for the company are basically contracting. Similarly, if operating margin is decreasing and your finance cost is increasing, then highly likely net profit margin will be decreasing."
+    },
+    {
+      "id": "cue-3846",
+      "timestamp": "1:04:06",
+      "seconds": 3846,
+      "text": "Net profit margin was almost 10% plus net profit margin is around 600% net profit margin is also rising and the asset terms of the company might be falling because I think from 2021 till now almost the sales of the company have increased by 60% but from 2021 till now the fixed asset base has gone up by almost 80% for the company. Again, I am taking rough approximation, so it can reduce the asset turn for the company. So in such scenarios, is the company's improvement or decrease in the ROU improving? What do you think is happening over it? So is this a business in tailwinds or headwinds today?"
+    },
+    {
+      "id": "cue-3892",
+      "timestamp": "1:04:52",
+      "seconds": 3892,
+      "text": "Technical charts show that it is a sideways trend for the last 3-4 years. What are the ratios? Is it a business in headwinds or tailwinds? Business is in headwinds today. Someone has a question. What is more important? ROE or Margin? I think Margin is part of ROE calculation ROE is a broader term, Margin is a narrower term So you will get Margin as a term or as a heavyness of a business or financial leverage of a business or profitability of the business if you think about it so when you are in business what do you think about it?"
+    },
+    {
+      "id": "cue-3942",
+      "timestamp": "1:05:42",
+      "seconds": 3942,
+      "text": "That the profit of this company will increase or the margin will increase or the sales of the company will increase probably when sales will increase the asset turnover ratio will increase So at the end, you are thinking about the ROI Whenever you are reading a business, you are thinking about the ROI But you give the name of a margin to someone that the margin will improve and the business will do well, but that becomes my thesis Why will this company improve or why will margins improve?"
+    },
+    {
+      "id": "cue-3969",
+      "timestamp": "1:06:09",
+      "seconds": 3969,
+      "text": "Are you understanding that broadly whenever we are reading a business at the end we are thinking The end goal is that if this company improves or improves, then I will make very good money But I am just thinking through levers of ROE-ROC Is it clear in the comments that I'm thinking at the end? So, I read business. Exactly, did you clear your concept? I mean again, you have to take up a business and take any example, right? So, again this is just a small case study."
+    },
+    {
+      "id": "cue-4009",
+      "timestamp": "1:06:49",
+      "seconds": 4009,
+      "text": "You can do another homework between Thanga Mile, Senco, Titan, PNG Gadigal and Kalyan Joolers which company has the highest ROE and you can also say that if 25% ROE of Thanga Mile is coming, then why is it happening so? Is it better in the asset turns or margins or is it better in the financial leverage versus the others? You will get an interesting answer. Similarly, you can do this in PNG Gadigal. But in PNG Gadigal, just mind you versus the others, the reason is that the Gold hedging ratio is very low. But again, that industry is specific. Now, we can ignore that for now."
+    },
+    {
+      "id": "cue-4046",
+      "timestamp": "1:07:26",
+      "seconds": 4046,
+      "text": "But what you should do is, that the DuPont ratio is, that the profit margins are as it turns on financial leverage. So, what is leading to higher ROE amongst all the five and what is that one aspect which is moving the ROE. So now we can take this out of the jewelry industry. So this is the homework on the jewelry industry. Now we will go to ROC, finally we will go towards an investing checklist and in investing checklist we will look at technicals, fundamentals, management and valuations. We will look at all the checklists and we will go through multiple case studies."
+    },
+    {
+      "id": "cue-4079",
+      "timestamp": "1:07:59",
+      "seconds": 4079,
+      "text": "The question is how to find group moves, we will discuss that as an example. Here I think folks I will just take a 5 to 10 minute break. So, let's put a 5 to 10 minute break here folks. I think we will get 325% off. Yeah, recording of this webinar will be available. We will get 325% off. Great."
+    },
+    {
+      "id": "cue-4099",
+      "timestamp": "1:08:19",
+      "seconds": 4099,
+      "text": "So here we will take a 15 minute break Meanwhile, I will just give you a thought process Someone asked about International Gemological Institute So, there are very few assets involved in such a business are very less and the net profit margin is very high So, in such a business, you have to think that first of all, ROE is very high or very low So, let me leave you with an open-ended question before the break business like international gemological institute where assets used are very low In such type of a business, will the ROE be very high or very low? So let me leave this question to you."
+    },
+    {
+      "id": "cue-4140",
+      "timestamp": "1:09:00",
+      "seconds": 4140,
+      "text": "And let's meet after the break. See you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you All right, folks."
+    },
+    {
+      "id": "cue-5022",
+      "timestamp": "1:23:42",
+      "seconds": 5022,
+      "text": "All right folks. So, for you all of you are back. Great, great."
+    },
+    {
+      "id": "cue-5085",
+      "timestamp": "1:24:45",
+      "seconds": 5085,
+      "text": "The answer is will it be high or low? The ROE in businesses like IGF will be high or low? Let's see the question. How much ROE do you see here? Is it a low ROE or a high ROE? Baro is extremely high, right?"
+    },
+    {
+      "id": "cue-5130",
+      "timestamp": "1:25:30",
+      "seconds": 5130,
+      "text": "Let's take an example. This is an asset worth 117 crores. How much is the sale of 117 crores? Almost 639 crores. So, it turns out to be 6 times the asset. And what is the profit margin of the business. If the sale of 639 crore and the profit of 325 crore is 329 crore, then what about the Pat margin of this business? 3251639 do it. Almost 50% how many Indian businesses are they doing 50% Pat budget right very less So this is just an example."
+    },
+    {
+      "id": "cue-5184",
+      "timestamp": "1:26:24",
+      "seconds": 5184,
+      "text": "Right? That was just an open-ended question intentionally asked. Now coming to ROC and finally towards the investing checklist, which is our main purpose. So what is ROC? This is a saying from Mr. Bharat Shah that once you understand ROC, you understand what is margin and capital turnover and other related aspects as well."
+    },
+    {
+      "id": "cue-5205",
+      "timestamp": "1:26:45",
+      "seconds": 5205,
+      "text": "When you say capital turnover, it is not only for fixed assets but also for working capital All these data points are provided in pieces and if you are able to connect them, you will be able to draw the right conclusion When we talk about ROC, this is what ROC is ROC is nothing but EBIT upon capital employed That is your earnings before interest in taxes upon capital employed. If you substitute EBIT and pat it, if you pat upon invested capital, then ROIC will come. But what do we use for the formula for ROC? Ebit upon capital employed."
+    },
+    {
+      "id": "cue-5237",
+      "timestamp": "1:27:17",
+      "seconds": 5237,
+      "text": "ROC can break down into two aspects which becomes easier for us to understand. Ebit upon sales is your ebit margin into sales upon capital employed. Sales upon capital employed is basically this is the capital employed turnover. Capital employed turnover. This is the capital employed turnover. Capital employed comes in very crude terms and rough terms. Debt plus equity is a business's capital employed. And debt plus equity generally takes place in a business's working capital. Capital employed is a capital employed business and debt plus equity is generally a business in working capital."
+    },
+    {
+      "id": "cue-5281",
+      "timestamp": "1:28:01",
+      "seconds": 5281,
+      "text": "This is just a rough example like approximately right or exactly right new working capital plus fixed assets. Working capital plus fixed assets, so debt plus equity usage?"
+    },
+    {
+      "id": "cue-5297",
+      "timestamp": "1:28:17",
+      "seconds": 5297,
+      "text": "Working capital or fixed assets let me take an example one company's margins improved now let's say Ayshar in the Royal Enfield launched a lot of models which were classic models Originally Ayshar was a trucking company But then it converted into a biking company with higher margins Because classic took off like anything So margins kept improving over 7 years So if ebit upon sales, if your ebit margins are high, then the ROCU of Ayshar will be at that time, it will be high or low, in that example. We will be improving, correct? Now Let me take you to another case study."
+    },
+    {
+      "id": "cue-5342",
+      "timestamp": "1:29:02",
+      "seconds": 5342,
+      "text": "Key, Borosil Renewable is a business, which is a commodity business, but which depends upon basically Indian government to basically protect the business from time and time again through anti-dumping duties. Aik time boro still renewable car, R.O.C. Kita chala gaya da, I think, yaha pe data missing, but stand alone bho sakta hume rik jai. Aik time boro still renewable ka, anti-dumping duties. I think the data is missing here, but we can see it on the stand-alone. In the last 10 years, What was the ROC of the business? 2021 or 2022? It was almost 29 to 27 percent."
+    },
+    {
+      "id": "cue-5383",
+      "timestamp": "1:29:43",
+      "seconds": 5383,
+      "text": "Can anyone tell me why the RUC was so high that it went away. There was an anti-dumping duty by the Indian government on import of Chinese solar glass. But if we think about such a business, can I call this business with a big moat around itself? Is there any competitive advantage in this business if there is no anti-dumping duty? Is there any big moat in this business? But if there is anti-dumping duty in this business then there will be a moat in this business So, dependency upon government policy cannot be a mode."
+    },
+    {
+      "id": "cue-5446",
+      "timestamp": "1:30:46",
+      "seconds": 5446,
+      "text": "So, your policy is a solar industry. Solar solar industry depends on government policy, no. Yesterday, I had an anti-dumping duty, so you think any 10% ROE will be earning in the solar industry? So, if you are a business owner, you can earn 10% ROEV in the solar industry. These types of businesses generally should trade at a discount but the market is upside down. So, I don't understand the valuation. Again, let's take an example of this. This is a business called Vary Energies."
+    },
+    {
+      "id": "cue-5482",
+      "timestamp": "1:31:22",
+      "seconds": 5482,
+      "text": "So, this is one of the companies where I was personally invested via unlisted route through round one when this company raised capital. But, I still remember looking at some of the financial ratios because it was anti-dumping duty at that time. At one time, the data we had in the company's ROE in 2018, 2019 and 2020, we were seeing that the ROE is less than 10% because of the anti-dumping duty. I think the data on the screen is not before 2020. But you will see that the 2020 had 45 crore rupees. So again, this is because of government protection some of the industries get created."
+    },
+    {
+      "id": "cue-5518",
+      "timestamp": "1:31:58",
+      "seconds": 5518,
+      "text": "So again in Borosilunable, it is anti-dumping duty. But these are transitory modes. They cannot be classified as permanent wood businesses. But the idea is that sometimes the temporary period of businesses expands because of such things that anti-dumping duty is also saved. This is part of our checklist, so I am preparing you from now on. Sometimes the fixed asset turns of businesses increase very quickly. Again if a business's fixed asset turns very quickly, what do you think happens? Will the ROC improve or decrease? The ROC will end up improving, right?"
+    },
+    {
+      "id": "cue-5563",
+      "timestamp": "1:32:43",
+      "seconds": 5563,
+      "text": "If the fixed asset turns improve rapidly, meaning you can do more sales with 1 rupee fixed assets your sales will also improve amount of asset won't also go up but your ROC will end up improving so this is how you start thinking about ROC in terms ROE is very connected with ROC but ROC is not a financial leverage aspect but because of this, ROC ends up improving Either your margins will improve, your fixed asset turns will improve Or your working capital days will go down So these are the ways through which a company can improve its ROC."
+    },
+    {
+      "id": "cue-5599",
+      "timestamp": "1:33:19",
+      "seconds": 5599,
+      "text": "Now coming to a very important concept, checklist based approach. No matter how much an expert you are, a well-designed checklist can improve outcomes. So there is this book by Mr. Atul Davande, the checklist manifesto. And in this book he writes, If you are an expert in well-designed checklists, you can improve the outcomes. You will see that the pilots require absolute precision. So, checklists ensure no critical steps are missed, especially during emergency stay or takeoff landing. We pilot our comment section match is any pilot over in the comment section."
+    },
+    {
+      "id": "cue-5644",
+      "timestamp": "1:34:04",
+      "seconds": 5644,
+      "text": "So Anil is a pilot in the comment section. How important is the checklist while flying, before flying? Right? It's very critical. It can't be that you forgot to put aviation turbine fuel in it. Just for an example. Similarly, Let's take an example of doctors. Is there any doctor who is there in the comment section? How important is a checklist before doing a major surgery? It will be really important right?"
+    },
+    {
+      "id": "cue-5689",
+      "timestamp": "1:34:49",
+      "seconds": 5689,
+      "text": "Because human brain tends to forgetful sometimes. So it can be a mistake. We have heard in case like this that there will be surgery but patient's stomach will have surgical equipment. These type of case studies we have also heard but very few we have heard but again a checklist becomes very important right because see doctors are also do like doctors also do God's work only so again but human brain is a bit forgetful. So checklist is really important, engineers."
+    },
+    {
+      "id": "cue-5723",
+      "timestamp": "1:35:23",
+      "seconds": 5723,
+      "text": "So it was found that the people who were designing Boeing planes were not following a checklist and were using substandard equipment, not as for the checklist approved by the FAA. So what has happened in Boeing quality of the planes has improved or gone down over the last four or five years? The quality of planes by Boeing, especially the latest generation 737 max has just gone down like anything right. Right has gone down. That again this just shows us the importance of checklists."
+    },
+    {
+      "id": "cue-5770",
+      "timestamp": "1:36:10",
+      "seconds": 5770,
+      "text": "Before going forward, anti-dumping duty nothing happens. You put a taxation, like if China imports some good 100 rupees and India makes 100 then you put a taxation on it, suppose 60% additional tax is done. So that is an anti-dumping duty. That India should not dump any good in it. It's called anti-dumping duty. It's coming back to checklists, so this is why checklists is needed. Similarly, stock investing may be we need a checklist. So fundamentals make checklist, technicals make checklist, management checklists and valuations make checklist."
+    },
+    {
+      "id": "cue-5802",
+      "timestamp": "1:36:42",
+      "seconds": 5802,
+      "text": "But each point of checklist I will tell you what is the use case of it. And now we will go through some of the case studies and bull bear and base scenario and we will make it in the end. What checklist do we generally see in fundamentals? First focus is on profitability."
+    },
+    {
+      "id": "cue-5817",
+      "timestamp": "1:36:57",
+      "seconds": 5817,
+      "text": "In profitability, we have discussed ROC and ROE at least one hour, so it comes that is the ROC and ROE above 15% so I have taken a mark of 15% and if not above 15% can it go above 15% so this is one of the areas where I think when I am reading a business second question is how are the margins, do they fluctuate or expand consistently? If I look at sugar business, I will see that the margins are very volatile. So it is possible that I don't understand such a business where there are very volatile margins, so I might leave it."
+    },
+    {
+      "id": "cue-5848",
+      "timestamp": "1:37:28",
+      "seconds": 5848,
+      "text": "So that is also a question arises, like the Web of Global, in the last 10 years, margins fluctuated like anything So that type of business, I might not even go ahead to study because it is so fluctuating in it So this is our first focus area I will give you some examples here First, we go through the checklist Then there is focus area to operating dynamics Is there operating leverage in the business? Is this a fixed cost heavy business?"
+    },
+    {
+      "id": "cue-5872",
+      "timestamp": "1:37:52",
+      "seconds": 5872,
+      "text": "So, there is a video on operating leverage on our YouTube, do watch that video while you are watching the recording of this class Because the concept of operating leverage will be absolutely clear in 40-45 minutes And it is one of the most important concepts Because the operating leverage is less when the time of compounding is less If you enter into a business where operating leverage is there Then your Pat growth can be 80-90% So the question arises, is there operating leverage in this business or not? How is this company doing versus the peers?"
+    },
+    {
+      "id": "cue-5901",
+      "timestamp": "1:38:21",
+      "seconds": 5901,
+      "text": "Is the base favourable for the next 2-3 quarters? We are thinking that the base of the quarter of last year's results Is favourable for the next year's results or is it against the previous ones? Because sometimes, the growth of last year's results is 100% so it's very difficult for businesses to keep growing at 100% so what happens is that eventually the base becomes an enemy of you so this is also a thing we think then we see in cash flow and debt is the company converting profits into cash flows? This company is not converting profits into cash flows. Then we see how big is the debt burden."
+    },
+    {
+      "id": "cue-5936",
+      "timestamp": "1:38:56",
+      "seconds": 5936,
+      "text": "If the company's debt to equity is more than one time, then we treat cautiously."
+    },
+    {
+      "id": "cue-5940",
+      "timestamp": "1:39:00",
+      "seconds": 5940,
+      "text": "We do read the company at that time, but we think a little bit about the business Then we see what is the potential growth in the business What is the potential in the industry, yes or no What is the potential in the headwinds and tailwinds, yes or no What is the perception of the business, what is the company's debt is decreasing What is the company's margin expanding What is the company's product mix improving at this time What is the company's volume growth, new orders are getting better Cost cutting is increasing, D-merger is increasing, Kpex is getting more live Is there a decrease in debt?"
+    },
+    {
+      "id": "cue-5966",
+      "timestamp": "1:39:26",
+      "seconds": 5966,
+      "text": "New orders are being made, cost cutting is being made, demudgering, Kpex Live is being made Is the company acquiring higher value added products or is the government getting incentives? So let me just ask you a question. Rate gain is a travel SaaS company in India which basically gives you analytics in pricing. Now that is a business which has done 5 acquisitions in the past and it is following a business model of constellation software which is listed in Canada. Now that business is looking for more basically mergers and acquisitions going forward."
+    },
+    {
+      "id": "cue-5994",
+      "timestamp": "1:39:54",
+      "seconds": 5994,
+      "text": "So what is the key variant perception over here? If we discuss about the rate gain type of business, so what could be the possibility of acquisition? So what can happen? Is there any possibility of acquisition? That they might acquire to grow? That is an example. A company that is in the service solutions of travel. Right? Inorganic growth, which we call acquisitions. Similar question, entero healthcare is India's top 3 largest B2B distributor of pharmaceutical products. Right?"
+    },
+    {
+      "id": "cue-6035",
+      "timestamp": "1:40:35",
+      "seconds": 6035,
+      "text": "Now that is a company which is growing its volumes at 42-45% is expanding its margins and is perhaps one of the fastest growing distribution businesses in India But their organic growth rate is 15-20% but the 45% growth rate is because of inorganic acquisitions. So in such a business, what two key variant perceptions are there? Basically, what are the three variant perceptions that are there in such a business? Entero health care is the name of the business. Think about it carefully. One is volume growth, nice hunch. The other one is margin expansion."
+    },
+    {
+      "id": "cue-6080",
+      "timestamp": "1:41:20",
+      "seconds": 6080,
+      "text": "The third one is margin expansion. Nice hunch what do you think of the second one? Margin expansion is correct what do you think of the third one? Acquisitions are correct One more thing that can be considered in this is that this company has come into the distribution of surgical equipment which is higher realization in nature and because of this, higher value added products are also distributing the company. And actually, the quick commerce companies will start online with them, so they will be distributors to them. But you will find out after reading the business."
+    },
+    {
+      "id": "cue-6115",
+      "timestamp": "1:41:55",
+      "seconds": 6115,
+      "text": "But I am just discussing an example, how we think about the growth of the company in fundamentals. Again, what is the idea? So, in Variant Perception video, you will get to discuss in many places in SOIC membership. So, what is the idea? One of the fundamental catalyst presentation will be there. We have discussed business all around. So, we are just discussing an idea. If a business's sales growth in the last 3 years is of 1700 crores, then it is 4, 425 crores. So is it a business which is growing much faster than a normal GDP? So again, the business gets screen to study it."
+    },
+    {
+      "id": "cue-6158",
+      "timestamp": "1:42:38",
+      "seconds": 6158,
+      "text": "The one we did the screening class, you will remember it from 2-3 weeks ago. The screening class, we saw it in many ways how to stop the screen. Because it is a distribution business, right?"
+    },
+    {
+      "id": "cue-6168",
+      "timestamp": "1:42:48",
+      "seconds": 6168,
+      "text": "Because it is a distribution business Because it is a distribution business So margins here are low But yes, here the issue of cash flows Can be because growth is very fast But we also see growth potential So in fundamentals, our checklist Is the same way, so I will put this checklist on business but I was just asking questions for you to have a better understanding There are technicals too but first let's go to management's checklist We have such tools in management's checklist which will make your life easier Let's go to chat GPT and ask chat GPT such questions So here we will do chat gpt and chat gpt we ask such questions Was there a fraud with the management of Rajesh exports for example If I am reading business because it is a famous business on YouTube, so I asked a question from chat GPT and here I got an answer that regulatory filings and audit report emissions in May 2023 Rajesh exports announced his financial results without including the audit report, comparative cash flow statements."
+    },
+    {
+      "id": "cue-6232",
+      "timestamp": "1:43:52",
+      "seconds": 6232,
+      "text": "This lapse raised concerns with the company's adherence to financial reporting standards. With 2013, the company made a case with the DRI and then MCX exchanged for a case. But just an example of past issues if I have to find management then I can use chat gpt very well same question let's see was there any financial irregularity with the management of PC jewelers in the past. Let's ask this question. So here we see, right?"
+    },
+    {
+      "id": "cue-6267",
+      "timestamp": "1:44:27",
+      "seconds": 6267,
+      "text": "So again, looking at the past 2018, SEBI initiated an investigation including the founder for alleged insider trading activities Then loans and default, the company defaulted on 3466 crores of loans And there are SBSC's to prime properties, then they have made a one-time settlement with Punjab National Bank or Bank of India. But this is enough information to at least for you to get an idea that there was something wrong. I have to investigate something wrong. So management checklist is very simple. Chat GPT or Plexity. It's very simple for all of you."
+    },
+    {
+      "id": "cue-6304",
+      "timestamp": "1:45:04",
+      "seconds": 6304,
+      "text": "I think it's very easy for us too Whenever I'm researching on a company, I just look at the past issues What are the big past issues in the company? Like every company has past issues Like let's see, Was there any SEBI related issues with Varun beverages in the past? Let's just find out, right? So what were the issues in Varun beverages? Again, in Varun beverages, there were three times in insider trading issue. But the settlement amount was 73-63 lakhs, which we read We were reasonably, this is one of the businesses I invested in, then I exited the stock in the past, right?"
+    },
+    {
+      "id": "cue-6348",
+      "timestamp": "1:45:48",
+      "seconds": 6348,
+      "text": "But what was simple was that almost 2 lakh crore companies, the amount of 70-60 lakhs is non-material. So we think in materiality too. If the company is so good that it is profiting of 1000-2000 crore, then how big is the amount? So then it becomes a non-material issue. So to get an idea about the management just ask questions like was there a fraud with the management of that particular company? Was there any financial irregularity these type of words And also was there any SEBI related issue with the particular business in the past?"
+    },
+    {
+      "id": "cue-6380",
+      "timestamp": "1:46:20",
+      "seconds": 6380,
+      "text": "So these three four issues you can ask you can even ask questions about tax evasion. Okay, was there any tax evasion related issue with this company? So you will get a broadly big management checklist."
+    },
+    {
+      "id": "cue-6391",
+      "timestamp": "1:46:31",
+      "seconds": 6391,
+      "text": "Let's say another thing was there any financial irregularity in the business of workaranghi in the past so Let's ask this question and let's see the answer In 2018, it will give you good history In 2018, Auditor resigned and MC inspection at the company In 2015, insider trading and in 2021, fraudulent trading penalties were also applied Then RBI also applied penalty for one thing Then allegations of financial misconduct were also applied So, this is the article of money life So, the article of money life is basically what you will get in detail with the source that what problems this company has faced in the past."
+    },
+    {
+      "id": "cue-6442",
+      "timestamp": "1:47:22",
+      "seconds": 6442,
+      "text": "Because I still remember that some of the TV anchors were very gungo on this company but this one stock which fell by almost, if you look at it, from 505 to 92%. See, stock falling can be because of business cycle turning but if the stock corrects by 90, doesn't come back see cycles come back so stocks do make a comeback then but if a company has been down 94% for last 6 years in a row, it means definitely nothing is happening like market trust is out of the company, right?"
+    },
+    {
+      "id": "cue-6473",
+      "timestamp": "1:47:53",
+      "seconds": 6473,
+      "text": "Because a lot of retail investors see that in the last 6 months stock is up 44% if it is coming on our screen, then buy it, right? In the last 1 year it is up 75% so nothing is happening in the stock so because of this you can help a lot with the basic management checklist so for the basic management checklists, you can use chat GPT, it's very simple, it's free to use, you can use perplexity."
+    },
+    {
+      "id": "cue-6495",
+      "timestamp": "1:48:15",
+      "seconds": 6495,
+      "text": "You will get basic tools, you can read articles on this business What is the problem in this business, what are the articles, so those things you can study If you don't get anything on it, you may get small amounts But this is a part of basically management checklist whenever we are studying about the management of a company. This is also something that we look at. A core thing that I see is that if a company is in the headwind and the promoter is giving some bullish guidance but at the end he is selling his stake, that also becomes a part of management checklist. Just example it is mtarga."
+    },
+    {
+      "id": "cue-6531",
+      "timestamp": "1:48:51",
+      "seconds": 6531,
+      "text": "Now in mtarga post IPO the promoter holding has fallen from 50 to 36 and December 2024 itself promoter has sold so many stake. Again, part of analyzing management. December 2020, management. In the comments books no, the volume in rupees is lakhs so if you shift 2 decimal points then it will come in crores so if it is 13045 lakhs then it is 130 crores."
+    },
+    {
+      "id": "cue-6580",
+      "timestamp": "1:49:40",
+      "seconds": 6580,
+      "text": "So almost 250 crores selling has been done by promoter. And since when the company has been selling, the promoter holding of the company? Almost from 50% to 36% promoter holding has come And business anyways has been going through a period of headwinds, right?"
+    },
+    {
+      "id": "cue-6600",
+      "timestamp": "1:50:00",
+      "seconds": 6600,
+      "text": "So business is going through headwinds and stock is also going through stage 4 Right now it is a little stabilized But still it's a part of management analysis for me In recent quarters too, the company's management is selling a lot of stake This month also the company management has sold 250 crores worth stake which for a company as a market cab of 5000 crores. How much is 250 crores of 5000 crores? Almost 5% is done. So 5% stake being offloaded in the month of December is it big or low? Just in the month of December 5% is a big number or a small number."
+    },
+    {
+      "id": "cue-6650",
+      "timestamp": "1:50:50",
+      "seconds": 6650,
+      "text": "It's a big number. Just in a month's time is a big number. 5% of the company, right? Yes, there is a stake sale in Shivalekh Bhai Metal. Again, Shivalekh Bhai Metal has one of the promoters who has exited the business. So, there were some calls on that. Why they have sold the stake. So, I think one of the inactive promoters has exited the business."
+    },
+    {
+      "id": "cue-6671",
+      "timestamp": "1:51:11",
+      "seconds": 6671,
+      "text": "So abeg reason that is what he say stake sell over so that promoter I think is share holding has gone from I think he sold almost 26-27% of the stake and one of the other promoters has also bought some percentage of the stake from that particular promoter. I think it was this. You can see TSL holding private limited. So, in a con call, can I discuss that one promoter is exiting the business but still even like while they are exiting the business, it while he has exited the business over last six quarters still looking at the growth rates what has happened in like Shivalik biometallics case?"
+    },
+    {
+      "id": "cue-6714",
+      "timestamp": "1:51:54",
+      "seconds": 6714,
+      "text": "There has been negative growth rates right. There has been negative growth rates. In the case of Indigo, I think two promoters have been in two fights and one of the promoter Raul Bhati was the major promoter. He started an AI startup, this is what he is saying, sell the stake. But definitely we should be aware that the promoter is selling his state. Similarly, I think a company has a wonderful example of this. This is a business where the shareholders have been more bullish than the management itself. I don't know what type of things happen in the market, right? Just over an example."
+    },
+    {
+      "id": "cue-6757",
+      "timestamp": "1:52:37",
+      "seconds": 6757,
+      "text": "Now, people who are betting that there is supposed to be a battery business which starts over there. But all those energy stories have been announced in the same energy system. Now the facts have completely changed. The facts were not there before. How many sales are there in the company? What is the sales of the company? It can change, but what are the sales? Tell me the sales number If the sales of the company is 20 crores, then ideally the market cap should be 20 crores in losses, maximum 100 crores market cap because it is a very expensive group."
+    },
+    {
+      "id": "cue-6799",
+      "timestamp": "1:53:19",
+      "seconds": 6799,
+      "text": "So we stocked 2000 rupees, market cap was 2300 cr. And even over here, the idea is see majorly people on twitter only right so people who are writing stories the company will enter a battery management business and stuff but they see that announcement is there actually so we open the energy and we go to the energy and here we come to recent Kpex announcements Kpex amounting 2, 073 crores and investment of 650 crores."
+    },
+    {
+      "id": "cue-6849",
+      "timestamp": "1:54:09",
+      "seconds": 6849,
+      "text": "So setting up 3.5 gigawatt per hour lithium and advanced chemistry storage cell manufacturing plant In its wholly owned subsidiary, Wari Energy Storage Solutions Private Limited, KPEX will be funded by a mix of debt and interlock rules. So, whatever KPEX was betting on in such a business, Now this is also part of management analysis. People were saying that the Vari group is through their battery management business through Vari technologies. Now has that thesis been basically buried or completely, has it basically died post this announcement? That it is in the Holy Own Supply Tree?"
+    },
+    {
+      "id": "cue-6891",
+      "timestamp": "1:54:51",
+      "seconds": 6891,
+      "text": "Right, Again just a part of management analysis, when we are reading such story stocks, what is the reality that we are seeing now? If I was analyzing the Vari technologies, I would have seen this point. The parent companies of Vari Energy are not able to keep a scar. Management never committed."
+    },
+    {
+      "id": "cue-6914",
+      "timestamp": "1:55:14",
+      "seconds": 6914,
+      "text": "It's the shareholders who had more vision than the management of Vari Technologies and what has happened in Vari Technologies as the promoter share holding gone down I think they never sold their stake in any of the business but last 3-4 months as the promoter itself been selling because the company's balance sheet is not there if we want to do a Kpex of 2000 crore now let's take an assumption that we have to make the promoter of the Vari Technologies do a Kpex of 2000 crore let's take an assumption that they want to do 2000 crore of Kpex Do you think balance sheet has any bit of strength to handle that amount of Kpex?"
+    },
+    {
+      "id": "cue-6954",
+      "timestamp": "1:55:54",
+      "seconds": 6954,
+      "text": "Can you see any strength on balance sheet? Right? So again, just by analyzing the management, right, just by doing this simple experiment, this is like basically you can sort of have this checklist ready. This have easily write off. Then you can also search with the word criminal cases. There are two or three managements which I don't want to name over it right because I want to live a peaceful life right."
+    },
+    {
+      "id": "cue-6990",
+      "timestamp": "1:56:30",
+      "seconds": 6990,
+      "text": "So there is one of the listed contractors where there is a criminal case of getting two or three laborers, like I think in the bridge, they might say, they say they are the one who chose, they chose the person alive, right? And those people passed away. But that is the type of criminal case that is there on an EPC contractor. I don't want to name the company but if you use chat gpt you will get a certain answer. But are you able to understand the exe type of management that we cannot invest in that case. Are you able to understand Why is it risky?"
+    },
+    {
+      "id": "cue-7028",
+      "timestamp": "1:57:08",
+      "seconds": 7028,
+      "text": "Why having a management checklist becomes important? It's better to avoid naming the stock. Right? Great. So, this is a part of management checklist. You are searching for criminal news. It will give you an idea. Then secondly, focus is on cash flow generation. He has a company generated enough cash flows consistently. So again, here is a business. Now let me take you through another example of management checklist. So there is a business by the name of Neogen Chemicals."
+    },
+    {
+      "id": "cue-7070",
+      "timestamp": "1:57:50",
+      "seconds": 7070,
+      "text": "Now, in Neogen Chemicals, from the last 3 years, there's a lot of story going on that there will be an effect of electrolyte. And actually, I think the management in person, if you meet, they're extremely decent management, right? But the problem is that in numbers, cashlows are not visible in this company if you check here if we take last 5 years net profit from 2019 add everyone just from 21 crores to 36 crores cumulative addition 21 plus 29 is 50 50 plus 31 is 81 81 plus 45 is 126 126 plus 50 is 176 176 plus 36 is 36 so the cumulative addition is up to Rs.36 crore how much is 21 plus 29?"
+    },
+    {
+      "id": "cue-7108",
+      "timestamp": "1:58:28",
+      "seconds": 7108,
+      "text": "Do do 126 plus 50 so almost Rs.212 crore so from 2019 to 2024 the company has almost profit after tax Here we write the number, let me say 212 crores The company had 212 crores profit after tax But actually the cash flow of the company was minus 39 I had 84 So almost 75 So 45 crores became 46 crores 16 crores and minus 13 crores Now again, see, if you don't become a cash flow for a couple of years, you understand that because it can be done in the management phase of fast growth The cumulative fat of the company is around 212 crore over 5 years and cumulative cash flows are minus 13 crores so what does that tell you?"
+    },
+    {
+      "id": "cue-7159",
+      "timestamp": "1:59:19",
+      "seconds": 7159,
+      "text": "Is the company being able to generate cash or is the company doing business for their suppliers and making inventory extra or is the company doing business for their customers can it be the business model that is the issue?"
+    },
+    {
+      "id": "cue-7183",
+      "timestamp": "1:59:43",
+      "seconds": 7183,
+      "text": "It can be a business model issue, it can be a business model issue that it is a very working capital heavy business see business is real, it is so much of a shock because it is considered a very good company in the industry but it can be a business model because working capital means that it cannot earn cash flow see the profit that is seen on the PNL, actually, I am not converting to cash flows, I tell you the cash flow statement. You can also watch our video on YouTube, the number one fraud ratio, CFO Pani, 30 minutes video, you will understand everything about it."
+    },
+    {
+      "id": "cue-7225",
+      "timestamp": "2:00:25",
+      "seconds": 7225,
+      "text": "Many V2B businesses have cash flow issues. Generally such businesses should trade at a discount. Because what do you get from shareholder? If I ask you a question, shareholder gets profits from PNL, cash flow gets cash flow from operations. What do you earn from shareholder? Do you earn cash or profit and loss? At the end shareholder gets cash flow from operations shareholder earns cash flows or profit and loss at the end shareholder gets cash flows At the end, shareholders don't get cash flows, they get free cash flows by cutting KPEX Right?"
+    },
+    {
+      "id": "cue-7257",
+      "timestamp": "2:00:57",
+      "seconds": 7257,
+      "text": "So, the shareholder at the end earns the free cash flow, cash flow from operations, KPEX minus, so if a company can't convert profits into cash flows, then it means there is some business model problem, so what will happen in this scenario if the company has to fund KX-VPX then what will the company do or QIP will do, like in this company, Cash Reform Financing So in the last 5 years, we have raised 3 times the equity in an IPO, then in QIP, then in another QIP Or the company will take more borrowing, as we can see here, the company has taken more loans This is how the company will be able to fund the KPEX."
+    },
+    {
+      "id": "cue-7292",
+      "timestamp": "2:01:32",
+      "seconds": 7292,
+      "text": "But not a strong business model until the working capital issues are fixed. So that bit is for sure. It also becomes a part of management checklist. Similarly, you can do homework in MTAAR. Then the focus area was the community insights. Community insights is How many of you are there on value picker? Who is there on value picker? A lot of people are there on value picker So on value picker just go and read the history of the particular business Right? Because on Value Picker, a lot of smart retail investors are there I just love the platform, right?"
+    },
+    {
+      "id": "cue-7329",
+      "timestamp": "2:02:09",
+      "seconds": 7329,
+      "text": "And you can make your profile over there It's free to make, free to use, not a paid tool We have made a video on YouTube on how to use Value Picker So on Value Picker, you can read threads that how the management behavior was in the past How the management behavior was in the past, that you can read on value picker as well. Financial Discipline, what are your cash flows like CFO upon PAD? How much profit are you converting into cash flows? Ideally, the answer should be 80% So if you use SOIC sheet, how can you see in the SOIC sheet?"
+    },
+    {
+      "id": "cue-7360",
+      "timestamp": "2:02:40",
+      "seconds": 7360,
+      "text": "Like we were sitting here with the example of RTE industries We have made a fraud sheet for you Your work gets easier here So, we will see the CFO 1 pad in the case of the Aalti industry. The last, I mean, the average of 10 years is that the profits of the Aalti industries are almost, I mean, more than that. So, this ratio should be above 80%, but the Aalti industries, almost 173% of profits is converting into cashlose because depreciation is very high. But is it clear that if you are using SYC Excel sheet then you can see in the fraud sheet that SYC students have a sheet."
+    },
+    {
+      "id": "cue-7394",
+      "timestamp": "2:03:14",
+      "seconds": 7394,
+      "text": "So your clear is absolutely clear. You can make the sheet on the screener yourself. Right? You can make a clear sheet on the screener You will get the SOIC screener sheet In L2 course, it is available over there. Is there in the L2 course? You didn't do it in L2 course, so you didn't get it. You can do it in L2 course. No, no, value vector is not owned by SOIC not at all. CFO 1, BAD can be seen, CFO 1, EBITDA can be seen. In the case of Adi Nassi, there is no problem with cash flow."
+    },
+    {
+      "id": "cue-7440",
+      "timestamp": "2:04:00",
+      "seconds": 7440,
+      "text": "It's so bit for sure that the management is converting to cash flows Finally, does the management share wealth with the shareholders? So the company basically doesn't pay out dividends Like we got a red flag, just an example in the management of Avanti feeds, let's open the example of Avanti feeds what is in the case of Avanti feeds? The dividend is around 20% payout, but in the case of Avanti feeds if you see the balance sheet, then you can see the investments, there are big times if there is a balance sheet of 2200 crores, then how many crores of investment is there? Can anyone answer that?"
+    },
+    {
+      "id": "cue-7477",
+      "timestamp": "2:04:37",
+      "seconds": 7477,
+      "text": "What is the figure? 2200 cr. Balance sheet size? How many cr. Investment is there? 1235 cr. So the last 4-5 years are constant. If you check it. Almost 55-60% of the balance sheet is in cash or investments same case with just del, there may be a capital allocation change but here it is in the Avanti feeds But now the company hasn't been paying any special one time dividends or any sort of payout to the shareholders. So this becomes an amber flag in management analysis for us."
+    },
+    {
+      "id": "cue-7522",
+      "timestamp": "2:05:22",
+      "seconds": 7522,
+      "text": "So that is how you start thinking about the stuff. This becomes a part of, this is an amber flag in basically management analysis. So similarly, and last is related party transactions. So now do one thing, in Google notebook LLM, in Google notebook LLM, in any company, upload an annual report and ask the question from Google notebook LLM how high are the related party transactions over there so it will give you all the related party transactions right. It is a very simple question to analyze. So we have this video on tools for AI research, tools for AI research, SOIC."
+    },
+    {
+      "id": "cue-7567",
+      "timestamp": "2:06:07",
+      "seconds": 7567,
+      "text": "Basically this is a video how you can use Google notebook LLM and annual reports for you to analyze or basically say easy. This is a free video that you can watch. I think you will be able to see it. So in this you will know how related party transactions are. This also becomes a part of management analysis. If the related party transactions are very high then it becomes an amber flag."
+    },
+    {
+      "id": "cue-7591",
+      "timestamp": "2:06:31",
+      "seconds": 7591,
+      "text": "Like there is this agro MNC company which used to be a part of Nifty 50 There were 300 subsidiaries and 300 related party transactions there If you want to hide something from any company then their corporate structure will be complex and simple What do you think?"
+    },
+    {
+      "id": "cue-7605",
+      "timestamp": "2:06:45",
+      "seconds": 7605,
+      "text": "There are many number of companies where their corporate structure is complex and simple This is my problem with a co-working company which is looking good in the market There are so many subsidiaries there, I don't understand why there are so many subsidiaries I don't need so many subsidiaries I will refrain from naming the company because it's a very favorite retail investor stock But again, that's a genuine problem in the accounting. I love it's very difficult to understand. So you can choose simpler, I mean, I go to simpler problems in my case. The rest of the ones who feel good are good."
+    },
+    {
+      "id": "cue-7645",
+      "timestamp": "2:07:25",
+      "seconds": 7645,
+      "text": "Again, it is just my thought process. Right? Awesome. So again, this is again all a part of basically management analysis checklist. Some areas that I will get no going, that there are criminal cases on management, fraud cases on the company, and there is a model thing in the company that can cause problems. Tax evasion type cases, when there are allegations, There are criminal cases, fraud cases and there is a problem with the company."
+    },
+    {
+      "id": "cue-7675",
+      "timestamp": "2:07:55",
+      "seconds": 7675,
+      "text": "When there are only allegations in tax evasion cases, I personally invested in a couple of companies where the tax evasion was just allegations because I just think how our Indian tax system works that it is more of guilty handle proven innocent but if the company is generating cash flows and every parameter my checklist tick mark is only one parameter basically negative or a key being a tax dispute to that I'm totally comfortable with Because if you look at top 500 companies in India, they will have contingent liabilities So you are not going to get any income tax dispute Have you seen this?"
+    },
+    {
+      "id": "cue-7714",
+      "timestamp": "2:08:34",
+      "seconds": 7714,
+      "text": "That there are no tax dispute of the companies who read the contingent libraries who don't know how to read the allure if you see the libraries then you will get no tax issue I don't think I have seen any company like this before I mean, from SRF, Sammy hotel, even Senco If you take example of recently listed companies There are some tax issues in each of them, 20 crore, 30 crore, 50 crore, 100 crore there is no tax issue, if we take Zomato case, then there is a new issue of GSD every day So that I think I am okay with, because this is our country works, so that I am okay with personally But this is again just a part of basically analyzing basically management."
+    },
+    {
+      "id": "cue-7761",
+      "timestamp": "2:09:21",
+      "seconds": 7761,
+      "text": "So our fundamental checklist is very clear. Then we have technical checklist. Then we will basically match it all together to basically go towards a couple of case studies with live examples. Management checklist is clear, Fundamental checklist is clear and technicals are on the checklist. So in technical checklist, I have a very simple topic that the primary trend of this business see again, I am also wrong many times, but I think if I am right at 65-70% of the times, then I am very happy with the long term outcomes. 20-30% of the times I am always wrong. I am trying to improve my hatred."
+    },
+    {
+      "id": "cue-7800",
+      "timestamp": "2:10:00",
+      "seconds": 7800,
+      "text": "I can do this in 20-30% time, that I can sell it quickly and enter into another place where I feel that I can lose here. But 20-30% of the time anyone will go wrong. Even if you are the best of the stock picker in the world, 20-30% of the time will be your basically rate where you'll be wrong right but first let's look at focus area one trend that is the primary trend of business. Primary trend means chart's primary trend when we talk about technicals. It's very simple to understand. Here I come to examples with you. It's one of the very simple ways to understand. Alright, just a second."
+    },
+    {
+      "id": "cue-7837",
+      "timestamp": "2:10:37",
+      "seconds": 7837,
+      "text": "Just a minute. Primary trend, is it? Then like down, so here we take an example. We come in the primary trend, we first open an example here. Let's open the example of Arman Finance. Now this is one of the businesses where I've been tracking the company for almost 6-7 years and I've seen the favorable cycle. Now I'm seeing the down cycle in this company. But looking at the primary trend over last 1-2 years, is the primary trend positive or negative today? Is it in a downtrend, uptrend or a sideways trend today?"
+    },
+    {
+      "id": "cue-7874",
+      "timestamp": "2:11:14",
+      "seconds": 7874,
+      "text": "Down trend in uptrend and sideways trend in last 1 year the trend is basically business so primary trend currently seems to be in the downtrend primary trend of the business seems to be in a downtrend. This is a clear example of a new business. It is in a downtrend. If anyone is holding the business or investing in the business, then the time horizon will have to elongate. Generally, it seems that the business is in a downtrend. So it may be that the microfinance cycle is also very bad. But let me put a similar example. Here we take an example of time techno blast."
+    },
+    {
+      "id": "cue-7916",
+      "timestamp": "2:11:56",
+      "seconds": 7916,
+      "text": "Now looking at this particular business is the primary trend in an uptrend, the last one to two years trend is chart weekly chart. So this uptrend or downtrend or sideways trend. So this seems to be in an uptrend. Let's take another business example. Let's take another business example. Let's take an example of card trade. In the case of card trade, recently, do you think has there been a trend change in the business? Right?"
+    },
+    {
+      "id": "cue-7961",
+      "timestamp": "2:12:41",
+      "seconds": 7961,
+      "text": "Basically, when the trend changed in the business, if someone changes the trend, then exactly the trend changed from here. Then the second trend changed here. Now the trend has become stronger. This business is in an uptrend, downtrend and a sideways trend. I don't talk about stage analysis right now, but in the downtrend, in the uptrend, in the sideways trend. So we can say that the IPO base is around now, the IPO base has already been breakout."
+    },
+    {
+      "id": "cue-7983",
+      "timestamp": "2:13:03",
+      "seconds": 7983,
+      "text": "And we can say something about IPO base it is consistently forming higher highs in this management, press released 40 crores in this quarter which was 10 crores in last quarter so there is a cyclicality in this basically cyclicality in the particular business is that this business does well when the auto cycle is doing bad. Now you can think why this business will do good when the auto cycle is bad. Just to answer the question. When do people do more advertisements to sell their cars? When sales are good or when they actually want to push their product?"
+    },
+    {
+      "id": "cue-8034",
+      "timestamp": "2:13:54",
+      "seconds": 8034,
+      "text": "When the sales of the used car is bad and they really want to push their product so this is just an example similarly, if we take an example of SRF and Deepak Knight ride, then you will see similar charts. Can I say that Deepak Nitride has not gone anywhere since last 3 years?"
+    },
+    {
+      "id": "cue-8084",
+      "timestamp": "2:14:44",
+      "seconds": 8084,
+      "text": "Is it ok if I can say that? So what is the primary trend of Deepak Nitride? Is it a big side-based trend? Let's take another example SRF is done, Deepak Nitride is done, let's take an example of HDFC Bank. You can see in HDFC Bank that the primary trend is trying to change the trend. But what is the primary trend? There are sideways, there is a strong chart. It is trying to break out but still there is a sideways trend. It has been retested by breaking out."
+    },
+    {
+      "id": "cue-8130",
+      "timestamp": "2:15:30",
+      "seconds": 8130,
+      "text": "There was not a clean breakout in that. But still there is a sideways trend. The idea is that whenever we are reading businesses and technicals And there is another idea That your 5 winners rarely repeat in future cycles This teaches us SRF, Deepak, Nitride, HDFC, Bank and Kotak banks Who were the winners of the 20-21 cycles from 2013? Bank's chemicals, right? Some of the two best sectors during that time. Banks or chemicals were the best sectors to own between 2030 to 2021. Can I say that these were the winners of past cycles, NBFCs too? And post 2021, have the winners changed? Yes or no?"
+    },
+    {
+      "id": "cue-8181",
+      "timestamp": "2:16:21",
+      "seconds": 8181,
+      "text": "Right? So again, the idea to look at it is that the primary trend in businesses is basically sideways trend or downtrend."
+    },
+    {
+      "id": "cue-8191",
+      "timestamp": "2:16:31",
+      "seconds": 8191,
+      "text": "But which are the best stocks Where the primary trend remains positive for multiple years So our preference for a trend is uptrend Where at least the last 2-3 years trend is upward Or the trend is shifting from last 6 months to upward Here the high rise is going to be there If you get initially a stock in 6 months where the trend has changed like Zomato, PP Vintec, or Cartrade So that is a very interesting cycle to study because generally trends last for 2-3 years So if you see any trend change in any stock then technically, it will be our checklist pointer Checklist pointer 2 which becomes very important is the relative strength So here, I will take an example with you and this is a very interesting case study because you will get a very understanding layer in the checklist that here we come in the name of Alkylamines in a business."
+    },
+    {
+      "id": "cue-8250",
+      "timestamp": "2:17:30",
+      "seconds": 8250,
+      "text": "So this is on trading view, trading view free to use. Trading view that we have made a video, stock scans video I think in the next 1-2 weeks I was trying to finish the video this week, but this week I fell ill. So last 2 weeks actually I have been ill. So here we take Alkyla Minds as an example. So Alkyla Minds, the line below, the line below is of relative strength. What is the line below of relative strength? And what does relative strength tell us? It is versus, let's take an example here, let's do 26 weeks. Is this stock stronger or weaker than nifty fifty?"
+    },
+    {
+      "id": "cue-8289",
+      "timestamp": "2:18:09",
+      "seconds": 8289,
+      "text": "But after multiple years, from 2017 to 2021, relative strength was consistently high for 4 years. But can I say that after multiple years, it has consistently entered into a downward territory, its territory has been consistently downward, it has been red? Because When it is green, it means it is outperforming nifty, when it is red, it means it is underperforming nifty. But it is consistently underperforming after multiple years. It is weaker. What can be said or not? It is called as relative strength. We had taught it in stock scanning."
+    },
+    {
+      "id": "cue-8331",
+      "timestamp": "2:18:51",
+      "seconds": 8331,
+      "text": "No, it is not RSI, Relative Strength is different from RSI. If there is a downward trending, Green Line B, then generally there can be Relative Strengths, but completely until Red now, then there is still outperforming in that time horizon. You should do this, then you can shorten your time horizon and see if there is any negative in business or if there is a risk. But if the relative strength consistently goes downwards or gets negative, then we should be careful that there may be some problem in this business, there may be some problem in the sector."
+    },
+    {
+      "id": "cue-8370",
+      "timestamp": "2:19:30",
+      "seconds": 8370,
+      "text": "Now, SRF and alkyl amines belong to the same sector. Can I say that both the relatives are exactly the same? Almost exactly the same. It is consistently under performance only from last 4-3 years. Let's see, it is consistently under performance from 2022. It's been 3 years since the last performance, from 2022 it's consistently under performance Because it's a sectoral issue, right? It's a sectoral issue Someone asked what is the line length of this relative strength. If you are in the SOIC membership, then look at the course of L4. There is a detailed class on that relative strength."
+    },
+    {
+      "id": "cue-8412",
+      "timestamp": "2:20:12",
+      "seconds": 8412,
+      "text": "Just in case you are not a member of SOIC. So, I have tried to provide you with the knowledge that you have So we tried to do that intentionally so that we can learn all the concepts So there is a video of SOIC Relative Strengths You can watch this video on YouTube, how to find super strong multi-bagger stocks What do you have to use daily, monthly, weekly?"
+    },
+    {
+      "id": "cue-8437",
+      "timestamp": "2:20:37",
+      "seconds": 8437,
+      "text": "People use ads on our videos these days so this is something that you can basically watch and learn from this video will give you a very good insight so what you have to use in relative strength in SOIC membership in L4 course more details are explained, many people have joined the course recently, I will suggest that the course is complete at least complete level 4 and crash course, level 2, we keep seeing that somewhere is looking like a model but the course is complete at least you will get an idea, like If you want to learn trading views, then how to use trading views explained from scratch on our YouTube thing."
+    },
+    {
+      "id": "cue-8474",
+      "timestamp": "2:21:14",
+      "seconds": 8474,
+      "text": "And in course, there will be more details. The things that will be missed here will be explained in the course. But if you see the course, then the understanding will increase. But trading, basically, in technical checklist, relative strength has to be increasing. That is a part of our checklist if relative strength is red then we can see the stock now technically or we can delete the stock again, let's take case by case, but generally we have to follow the rule of delete the stock right?"
+    },
+    {
+      "id": "cue-8501",
+      "timestamp": "2:21:41",
+      "seconds": 8501,
+      "text": "Then there is another one, RSI so the graphic designer here again, he clubbed RSI and RS because I had sent him WhatsApp money. But do you think RS and RSI are the same thing? Yes or no in the comments? Are both the same things? Who do you think are both the same things? No, both are not the same things. RSI is a momentum oscillator. How much momentum you know about the strength of RS? Relative strength you know about the underlying benchmark, is the stock outperforming or not. It both are entirely different things. So RSI tells you about the trend, how powerful is the trend at this time."
+    },
+    {
+      "id": "cue-8543",
+      "timestamp": "2:22:23",
+      "seconds": 8543,
+      "text": "Right, so in RSI, we use one thing, I think many people, I think while looking at it, they don't use it. The very interesting finding is that, I will show you. Let's open Asian paints. We apply RSI on Asian paints. Relative Strength Index. Let's go on monthly charts, let's set up one here, right? Styles are great first we do low, then 50 right? So, let's say, we do 50 on low, right? What was an interesting finding in Asian paints?"
+    },
+    {
+      "id": "cue-8593",
+      "timestamp": "2:23:13",
+      "seconds": 8593,
+      "text": "After, if we look at the monthly RSI of Asian paints, I think this was, which are strong stocks, they never happen. So, let's look at the monthly RSI of Asian Pains. So in this entire period of last 5 to 6 years, first time it went below 50. It went below 50 for the first time in June 2022 And consistently it is forming lower highs You can see that it went below 50 So in any In a multi year compounder, if monthly RSI goes below 50 Once And and the trend is also weakening due to relative strength, generally it's a sign that it's become a multi-year top stock."
+    },
+    {
+      "id": "cue-8639",
+      "timestamp": "2:23:59",
+      "seconds": 8639,
+      "text": "And actually, I'm not saying it in hindsight. At that time, I think I also did a tweet on this. I think this was, I think 2024 than 25 maybe tweet that after multiple years The RSI of Asian paint is consistently below 50. Last it happened during 2000 to 2005. Stock A is 0 returns during this waste. RSI below 50 on a monthly charge is one of the metrics to look for in stocks which have consistent compounding. And the stocks you consider to be very consistent with the stock has been doing well. So, this is on the trading view. Now, I was showing you the stock chart on the stock scans."
+    },
+    {
+      "id": "cue-8678",
+      "timestamp": "2:24:38",
+      "seconds": 8678,
+      "text": "You can see the trading view too. But, from 1999 to 2005, RSI was below 50 on monthly charts. And now again, it has entered to the below 50 category and this was when the stock price was at 3000 rupees I think we recently posed the results it has fallen I think almost 20 30 percent on the drop I but it is just activity worth doing up SRF case maybe agarabdekeinge so again this is just a technical checklist. Let's see RSI. If we look at weekly charts, then below 50 is going on. And if we look at monthly charts, then just below 50. Now, we see this number from 2023."
+    },
+    {
+      "id": "cue-8724",
+      "timestamp": "2:25:24",
+      "seconds": 8724,
+      "text": "It has started trending towards below 50 level so 50 is a very crucial mark all the charts I have seen, strong performing stocks, weak performing stocks like you see in our industries so you will see on weekly charts so consistently above 50 you will see RSI in post-22nd So consistently above 50 you will see RSI But 50 RSI becomes a very crucial mark, when it crosses, if you take the example of the card rate, then that becomes a very powerful technical indicator let's see in the card rate, the moment the RSI crossed 50, so if you check here, the moment it crossed 50, it was on 23rd May If you check here, you will see that it has 30 weekly MA So the moving average has gone up So this is explained in the stage analysis So you will see that the moment this crossed above 50 There was also a trend change Relative strength also changed 30 weekly MA also has also been up And trend has changed completely Are you able to observe that?"
+    },
+    {
+      "id": "cue-8783",
+      "timestamp": "2:26:23",
+      "seconds": 8783,
+      "text": "RSI crossing 50 becomes a very crucial indicator. So this is one of the key things to look out for. You can also screen in the stock scan and trading view. So RSI is relative strength index."
+    },
+    {
+      "id": "cue-8806",
+      "timestamp": "2:26:46",
+      "seconds": 8806,
+      "text": "So momentum oscillator, you can take the time frame if you are looking at RSI 14 in the last 14 weeks, if the momentum is filled at the stop, the number will start increasing so you can see its calculation on trading view, sorry investor media but I'll say don't see the calculation, read its definition You will get its importance from there But I'll say when RSI goes above 50 after a lot of time, that is where the trend has changed for real. You can see the same thing in Zomato. Let's look at Zomato. It was Zomato maybe. RSI the moment it comprehensively crossed above 50."
+    },
+    {
+      "id": "cue-8847",
+      "timestamp": "2:27:27",
+      "seconds": 8847,
+      "text": "Can you see that 30 weekly EMA also started shipping upwards or relative strength also started increasing. You can see here that relative strength improved. 30 weekly EMA, stage 2 can be stocked and RSI above 50 will go at the same time. What were you giving in the three things at that time? Confirmation signal is giving here that trend has changed permanently Is this a sign of indication? At that time, maybe it was a golden crossover Now, the uptrend is still going on But that is just an example of how you can see. I think stock stands is something that we have made."
+    },
+    {
+      "id": "cue-8892",
+      "timestamp": "2:28:12",
+      "seconds": 8892,
+      "text": "And if we look at the cyclone, just a second, there is an RSI above 45, I think here will be a call filter, RSI 14 weekly, 14 weekly just above 45, here we will enter, whatever the top 500 Nifty index, the stock in the Nifty 500, where RSI above 45 is gone, all of them will come here, now it can be The top 500 stocks in the RSI above 45 will come here. You can also use the P ratio to tighten the filter. Price to earnings should be below 50 times."
+    },
+    {
+      "id": "cue-8929",
+      "timestamp": "2:28:49",
+      "seconds": 8929,
+      "text": "Should be below 30 times so those stocks where RSI is above 45, relative strength is better where things are improving in weekly charts, they will come in front of you and they are running below 30 PE so as soon as a business comes, in the name of well spun enterprise just as an example, let me just open up here. So, start maybe relative strength, just increase only start, right?"
+    },
+    {
+      "id": "cue-8953",
+      "timestamp": "2:29:13",
+      "seconds": 8953,
+      "text": "So, it tested the 30 week limit, but RS is again start going up and RS I again 40 mark, test, 4950, then again it has basically regained those levels So again just a screening activity that all of you can do the stock belongs to the water team Similarly AGI Green Pack is another business where this happened Because there was a strong news of acquisition Relative strength index is below 39 There is a trend change in the business because it can be an H&G acquisition Any time it is concluded, the company is also doing fund raise for that So that is one more So again, this is just a screening activity that all of us can do."
+    },
+    {
+      "id": "cue-8995",
+      "timestamp": "2:29:55",
+      "seconds": 8995,
+      "text": "Similarly I think in the RTI pharma labs, there are changes in the CV. Because a big institutional investor has come in. So I think Sunil Singh Hanya has entered and if you see, the relative strength is around 42 to 52. So at least this stock should be green here and it is on back of very strong price volume action. Volume is signals smart money entry and which smart money is entering. Let's check in the Parma Labs."
+    },
+    {
+      "id": "cue-9019",
+      "timestamp": "2:30:19",
+      "seconds": 9019,
+      "text": "Who is entering in smart money can you tell me what is smart money enter in the comments you understand there are check list pointers in technical for screening or for the stock so who has the fund? Mr. Sunil Singh is coming the Graviton is an algo trader, they sell the volume in stock and They do trading for few paisas. Course on technicals, L4 in the SOIC membership, only one is covered. So that is again just an example right. So this also becomes really important when we are doing this technical like analysis Checklist is our."
+    },
+    {
+      "id": "cue-9070",
+      "timestamp": "2:31:10",
+      "seconds": 9070,
+      "text": "What are the indicators? You have to use two EMAs, which are your exponential moving averages, you just have to use two. One is 10 weekly EMA, upward shipping and 30 weekly EMA these are the 2 exponential moving averages what are the moving averages? If it is 30 weekly EMA, then the stock price of the last 150 days is calculated as a moving average and on an exponential basis i.e."
+    },
+    {
+      "id": "cue-9094",
+      "timestamp": "2:31:34",
+      "seconds": 9094,
+      "text": "The 1.49th day will get more weightage in calculation vs the first day because 1.49 days is the recent one similarly, you can do it in 10 weeks you get a powerful signal on a golden crossover in the technicals let me take an example this is for businesses portfolio can be stocks which will be going to heavy momentum. Some of the stocks will be which will be laggards or stagnant. But the ones which are super winners they will have these traits. Let's take another example of Zomato. If we look at Zomato's case study, we put an exponential moving average in indicators. Just a second."
+    },
+    {
+      "id": "cue-9132",
+      "timestamp": "2:32:12",
+      "seconds": 9132,
+      "text": "Let's put two EMAs. We will put one EMA in the weekly charts and we will put 1 EMA on 30 EMAs we will change the colour of 10 EMAs just a second alright so when just over it basically whenever the EMA with a lower time period, like here we have a 10 weekly EMA that crosses the EMA with higher time frame that is 30 weekly EMA from downwards so this is called a golden crossover. This is known as golden crossover and this also signals a complete trend change in the stock."
+    },
+    {
+      "id": "cue-9171",
+      "timestamp": "2:32:51",
+      "seconds": 9171,
+      "text": "So now a very common sensible question is when in lower EMAs, which is the price action of last 50 days, if it is stronger than the last 150 days trading action, So don't you agree that the trend that is becoming stronger versus last 150 days. This is why the last 50 days that is crossing the last 150 days. Trends are getting stronger because of this. Yes or no? Right? That is one of the reasons why it happens. That is how you can still think of businesses, right? How will this happen? I think we made a golden twist here."
+    },
+    {
+      "id": "cue-9217",
+      "timestamp": "2:33:37",
+      "seconds": 9217,
+      "text": "That I think is also a hydro. But that is also one of the signs that you can look at. I where you can make stock scans in 10 weeks, where you can do SMA 30 and SMA 10 SMA 10 has gone higher than SMA 30 weekly. So that again will give you throw businesses where just the golden crossover type of stuff has happened. So here a business recently that is jubilant food works has just acquired the Coca Cola bottling business and I think there were two or three more favorable news reports here But again that has just recently started happening in this particular business."
+    },
+    {
+      "id": "cue-9274",
+      "timestamp": "2:34:34",
+      "seconds": 9274,
+      "text": "So at least scanning is happening properly. But again this is one of the key pointers. Like it happened in HVL engineering because there is recently news coming. It happened recently in the max estate. Max estate used to see if it actually happened or not."
+    },
+    {
+      "id": "cue-9289",
+      "timestamp": "2:34:49",
+      "seconds": 9289,
+      "text": "So I will get an idea so let's do exponential moving average so let's do 10 I think we have less history here, so that we will see but in max stage there was a positive news recently that what was that positive news that they have crossed the pre-sales of 5000 crore in 9 months which they gave guidance for 12 months so I think in max stage we will check it again but again this is one of the another filters in technical analysis or another ranking criteria that we use in indicators that 10VMA is also in upward shape and 30VMA is also in upward shape actually max has both the upward shape if the golden cross over is over then it is a benefit Then what is the weekly ADX?"
+    },
+    {
+      "id": "cue-9336",
+      "timestamp": "2:35:36",
+      "seconds": 9336,
+      "text": "ADX shows us the strength of the trend So ADX can be ignored if you have not done technical analysis in detail Ignore ADX But generally the average direction of the trend is known as ADX If we go above 20 ADX then it means it is out of consolidation So that is the beauty of it Monthly or weekly Vstop, for now ignore it If you are non-SYC student But again, this is how you can look at the other trends So ignore ADX or Vstop The finalist is Price and sector So this is a very important topic. How is the price volume action? Is it a strong price volume action or a weak one?"
+    },
+    {
+      "id": "cue-9372",
+      "timestamp": "2:36:12",
+      "seconds": 9372,
+      "text": "Here we see a recent example. Let's see an example in stock stands If we look at volume marketing, there are excessive volumes We apply a simple framework here The last 5 days of volume is higher than last 10 days of volume Almost 50% higher Which businesses are doing screening? For example, there are 3 main engineering 50% higher. It's a con concept business. 3 main engineering. Volume is higher. Last 5 days. Reason being because they have just announced a demurger. So there is a fundamental news here."
+    },
+    {
+      "id": "cue-9410",
+      "timestamp": "2:36:50",
+      "seconds": 9410,
+      "text": "So we should see that we are demurging our power transmission business versus the sugar and ethanol business. Similarly, let's look at Greaves cotton. In Greaves cotton, I think we had a screen in last to last class when a super investor took entry. Even here, the e-V business has been announced as a demurger. So again, a technical strength scan over there which is there. And similarly, I think there is another business."
+    },
+    {
+      "id": "cue-9435",
+      "timestamp": "2:37:15",
+      "seconds": 9435,
+      "text": "I have been in the industry skinner, I think the volumes were higher, but we'll have to see how much volume was there in the daily charts but this one doesn't seem that clean right now similarly in the RTI pharma labs where the price volume action is strong so that also becomes a signal where the stock is breaking out so that also becomes a criteria for technical scans this is also a pointer of our checklist so this stock is also screened but when I have a stock portfolio or I am going to buy it too. So that is one of the criteria I look at. Like if it is an example of time techno blast."
+    },
+    {
+      "id": "cue-9472",
+      "timestamp": "2:37:52",
+      "seconds": 9472,
+      "text": "So in time techno blast, you can see that the stock has been forming multiple bases. And basically on back of multiple bases, it is forming fresh eyes. Are you able to observe this? Right? Just over here multiple base formation are happening in stocks and their value added product mix that has been increasing just over here can you see the stock is forming multiple basis and it is hitting new highs. So every time it makes a new high, it is followed up by volumes. So here we will see high volumes, here we will see high volumes, here we will see high volumes."
+    },
+    {
+      "id": "cue-9509",
+      "timestamp": "2:38:29",
+      "seconds": 9509,
+      "text": "Here we will see recently again a good amount of volumes. Right? Are you able to observe this? How the primary trend is making higher highs and there's also fundamental use in that business that their value added product is improving. So now you can see that the price volume action is clearly visible here. Higher highs are forming. And it is in few charts this happens right right again it So again it happens this is something that you have to check."
+    },
+    {
+      "id": "cue-9558",
+      "timestamp": "2:39:18",
+      "seconds": 9558,
+      "text": "Right, So again this is just a checklist criteria, see sometimes some of these will not be positive but the idea is that broadly if you get it right in a portfolio of stocks, so 60-70% of the times you will be right but what is your fundamental position, you should know what is the price in sector, is there over head supply and is there stock in blue sky over head supply is that old shareholders keep selling the stock like in the last 1-2 years If the stock is falling from a highs, then it is a resistance to the old shareholders. So they keep selling."
+    },
+    {
+      "id": "cue-9592",
+      "timestamp": "2:39:52",
+      "seconds": 9592,
+      "text": "I will give you a wonderful example of overhead supply. If you take an example of Balaji Amines. If you take an example of Balaji Amines. In Balaji Amines case, if you just look at it, if you want to make this stock new high, is there over head supply from shareholders who are holding for last 2-3 years? Will there be overhead supply?"
+    },
+    {
+      "id": "cue-9617",
+      "timestamp": "2:40:17",
+      "seconds": 9617,
+      "text": "The one who has taken it will have more than overhead supply the one who has taken it will have more than overhead supply but I think after 3 years overhead supply concept doesn't apply but here you can see the main 2-3 overhead supplies can you see overhead supply in this? Right? So it's also concept worth understanding and reading about right that even here we can see overhead supply so here there should be strong fundamental changes but right now, it doesn't seem like there will be any in the mind sector for the next 2-3 years."
+    },
+    {
+      "id": "cue-9654",
+      "timestamp": "2:40:54",
+      "seconds": 9654,
+      "text": "So much has been studied, it seems that it is very tough to go somewhere. So again, that is also something that you have to look at You can follow these things in the technicals checklist What is trend? It is down trend, sideways trend is up trend Generally we prefer stocks in up trend Again, the primary trend is up trend The secondary trend is that for 2-3 months or 6 months Trends can be a little negative or sideways That is also okay till the selling is not triggered. If you can see on monthly charts, all come basically noise in the process. So trend is uptrend, down trend, sideways trend."
+    },
+    {
+      "id": "cue-9690",
+      "timestamp": "2:41:30",
+      "seconds": 9690,
+      "text": "Then focus area 2 is trend, outperforming nifty and underperforming nifty. And RSI is on weekly charts below 50 above 50 and above 70. Then indicators can be seen that 10 weekly EMA is going upwards, 30 weekly EMA is going upwards. ADX can be seen but ADX I think that SOIC students can learn level 4 in ADX. And V-Stock can also learn level 4 because you have non-SOIC students."
+    },
+    {
+      "id": "cue-9714",
+      "timestamp": "2:41:54",
+      "seconds": 9714,
+      "text": "And finally price and sector can see how is the price volume action whether it is strong, weak or can't say management checklist, technical checklist and fundamental checklist gets clear and finally in valuation checklist we will do case studies Before the valuation checklists, how to find group moves that are going along with the group First thing is that you can see the sectoral trend It is a very simple question From the last 2-3 years, there was a strength or weakness in the EMS sector What do you think? From the last 2-3 years, was there a sectoral move or was it weak?"
+    },
+    {
+      "id": "cue-9746",
+      "timestamp": "2:42:26",
+      "seconds": 9746,
+      "text": "Common sensical question again sector wise, it was a strong sector right? Another question let's take micro finance example today today micro finance sector is 15 hours per day credit access gram you know urban finance or bandhan bank or Let's take the example of microfinance today. So today the sector of microfinance, whether it is the 15th school, credit access, gram, Eno, Arman, finance, Bandhan, bank, or Jeevan bank, I like you, the numbers of Jeevan bank are still the best in the entire sector. Right, right, ESAF bank. So let's look at the 6th side banks."
+    },
+    {
+      "id": "cue-9782",
+      "timestamp": "2:43:02",
+      "seconds": 9782,
+      "text": "So there is sectoral strength positive here, is there, it's going through a downturn or an uptrend? Currently it's going through a downtrend, right? Right, so the sector they move together and they also break down together So whenever you are reading stock, suppose I am reading PG Electroplus then I will see what is in Dixon's chart I will see what is in Dixon's numbers Either in Amber enterprises or in E-Pack durables Just an example Today, let's take an example of pre-engineered buildings."
+    },
+    {
+      "id": "cue-9820",
+      "timestamp": "2:43:40",
+      "seconds": 9820,
+      "text": "Inter arc has been doing well, PENAR has been doing well, Bajaj Steel has been doing well and E-PAC pre-engineered building in unlisted space has raised good money. So, the strength and weakness in the sector is visible, for example. Strength, right? All those businesses have done well since last one year. So, the volume growth is also very good at this time. So you are getting strength in the sector. So whenever you read a business, also check when you are ranking, what are the PO's? The other PO's are strength and weakness, so the total strength is shown here."
+    },
+    {
+      "id": "cue-9860",
+      "timestamp": "2:44:20",
+      "seconds": 9860,
+      "text": "There are multiple business in the sector. Like today there was Hotel sector, so in Hotel sector in last one year, I think Indian hotels were the best performing stock The EIH, that has been the best performing stock The third one will be Shalya Fourth, I think, the teams are all businesses. But are there multiple winners in the hotel sector over the last one year? Answer is yes or no? So, top 6-7 hotels, what are the answers? Answer is yes. Right? There will be multiple winners which have emerged out of that sector. Is there any news based event in the hotel sector? Yes or no?"
+    },
+    {
+      "id": "cue-9893",
+      "timestamp": "2:44:53",
+      "seconds": 9893,
+      "text": "Are all the hotels saying that there is some strength? Actually, Sammy hotel's was Rs.120 on IPO. What is the price for Sammy hotel today? This IPO was 14-15 months back. So even today the price is 200 rupees. So how much is the markup in that period? Almost 65-70% but index is not given that type of return. If we compare 50-50 or 500. Even though chart is not choppier versus others. Because there is a lot of institutional selling because there are very old private equity shareholders. But just an example, there is a lot of an example that you have to understand that the sector is doing well."
+    },
+    {
+      "id": "cue-9934",
+      "timestamp": "2:45:34",
+      "seconds": 9934,
+      "text": "It can happen in any stock, it is 100% return or 60% return in any stock. That is irrelevant, but the sector is doing well at this time. So that will give you a very good example. Valuation metrics I think level 3 of SOIC course we have discussed in many sectors because that will require at least 4-5 hours of separate discussion of each sector. We can publish a detailed infographic for all of you. I think I have already published one. It's there on Twitter so I'll just reshare it. You can use valuation metrics in every sector."
+    },
+    {
+      "id": "cue-9969",
+      "timestamp": "2:46:09",
+      "seconds": 9969,
+      "text": "But I think with live practical examples, we'll do a separate detailed webinar on this topic soon. Because this one might take time because I won't be able to explain it in a good way in 10 minutes so should we do a webinar on valuation metrics for different sectors sometime soon so we can do peer to peer for every sector, we can do 35-40 sectors where do we have to pay ev2, evita, price to cash, where do we have to pay if we are valuing data center, what is the market looking at? What should be the order book? So that webinar will do sometime soon."
+    },
+    {
+      "id": "cue-10000",
+      "timestamp": "2:46:40",
+      "seconds": 10000,
+      "text": "I think January 1st webinar will be done there. Awesome. So yeah, we will do the webinar for the entire time. But in this webinar, I can't cover. I am really sorry because it will take some time. Priyankar, your question is sort of, You are focusing on weekly charts, maybe you have to look at monthly charts, you are focusing on daily and weekly charts which is also okay, which is also okay but again you will have to sometimes see that if you have a fundamental trigger in that business can last, that is why I am telling you the fundamental trigger again and again."
+    },
+    {
+      "id": "cue-10041",
+      "timestamp": "2:47:21",
+      "seconds": 10041,
+      "text": "And it is possible that you have multiple shakeouts or entries beyond that is also possible. Right?"
+    },
+    {
+      "id": "cue-10052",
+      "timestamp": "2:47:32",
+      "seconds": 10052,
+      "text": "Tools to research we have done a webinar last to last week only so now fundamental well like mastering fundamental analysis a whole webinar bundle is explained without noise so it will just give you a very good idea I think that's a two-hour webinar but in that there are things like what to use in stock sands, what to use in markets All those things are covered over there and I think it's 2-2 and a half hours and all the tools to research will be covered But we will finish the checklist So in all themes there are news based events So news based events. Who heard about PM Kusum?"
+    },
+    {
+      "id": "cue-10089",
+      "timestamp": "2:48:09",
+      "seconds": 10089,
+      "text": "Many people are listening to PM Kusum. They are giving agri pumps for farmers. They are giving solar pumps. That is also something that you would have learnt that the solar pumps are basically the Agri pumps are used for farmers So that is again a news based event That is also a part of the thematic move There is also an IPO for Oswald pumps There is also an IPO for Oswald pumps That is just an example of a news based event And finally demand supply mismatch soft spot sectors where high demand and limited supply are creating opportunities."
+    },
+    {
+      "id": "cue-10131",
+      "timestamp": "2:48:51",
+      "seconds": 10131,
+      "text": "As the hotel sector has been created, the packaging film sector is expanding. Then the margin of PPM film manufacture has also expanded because it was a lone manufacturer and another company has recently entered. But it might take years before it starts showing up. But again, this is how you can find group moves. You can also find group moves in the market. Again, similarly, we talked about last week's webinar on Sunday, how you can spot sectoral notation. So, it is basically something that you can find out yourself."
+    },
+    {
+      "id": "cue-10162",
+      "timestamp": "2:49:22",
+      "seconds": 10162,
+      "text": "This is a bit large banks, a little bit last one to one, relative strength, but it is not yours is nifty fifty. So that you can also check. Similarly, If we look at the last one month, I think this is one of our students who use stock scans to tweet about it. I'll just open this. Today, it's a fake IDP, so we'll have to address that. So I think one of the students who published this, this is from the stock scans. The highest relative strength over the last one month, what businesses are running in? Can you tell us which sectors are in the top 10 sectors?"
+    },
+    {
+      "id": "cue-10195",
+      "timestamp": "2:49:55",
+      "seconds": 10195,
+      "text": "What are the top 10 sectors of the highest relative strength? Stock scans. Highest relative strength over last one month. This is likely where the money has been moving. Alcohol, reality, textiles, invits, then hotels and restaurants, cement, consumer durables, aerospace and defense and pharmaceuticals. So these have been the top 10 sectors in the market over the last one month. Like percentage outperforming, you can see 91% of alcohol basically beverage stocks have been outperforming, 5500. So this again becomes a part of group move."
+    },
+    {
+      "id": "cue-10241",
+      "timestamp": "2:50:41",
+      "seconds": 10241,
+      "text": "Because now they are entering Andhra Pradesh which is one of the biggest market for alcohol."
+    },
+    {
+      "id": "cue-10246",
+      "timestamp": "2:50:46",
+      "seconds": 10246,
+      "text": "So we can see this in group moves Finally, coming to the valuation checklist Compare with P&Ls P&Ls is a stock cheaper or more expensive They can compare on PE ratio They can compare on price to cash flow They can compare on EBITDA we will see after doing one or two then peg below 1.5 is peg means if the company has a PE ratio of 30 then if the earnings of 20% is growth then the peg ratio of 1.5 times will come so that is also an example of peg ratio if the peg ratio is the last 3 years sales profit growth or after your studies, make the next 2-3 years of profit growth If you get a business where you get 20-30% PE ratio and 20-30% earnings and PEG ratio is 1 or 1.5 times, then probably you are sitting on a multi-bagger because what will happen is that market's perception improves."
+    },
+    {
+      "id": "cue-10299",
+      "timestamp": "2:51:39",
+      "seconds": 10299,
+      "text": "I will come to your case studies can take the flexibility of valuation, we are lenient with valuation if growth runways multi-year in such cases rely on technicals for confirmation. Growth confidence be very sure about the growth aspect, ensure industry growth estimates are accurate and market condition are we in a bull market or a bear market generally the bear market is then people become very valuation focused. When bull market is there, people forget about valuations and focus on growth if the market is in the bear market, people are scared to give 30 B.E."
+    },
+    {
+      "id": "cue-10330",
+      "timestamp": "2:52:10",
+      "seconds": 10330,
+      "text": "That is how the sentiment changes market structure is part of it but today, because we are in the okay market, I think if I am the framework I am taking the company at 11.5 times per ratio. So I will do some case studies with you so that it becomes better in your understanding. So let's take an example. So I think this is one of our past examples. So, I will just take it out from here. Actually, this was one of our stocks in the RA desk which we used to have."
+    },
+    {
+      "id": "cue-10360",
+      "timestamp": "2:52:40",
+      "seconds": 10360,
+      "text": "Now, this is just a case study which was like, this is almost a, this is almost, how old of a case study, I think this is almost a 6 to 9 months old case study right? Old enough for me to give you an example out of right? So what was the mistake?"
+    },
+    {
+      "id": "cue-10376",
+      "timestamp": "2:52:56",
+      "seconds": 10376,
+      "text": "I will discuss it with you so I will take 2-3 case studies I think yes so we originally were there in the business on 7th June, I think December, almost 6 to 8 months old case study So initially we published a report on this business And I am just telling you the thought process that when we published the report So actually if you look at the valuation of the company We listened to the management's commentary and made the valuation The management was saying that 45% sales will be done And Pat margin will be 5% So it was very simple to estimate that in FY25, the company will make a sale of 4000 crores And the Pat margin of 5% will be 200 crores and then what we did is we built a bull bear and base scenario so in the last one year we did the estimates of the company in the last 2-3 years the company has been trading at the factory, that is PG Electroplast so we came and saw that in the last 2-3 years, the company was trading at 45-40 times Pg ratio."
+    },
+    {
+      "id": "cue-10436",
+      "timestamp": "2:53:56",
+      "seconds": 10436,
+      "text": "And the company was trading at the peak before this, so the company was trading at 78-pg ratio. So we took 3 broad metrics again rough approximation 40, 45 and 50 times P-Ratio in our bear case scenario, 40 will be P on growth in the base case, 45 and in the bull case, 50 so first I have a question from you let's calculate the peg ratio what is the peg ratio of 1 year forward When we were looking at the stock in FY24, the peg ratio was 1.35 to 200 crore So how much of a growth did it grow?"
+    },
+    {
+      "id": "cue-10470",
+      "timestamp": "2:54:30",
+      "seconds": 10470,
+      "text": "Almost 50% of the growth of the pad almost 50% of the pad growth 50% of the pad growth was 135 to 200 crores, correct? Second question, so when we wrote this report, now just again a question to understand is that the market cap of the company was 6, 629 crores, So the company's P-E ratio on TTM was almost 45-47 times If the 50% pad was there and 45-47 was P-E ratio So was the company available at somewhere below 1.5 times peg ratio 1 to 1.2 times peg ratio yes or no?"
+    },
+    {
+      "id": "cue-10527",
+      "timestamp": "2:55:27",
+      "seconds": 10527,
+      "text": "1.2, 1.3 peg ratio will be between below 1.5, can I say that rule of thumb? Right? And then we read the con call and then we found out that the company got the PI 2728 PLI incentives so government scheme incentives which will make sure that they hit their production targets. So in the company, sales growth of 30-40% over 3-4 years can come. So we had a certainty of growth. Then EMS sector, Dixon, Keynes, Amber, E-Pack. Well, all of them doing well. Yes or no? Was the theme doing well? What sector the?"
+    },
+    {
+      "id": "cue-10575",
+      "timestamp": "2:56:15",
+      "seconds": 10575,
+      "text": "Right, this is just a brief case study. Similarly again, when sector was doing well and basically a theme was there, what ended up happening is that I think it was somewhere close to here. Now, back again, technical charts take the exact time. So, BG Electroplast here, and this is when the stock was somewhere close to this 233 or 244 rupees. Now just over here. Just a second. Was the company coming out of a base at that moment of time? Was it 30 weekly EMA just started shipping upwards at that point of time? This is June's matter. It's a bit late for them to look."
+    },
+    {
+      "id": "cue-10615",
+      "timestamp": "2:56:55",
+      "seconds": 10615,
+      "text": "But again, was the company coming out of a base at that point of time? So can I say that, actually, you can see that SYC LTI is also included? So this is a tool which has we've created for SYC drive members where all these learnings are coded into one actually stocks can maybe accept that just a second PG electroplast, right. So I see long term indicator, right. Can you observe that he just was coming out of a base and relative strength started increasing."
+    },
+    {
+      "id": "cue-10665",
+      "timestamp": "2:57:45",
+      "seconds": 10665,
+      "text": "What was the variant perception in this? New products being launched, higher margin expansion and a very good AC season this time because summers were really high So the fundamental thesis was this The valuation thesis was that the peg ratio was below 1.2 The peels were doing good and charts were just coming out of a base So all 4 things were hitting All 4-5 things were hitting In management analysis, we got 15-year old issues but in the last five years, we didn't get any issues. And also I think we saw that the institutional shareholding was going up in this business."
+    },
+    {
+      "id": "cue-10696",
+      "timestamp": "2:58:16",
+      "seconds": 10696,
+      "text": "Earlier, no one was DI or FI, but now DI and FI have also started coming. I think bearing private equity was there and for institutional investors, holding was also going up."
+    },
+    {
+      "id": "cue-10707",
+      "timestamp": "2:58:27",
+      "seconds": 10707,
+      "text": "And apart from Dixon, this was the only other EMS company which had some sort of positive cash flows over the last 2-3 years So these were the findings that we had The enemy framework was very simple but it was through screen relative strength through screen pad growth through screen insider buying because promoter's relatives they start buying stock if you check here So I think this was a period of time where this, the immediate relatives of the promoter, they start buying stock. I think they bought 15 crores worth, 3 crores worth and a TV interview came at that time."
+    },
+    {
+      "id": "cue-10739",
+      "timestamp": "2:58:59",
+      "seconds": 10739,
+      "text": "We will beat our own guidance. I think the estimate we have made, from that I think the number of their final sale growth that is in sort of I think the same range, almost 4000 crores. If you look at the DTM, there are 3600 crores. But we estimate on FY25, almost the company will report a sales of 4000 crores which it is going towards. Again it is a rough ballpark valuation for the company. But again as the saying has, I think this is an interesting case study because this is one of the businesses which we were there in at 240 to 270 rupees."
+    },
+    {
+      "id": "cue-10775",
+      "timestamp": "2:59:35",
+      "seconds": 10775,
+      "text": "But then we also published a sell report because see the company valuation went to 100 times P ratio, the worth 625, right? So within like, like four or five months this happened. And now the stock has gone to 150 times P ratio even though it has done well but now the U4 movement that we couldn't capture because we weren't blindly looking at technicals right but this is also a winner's curse that even after winning you feel like a loser. So this also happens. This is investing. You sold your churned valuation but in the end, what happened in the technicals? It went berserk."
+    },
+    {
+      "id": "cue-10810",
+      "timestamp": "3:00:10",
+      "seconds": 10810,
+      "text": "You must have seen that. We didn't imagine that it would happen. That is one part of it. Even after winning you end up losing. Then people think, yeah, it's bad. Right. So this is just an example. This is a past case study, 67 months old case study. So this is why I got gave it easily. Right. So again, this is again a part of SOIC research desk this is not a part of the education forum right so right so this is again something which we can only publish in the research desk we don't publish these published publicly but this is just an example."
+    },
+    {
+      "id": "cue-10848",
+      "timestamp": "3:00:48",
+      "seconds": 10848,
+      "text": "Similarly example is the IFC securities car so this is also one of the businesses which I was looking at very interestingly and closely because this is a business which was transitioning from a traditional broker to a wealth manager."
+    },
+    {
+      "id": "cue-10860",
+      "timestamp": "3:01:00",
+      "seconds": 10860,
+      "text": "So initially this was available at 10 times p ratio for 40 to 50% paddoth and for a changing product mix All these things were there in this business right so actually may and also the technical turning point was also there in the business Right, if you see the example of IFL securities, the name has changed, IFL capital market services have become So all these things were changing in this particular business And yeah, so this is just also an example, right? That we have learnt all the things, You can see the same thing here. Relative strength was increased in this business."
+    },
+    {
+      "id": "cue-10896",
+      "timestamp": "3:01:36",
+      "seconds": 10896,
+      "text": "The chart was a little short. It was going up in the EMA for 30 weeks. And I think we screened it somewhere close to this point of time. But again, the price volume action was strong at that time the volume was not as strong as it was before but it was fitting most of the criteria the criteria of valuation the criteria of fundamental changes and the criteria of technical this was also a similar example of bull bear and base scenario even on 30% pad growth you would have got to almost 10 times exit P baby, what high multiples way exit ratio better. Similar example of ours. Like so."
+    },
+    {
+      "id": "cue-10931",
+      "timestamp": "3:02:11",
+      "seconds": 10931,
+      "text": "Jaby am bull bear or base scenario, but not a lot of life case study or cut them. This is the four, five years old case study from the alkyl mines. Right now, alkyl mines, but this is a stock which we started tracking way back in 2018-19. And again a simple case study. Here I make a bull bearer based scenario. We come in Google Drive and we come in an Excel sheet. And in 2018, we write the number of Elk Isle of Mines, 616 crores of sales. Google Drive and Excel sheet and Alkyl Amines number is 616 crores of sales Revenue 616 Algyl Amines announced a huge Kpex after multiple years of LUL."
+    },
+    {
+      "id": "cue-10979",
+      "timestamp": "3:02:59",
+      "seconds": 10979,
+      "text": "And Kpex announced that The company will be spending close to 250 crores on doubling its fixed assets. So it was 220 crores. So it was talking about doubling it. The company will spend 250 crores on the sales of the company. So the sales of the company will double in the next 3-4 years. So the idea of that time is that basically let's make rough scenarios and let's see what is the risk-reward in this business at that time whether it is positive or negative. I am taking you to the risk-reward thinking. Let's look at 2018. So this was the sales operating margin."
+    },
+    {
+      "id": "cue-11018",
+      "timestamp": "3:03:38",
+      "seconds": 11018,
+      "text": "Operating margin was almost 19% of the operating margin. 19% and then we saw the total EBITDA total EBITDA that was close to 118 crores the depreciation expenditure in 2018 was 16 oz 16 crores depreciation was in 2018, 16 odd crores, 16 depreciation, 16 crores depreciation, I am studying a live bull bearer based case, interest expense, interest expense was close to 8 crores other income was 2 crores profit before tax was 96 crores other income 2 crores kiti, PBT kita tha business ka?"
+    },
+    {
+      "id": "cue-11080",
+      "timestamp": "3:04:40",
+      "seconds": 11080,
+      "text": "Nya pe lag dito profit before tax 64, profit before tax 96 crores tha and us time peh business higher taxation, taxation peh the tax us time peh the 33% 33% just to say coming up final pat kita tha us time peh company ka profit after tax tha 64 crores tax at that time was 33% the final pat of the company was 64k now this is just a past case study on how we were looking at things 4 years down the line So, what were the facts that the company is doing?"
+    },
+    {
+      "id": "cue-11105",
+      "timestamp": "3:05:05",
+      "seconds": 11105,
+      "text": "2.5 crore Kpex This is the sale of the company in the next 3-4 years And what were the facts that the company's operating margin is going to be going between 19-20% and that is why it is going around for almost 10 years So, I had taken an assumption of 19% so what I did was, in 2019, 2020, 2021 or 2022 so in these 4 years I took a range that this company will Mota Mata deliver a 20% sales growth. So I was just doing a very rough calculation. Let me just do this thing. I was just doing a rough calculation on how these things could be done."
+    },
+    {
+      "id": "cue-11147",
+      "timestamp": "3:05:47",
+      "seconds": 11147,
+      "text": "Now I have done 1.2 and again I have done 1.2 and then I have put a range of sales that in 4 years sales will double. That is what 18-20% sales growth implies. Then I have kept margin 19% here."
+    },
+    {
+      "id": "cue-11165",
+      "timestamp": "3:06:05",
+      "seconds": 11165,
+      "text": "So every year I said that the operating margin of this company will be 19 percent and then I calculated the EBITDA into 19 percent and then I got an estimate that the EBITDA of this company will double in 4 years and then interest depreciation because fixed asset base was doubling you guys assumed that it will remain the same next year but by 2020 the depreciation of this company will double because fixed asset base is doubling so assuming 32 crores will be enough it is reasonable to assume because your wear and tear will also increase and interest expense will initially increase but then because the company had taken debt I think 200 crores additional debt so interest expense, that's why the pay off of the company started so it was a plan of 3-4 years but then we still assumed, again it was a very rough assumption that 20 crores of interest expense will be of the big company right?"
+    },
+    {
+      "id": "cue-11222",
+      "timestamp": "3:07:02",
+      "seconds": 11222,
+      "text": "And we assumed this 2-4 crores of other income that some cash generation will also be there. So in other income calculations we will be aggressive. But one place that changed us that taxation company over a period of time will come around 26%."
+    },
+    {
+      "id": "cue-11236",
+      "timestamp": "3:07:16",
+      "seconds": 11236,
+      "text": "This was our thought process because corporate tax cut was done Now you have roughly a bull bear based scenario I have made all the calculations with you You can make it in every company after reading the company carefully what we did here is that the company's EBITDA, we did equal to and what did we minus from the company's EBITDA So we minus depreciation from the company's EBITDA and we minus interest cost and add other income back First we do minus and we have depreciation plus interest and we have minus in interest other income, we will get the answer here, the BVT of 106 crores, now we do the same we have done all the things, we have done it for every year and then our tax 26 So it would be very easy to take out the company's Pat, so if we do Pat into 1-26% So if we do the company's Dragon Drop, so almost Pat is my estimate Again, I am telling you that Pat's estimate will always be wrong because in real business things happen in a different way Pat's estimate was 143 crores and because at that point of time this was way back in 2018 when we assessed this company very carefully, in 2018 when we check, in 2018 actually the market cap of the company is around 1100 crores I think if I am not mistaken, it was around 1150 to 1200 crores and we did this similar calculation back then and we thought that in the next 3-4 years, the company's 143 crore pad will be there and the 143 crore pad was made by base, bull and a bear scenario what was it made?"
+    },
+    {
+      "id": "cue-11355",
+      "timestamp": "3:09:15",
+      "seconds": 11355,
+      "text": "We had 15 bear scenarios, sorry we gave it around 15p we had 12 bear scenarios and 20 bull scenarios base scenario I had given 15p, I think I gave it around 15p, base scenario I had given 12p and bull scenario I had given 20p, we used these estimates in the past market and we multiplied the ending pad from 15 to 15 and this number we took bull scenario right 143 go multiply it at 20 say and then finally bear scenario go multiply it at 143 say."
+    },
+    {
+      "id": "cue-11396",
+      "timestamp": "3:09:56",
+      "seconds": 11396,
+      "text": "So our three scenarios were coming up that per share like in total end of the market cap will be in this company and these are very reasonable assumptions so actually, the bear scenario was also being made in this company right, just as an example now, this was our, then at that time we see technicals so what was in technical charts, I will say alkylomines so weekly charts, at that time also at that time also, I think in the period of 2018-19, there was a 30-week trend, but there was a sideways trend. There was no such great trend that was visible."
+    },
+    {
+      "id": "cue-11433",
+      "timestamp": "3:10:33",
+      "seconds": 11433,
+      "text": "But there was still a weak trend, I mean there was a 30-week trend that was going up. But at that time, I honestly didn't see any technical trend. My thought process was just a bull bear or a base scenario. And the chemical sector was doing well. It was popping out of the chemical sector on the whole screen. This is why I started studying in the stock. Right? So back then also I think the PE ratio was very reasonable. I think PE ratio used to be at 18-19 times for the entire business. Right?"
+    },
+    {
+      "id": "cue-11459",
+      "timestamp": "3:10:59",
+      "seconds": 11459,
+      "text": "And then actually what has happened over the last 4 years in 2022, I see how much the pad cost of 225 crores because margins went to 35% and now margins have again normalized the thought process was exactly right to play out but the upside was more because the margin was expanded so the market cap of 2800 or 3000 crores will be made actually I went to peak that market cap went to almost 14000 crores So again these things will keep happening they will surprise you in a different way But if you are buying a bull bear based scenario and when you are buying a stock If your risk reward scenario is positive then it is a very favorable thing You can play out in your favour and This is a case study which is again some years old case study."
+    },
+    {
+      "id": "cue-11512",
+      "timestamp": "3:11:52",
+      "seconds": 11512,
+      "text": "So this will give you very good idea. If you are a business part, you should make a bull bear based scenario. But I will completely admit today that it is difficult to get such opportunities in today's market. The good opportunities in today's market are at 50% growth. Today, you will get less stories like this, where you get 15-20% and 30-40% growth. So, there are less opportunities for upside surprise. There is no need for opportunities to come in the future. But it means that we should reduce the returns from the bottom up."
+    },
+    {
+      "id": "cue-11551",
+      "timestamp": "3:12:31",
+      "seconds": 11551,
+      "text": "So hopefully you are thinking that the higher starting valuation will eventually be low return. And I think because in the last 4 years, the market is really well and if we get a 2 years time correction in the market, there will be nothing like it right so over four or five years people will do generally well but because such opportunities are not available in today's market, there is no problem with my use of a little bit of a return expectation because such opportunities are not available. But was this a clear enough example for you to understand?"
+    },
+    {
+      "id": "cue-11583",
+      "timestamp": "3:13:03",
+      "seconds": 11583,
+      "text": "Key stories, numbers or technicals and so forth, how can we plug it along with the theme? Now you can see it in the recording again and again. I'll send the recording access to you. We'll send the recording access to you. Awesome, awesome. You can see the bullbear base. Again, something that is, no, no, recording will be available to you for at least one year. So they're not three days one year recording. Right. Great."
+    },
+    {
+      "id": "cue-11632",
+      "timestamp": "3:13:52",
+      "seconds": 11632,
+      "text": "So it's so recording is going to be in the middle. Great. It's a, yeah, this is made, you know, S Y C crash course, middle, fundamental, marching fundamental analysis. Even if you're not S Y C members, member is session recording access will be there with you for one year. No reports, it's a S Y Z R A subscription. We can't publish online publicly or like that. It was a past case study, so it was easy to see, but any current case study we can't publish. Right. Q&A we have kept a detailed to like to to our Q&A. I think because we have four sessions of the master's fundamental analysis."
+    },
+    {
+      "id": "cue-11668",
+      "timestamp": "3:14:28",
+      "seconds": 11668,
+      "text": "If you have five sessions in fact actually, if you have seen the whole, then coming Sunday we will have a 2 to 1 half Q&A session. Just talk whatever you want to ask, whatever you want to ask from that particular session, you can basically ask us. So, the first session of 2025 is, the second session is, valuation ratios across different sectors. We did a valuation analysis and valuation ratios across different sectors. Right? As the QQM has done in the webinar. Right? So was this helpful? Did you understand a lot? Great, great."
+    },
+    {
+      "id": "cue-11716",
+      "timestamp": "3:15:16",
+      "seconds": 11716,
+      "text": "Awesome books. I think you can study through a practical case study. Investing is simple but not easy because a lot of people don't want to spend time. But it is again something that is simple but not easy. DCF, I think I'll prefer to refrain myself from teaching you DCI because something which I have personally stopped using because I think even though we have taught it in L3, you should definitely understand the meaning of DCI in level 3. Right. Right. You can just purchase the Mastering Fundamental Analysis. If you take SOIC membership, I think New Year offer is also on SOIC membership."
+    },
+    {
+      "id": "cue-11756",
+      "timestamp": "3:15:56",
+      "seconds": 11756,
+      "text": "So you can use SOIC 2025. So you can just look at the S Y C membership and I'm S Y C 2025 use the same so it will be there in the bundle itself and all these things we have actually level 4 car that of course they can have which may entry pointers we create love output dot key how to enter a stock to there is a detailed to 3R class key entry pointers in the stock? In this, there is a class of master sectoral rotation. How you can master sectoral rotation? How things change in a particular sector? Recently added, I think there are multiple such classes over here as well."
+    },
+    {
+      "id": "cue-11797",
+      "timestamp": "3:16:37",
+      "seconds": 11797,
+      "text": "So you can use this watch this entire course. I think I will say at least watch the course I won't make a resolution in 2025 to complete the course It's your benefit to take the course from financial literacy to the end Like in level 6, each sector has a value chain analysed So if you look at the first class of level 6, how to find the most profitable businesses in a value chain, then it is almost 10 hours class. If you look at the data center, then it is 10-15 minutes. If you look at the data center, then you will get it."
+    },
+    {
+      "id": "cue-11835",
+      "timestamp": "3:17:15",
+      "seconds": 11835,
+      "text": "You can see the presentation, it is completely graphical so the variation ratios across different sectors will come so that will go into the level 3 course which we have just done, it is becoming a crash course if you see here, so this is a S.O.I.C. Crash course so what is a crash course? Basically, we have put the whole course in the crash course so mastering fundamental analysis, this is a part of the So, this is the last class for today and there will be a Q&A session which we'll just do. So today is class 5 which is coming to you."
+    },
+    {
+      "id": "cue-11870",
+      "timestamp": "3:17:50",
+      "seconds": 11870,
+      "text": "So hopefully again 2025 resolution will make us better investors. But I would say that if 20-30% of the things will be applied well from the SOIC course, more than enough. You don't have to do 100 on 100 because we teach 3D things extra because I don't know about like a lot of you but I think a lot of equity analysts today across India have been SOIC students and I think they are working at some of the most prestigious brokerage houses or research houses. So there needs also we get to do in the course but again if you are a retail investor just do the crash course well, do the L4 course well."
+    },
+    {
+      "id": "cue-11910",
+      "timestamp": "3:18:30",
+      "seconds": 11910,
+      "text": "Where you have doubts on the fundamentals, you can go to level 2 course and see. That is more or less it. There is nothing else apart from it. I think there is content for 2025 hours which will add a lot of value to you. The total course is 70 hours plus. Next Sunday we will meet for Q&A. And we will have a detailed 2-2 and AAPA Q&A, right? So, hopefully you will be there. Did you love these sessions on mass-trick fundamental analysis or today's session? How many of you loved it? Just drop a loved it in the comments. Right. Just expect it. You should get the 100% Kegar expectation."
+    },
+    {
+      "id": "cue-11951",
+      "timestamp": "3:19:11",
+      "seconds": 11951,
+      "text": "10-15% Kegar will be great. Because the market's temperature and fabric changes. That will not be the same market as before, it will become a stock specific return I will tell you that it is very popular, it will still be 30-40% KG But the area where the market is standing at this time, you can make good returns by making bottoms up But generally making good returns is a little difficult Next Sunday we will do the entire Q&A session. And we will share the Google form. So we will have a Q&A session of 2 hours."
+    },
+    {
+      "id": "cue-11996",
+      "timestamp": "3:19:56",
+      "seconds": 11996,
+      "text": "Again between 1-3pm. I am avoiding it today because I have just the health has improved. I don't want to over strain. He said, okay, I have to get well now. So just a little bit of that. I'm scared of the brain and nothing else. So I think hopefully you loved this session today and right, so why don't you like DCF? So you can ask this question next Sunday. So the one who registered for this standalone session today, I will just send the access to QN. So, why don't you like DCF? I will give you the answer in the session. Actually, I will give you the answer in half an hour."
+    },
+    {
+      "id": "cue-12040",
+      "timestamp": "3:20:40",
+      "seconds": 12040,
+      "text": "I will give you examples. Right. The Recording comes in your spam box. I think many times we go to their spam box with Zoom call and students. So please come to the spam box. Research desk is different from SOIC Tribe membership. SOIC Tribe is an education course. SOIC research is a research recommendation report services. It's nothing beyond that. So again that we don't market our stuff. But we are also doing international research reports right now. So we will invite you for that particular webinar also. You can ask all these questions on next Sunday to me."
+    },
+    {
+      "id": "cue-12085",
+      "timestamp": "3:21:25",
+      "seconds": 12085,
+      "text": "Great. So with this I think let's call it a day and I'll see you on next Sunday folks. Have a great Sunday ahead. Thank you everyone. Have a great Sunday. See you in new year this time actually me hopefully you and your family have a fantastic end to the year and hopefully you and your family have a fantastic new year ahead jai hind everyone next Sunday q and a session two hours one two three p.m again any question how do you want to ask we can ask a more sakhta four p.m. Tak bhi extend kade if there are a lot more questions. But if you want to ask any buy-sell question, I can't answer it."
+    },
+    {
+      "id": "cue-12118",
+      "timestamp": "3:21:58",
+      "seconds": 12118,
+      "text": "You can ask any question. Jai Hind everyone. Happy new year to you and your family. Hopefully you have a fantastic end to the year and a fantastic new year as well. And yeah, so we'll meet again. Let's meet in new year this time. Jai Hind. Jai Hind. Thank you."
+    }
+  ]
+}

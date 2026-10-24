@@ -1,0 +1,2673 @@
+﻿Class 4 | Tools To Find Multibaggers
+Crash Course
+====================================
+
+[0:00:02]
+Great. So I'll just open the comments. Hopefully everyone is doing well. I've
+just opened the comments. Great. Good afternoon to each and every one of you.
+Yeah, it's also for beginners. Igdom scratch. I'll teach. Great. Awesome folks.
+So let's start in another two minutes. And right. I will read it fast but I will
+teach it from basic so that it is interesting.
+
+[0:00:53]
+So Suresh, your doubt is when do I enter in a stock that we will discuss in next
+2-3 weeks But for that you have to side with mental biases. Right? So let's
+start the session. For this you have to watch class 1. Great. Awesome folks. So
+today's session will be close to 2 and a half to 3 hours. So Towards the end of
+the session I will also give a homework. And along with the homework, what you
+have to do is you have to put that homework in the discussion forum, in the
+comments. So I will also tell you what will come.
+
+[0:01:26]
+And along with that, in today's class we will learn what are the tools to
+research. What are different tools that you can research to find different types
+of stocks, to find different types of winners, to find different types of stocks
+which might do well. So last class I had learnt the screener tool which we made
+our own screens, I will share it with you in the new R&S class. But along with
+that, we will discuss the fundamental analysis tools. So let me just start and
+put a standard disclaimer that nothing in this presentation will be a biocell
+recommendation.
+
+[0:02:02]
+Because we are doing a crash course, we are telling you in the name of course.
+So it's a course only. It is not meant for a biocell recommendation in any
+stock. Ideas to teach you about different types of categories. Ideas to teach
+you how to see your stocks. Right? So we will start with this. So I will just
+turn my video off so that you can focus on this. So what are the different tools
+which are available to research? So different different tools. What are
+available to research? Like especially for retail investors, because we know
+nothing. We know what tools we can use for research.
+
+[0:02:38]
+So one tool we can use which is freely available to all is con calls and
+earnings conference of different companies. We can use this with scratch, what
+do you mean by that? Then we can use value picker for research, right? We can
+use annual reports from companies for research. Then we can attend annual
+general meetings of different companies. So We posted a post on Twitter
+recently.
+
+[0:03:00]
+You can read credit rating reports from companies, research reports from
+different brokerages, you can talk with like-minded friends, and then you can
+scan stock screens which we learned in last class which I will show you in this
+session. So these are some of the multiple tools that are available to research
+for a retail investor. There are alternative tools as well. For example, you can
+see the data from the website of EPFO that which company has added employees. So
+that is a wonderful data to check. So that is also something that we can do.
+
+[0:03:34]
+But these are basic tools to research that we will learn in this today's class.
+We will start with con calls and we will see how we can do it. But before I go
+there, I will just share a couple of examples with you. How I filtered some of
+these stocks and basic understanding of how I filtered these tools. So first I
+will give you an example of MOLTECH technologies. Actually I tracked MOLTECH
+packaging a lot. But in the MOLTECH packaging, there was a reference of MOLTECH
+technologies. Someone asked about MOLTECH technologies.
+
+[0:04:09]
+This was like six months back And I didn't even know about MOLTEK technologies,
+there is a company listed Then at that time, added MOLTEK technologies to the
+watch list So you will see on the screener that there is an option for add to
+watch list. So the watch list had an add. So when the screener opened, you saw
+that there was a notification that the company is doing it's first ever
+conference call.
+
+[0:04:30]
+Then from there I understood the company and attended the con call and at least
+a basic idea was found that what does this business do so this is just an
+example so these are some of the case studies which I will share with you again
+and again because these case studies will help you to realize that you can do
+all these things independently right? If you will be confident enough post this
+session, just drop a helios in the comments. Awesome. Awesome awesome great
+awesome guys so the whole session I think hopefully I will be with you for a
+long time so let's see what you guys have to say.
+
+[0:05:18]
+So look for companies doing their first ever con calls or presentations So this
+is just one small example. Do not be sick on the right. Similarly, a core case
+study. I share that how I filtered this small cap right. So how we filtered this
+business was that this was way back in 2018. So this case is based on 2018. So
+basically an IR firm, Investor Relations firm, Investment Labs, which on Sirka
+paints, RSCL gear tech, Moldec packaging, and so on. So, initially I got an idea
+from there. I know that many detailed investors can't attend conferences, so
+I'll give you a case study.
+
+[0:06:04]
+So, on RACL GeoTech, there is a very interesting thread on value picker. And
+this value picker thread was there since 2016-2017. When we hold the investment
+labs conference, after that, there is a detailed thread on value picker. And
+someone posted their learnings over there free to use, not paid, free tool then
+company started doing webinars so Q4FI20 this is in Q4FI20 I still remember this
+Q4FI20 was the company's first webinar And then we also started following the
+promoters on Twitter So they keep posting about their plants and stuff So this
+is a simple way, where did the idea come from?
+
+[0:06:48]
+And then we saw very simple things like one of the simplest things which I look
+for in a business is I'll just share the screen with you is that whenever you
+open Screener, right?
+
+[0:06:58]
+Just look at this, like this will be a good case study for you whenever you open
+screener so screener we have a gap they can get to you will find that the
+margins your company career right so you can look at the operating margins 20 25
+21 23 24 for a small cap right for a small cap company below 1000 crore, it will
+be 1100 crore market cap, for a company below 1000 to 1100 crores, are these
+margins high or on the lower side? And if we look at historical PNL, can you
+realize that a pad of 4 crores has gone to almost 40 crores in a period of less
+than 9 years.
+
+[0:07:40]
+So can you understand this thing and then you see other simple things, this ROC
+of the company. So ROC is above 20% right, so 20% and 18% so here it is going on
+for the last 5 years. So few simple things that one observes at least learn how
+to read this Will you get interested in such a business if you see margins and
+such profit and loss just in the comments? Because it is difficult to do such a
+small-cap space with high margins. So again this is just an understanding. I am
+telling you through life case studies how to filter them. How to think about
+them.
+
+[0:08:26]
+Awesome. Great. So Margin speaking here, there was a question. But again we will
+read conference call there. We will see in the conference call that management
+is guiding for 22 to 26 percent Margin somewhere between that. So that is where
+we will get an idea that we should not study business. So that is what we can
+check for. So this is again one of the case studies. Then I will share another
+case study with you. So again, this is a very popular case study. So business
+has done really well. So case study of KEI Industries. So how could you filter
+this?
+
+[0:09:01]
+You could have watched the SOIC video on YouTube channel. Then it got filtered.
+We are just kidding. So how did we filter it? So basically Whenever I start
+researching about a company When you guys research about the company Always do
+one thing come to YouTube and do a simple thing, just keep searching about this
+thing. Industries. Industries, right? And if you search here in the case of
+K.E.I. Industries, you will keep finding these interviews. There are these
+multiple interviews that keep coming right?
+
+[0:09:37]
+So I think if you check here, then at least last 6-7 years, these guys must have
+given and no close to like, every quarter, there are two interviews, if you
+check, every year, this company is doing like, in every quarter, these companies
+have been doing multiple interviews five years ago so whenever you stumble upon
+a stop right so you should search for any management interview which has been
+done with TV or television or not because a lot of time these anchors will ask
+them to serve a last quarter with a boy that I squatter me one.
+
+[0:10:23]
+So then again, they are because the promoters know they are coming on TV, so
+they need to have some sense of credibility as well. Even some promoters lie
+through their teeth even in that scenario. But this is just a small case study
+of how you should basically focus on these TV interviews as well. So it was a
+simple way to filter this talk. Then second thing you see here, again I'm
+sharing with you, When we do technical analysis class, we will learn stage
+analysis in it. It will help you more. Second thing is that the track record of
+this company was phenomenal.
+
+[0:10:56]
+How was the track record phenomenal? It was showing that again, I filtered this
+company in 2021. Low margin business, but can you see that the margins are
+extremely sustainable? Yes or no in the comments? Are margins sustainable or
+not? Right? So margins were extremely sustainable or extremely stable margins
+right? So stable margins have a lot of interesting meaning right? So How did I
+first hear about KEI? Since the start of stock market investing, I knew that KEI
+is a business in cable and wire business.
+
+[0:11:41]
+And recently, PolyCab has been listed in 2019. This was the idea from the
+beginning of 2018. So, you always got an idea that intuitively you are living in
+the mind that this business is basically cable and wire So India has increased
+the usage because now that cable and wire India if you look at Chandni Chowk You
+will see that you cannot see the sky because you will find cables that will be
+stuck. You go to a foreign country, you go to the US, Europe, Singapore, Dubai.
+You will never see such cables stuck in the sky.
+
+[0:12:15]
+That is the difference, it is easy to see the trend from there, but yes, how did
+the company do the first time here? A report from a management interview came
+from a Motilal Oswal in 2017-18, the first time exactly the first time we heard
+the company, that is when I heard about it, right? So from the start, KIA was
+doing, there was no company, but I never worked on it, I worked after 2 and a
+half to 3 years. So just in the comments, the tribe members, already SOIC tribe
+members who are there in the comments today.
+
+[0:12:41]
+Do you remember the KEEI case study over the last 2 years that we have done
+multiple times? We have read the con call, we have read the credit rating, we
+have also made it a financial model, it has been done many times now. Right, so
+great. You have actually done more than that, So we have studied a lot of this.
+So again, this is another example. How do we see businesses? How do we make
+businesses look better? But the focus of young people and newbies in today's
+session has to be on How do you think about these companies?
+
+[0:13:31]
+How to read conference calls? That is where the focus should be. Because these
+are tools for fundamental research. When you do research, you see what is
+important. Government budget talked about high KPEX, read the credit rating,
+credit rating talked about reduction in working capital, increasing cash flows,
+reducing debt And credit rating gives the main insight, so we will read the
+credit rating and see But again these are just few examples of how do we filter
+stocks, how does the filtration theory go, how do we filter? How are you
+interested in ideas?
+
+[0:14:04]
+So there is another case study, we also filtered APL Apollo. Now, from there, I
+think it has gone like a huge winner. So, it was simple that we read Samid
+Walthak's interview. So, he was giving interviews from 2016-2017. So, it is
+important to follow good investors. I will also tell his name in today's
+session.
+
+[0:14:23]
+So, we were reading his interviews since 2016, 17 I think then in our memo, we
+there is a steel tube converter, which makes like 1% higher margins or 2% higher
+margins and does extremely well so that is what we read then we read is mevo and
+understood ap al apolo read value picker and understood the competitive
+advantages post talking to distributors then lesson ta ki investment letters
+pane chiye interviews pane chiye and portfolios of other superstar investors add
+a lot of value if you are able to apply your own mind check because Ashish
+Kachalia also used to own this stock they'll add a market cap of I think 1000
+crores to 3000 crores they sold it to 3000 crores It has gone from 3000 crores
+to 44000 crores.
+
+[0:15:05]
+So we are interested in 3000 crores. So that is the beauty of investing. We are
+not interested in 3000 crores from 1 to 3000 crores. Because that is when we
+read the business, that is when we got to know the business. So this is also a
+wonderful case study how you can filter businesses. So today's case studies are
+case studies but how to think about the filtration process, trying back to our
+custom made screens, this will add to it right, This will add a lot of heft to
+it. We will do different different case studies here, different different con
+calls.
+
+[0:15:38]
+But before reading the con call, I will share a story with you, which you will
+also get to see in circles around you. So you will find that signaling plays a
+major part in her life. So signaling is a very strong mental model. So I ask you
+in the comments. So I think the concept will be covered in the video of
+Gillette. Now again a very normal question. Now suppose if you buy a more
+expensive brand, just like Omega, Rolex, or Louis Vuitton bags, or something
+like that, so what is the signal So, what is the signal that you are trying to
+send out in the comments?
+
+[0:16:41]
+Someone rightly mentioned well accomplished in life. Someone said status status.
+Someone said that they are showing status someone said that they are showing
+luxury status someone said that they can afford right so again it's a signal
+right so it's a signal that one sends out when they join brands so in essence
+signal theory tells us that we are highly motivated to signal to others are the
+best qualities in the annual world. The combination is fierce. Species have
+evolved in a sophisticated way to make their strength clearly noticeable. Right?
+
+[0:17:19]
+So, have you seen like some of the gym dudes who have you ever observed them
+right so it's a funny thing but yeah, you might have observed that right. So
+again, so this again is a like, this is again an idea is that species have
+evolved in a sophisticated way to make this trend clearly noticeable. So they're
+trying to portray their strength to the world that you don't mess with me. I
+have like big lads and I work like that. So again, that is a signaling theory.
+So this can be observed when peacocks are showcasing their feathers or when
+giant bullfrogs are battling for a mate.
+
+[0:18:09]
+Have you ever observed that peacock dances? That's again a sign that the peacock
+wants to mate, right? So this is why he's dancing and stuff. So in our daily
+lives, signaling is when we dress in luxury clothes, when we buy expensive
+things, the way we walk, behave our hand movement, moments. So signals can vary
+depending upon the situation. We can be honest and our motivations can be purely
+altruistic. But that's not always the case. Oftentimes we act, we try to boost
+the positive signals by showing our bright side in a glamorous way, hoping that
+others won't see our flaws.
+
+[0:18:41]
+So this book is about Nate Silver. So again, we can check it from there. And why
+do we do all of this simple reason? Primarily because there's a lot to lose if
+you're not selected or approved by others, you don't get the job, you don't get
+to join the community and most importantly, you don't get to reproduce or pass
+on your genes. Everything you do or don't do signals to other what type of
+person you are right so similar example right so a very simple example is when
+you are in mid 20s or 23 24 the biggest tension is in the Indian society in the
+comments in the comments.
+
+[0:19:22]
+So, job security financial stability approval by relatives Approval by
+relatives, approval by the society, what others think. Someone is writing,
+S.O.I.C. Class name is Sojay Lal. Right so so again These are some of the things
+that you focus on. One really funny comment. So signals to other type of person
+you are because you don't want to be rejected by the society.
+
+[0:20:09]
+So again, that's a signaling theory, right? That I have done MBA, now I will get
+a job. Now I have done this, now I will be financially secure. Now I have done
+this, this will happen with me. That is the type of signal that we are sending.
+So if you wear designer clothes and drive an expensive car, you want to signal
+to others that you hold power, that you mean business. Having this in mind,
+consider what others think when they interact with you and why you want to
+instill such thoughts and signal this what your behavior and looks.
+
+[0:20:36]
+So these are just small mental model but as per the world, it is outside
+scorecard. So companies also send signals and there are multiple examples. So
+companies send signals first investor day. So companies where there was no
+information and all of a sudden they start doing their investor days or they
+start doing their first ever conference calls. So that is the signal to the
+investors, hey boss now we want to open up to you. Now we need a market cap so
+that we can tell you what's happening in the business.
+
+[0:21:13]
+So that is the signal that companies send out to investors right, first
+presentation companies company first-ever conference call, I will explain you
+the meaning of con calls, how you can attend, I need some pay patience, first we
+will see the slides, then we will go to many case studies, companies first-ever
+con calls, that is also a signal that this end companies conference call
+companies first ever interviews companies will sort of management first time tv
+interview with people that is also signal then company promoters warrants issue
+in business warrants are inside the trading warrants are that if share price
+will interview people on TV for the first time so that is also a signal then the
+promoters issue a warrant in the business so the warrant is inside the trading
+so what happens in the warrant is if the share price is 10 rupees so the
+promoter is seeing that there are tailwinds so the promoter will log in today's
+price and the promoter will put in 15% suppose the promoter will give 100 crores
+of warranty, so 15% the promoter will give up front then the promoter will give
+85% after 18 months to the company so this is again, if suppose the 10 rupees
+share price increased to 30 rupees and now the promoter has to infuse the
+remaining 85 crores so what do you think, 30 rupees and 10 rupees price will be
+given?
+
+[0:22:30]
+Opening the comments, 30 rupees and 10 rupees price will be given in the
+comments? Opening the comments 30K price and 10Rs price in the comments 30Rs is
+the answer of many people so the answer is 10Rs price because that is where the
+warrants were issued when the conversion will happen, it will also be at Rs 10
+price and the promoters can willingly sell it at Rs 30 So that is an idea that
+if a company is warranted, then you should be careful.
+
+[0:23:06]
+Then if the company opens up for plant visits, then the company's only demand is
+that it meets this analyst, that it will be a plant visit with this analyst. So
+that is also a very powerful signal. But how to catch hold of all these signals
+that we learned in today's session right? So how do companies signal to
+investors? So that is very very important. So we will come to the signaling
+first ever interview, first ever con calls. We are going to see all this in our
+mind.
+
+[0:23:31]
+But to be a good investor, to be a good fundamental analyst, we are not talking
+about technical analysis of technopandas, we will learn about it. So one puppet
+keeps on saying that I insist on a lot of time being spent almost every day to
+just sit and think. That is very uncommon in American businesses. I read and
+think so I do more reading and thinking make less Impulse decisions than most
+people in business. So again, he keeps on saying you have to read and you have
+to read a lot So this is why credit ratings conference calls Company
+presentations over research reports.
+
+[0:24:03]
+He's had a lot of good value, right? I will tell you today that I am looking for
+three stock ideas, the answer is I will not be able to find them A lot of times
+idea generation is a process which is full of serendipity How is serendipity?
+From today, I think I try to cover close to 17 to 20 businesses plus. And what's
+in mind is that 20 businesses have read something, sometimes they have read the
+credit rating, sometimes they have seen the value picker thread, sometimes they
+have seen the entire interview of his TV. 25-30 minutes of his life journey.
+
+[0:24:35]
+Right then sometimes you don't act on the idea but you know the back of your
+mind. And then you keep tracking the company's results. And then results are
+right because already there are 15-17 stocks in the portfolio. So when you have
+to make a place, then it gets risky and you don't make a place. Then you keep
+tracking the stories. A lot of times what has happened is that what I initially
+thought of a business actually ended up being very different from what the
+reality was. The reality is that what I initially thought about business, it
+actually got better than that.
+
+[0:25:07]
+So then it happens that now we should work deeper on it. Then what I initially
+thought about business, it got worse than that. So it seems that my
+understanding was not good. But I think a retail investor can focus easily on
+40-50 business.
+
+[0:25:23]
+And if you shift yourself to tailwinds, you will learn in the next class when we
+will talk about technical analysis, then What will be fun is that you will be at
+the same place where earnings growth will be 25% You will be at the same place
+where there are massive tailwinds And you will be at the same place where when
+you will learn the exit strategy through technical analysis and fundamentals
+Then you will realize that even if you go wrong, you have an exit button in
+place. If the plane crashes, you have a parachute. Atleast you can jump. You can
+save yourself from position sizing.
+
+[0:25:56]
+But again, the basis is that you have to read a lot. Whether it's credit
+ratings, conference calls.
+
+[0:26:01]
+But reading is something that you can't let go of some people say that I am
+doing a job and I don't have time and things but with mutual funds or index
+funds there is nothing better if you want to do individual stockpicking so that
+is another one of the ways but again you have to put effort on reading, whether
+it is 30 minutes of the day or 40 minutes of the day that is more than enough if
+someone is going and working somewhere because you can literally cover like one
+or two businesses a week, right?
+
+[0:26:27]
+If you put 6 businesses in a month, then in a year's time you will be coming,
+say 72 businesses but you just need to be consistent like everything else in
+life you need to be genuinely interested in this work otherwise it won't be
+possible if you are genuinely interested then mutual funds or index funds we
+have them anyway, they exist So that is one of the ways. But reading is
+something that you should look for. So what are some of the things that we
+ideally check out for? So when we were talking about variant perception, you
+will see here.
+
+[0:27:00]
+So in conference calls, we see companies which are giving very strong guidance.
+So that is something that we realize. Then we look for words like margin
+expansion. The margin of a company has expanded. Then we see words like
+operating leverage, which we will learn today. Then we see which company is
+expanding capital expenditure, those are things we look for in confidence calls
+and credit ratings. Then we will talk about the deleveraging that the company
+has offed the debt. Then we will talk about the market leaders in this segment.
+
+[0:27:32]
+Then we will talk about the companies adding new customers or not. If the
+company is adding new customers or not that is also something that we will
+realize then you will also check if the company is undergoing new projects then
+we will talk about new geographies that The company is getting into newer
+geographies. And finally, the company is giving an insight about the industry
+growth. So these are some of the things that we look for in conference calls of
+different companies, right? So here I will discuss multiple examples with you.
+So that will give you a very, very good idea.
+
+[0:28:02]
+But I will keep coming to this mental model of variant perceptions so that we
+get an idea so first let's talk about conference calls because again today I
+will be teaching you how to check a company's plan from outside even if you
+can't visit so you will learn to see the data from the EPFO website but these
+are the mental models that we keep coming back to again and again so from here
+we start the discussions of conference calls and we will keep the speed of the
+session so that we get a good understanding of the companies and I will stop in
+between and also round the question and answer we will keep the break between
+2.42pm to 3pm and by 4pm we will wrap up the session so here when we talk about
+conference calls what are conference calls and how you can read them so here I
+will open an example of laurus laps and when I open an example of laurus laps so
+what you can do down here is that you will get the transcript of all the
+companies so you will get the transcript of every conference call so when do
+conference calls typically happen?
+
+[0:29:09]
+Let me give you an example of that so this is how it works right? So just over
+here right, so when the financial year ends and new financial year starts so
+what is the first quarter? That is April, May and June. So when the results are
+declared on June 22, then within a result declaration, the company calls for a
+conference after 1-2 weeks. So this is quarter one of a company, that is June.
+Why does the company come after quarter two? What happens after June?
+
+[0:29:41]
+That is July, August, September the second quarter conference call is always
+after September's declaration which is known as Q2 and what can we call these
+two clubs? H1, first half of financial year which we call H1. It is a very
+simple thing, don't think too much. Then we will talk about October, November,
+December.
+
+[0:30:00]
+And when we come to December, we get quarter 3 and then when the full financial
+year is completed, then we get the last quarter January, February and March
+which is known as quarter 4 which is known as quarter 4 so this was the whole
+FY23 Now when the new financial year starts again, which financial year are we
+in folks? In the comments which financial year are we in right now? So currently
+we are in FY24. Right? So currently we are in FY24. So currently we are in FY24.
+So again these are basic things that you should know.
+
+[0:30:46]
+People don't tell you many times. People will know but they don't tell you many
+times. Right and when these results come, we get the results of the financial
+year which we see in the screen early, that is the result of the financial year
+Then when the next quarter starts, this will be known as quarter 1, F524. So
+this is how we look at different quarters. So after every quarter, we have
+conference call. As you can see, after quarter 1, conference call is in August
+2023.
+
+[0:31:17]
+Because the results are declared almost in August so results are almost in June
+and are declared in 30-45 days that is what the mandate is and here you can see
+the conference call so conference call is good, bad and good So I will show you
+an interesting case study. First let's talk about Lawyers Labs, then we will
+talk about many companies, we will talk about PolyCab, general stainless,
+Narayana and Dyaale, RACL, Galitek, Aarti Industries, VBL. We will read all
+these companies' conference calls and I want to remove your con call doubt.
+
+[0:31:55]
+Con calls in today's day and age are even more important than annual reports of
+the companies. Always remember this, in today's day and age conference calls are
+even more important than annual reports of a company and this is not a light
+statement to say but he may have to state made this way but I am not going to
+put much static information on the PR agencies looking at the current. What is
+the record industry is growing? We will grow from India. It is growing in GDP.
+It is happening and it is happening and simply will go.
+
+[0:32:21]
+And annual reports I am just accounting policies that claim I am going to send
+you a recorded video. But from annual reports we only look at accounting
+policies. But the main part of your company is the heart beat. You know the
+beating heart beat from conference calls. So here I will study the case of Laura
+Slabs. And I will open conference calls from 2019 of Laura Slabs. And here I
+will discuss a simple example with you so here we will discuss a simple example
+just over here this will give you a very wonderful insight.
+
+[0:33:07]
+How much idea do you get from conference call? Just give me a moment. Alright.
+So this is a question that I have asked in the conference call of Lawyer Slabs.
+Because you will have the next week's technical class so I will start preparing
+you first because we will see what we see in the technicals I will also add your
+preparation technicals here and I will also add some of that here so let's make
+a nifty farm here okay great so here I will discuss the case study here.
+
+[0:33:56]
+So what is in the case of laurus labs at one time? So if we look at the
+screener, the LLs had done a lot of KPEX when we talk about the variant
+perception, the LLs had done a lot of KPEX and the entire KPEX that happened
+after IPO so the company had almost cashed off from investing activities In
+2016-2020, the company had almost made 1200 crores of Kpex If we look at the
+fixed asset base, it was 1, 000 crores bigger, 1726 or 2, 171 crores So the
+fixed asset base was almost 1200 crores bigger 1726 or 2171 crores almost fixed
+asset base was 1200 crores but what was there in this time?
+
+[0:34:39]
+Between 2016 and 2020 company's growth was not that much company's KPEX was
+14-1500 crores but here your top line was not double the top line was 1100
+crores whereas their asset turns were more than 1.5-2x so the company was doing
+KPEX and the company was not growing so what was the insight from the conference
+call that we made in 2020, late September or early September I think stock was
+at 220-230 growth.
+
+[0:35:09]
+Conference calls the company video early September stock was at 220, 230 simple
+problem my first question is conference calls insights always I keep asking how
+much is the gross block which is now idle by end of this quarter meaning how
+much gross block is still idle Right? So, again they used to answer Right, that
+we could confidently say as of now every unit is running there are some capacity
+utilization percentage is very very but otherwise if you say unit one unit three
+started generating positive cash along back unit five is generating unit four is
+generating We hope this year we will do.
+
+[0:35:51]
+For Unit 2, Q1, FY20 onwards, we will generate positive cash flow. Unit 6 is
+already generating positive cash flow. So with Q1, FY20, most of our units will
+generate positive cash flow. And starting from Q3, including all four units will
+generate positive cash flow right so again this refers to the company's capacity
+utilization has now started inching up right so again in the first thought what
+to put in the mental model that the company's capacity utilization started
+increasing So again, what is the mental model in your mind? The capacity
+utilization of the company started increasing.
+
+[0:36:22]
+Then we come back and see what else is there. This question was going on from a
+long time ago. Yeah, this was even two quarters features again So again gross
+block pick up a shanta.
+
+[0:36:41]
+It is difficult to answer But if you look at you have a gross block of 2000
+crores we are generating 2000 crores of revenue as it turn over is 1 is to 1 but
+more than 40% of our assets are not yielding any revenue meaning 40% if it is
+40% of the 2, 000 crores, then it is around 800 crores so that If you
+extrapolate if all assets are fully sweating the revenue possibility is much
+higher I didn't expect that 1.5x turnover but later 2.5x was also done But this
+was again a hint that these are the little hidden insights that one can pick So
+again the analyst asked how long this gross block will last inside that one can
+pick right so again analysts have asked this one your gross block will be up to
+when so again they answered that this excess capacity will maybe be utilized
+fully in next two financial years and and this is in FI 19.
+
+[0:37:33]
+These are the conference calls. We have conference calls FI 19. If you look at
+Q1 FI 19, then what happened in two financial years? Covid came. Covid got
+tailwinds and what happened with tailwinds? I will tell you what happens with
+tailwinds. 94 crores of pad went away from tailwinds. 94 crores of pad went away
+from tailwinds in the comments today. And I will show you the studies of today's
+life. Which companies are coming through the environment but where did the pack
+go from 94 crore? 10 times right? Literally 10 times. Literally 10 times.
+
+[0:38:24]
+So again this is an example. Conference calls will give you insights about
+companies. There is going to be something happening in this. So how can you mix
+with technicals? You saw this from fundamentals. The company's pad generation
+has increased. So, when we talked about stage analysis, when you put up 30
+weekly exponential moving average, there is no need to worry. We will do a
+technical analysis next Sunday, almost 6 hours of session. Technicals, mixing
+technicals and fundamentals and screening process. But if you see this, it's a
+weekly moving average. I want to add this in your mind.
+
+[0:39:02]
+These stocks always go like this. Most of the times this is stage one so you can
+call it stage one you can call it stage one all the time where the base
+formation is taking place then 30 weekly exponential moving average will start
+shaping upwards. If you see here, this has started shaping upwards. And it
+started shaping upwards with massive volumes. The markup phase which we call
+stage 2, it started going up with massive volumes. And at this time, if you look
+at nifty, again stage 2, first thing you see was when it was below 0 or around
+zero. So this is relative strength.
+
+[0:39:38]
+What is relative strength? That from nifty pharma, it is underperforming now.
+Nifty pharma index is underperforming the laura slabs. So as soon as relative
+strength went above zero, right? Relative strength went above zero. I will teach
+you how to use this indicator. Free to use it. Now don't take tension in this.
+We will learn the details in the next Sunday's technical analysis class. At the
+moment it went above zero, So if you look here, the moment it went above zero
+and massive volumes came in, right? Massive volumes. So this is again, purely
+smart money that is coming in.
+
+[0:40:09]
+This signal stage two and your 30 weekly exponential moving average started
+going up. But if we were to study this business, if we had the idea of this
+business, then what we had to see from con call is that we had to catch a mental
+model. In today's case, we will give examples of what mental model we had to
+catch. If I talk about these, then what mental model we had to catch. You can
+see it easily for 30-40 seconds. Then I'll open the comments. What mental model
+catch can you see?
+
+[0:41:02]
+It was literally most of them. Product mix change was happening. In
+formulations, the company was coming. The margin of the company was expanding.
+The company was doing a lot of Kpex. And the company was doing a lot of
+operating leverage. The industry cycle was also favorable. All these things came
+in and led to this stage 2 breakout. So stage 2, that was a humongous breakout
+at that time. And with so much tailwinds, the pad went from 90 crores to 900
+crores.
+
+[0:41:31]
+So this is the idea that stage 2 is so special that if we are living with 4-5
+stocks with good allocation and you need to get lucky 4-5 times, the sustainable
+wealth creation is that your process is robust which can keep growing different
+stocks, But 4-5 stocks will always be there, which would have created massive
+wealth for you. So this is the beauty of the investing game. Stock went from 86
+rupees to a peak of 650 rupees. So this is the example. Then you will see when
+the selling trigger was there. When stage 3 started and relative strength went
+below nifty pharma.
+
+[0:42:11]
+It went down comprehensively. 532 rupees. So here the selling trigger was there.
+First time selling trigger was there, second here. And third definitely here in
+between 520. So here is the effort of stage 1 formation. Definitely base
+formation is going to be there. But still it is not totally out of the woods
+right now. But this is again a wonderful way to capture fundamentals and put it
+on technicals and mix the two. But again, coming back to confidence calls from
+confidence calls.
+
+[0:42:47]
+So recently, again, stories change the companies because promoters over guide
+and under guide so this is what has happened so in the case of lauras labs
+promoter came on the tv and multiple times said one thing that they will achieve
+a top line of 1 billion dollars so they will achieve a top line of 1 billion
+dollars. So this was happening for the last 3-4 conference calls. Now we are
+getting to know that relative strength is a very low business. Again many, again
+many retail investors can't see that the competition is increasing in the ARB
+business.
+
+[0:43:29]
+But what will be the opposite of all these things, the margin expansion, the
+margin contraction, operating leverage, operating deleverage. What is happening
+in the business of LORUS? After 31% margin, operating deleverage has started
+Because industry cycle has turned around and signals to exit were there on
+relatives since long but again conference call this is four quarters back so
+this is almost one year back so one year back up like I say almost this price
+gas pass that the company saying key they want to be able to meet their
+guidance. That $1 billion guidance is worth $70 to $100 crores.
+
+[0:44:05]
+We won't be able to meet it. So that is again an example. But in the comments,
+the conference call is hidden inside them. So in the comments, how many of you
+remember their 1 billion dollar items. So, those who don't remember, you can
+definitely see in the comments. If you don't remember, please do check out the
+comments.
+
+[0:44:53]
+The guy could be really good right the person I had no doubt a a a car or say
+business go seven or eight thousand to one of the baronica but again these are
+just some hidden insights so I'm not against entrepreneur by any means because I
+have not made any business from 1 crore to 7-8000 crore that is hats off to him
+but these are just simple case studies that again How do we get insights from
+conference calls? What should we get insights from conference calls? We will
+read from scratch in one conference call so that we get a better idea.
+
+[0:45:25]
+We open a conference call and If you want to attend a live event, then I will
+talk about that as well. First, I will discuss with you how to attend a live
+event in a company conference call. So, it is a very simple way. Let's take an
+example of KIA. What do you have to do after coming here? You have to go to BSE,
+so there are BSE notifications in the company. And you just have to keep in mind
+that if a company is going to do its conference call and stuff, then it always
+comes around the results of the company's results.
+
+[0:46:02]
+So just a second, I yeah, here the company's result was there This was on July
+30th, right? Here the investor presentation is uploaded So the case of the
+investor presentation is not in the case They didn't put it in the end But here
+we will see the results of the company. The company gave an information of the
+analyst investor meet. Here, you have an information of the analyst investor
+meet around the results. You can always see this in any company.
+
+[0:46:40]
+So here you have an analyst investor meet and intimation You can dial this
+number and see what is the timing So timing is 12pm first of us You can just
+register with diamond pass So timing the conference call at 12pm first of us. So
+what happens in Diamond Pass? You have to put your email id. Like we suppose,
+anyone puts an email id. Support, add the rate. Who, not in. Support, add the
+rate, right? 10 seconds, so I think it will be closed now.
+
+[0:47:14]
+So after putting the email id, they just ask for your name and your number and
+you have a code on your phone you have a pin code for 4 digits which you have to
+enter while calling but I will highly suggest that you use the diamond pass and
+pre-register for the conference call because if you suppose that this conference
+call was supposed to be held on 12pm so when you call around 12pm, there are a
+lot of people calling and giving their names and numbers So you can just let
+them know your name so as if your name is like Manish, so you can just simply
+say I am Manish, I am calling as an individual investor so you will be asked for
+designation you can ask for individual investor or you can also ask for
+designation that I belong to so and so family office.
+
+[0:48:04]
+So you get a chance to ask questions. After attending the conference call, what
+can you do? You can ask questions by pressing star 1 on the company if you want
+to. But this is the process of attending a conference call. So this is the style
+of attending a conference call. Then after that the company's conference call is
+live on the phone like we talk to someone on the phone. So this is how it goes.
+But how do you read the company's conference call and how do we derive the
+insights?
+
+[0:48:34]
+I will study a case with you for a business by the name of RACL GeoTech and I
+will open the conference call of this business for just a second, alright, just
+a moment so RACL GeoTech, here it is, right I will just share the screen with
+you. The screen visible, so you all know. Is the screen visible to all? Awesome,
+awesome. So, make a complete conference call with scratch. So that you also get
+an idea. You can read it yourself. Right? So, let's look at the conference call.
+So this is the quarter one FI 24 conference call.
+
+[0:49:23]
+So I think it's the second June 2023. But I think it's Q4 FI 23 results. The
+conference call after that. But here we read conference call. I'll just turn my
+screen off so that I can see the presentation gray. So here we will use a
+framework for SOIC where I usually teach you about business, risk and
+management. When we are getting to know about business in a conference call, we
+will see about business. When we are getting to know about risk, we will talk
+about risk and management. This is a simple framework that we will follow. This
+will help us to research.
+
+[0:50:00]
+We will also take an idea from this conference call. This is how the conference
+call starts. So again, he'll greet and stuff. Kulsharan Singh and Mr. Prabhmer
+Singh. So greetings. So what the company does. So basically, so I would start
+with my presentation. This is a general overview, which we always give to people
+who have joined maybe for the first time. So we are a limited company based out
+of New Delhi. We started our business in 1983. We are fully Indian owned
+company. We are listed on Bombay Stock Exchange.
+
+[0:50:38]
+We have one subsidiary which is owned by the name of RSEL, which is owned by the
+name of RSEL GearTech GMDH in Austria. Then last year we did a turner like
+turner of 370 crores which we will cover in the upcoming slides. Last year, the
+company's sales were 3.7 crores. They have two manufacturing locations, one
+corporate office and three warehouses. In the application, they are doing
+products of two-wheeler, three-wheeler and passenger vehicles.
+
+[0:51:16]
+They have 22 active customers and 900 parts and all our plans are ISO certified
+so we found out that the company has 22 customers The company has a turnover of
+370 crores and let's look at what the company tells us ahead. So I will just go
+towards questions but we will get to know a little bit about the business. There
+is an interesting thing here. You will find out about the customers here.
+
+[0:52:00]
+The numbers which you already see some of the updates which you want to share
+our recent development so the first point is that we have bagged order from a
+european two-wheeler manufacturer for supplying finished forging yokes right so
+a new customer will be here we say new order land here so this is on two ways
+first thing for us number one we have not supplied before this any yolk staring
+component basically to anyone in the past. Second, for the first time, we rented
+a new business line called not call, but forging basically.
+
+[0:52:30]
+We always had forging capacity, forging capability, but this was for internal
+consumption. Selling forging directly without any value addition is first time
+which we have not done in the past. So again this is new capabilities, new
+customer, new product. So here we see interesting things. So with this addition
+to our work, it was not easy to get this business because the customer, despite
+being part of our family before, had reservations of supplying or buying fully
+finished forging from us because as of now, Nobody else is buying from us. So
+good inroads into this business segment.
+
+[0:53:04]
+Then another development came. They received the best supplier award from Kubota
+India for calendar year 2022 for the deliveries. So Kubota is a very important
+customer for them. And this Kubota India is directly working with Kubota Japan
+so it is good if the customers feel satisfied with our performance right?
+
+[0:53:23]
+So again a customer gave them an award for being the best supplier another
+interesting thing is that we talk about another customer So the new Shakti plant
+which we started working on in the month of June, August was inaugurated in
+February and March 23 and is now fully been commissioned and commercial
+production of some of the projects that have started. So the new plant means the
+new Kpex. As of now, we build a plant of around 28, 000 square meters of land in
+this existing Ghazrullah plant. So this was inaugurated in March 23.
+
+[0:53:54]
+Some two new businesses from ZF started their commercial supply from June
+onwards. So ZF's is now running at around 95% utilization. So the business
+projected volume, which our customers give now, they are actually running at the
+peak two years early to those projections. So the capacities which we deployed
+are running at full capacity and we had to invest more money in this business
+because of the capabilities which were for two years from now. Customers
+required immediately. So This is a good sign.
+
+[0:54:31]
+So after reading this much, I found out that new products, new projects and new
+customers are coming in the comments. After reading this much, I found out that
+it is very simple. It is not difficult to find out new things about the
+business. I found out about the business. It started from 1986. Today, there are
+22 customers of today's company. Very simple, right? It started from 1983,
+right? Let's move ahead. Why am I teaching you this con call? Because there are
+many mental models in this con call that we will see in the future. So, here I
+am coming a little ahead of you.
+
+[0:55:18]
+Right, just over here. Just over and here is an interesting concept. Yeah, so
+here is a very interesting thing that is known in this business world. So just
+one question with regards to one of your board partners, you've been working
+with which is ZF commercial. So ZF is a customer from Japan and they are working
+with them. So what is the commentary of ZF? So ZF has spoken multiple times
+about scaling the Indian manufacturing almost 3x in next decade. So ZF has said
+that they will increase their sourcing from India by 3x in next 10 years.
+
+[0:56:04]
+And so obviously this has implications for pretty much every partner who works
+with them which includes our company as well. So just curious to understand when
+ZF scales its manufacturing, Do they expect the entire KPEX to get fully set up
+from our side? Or do they invest in KPEX alongside you? How do you approach
+this? For example, let's say next two years, your order book for them goes to X.
+Normally, how does that work? So let's see what they answer. So the promoter Mr.
+Gursharan Singh answers. First of all, there's a little ambiguity.
+
+[0:56:33]
+ZF is not saying on that they're going to increase manufacturing in India, but
+they're going to increase sourcing from India with 3x. Manay, this is a company
+which is a huge giant. So they want to increase their sourcing from India by
+almost a billion dollars right. So now that ZF is going to manufacture a lot in
+India, this is actually planning to source many components from India for their
+global operations. So that your information is correct, 3x multiplication they
+are really expecting, but yes but a good thing is since we have another
+suppliers, obviously we have this opportunity to us.
+
+[0:57:05]
+But if we have to take this opportunity, we have to invest ZF will never invest
+in KPEX to their suppliers. So eventually, yes, this opportunity is available As
+Prub has already mentioned to you, all numbers are increasing at our end.
+Whatever capacity is we generated, they're already overbooked and we are
+expanding. So this really shows ZF whatever their forecasts are right on track
+to achieve that. Right? B2B business may have a customer who is very bullish.
+What does that mean for the component supplier in the comments? More orders,
+right? More orders, more bullish.
+
+[0:57:50]
+That end customer wants to buy from India. So this is a simple thing. So let's
+move ahead. I am going to skip through a little bit because each and everything,
+if we start reading, then it will take a lot of time. But I will teach you from
+these. So, An analyst is always concerned. So, we have seen business and
+management, let's talk about the risk. So, what is always a concern for
+everyone? He so far, thanks for clarification. Basically, this is a great
+situation to be in us for us but I assume that most of the orders come to us in
+a front loaded way.
+
+[0:58:26]
+Debt on the balance sheet seems obviously is reasonably, we are levered at this
+stage means the company has taken almost one debt to equity and makes sense
+considering the growth that you are seeing on the ground Do you foresee a
+situation if the order book actually multiplies from here there might be a
+limitation on how much debt we can take to set up a Kpex which maybe the orders
+could go to someone else An analyst asked a very good question and actually this
+is a good question to ask. It's not that debt. Okay. It's almost one X debt
+equity.
+
+[0:58:55]
+If you look at the company, when you grow, you need debt. So again, the answer
+is how will we grow? So let's look at the answer. So one thing is very clear
+that between business and debt is a battle for the company and for business. If
+you take debt is not bad. The only thing is you are raising debt on which
+business if you raise debt on companies like ZIA, ZF or BMW and others that is
+not a bad thing you know. Debt doesn't disturb the company any company until you
+have debt paying capability as Prabha has mentioned during the last year.
+
+[0:59:27]
+Being threes are turnover by more than 30% but are debt reduced by 50%. So this
+really shows whatever cash we are generating we are able to repay the debt and
+still are comfortable. Yes, also debt ratio is very perfectly levered to be
+honest 30% year on year growth. I think now we are almost doing for three years
+regularly.
+
+[0:59:45]
+This year also things are going very much smooth and it should happen and to be
+very honest still we have lots of limits of raising and I don't feel there is
+any areas of concern for the company but one thing is very clear if business is
+there one has to explore each and every opportunity right? So that is
+interesting right?
+
+[1:00:04]
+That if there is a business one has to explore each and every opportunity so
+that is that whatever debt is taken so they are very comfortable with the ratios
+but this debt is backed by business from customers like ZIA, ZF and BMW types we
+are taking business on confirmed contracts or we are taking business with
+dedicated capacities that becomes very interesting to check let's go ahead and
+see their 2-3 year guidance which was very interesting to listen to. Just a
+minute, just a second.
+
+[1:00:45]
+Here is a 2-3 year guidance company that in 2-3 years the company can achieve so
+much revenue and so much so I will show you that here Let's go a little ahead It
+took me 1 minute so that you know the same part from which you have an
+understanding of how it looks interesting So here we see what another company
+said here again what is there in a small company? It is not looking for
+aspiration. So what is the issue of aspiration?
+
+[1:01:14]
+For land, whatever land and infrastructure that is available to us we can take
+this company up to 3x level means if today there is a top line of 370 crore then
+3x means almost 1000 crore till the top line company can take whatever land and
+infrastructure the company has but for that the company will have to do KPEX so
+let's move ahead and see what the company is talking about. Industrial, right?
+
+[1:01:41]
+Yes, so this is a good answer company that we will get to know in a second I
+will give you an answer from the company so you will get a good idea Actually,
+there is a detailed conference call and there are quite interesting things So
+here we see that the company has the guidance for this year Let's read this one
+first Good evening, first of all congratulations for a great set of results in a
+couple of questions from me. So, the first question is, Can you remind us what
+was the KPEX and total KPEX for this new Shakti plant? So one question is this.
+When will it be fully utilised?
+
+[1:02:21]
+So that would be my first. Second, last conference calls you mentioned about the
+revenue guidance of close to 470 crores in FY24. So just wanted to check whether
+this is still our guidance and what kind of revenue we can achieve this year and
+also on the margin front. So, this is a general KPEX he mentioned. So, let's see
+So, on the Kpex funds, we did not say that this plant is going to be invested
+this much. There's a general Kpex which we do every year investment in the plant
+is a part of it. For the revenue guidance, yes, we disclosed 470 crores last
+year about for this financial year.
+
+[1:03:03]
+So we would like to maintain that and definitely we will work towards achieving
+it or maybe improving it and third on margins. Of course, no one has to maintain
+good margins and we are relatively high margin and good margins as of now. So we
+try to maintain them if not improved. Improvement is a continuous exercise.
+Definitely we are working on it. Right. So that is something that I focus on. So
+right.
+
+[1:03:28]
+So again, I am asking you the question, if the company's revenue is 370 crores,
+then how many percentage growth in the comments can anyone answer this I am
+giving you 20 seconds pause after that 20 seconds pause if this year growth of
+370 crores and next year the top line of 470 crores So how much growth is that
+in percentage wise? Now I am opening the comments So, approximately 27% growth,
+right?
+
+[1:04:37]
+Approximately 27% growth.
+
+[1:04:47]
+Margin expansion is 25% margin it is difficult to expand margin from here 25 to
+35 is when you are doing world meeting but that is something that we have to
+realize customers if you are a listed company customers also check your results
+and they check your balance sheet that is an interesting insight that you must
+have right but again after reading conference call at least we thought that this
+conference call would be completed in 15 minutes we have been in RACL for 14
+minutes if we had put 15 minutes more, it would have been completed in 30
+minutes but with the call of confidence, we got the idea that at least if we
+were uninformated we got some information about the company, yes or no in the
+comments.
+
+[1:05:32]
+I felt a little better that I get insights from reading the conference call.
+Great, great. Awesome folks. I got to know about the customers, I got to know is
+the company's 2-3 year vision. I ignore the bookkeeping question, I ignore the
+tax facts, and the Analysts are asking for their modelling. But these are the
+beauty of pun calls. Again, those who say that they don't have time to do this,
+don't do active investing. It's not of any use to do active investing. Because
+you have to give some time.
+
+[1:06:16]
+If you want to improve in anything then you will have to take some time so how
+can you learn more about this company, so it was a question of how did I hear
+about this company for the first time I told you that I saw the investment labs
+meeting there and how did I see the other one, here simply on value picker,
+there is a thread made in 2019 so after the investment labs meeting everyone
+started putting thread so here someone has given AGM notes in 2019 what the
+company does right and you can just keep simply scrolling through and reading
+them right What is going on in the company?
+
+[1:06:47]
+What is not going on? So, like Sidhan who works with me, he has also put in
+notes. So, this is the, we had just talked about yoga, so these people are
+making this yoga. So, they have shown the picture in the webinar as well. Right?
+So, That is a simple example. When curiosity comes, you can track it like this.
+And the screener screen we learned is a wonderful example for you. You will get
+multiple businesses from the screener screen. So the screener screen will be
+available to many people. If you are the first to the class, you can share it on
+the email. Just a second. So all good.
+
+[1:07:29]
+So again, these are some of the screens that you can check on screeners. So
+These are some of the screens that you can check on screeners. These are some of
+the screens that I've made to a map. I'll share it again. In the last class, I
+discussed it in detail. Right, so I'll just share these screens with you. Just
+opening the comments. Second, I'm sharing this again because some people are new
+to the class, so at least, everyone should have these screens, they can save it
+independently.
+
+[1:07:53]
+So, from these screens, when these screens are once in 2 months or once in 3
+months, you will get better businesses through these screens. But this is how
+you end up filtering out these companies. So we saw this, we saw the RACL, we
+saw the con call, we saw the LORF con call. Now let's see a con call just for an
+idea. What is happening in the overall industry trends? To know all that. So
+this was one of the best conference calls which I read this this resolved
+season. This resolved season, I am going to read this very good one.
+
+[1:08:25]
+So this conference call is for polycaps and here I share the whole case study
+with you in this conference call. Just to put it. Alright. So, here we talk
+about this conference call. If the growth in the Indian economy is coming, then
+you will see the growth in the cable and wire. Because cable and wire are used
+literally each and everywhere. Right? So, let's look at this. So, thank you,
+Inderbhai. So, before I take you to the quarterly performance, let me give you a
+flavor of the macro environment. I'll just turn my camera off.
+
+[1:08:55]
+So let me give you a flavor of the macro environment amidst heightened global
+uncertainty. Indian economy has showcased remarkable resilience with growth
+surpassing many large economies. Favourable domestic policy environment and
+government led structural reforms have positioned India as an economic bright
+spot. Key indicators such as manufacturing services PMI have consistently
+exceeded long term targets, While growth momentum is also evident in GST
+collection, diesel consumption, air and rail passenger traffic, reflecting
+India's robust economic standing during the challenging times.
+
+[1:09:27]
+Furthermore, domestic demand environment has started to realize the benefit of
+receding inflation, which has now remained within tolerance of RBI. So these
+people are saying that the economy is still going on. I mean, growth is also
+coming in good. And basically, macro looks very good. So let's see what they are
+saying in the future. And why power sector looks today very very interesting. So
+just over here. So they just keep mentioning So during the first quarter, the
+wire and cable business has gone 46% year on year on the back of a strong volume
+growth of 50 to 60%.
+
+[1:10:09]
+Domestic distribution driven business sustained its strong growth momentum while
+institution business exhibited remarkable growth acceleration. Geographically
+growth was broad-based with highest growth coming from north region followed by
+west, south and east. In terms of contribution, highest revenue came from west
+followed by south, north and east. Wires and cable business is witnessing robust
+demand support by government, measures improving private KPEX and strong real
+estate offtake. So in one industry, one company is on call and what do you know?
+
+[1:10:39]
+That private KPEX is improving, government related measures are improving and
+strong real estate offtake. Government KPEX plan of 10 trillion rupees in FI-24
+infrastructure growth is running at full throttle. By 2023, that is within 3
+months of financial year, 54 central public sector enterprises and 5
+departmental arms of central government with an annual KPEX target of 100 crores
+and above, they have utilized 32% I think 10 trillion or so. That is 2.34
+trillion of their FI 24 KPEX target of 7.33 trillion. You have 7.33 trillion I
+think said 2.34 million is realized.
+
+[1:11:23]
+So ministry of road transport highways have made very good progress. Meanwhile,
+railway has already spent 33% of its budgetary allocation of 2.4 lakh crores.
+Signalling strong capacity like progress in capital utilization. Now government
+has set its side on achieving an impressive 80% utilization of budgetary KPEX by
+December 23, underlining the commitment to grow for the nation of like for the
+infrastructure growth of the country. One of the best conference call this
+season may I think every one of you must read this right.
+
+[1:11:56]
+Furthermore, even the state governments are joining the KPEX cycle after lagging
+behind by June 2023. It has already dispersed like center has already dispersed
+300 billion rupees of sanctioned 600 billion rupees. 50 year Kpex loans to
+states and I think this might be like 6 lakh crores I think it will probably be.
+The further government is planning to sanction an entire 1 trillion of non-tite
+budgetary KPEX disbursing first of July end. This KPEX is creating a ripple
+effect invigorating local economies and fostering holistic development across
+the country.
+
+[1:12:39]
+As consumption improves, private sector 2 has increased its Kpex plan. In FY23,
+private sector Kpex announced an announcement surging to impressive 26 trillion
+rupees, nearly doubling from previous area figures. Sectors such as chemicals,
+air transport renewables have been leading the charge in robust investment
+decisions. And in Q1FI24, private sector KPEX addition amounted to 5 trillion
+rupees.
+
+[1:13:02]
+So, means KPEX is becoming a healthy capacity utilization of manufacturing
+sector recorded at 74.3% has spurred cooperates to move beyond maintenance kx to
+discretionary kx maintenance kx is the property plant and equipment replacement
+discretionary kx is for growth of the company. So companies have come to
+discretionary KPEX from maintenance KPEX. This reflected shift in KPEX to
+depreciation ratio was listed by corporates which rose to 1.6x from 1.3x
+demonstrating their willingness to invest in expanding operations.
+
+[1:13:38]
+Notable private players are anticipating substantial growth in their order
+books. So if you are thinking about real estate, let's talk about real estate.
+We know about another sector, if there is any company that is involved in this.
+So real estate sector is to sustain its impressive growth momentum, helping our
+wire sales according to a report top 8 Indian cities witnessed highest volume of
+residential launches in HY calendar in 2023 compared to other half of the period
+in past 8 years, which was the highest launch in the last 8 years.
+
+[1:14:16]
+Residential unit sales were equally robust, suggesting second highest sales
+volume in almost a decade. As for another report, out of 2, 181 acres of land
+transacted between January and May 23, Around 84% has been allocated for
+proposed residential development, showcasing the confidence of RE developers in
+continuation of RE upcycle, which bodes well for our wires and housing
+electrical appliances segment. Office market transactions too are showing strong
+momentum with 14.8 million square feet transacted highest ever quarterly tally
+since 2021.
+
+[1:14:54]
+In conclusion, current landscape represents a highly conducive environment for
+exponential growth in wires and cable segment in the medium to long term. Right
+now, extremely bullish if you are just thinking about right keep. So much more
+bullish environment is time bae banaway wires and cable industry. Okay, go on.
+Yeah, may I don't spark may to exports. What is happening within exports of the
+company. Because there is a lot of Kpex of renewable energy in the US. So, this
+is the beauty of reading conference calls. This is why we are increasing
+different conference calls. So, just a second.
+
+[1:15:35]
+Just a second. Let's see what they write over it just over it so margins can
+improve over it so definitely both of them have seen improved margins you have
+normally seen when commodity prices are on decline every player in the industry
+see some kind of improvement in margin and improvement in margins across product
+categories. So that is one thing. So in their case, the biggest commodity is
+copper. So the price of copper is falling, their margin expansion is increasing.
+Second is your scale.
+
+[1:15:59]
+When your scale increases at this pace, your economies of scale kicks in and
+because of that your operating leverage improves. Because of that as well the
+margins have improved and the third point is international business which is
+again a better margin business and as I am proved compared to Q1. So all these
+three of things have led to improved margins. So margins 2-3% says company's
+improved. So let's go ahead and talk about exports because there are many things
+in exports in this business at the time. Interesting things are happening at the
+right time.
+
+[1:16:33]
+10 minutes let's talk about it here so here we get a lot of insight about the
+industry if we look at it here so let's talk about the industry so you know the
+global cable and wire business India is very small in that it is an almost 250
+billion dollar industry. US is almost 20% of that to money US 50 billion dollar
+industry cable and wire way India is in low single digits and to that extent
+Indian companies are not necessarily compatible with top 5 companies in the
+world.
+
+[1:17:06]
+Directionally what we have done over the last few years is from being a simple
+cable company we have become the largest cable and wire company to become the
+largest cable and wire company. And now we are trying to gradually to have a
+sizable footprint across the globe and actually we should be able to get the top
+five companies in a few years from now world league top five companies where
+they want to be right. I think we are comfortable with the guidance of 600
+crores on an analyzed basis. So yeah, I think we should talk about other things
+in international business.
+
+[1:17:35]
+But yeah, so this is again their target right. So this is the target that they
+want to achieve. So just over here, a cool thing is that the U.S. Is setting up
+the warehouse for the first time for increasing their own growth rates.
+
+[1:17:55]
+So the wearouts in the US, that is like a very interesting part to read because
+that will showcase because polygap here export business may 60 80 90% type
+growth probably is something that will reflect I take recently a research note
+be either of the key growth rates kaafi chada export mein badge yeh so just over
+there us next for warehouse setup kar hai This is like I'll just find that page
+and I'll just showcase that to you. Actually, in defense, maybe cable and wiring
+is used in INS Vikrant and that is also like very, very interesting.
+
+[1:18:34]
+So here, I will tell you something more about the industry. Normally, volume
+growth in cable and wire business ranges from 1.5 to 2x of real GDP as the GDP
+grows 7% so their growth should be within 14% volumes So just give me a moment
+So we are searching warehouse, yeah just over here So revenue from international
+business U by 88% Y over Y contributing to 9% of consolidated revenue. This
+growth was primarily fueled by strong growth in USA, Australia and Europe with
+key sectors such as renewables, oil and gas infrastructure driving the momentum.
+
+[1:19:17]
+During the year, company lease its first warehouse in US and on the Eastern
+coast will gradually lease more warehouses to cover all geographies in line with
+the strategy to shift to a distribution led model in international business.
+Over the years, we have increased our efforts in building robust capabilities
+for international business expansion and we are now realizing substantial
+tangible growth from these endeavors as of testament to our progress, company
+has successfully expanded its global presence to over 72 countries. Right. So
+now we have read so many things.
+
+[1:19:50]
+When we have read so many things, now take a little pause and just a minute.
+Yeah, take a little pause and just look at this. Just a moment. Alright, over
+here. One second. Presentation. Yeah, Just take a pause. In the case of polycap,
+we have read so many things. Because it is useless to read through live case
+studies. But this is the live case study types. After reading so many things,
+now opening the comments. First, let's see 10-20 seconds and then read the
+comments. Just once, 10-20 seconds.
+
+[1:20:36]
+Look at the mental models. Operating leverage, demerge, management change,
+industry cycle, cost reduction, margin expansion, corporate actions,
+de-leveraging, product mix change, CAPEX, and geographical expansion, which is
+not in it, which I am telling you separately. Did you get to see all these
+things in the whole con call? Yes or no? Which we discussed here in the
+comments.
+
+[1:21:21]
+Did you observe these things? Did you observe these things? Did you observe
+these things? Which is extra high value added but did you observe these things?
+Right, but were you able to observe? What is operating leverage? This is a good
+question so I will solve this question for you What is operating leverage?
+
+[1:22:13]
+So what is operating leverage? So we read the conference call of PolyGap, I
+think it was the best conference call of this quarter. We understood the pulse
+of all the industries. So actually, we got to know about the real estate, the
+defense, and so on. Because the cable and wire people will get the order in
+advance, right? 6 months before the KPEX completion, this cable and wire should
+be sent to us. So they can force you and tell you about the insights. Just give
+me a moment. So what is operating leverage and why does it play out in business?
+It's very simple.
+
+[1:22:51]
+Today we are talking about Pandas in the whole session. We will talk about
+technicals in the next session. Then we will conclude the course through
+valuations and balance sheet, cash flow, income statement. So what is operating
+leverage? So businesses spend significant amounts of money before their products
+and sales, before their products and services generate sales. These are known as
+pre-production sales, pre-production expenses.
+
+[1:23:16]
+So some businesses like chemicals or even cable and wire or other manufacturing
+companies have to spend on property, plant and equipment which they expense via
+depreciation over estimated useful life. On the other hand, few companies spend
+on R&D. Pre-production costs dampen the operating profit margins and
+subsequently sales growth leads to higher operating profit margins. Investors
+often call this phenomenon as operating leverage. You sell chips and all these
+things, you have a grocery store. So you are there in Rajori Garden for last 5
+years.
+
+[1:24:00]
+But now you open a shop in Gudgaon and suppose your store's name is let's say
+Manchanda provision store. Let's take a simple example because it's at home. So
+when Manchanda provision store first store you had 1 crore and now you are doing
+a good sale. So when you will put a store in goodgaon then you will not take
+time or time to build a brand or not? In the comments will it take time for you
+to build a brand? Will it take time for you to build customers? Will it take
+time for you to get an idea about a geography? Which type of customers you want
+to target? Yes or no? Yes or sure right?
+
+[1:24:34]
+Because real business theoretical case study will take few months right? Or
+sometimes can take years as well.
+
+[1:24:43]
+Gestation period also says that in many businesses, your expenses are already
+there and your sales growth starts later So you build a product, if you look at
+SaaS businesses in IT, which are software as a service, like rate gain type of
+business so what was in that product was first built the Antelik design arena
+type business the new gen products type business the product was built and in
+building the product, it cost 500 crores so you feel that the first day the
+product will be a super hit, no because the thing is that the customer will take
+the product and over a period of time it will turn into a SaaS business That is
+software as a service that you are providing it every time Right so this is an
+idea is that how operating leverage plays out So simply see the calculation so
+that you understand Simply see the calculation so that you understand So let's
+talk about year zero, here we have connected pre-production costs Pre-production
+costs are that you have to keep so many employees.
+
+[1:25:42]
+Everyone has to keep this much. So the productivity of the employees is that of
+the employees on sales. Sales per employee also improves as your shop becomes
+more popular. That first, sales per employee 1 lakh, but the same sales per
+employee 3 lakh rupees. So you're taking more benefit out of your employees. So
+by the way, we are doing a detailed video on operating leverage in the next
+week. Relatives tend to be on operating leverage, so you should definitely watch
+that.
+
+[1:26:10]
+Out of your employees right so operating leverage video are in next video week
+relative strength and operating leverage so you have to see that but operating
+leverage is just like that so let's assume there is one company which has 1
+crore of sale and pre tax operating profit of 10 lakh rupees. So, before taxes,
+it is a 10 lakh operating profit. Out of the 90 lakh rupees in operating cost,
+so if the company has a 10 lakh operating profit, then it is a 90 lakh operating
+cost.
+
+[1:26:32]
+Pre production cost, means the employees who are fixed, the power cost is fixed
+because the electricity is not that much, the shop will not be able to sit in
+the dark if the sale is not going on now then I will go to the shop by dark
+pre-production cost accounted for 20% that is 18 lakh rupees means if you have a
+operating cost of 90 lakh rupees then 20% is pre-production cost since the
+company completed a major expansion last year pre-production costs will remain
+flat over the next 2 years while operating costs will constitute 72% of sales.
+
+[1:27:06]
+Now what we are saying is that pre production costs will not increase from 18
+lakh rupees. Because if the electricity is running in the shop every day, then
+it will not work that much. If the employees are working 5-6 times a day, then
+it will not work that much. More things will not increase than that. But the
+rest of the expenses of inventory will be around 72% of sales. Let's take a
+simple example. First, you have to pay attention to the business. In the first
+year, the business sales are 1 crore. The operating cost of 90 lakh rupees is
+the other operating cost and pre-production cost.
+
+[1:27:41]
+So the total operating cost is 90 lakhs. And the total operating profit is 10
+lakh rupees. Just look at it very simply. But pre-production cost is always
+fixed on 18 lakh rupees. Just for simplicity of understanding. So what happened
+next year? The sales of 20% of the business went up. But margin in year zero is
+10% because you are making 10 lakh rupees on sales of one crore. So if the
+company's sales grows by 20% then what happens? Pre production cost is fixed at
+18 lakhs. Pre production cost is at 18 lakhs. 18 lakh rupees.
+
+[1:28:20]
+Other operating cost increases because if the sale is increasing then the
+inventory is also increasing if something else is increasing then the operating
+cost will be increasing the advertisement is increasing and you are doing
+something else that still constitutes 72% of sales so 72% of 1.2 crores is 86.4
+lakhs so total operating cost is 1.04 crores if we add both of them and how much
+the operating profit is? Total cost of 1.04 crores and operating profit of 15.6
+lakh rupees now margin is 13% Now, how much margin was it? 13% So, you can see
+how much margin was from 10% to 13% Right?
+
+[1:28:52]
+Then the company's sales growth increased by 20% Then the company's sales growth
+increased by 20% And now pre-production costs are still at 18 lakh rupees just
+for sake of simplicity other operating costs are still 82% of 72% of top line
+and that is 1.03 crores total operating cost is 1.21 crores now how much
+operating profit is there if we do sales of total operating cost so 22.3 lakh
+rupees, the difference is of decimals But still if you see, then the big amount
+of operating profit margin after 10 to 13, how much is it? 15. So we call this
+operating leverage.
+
+[1:29:31]
+When my expenses will grow at a low speed from my sales, then all the profit I
+have will flow down in EBITDA and operating profits. This is the beauty of
+operating leverage and those who understand operating leverage earn it. Those
+who do not, they end up paying it. The Reason being because if you take any
+company on peak margins, I am not covering those concepts because they will do
+it in valuation webinar, so when we take any company on peak margins then there
+is a chance of operating de leverage. That is why you will see what is saying
+that the dead sector is the biggest multi-bagger.
+
+[1:30:06]
+Why is that said? Because they are operating on the same business. Kpex has not
+grown for 3 years. If Kpex has not grown for 3 years, what will happen to the
+margins? If the company has done KPEX and 3 years of growth in the margins will
+they go up or reduce? Now what if all of a sudden the growth comes in? What
+happens?
+
+[1:30:38]
+Operating margins blast right this is known as huge operating leverage right
+That is the beauty of it, operating leverage and de-lavage The phenomenon of
+value investing is that if you look at it, it is the same The value stock
+becomes operating leverage because growth is not coming Then there is a positive
+surprise, then any analyst model gets spoiled, means 95 crore to 1000 crore is
+the path of the law, you feel that any investor or analyst will estimate that
+10x path of this, no one can think, when tailwinds come, then this is the
+growth, let me give you another example.
+
+[1:31:20]
+Deepak Naitaraj's example. Again in 2020, we covered it around the time of
+September 2020. Right? Where did the company's pat in the comments have been for
+the past 4 years? What happened with the profit after tax of the company? So one
+of the ways you can find operating leverages, like you can simply to go on
+screener, where I show you, you can search on screener operating leverage.
+
+[1:32:12]
+So this is a good way, you can search on screener operating leverage. So if any
+company is talking about operating leverage, those companies will start showing
+up right. So operating leverage, I have not even heard about this company. I
+don't know which company it is.
+
+[1:32:28]
+So like again this company is talking about operating leverage right then
+operating leverage may this landmark farmer is talking about tv s supply chain
+solutions concord biotech is talking about the in this company's capacity
+utilization of 20 30 percent of the new kpx scandal then westlife food works is
+food world is talking about today the business actually operating leverage the
+purpose of cover Kada said three or four months ago. This has been like a good
+winner in FMCG space versus others.
+
+[1:32:59]
+The QSR space where our engineering is talking about operating leverage right
+then Senco gold is talking about it right so others sirma is talking about it
+Senco gold may let's talk about leverage PGE electroplastic talking about it
+marks and spharma right So these are some of the case studies where you can go
+and study what is happening. Now look at the operating leverage. For operating
+leverage, there was a tweet of Sajal sir yesterday. Where depreciation has
+compounded faster than sales there is value. So basically when we come to the
+cash flow class we will see.
+
+[1:33:44]
+So what does it mean that if your depreciation right like in the case of the
+engine but if you look here that depreciation is almost 1.6 crore of this
+business 3.28 crore, it has doubled, depreciation This top line is growing 50%
+Right? This means that the company has made a lot of Kpex which is not being
+utilized, which is not being generated in sales. So this means that there is
+some operating leverage in the company. This is why he is writing that there is
+value over there And here, how do we find operating leverage?
+
+[1:34:26]
+Now, this is the beauty of value investing Beauty of guessing the pain Let me
+first tell you an example of the Aarti Industries they can play out their cycle
+in 2-3 years. But I will discuss your case study. Here we open an SOIC indicator
+and close all these things. So, here I close it and here we see one thing. So,
+in the chemical industry, when the Lehman brother crisis came, the same
+situation is happening in the chemical industry. Let's remove the ADX for the
+weak and let's let it be.
+
+[1:35:02]
+So now what is happening in the chemical industry When the Lehman brother crisis
+came in 2008, the crisis in 2008, similar situation is going on in the chemical
+industry now. So when you look at the background, it means that relative
+strength has gone below nifty 500 so the amount of Rs below nifty 500 has gone
+to the 8th grade in 2006 so for almost 2-3 years the stock has kept struggling
+for almost 3-4 years So it's in a similar trend right now. You will see how high
+the volume is dumping. So the stock is going to be at stage 4.
+
+[1:35:38]
+But what the company is doing is that the company has been putting up a lot of
+Kpex. So this time we will go to the RDE industries and we will get an idea from
+there and actually we will also see that they have made an analyst meet so they
+had told me on this analyst meet so I will share it with you how much the
+company's gross block is on the company look, the financial story is very clear
+The story is that the next 3-5 years, the day the cycle will be revert, that day
+it will be like a ticking time bomb. The company's gross block will be around
+9-9.5 crore rupees.
+
+[1:36:12]
+And of which almost 50-60% will be underutilized. So I will discuss an example
+with you just over here so here if you see then what is the company talking
+about so the company's gross block so that is actually I have now 63 100 crores
+of gross block because in the FI 23 they have done a lot of KPEX in FY23 it's a
+gross block of 63 hundred crores so they are doing more than 3000 crores KPEX so
+let's do a calculation for your and my understanding, we will go to the con call
+because if we check the gross block of a company, how much will it be?
+
+[1:36:48]
+I will come to fix the assets today's company is 5, 000 crores today's gross
+block company is already at 6, 200 crores we should subtract 590 crores from it
+so the gross block is 6, 000 crores and the gross block is 3, 000 crores which
+is 9, 000 crores so on the gross block of 9, 000 crores now we know all these
+things from the con call on the gross block of 9, 000 crores, now, who knows all
+this from the phone call? On the gross block of 9, 000 crores, the company
+expects the asset turnover of 1.5x.
+
+[1:37:19]
+The gross block doesn't mean anything, don't worry, it means the property, plant
+and equipment company has installed a lot of money. So if 1.5x asset turnover is
+9000 crores, then how much sale will be of the company? The day the cycle is
+fixed. Everyone, everyone try, everyone participate.
+
+[1:37:45]
+The company has done down cycle, but now the down cycle is going on but if the
+cycle becomes normal, if the cycle becomes normalized and their margins go back
+to 22-23% so 13500 crores, by the way there will be higher margins because they
+are getting into a 30% margin product so actually margins should go around
+24-25% but assume that margin becomes 30% on the sales of Rs.13, 500 crore so if
+the sales of Rs.13, 500 crore becomes 30% margin then how much operating profit
+there is in the comments?
+
+[1:38:40]
+Rs.3, 000 crore So this is the Altie industry, don't miss this example. So if
+the company's operating profit is 3000 crores, I don't know when it will happen
+because this is the beauty of operating leverage, promoter won't know when So if
+the company's operating profit is 3000 crores, then first look at the difference
+Today's profit is 545 crores, and today's cash flow is 1310 crores The company
+is sitting on a very unutilized gross block and it is increasing I don't know
+when it will be operated but it will be tracked and here will be the beauty of
+the technicals.
+
+[1:39:40]
+Fundamental thesis is clear from today that the operating leverage is bad, the
+Industry cycle is bad, it will be one year or two years, we don't know. But 3-5
+years should have a good cycle. And the day a good cycle comes, we will try to
+catch it by taking stage analysis. Or we will think too much, some people start
+doing SIP in the opposite investing. But this is one of the ways where you cash
+these things. Why do you see P multiple times? Because earnings are depressed
+today. Because depreciation is increasing. But price to cash flow is less today.
+12-13 times available.
+
+[1:40:18]
+You will that ROC has come to 10% Reversion to mean is back, so it can be
+interesting. But the purpose was not this, the purpose was to give you a few
+interesting insights from its conference call to give you some interesting
+insights from the conference call. So Why am I doing all these things? Because
+without the case studies, I can't teach you. It's very difficult to teach with
+books. I token. And in the conference column, we go to a very interesting topic.
+Just over here. Just a second. Just a second.
+
+[1:40:58]
+Let's open the conference call for half the industries and go to a very
+interesting topic. What we are doing at this time is we are planting a
+chlorotaulyne plant. Right? So you will know here. I am sharing with you in one
+second. I am doing a control left versus this. You know. I'm going to say. You.
+A moment. You. You. You. That's the moment.
+
+[1:41:53]
+So basically, here, so now I am just screen sharing here so that you can see it.
+So basically, here now, so you can see the screen here, so quarter 4 FI 23
+conference call and here we see that basically the company which is applying a
+new plant, a new chemistry, which is called chlorotauleens and the plant of
+chlorotauleens that will be for 20% of the global capacity. Meaning the global
+capacity is 20% of the plant. And when we talk about the chloro-dolines company,
+the company is expecting the margin and everything. If we look here, this is the
+value chain of chloro-dolines.
+
+[1:42:32]
+In chloro-dolines, they are expecting 25-30% of the margin, which is much higher
+than the base business. And there are 3 to 4 crore Kbx. So these are some of the
+ideas that you get about the future growth triggers of the company. Now I don't
+know when the operating leverage plays out, when the industry rewards back to
+me, right? But the environment is complete. Contrary to investing, like to
+assess it, the environment is complete for today. So this is again an
+interesting insight into the company.
+
+[1:43:05]
+Hopefully if you are finding a lot of value in the session today, just drop a
+helios in the comments. At least the idea of conference calls is there. Then we
+are going to go on the credit rating first con calls and other things. Just drop
+a helios in the comments if you like it. Awesome folks, awesome. Great, great.
+Great. Now let's take a break of 15 minutes and take a break of 15 minutes. We
+will have a session of 3-10 on the 3-10-3-15 basis. We will conclude the session
+from 3.15.
+
+[1:43:54]
+Great. Let's meet again on 3.15. Coffee break, lunch break, whatever you want to
+do. So 315 let's meet again. Awesome folks, 315 we meet again. I will give you
+homework today, so please stick till the end. Great, great. Awesome folks, let's
+meet at 315 again.
+
+[1:44:30]
+You you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you All right, folks.
+
+[2:07:59]
+Alright folks, so just a second. So, just a second. Alright. Hopefully, are you
+back? Just in the comments. Just write 100% energy in the comments. Awesome
+folks.
+
+[2:08:49]
+Awesome. Awesome. So let's restart the session and now we will see something
+interesting in the session I will keep showing you the conference calls in
+between Let's see one more thing which can be quite interesting That is this
+thing which is known by the name of E.P.F.O. Data from, Employee Data from
+E.P.F.O.
+
+[2:09:34]
+Website. So, here we have uploaded a video for you, actually it was for today's
+session purpose. So, here you can see the S.O.I.C. Here is an EPFO, a digital
+scuttle but tool. Where you can see that there are 7 digit establishment code.
+So, any organization, like example, we take Arman. Here we write X5 B4 6. Here
+we search. And here we see Arman Finance. Let's search Arman Finance. WQK2S and
+let's search.
+
+[2:10:21]
+Arman Finance.
+
+[2:10:22]
+We are one thing there WQK2S and let's search Exit our mom finance That's the
+view we Was a press spelling we're going to take no are you double a no does
+give me a second screener Our one financial right TK we will take the name of
+the company here, Arman Financial Financial and Z H2 3A and over there so here
+we have a company Arman Financial Services Limited and here we can view who is
+giving the EPFO and can show payment details so we have been taking from almost
+2016 we will get all the data recently so I will do an experiment with you so
+almost one year ago or if we talk about it almost three to four months ago, how
+many employees did the company have?
+
+[2:11:28]
+635. How many employees did they have? 789. So, what does it mean in the
+comments? Simple. There is another tool to research. What does it mean in the
+comment? Is a company doing expansion. 30 employees I think that website will be
+at the wrong time. But you can see how much increase operating costs are
+expecting How much is the growth? Operating costs are expecting growth?
+
+[2:12:19]
+Basically the company is expecting growth. So that is that. We can come to this
+website and do a lot of research on this. So let's suppose, let's talk about
+RACL gear and here we write Z6BBY and let's search for it. RACL gear, that's it.
+So it's a very good tool to research and it's totally free to use. We don't have
+to pay any money to use this one and view payment details. Let's look at it
+here. It's uploaded till August but from last October 2022, how many employees
+did they add?
+
+[2:12:55]
+And here we see the August upload but last October 2022 till now how many
+employees have added 596 employees to 750 employees so almost the growth of
+30-40% in the employee base similarly, let's talk about one industry where the
+slowdown is going on, the chemical industry, we talk about SRF. Let's see how
+many employees have added to SRF. Sometimes, if there are subsidiaries, that can
+lead to an issue. So SRF, Shiram Fibers, there are a lot of SRF companies. Here
+is SRF Limited. There are three or four companies, we will have to see in them,
+but let's see the first one.
+
+[2:13:27]
+So let's check SRF limited and Let's open this. Let's open the payment details.
+I think it's a practical challenge. I think we will have to check which company
+we are looking at at this time. So, I think the hedge that is over here, the one
+with the plant, we can check here. Let's look at this, the hedge is for them and
+payment details. No payment details found. But one practical challenge,
+sometimes in some companies where there are many subsidiaries, there are many
+companies named.
+
+[2:14:19]
+So you have to face a challenge sometimes on this website. But other than this,
+I think more or less, let's see these Let's check. I think they will be gathered
+in the middle of the month and later.
+
+[2:14:36]
+Just over here, so here I think, I think in the middle, like in the month, we
+will collect it later but 2484 employees, almost the company's employees have
+increased to 2858 that is at the Dahiyej side, so almost one side has around
+3000 employees So this is a wonderful way to check about companies which are
+small in size There are a lot of fast growing companies Even though small
+companies are there, if you look here, the company's profit is 6 crore to 54
+crore in the last 3-4 years so again, this company has AGMs, and there is not
+much data, so let's check here Shilchar Technologies, let's enter Y3TCH Shilchar
+Technologies, just over here, is a company of Wadodara, their manufacturing
+plant is in Wadodara Let's enter Y3TCH.
+
+[2:15:26]
+It's a manufacturing plant in Vadodara. I think their employees don't have much
+growth. They are in September 2022. They are probably operating leverage. But
+such companies are in formation now. So value bigger is a must have tool for
+these companies because some people are tracking it there for long and they have
+also attended its AGM and read AGM notes.
+
+[2:15:49]
+So actually these are just tools to research which can help you a lot in
+fundamental analysis here AGM was done in AGM people are saying that Kpex
+company is increasing capacity by 1000 MVA, 25% increase out of 10 crores with
+incremental capacity max revenues 500 crores. And as market studies are going on
+for the big KBX will be possibly initiated after 25% KBX. Guidance for FI 24 is
+350 crores. Growth and aspiration to reach a top line of 800 to 1000 crores in
+next 5 to 8 years.
+
+[2:16:40]
+Strong demand scenario about domestic and international markets and export
+markets, far-sightedness of obtaining certain approvals is using the result now
+for certain sectors. Export shortage cannot be easily fulfilled due to approval
+requirement. Domestic demand is equally strong. Massive reforms underway in
+power sector shift towards renewable is driving the energy demand. Massive
+infrastructure has been added will continue to move for next 5 years. Also,
+cyclical KPEX in sectors like cement, sectors driving, JSW buying strongly.
+
+[2:17:08]
+Q1 demand was soft even historically, Q1 has been lowest, Q4 being highest.
+60-70% demand for export was much higher in margin. Also, all across demand by
+participants, frequent informed dissemination by way of concoct and
+resubmitation business update. Management acknowledges the needs and commits for
+concocts post every result going forward. So means the company is planning to do
+conference calls going forward. So again, one clarity. Someone asked three year
+outlook. So management stated they aspire to reach 800 to 1000 crores in three
+years.
+
+[2:17:44]
+Period of five to eight years was never mentioned even for renewable led demand
+they said five years other attendees can confirm right right so again very
+interesting to study right because small companies and again three years when
+they're targeting like a thousand crore top line because of the demand and stuff
+that they've gotten margins have gone to 20 to 30% again, technicals have to be
+used here but these alternate data sources will give you the maximum information
+in companies where less information exists, right?
+
+[2:18:16]
+So that is that, so again, I have been talking about 30 million crore in the
+last 3 years, 40-50% in sales growth So let's see what happens over here. But
+again, these are just ideas like how we also explore ideas. So I am discussing
+with you. So we have seen the website of EPFO. We have seen the website of EPFO.
+We have seen how can we use the EPFO website. We are seeing the use case of
+value picker after every case study. Then again, interesting thing that we will
+see, that is the usage of credit ratings. And in conference call, I will show
+you all the calls. I will open it on the screen.
+
+[2:18:52]
+Here we open the general stainless example. And here we see conference call.
+Along with conference call, sometimes companies do analyst meets and if you
+check here, they have showcased corporate presentation. So they have showcased
+corporate presentation. Again this is signaling that the company is doing a
+corporate presentation if you see the corporate presentation, the company will
+have to look at it for a second. Right? I think it will be visible. In the
+corporate presentation, the company has told us what usage of stainless steel
+is.
+
+[2:19:31]
+Where it is being used, they have the stainless steel of 120 grades. Top 5
+global producers are China, number 1 stainless steel producer in India, so these
+things give you a lot of insight into how to read the business. So how are we
+manufacturing? 2.1 million tons per annum capacity in Jajpur and Isha and 0.8
+million tons capacity in Hesar and the whole sector dynamics is stainless steel
+usage can.
+
+[2:19:57]
+So fastest growing metal in India in use case and corrosion basically is not
+there in the stainless steel use infrastructure stainless steel consumption is
+growing at 7.5% per annum in India and use case is automobile, railway,
+transport, process engineering, architecture, building, construction, consumer,
+durables EBITDA per ton variance they are discussing that their EBITDA per ton
+VARIANCE is the lowest as compared to PL's so if you look at the other PL's,
+they will look at it so their EBITTA PULTUN VARIANCE that is the lowest because
+of backward integration into ROM material so that is also an interesting thing
+that they have talked about so where is it used in the railway like bridges
+right so the whole train stations are used right on the airports are used right
+columns are used then bridges are used in the foundation right columns that I
+talked about so what is driving the demand that they've talked about.
+
+[2:20:51]
+Right. Solar industry. Right. Corporate presentations. Sometimes companies
+upload. Which you can check. Then apart from that. Presentations. Give you a lot
+of detail. What they're expecting in terms of stuff, they're going to basically
+green hydrogen to replace fossil fuels.
+
+[2:21:17]
+Like so like the thermal energy we replace green hydrogen and solar or basically
+wind energy for their own backward integration needs right and that is what
+they're doing so it's a lot of financials thinking it up at a lot of massage is
+all just rate picture that oh possibly twenty five hundred to twenty eight
+hundred crores park a jaya profit after tax a bit of a ton was sustainable the
+company and export duty kya bhaji se badega the bitter button removal ke baad
+bhaapis nineteen thousand twenty thousand picture that and debt to quit ease
+falling but these are some of the ways that you can just check about the
+companies because the entire plant is in the complex of 800 acres.
+
+[2:22:04]
+For anyone to come in and set up a new plant for stainless steel, today it will
+take 4-5 years. In long products, it will take 5-4 years to set up a plant.
+Having a congis or scale in one site itself is like a huge competitive
+advantage. So here we are discussing the cure of this business, so we have seen
+that we can research companies from investor presentations. So here we simply
+check, so just going back to Safari and just checking the volume growth rate. So
+let's see the recent quarter's conference call. And here we simply search for
+volume growth. How much volume growth can be?
+
+[2:22:44]
+So volume growth was 8% quarter on quarter. They said that volume growth was 8%
+and going forward, what do they say? So again, just over here.
+
+[2:22:54]
+So 54% volume growth year on year and going forward what is the expectation that
+they are expecting a volume growth of 22-25% right so confident of achieving
+22-25% of volume growth going forward so again usage of conference call usage of
+basically investor presentation to basically filter stock ideas and to think
+about them that what is going on in this business because general stainless is
+also one of the business which is clearly into stage 2 let's see in the trading
+view when we will do the technical session next week, you will get a lot of
+clarity about what is interesting so let's take the example of general
+stainless, so business is clearly going into stage 2 right and also if business
+is going into stage 2, monthly charts we will see, if we check weekly then we
+will apply weekly exponential moving average here alright so business is going
+into stage 2 and why is it going in stage 2, why is it forming multiple bases if
+you see the bases then this is a base form, then it started breaking out so here
+the vertical formation is a bit started breaking out right so again it just in I
+think a core base formation can the business are so whenever your we stop become
+sideways for a while so it means that the base is being formed so that can be
+interesting So again this is an idea of how to mix stage 2 with fundamental
+triggers and then at the end when we will learn valuations in last class, then
+by mixing valuations, how you can take those decisions about different stocks,
+right?
+
+[2:24:28]
+So how does decision making become stronger about stocks? So This is an idea.
+What happened here? The fall was almost 200 to 902 rupees. Because the
+government of India had put an export duty in the stainless steel export. When
+metals were put on export duty. So that is what led to this fall. So this is an
+idea that how to do conference call and different types of tools of research. We
+find it to be very interesting. Finally, we see a mental model with another
+conference call. That is the idea of geographical expansion to one beverage in
+which we see a lot of products.
+
+[2:25:05]
+Sting was a product that would increase the geographical expansion, so we are
+seeing this in one beverage case for a long time they had a product by doing
+sting which is very fast sale, so sting has been actually growing at some 150%
+and Ebrita margins are also higher in the product of the sting. So here I will
+give you a homework which all of you must do and which all of you should do. I
+will give you three conference calls of businesses here. You have to make notes
+and post notes where we have a discussion forum.
+
+[2:25:36]
+You have to post notes that we have learned these things in this business phase.
+First of all, I am giving you a conference call here in Humbug.
+
+[2:25:45]
+That is simply a business by the name of Narayana Hodyalio so the latest
+quarter's results we will read its conference call and we will use the business
+risk and management framework business is called management if the company is
+saying that the margin is so big and there are so many units, then it will be a
+part of the business the risk is that if the company says that we can have
+regulatory action this sector is socially sensitive then it will be a part of
+the business.
+
+[2:26:09]
+The risk is that if the company says that we can have regulatory action, this
+sector is socially sensitive, then it will be a part of the risk. If the
+management gives any guidance or says that we don't give guidance, then it will
+be a part of the management. So, one thing you do in this business is to do
+homework and do the answer in the dashboard of the crash course. So, the first
+business is discussed by the name of Narayan Ahadya Dev. So, the first business
+is by the name of Gillet India. Gillet India recently came into stage 2.
+
+[2:26:35]
+So in Gillette India, I am also giving you homework because Gillette India has
+recently come to stage 2 very recent entry into stage 2 after a long time, the
+SOIC indicator has also been positive so it is also coming in my screens and
+there is a lot of high volume buying and also the valuations are not extremely
+demanding and also it is a beaten out like no one talks about it So Gillette
+India got a investor day to up go YouTube saying in western day. They're gonna.
+This is the second homework that I am giving you. So I am just writing Gillette
+India, Gillette India, just a second.
+
+[2:27:11]
+Gillette India Investor Day. And you will get their trend line on the investor
+day. Alright, so this is an institutional meet of Gillette India which is a 45
+minutes meeting, you can watch it or you can read the transcript and after
+watching and reading it just summarize the entire thing and post it for
+basically the post it in the dashboard. So this is the work of Gillette India
+and its work. Right, so here you can see Gillette India is a limited analyst and
+an institutional meet. Then we do one more Humbugam, Gillette India, and this is
+done. We take one more company as an interesting one.
+
+[2:27:57]
+We go to some different sectors, we can see it in the auto, we can see in this.
+So let's take a company. I think this is also one of the frequently covered
+company. But let me give you a little bit of an uncovered sector. Give me a
+chance to think about it once. Which different company can I give you? You can
+see the pre-call. You can pre-call here. You can do the concord biotech. So
+again, it's up to you, you can do the first-ever concord biotech conference call
+by reading it, basically you can make its notes in business-risk management. You
+can do it with pre-call. So it's up to you.
+
+[2:28:35]
+We talked about Narayana, Gillette, India, Concord biotech and pre-call. You
+have to work on these three businesses. How to basically go about their
+basically conference call and get insights out of them. And the mental model of
+variant perception after reading the conference calls, what do you want to tell
+me? Which variants of this company are being applied to this company? Just give
+me a moment, alright. Which variants of this company are being applied to this
+company?
+
+[2:29:07]
+This is what you have to do as a part of the homework the homework will be clear
+that what we talked about we talked about the pre-call, Narayana, Gillette
+India, Concord Biotech so we have to do this in all these companies So this is
+our discussion about the conference call. Now we will learn how to find out if
+the companies are doing their con calls for the first ever time. So first ever
+con call or first ever time conference call is going on. So I will tell you a
+way to find it. You can write it on the screen. First con call.
+
+[2:29:41]
+And as soon as you close it, in inverted commas the moment you do it, you will
+get an idea that companies which are doing their first ever con call So they
+will start getting names here So here search for the first con call or the first
+interaction name So if you search for the first interaction name then you may
+get companies Where the first ever con call or first ever interaction is taking
+place you can get an idea there.
+
+[2:30:31]
+You can do it in the name of first investor interaction. First investor meet or
+investor interaction. So here you can see the first ever interaction of
+permanent magnets with investors. So first investor meet, first investor
+interaction.
+
+[2:30:49]
+So first investor need can answer their first investor interaction interaction
+to first investor interactions any more but idea is nonetheless the company is
+meeting you first ever con calls so if you are getting first ever con calls then
+you will see that in conference calls only one con call will be seen sometimes
+what will happen is that screens will guide you to this. As you can see in
+Gillette India, so Gillette India is coming in the screens of SOIC. So if we
+check here, here you can see that first ever presentation was put in the
+quarter, first ever investor day was put in this quarter.
+
+[2:31:31]
+So again these are some of the ways to find out. So in these 4-5 ways, I know
+that these are not perfect, but you will get at least a brief idea when the
+company's first ever presentation or con calls are being made. Let me give you
+another example of a company, Senco Gold Carite. So their first ever conference
+call recently happened, post IPO. So this gives you an insight. So when you see
+only one transcript in con calls, the chances of high is that the first ever
+investor presentation was con called. So this is one of the ideas to find it
+out. So this is our first con call discussion.
+
+[2:32:08]
+We have also taken homework from con calls. And last two three things that we
+will discuss is how you can use Google Earth second thing that we will discuss
+is how to use credit rating last thing that we will discuss is when we are
+attending con call when we are watching all these things from time to time when
+we are storing these things that will be the last thing that we learn in today's
+session. So these are the three things that we will learn. We will derive more
+insights from these three things and then we will have a question and answer
+round.
+
+[2:32:41]
+So here we will start a simple thing, Credit Rating. What is the purpose of
+credit rating? I open a company here called LG Balakrishna Bros. The chain is of
+major manufacture of S-prockets or metal formed components. Basically credit
+rating comes from Iqra, care comes from Crystal, big works also comes from
+Fitch. But we get an idea from credit rating. Like a report card is a report
+card for lenders. They make credit rating agencies. You remember that credit
+rating agencies are biased because they get money paid from the company.
+
+[2:33:23]
+But sometimes they give you very good information about the company where none
+of the information exists. So here we talk about the LG relationship, we study
+all the credit trading once together. And we study business once because first
+what we do is when we have a business from the watch list, we see through credit
+trading that this business is done. So dad gives you a rough insight, do I have
+to study business or not? Should I leave this alone or not? So that is an idea.
+So first let's see.
+
+[2:33:52]
+So when the credit rating is upgraded, that is a positive trigger for the stock
+because it means that the financial performance has improved. So for lenders,
+this company has improved now. Because lower cost of capital is taken. So here
+we see in the credit rating, so the rating outstanding on bank lines of LG, Bala
+Krishna bro Consider the company's strong business and financial performance
+profile and Iqra's expectation of a sustained financial performance in near to
+medium term supported by its dominant market position and strong liquidity.
+
+[2:34:20]
+Company has over 60% market share in two-wheeler chain segment, with a major
+share coming from two-wheeler OEMs. Further, it derives over 30% of its revenue
+from domestic aftermarket, thus insulating its revenue to an extent from any
+downturn in domestic to to wheeler lgb like v is operating margins continue to
+be healthy at 17% and it has remained net net negative ecra expects lgb's
+financial profile and liquidity position to remain strong going forward.
+Revenues grew by 4.8% and 80% of its revenue came from two wheeler industry. So
+slow growing company, right?
+
+[2:34:57]
+Risk care, over the medium term, companies revenues would be vulnerable to risk
+arising from impending electrification of vehicles due to minimal usage of
+chains in two-wheeler electric vehicles versus internal combustion engine, so
+product cure for risk of obsolescence. However, its product diversification
+plans sizable portion of revenues from replacement segment and anticipated
+electric two wheeler and penetration of only 10-12% mitigates the risk while
+LGP's margins are susceptible to variations in commodity prices they pass on
+through negotiation based prices so negotiation based prices.
+
+[2:35:32]
+So, industrial chain companies acquire. Interesting thing here. One second.
+Strengths and weaknesses market chains and alloy components are 79% of income
+two wheeler are metal forming products right and company has established and
+player in two wheeler chains segments with over 60% market share No EM
+constituting to more than 15% of its stop line. So their brand is Rolon and it
+drives 30% of revenues from aftermarket, insulates it from revenue, downturns
+and lower production in domestic 2-wheeler when aftermarket needs are due to the
+chain.
+
+[2:36:16]
+Aftermarket needs because chain gets damaged right now the company is doing it
+on time so the company's margins continue to be healthy and they have moderate
+working capital and moderate KPEX over the next few years and the company has
+unencumbered cash in balances of 470 crores see the liquidity is good and
+everything else is good But what is happening here is that what is the
+weaknesses of the company that move towards electrification can cause the damage
+to the revenues.
+
+[2:36:41]
+Second is that the company is in the process of acquiring ruji strips and Alloys
+and completion of the same will widen companies product portfolio sizable
+portion of revenue from replacement and anticipated two wheeler like cycle of
+new vehicles by 2025 also mitigate risk to an extent and margins are susceptible
+to variation in commodity prices so because of commodity prices, margins can be
+lower and 80% margins are from domestic 2 wheeler industry so after 2 wheeler
+industry, this company is dependent if the liquidity position of the company is
+strong, then there is no chance of bankruptcy but the risk of product
+obsolescence is understood from the company's credit rating so this is one thing
+we saw in their credit rating.
+
+[2:37:24]
+Credit rating is released in every 3 to 6 months. So, let's see one more. There
+is a very interesting trigger in the South Indian Bank in the credit rating. So,
+LG Balakrishna Pro was released. So, I think the stock has hit a new 52 week
+high. And how many of you remember the case study of South Indian Bank in the
+comments multiple times in the sales? Awesome. Awesome, awesome.
+
+[2:37:57]
+Right, so again this is another case study where a positive sign has started
+playing out so what is the positive sign that has started playing out over here
+is that just give me a moment change in management is done, other years has come
+in and another thing that has happened is that their rating has got upgraded to
+credit rating so what does credit rating upgrade mean?
+
+[2:38:24]
+So just over it if you read here then this link is broken half the time the
+website was down on the holidays so we come back here to see so credit rating
+upgrade basically means just give me a second I think we have to open it again.
+Credit rating, all right. It's not open yet, so the BSE website is making an
+error. But if we increase their credit rating here, so basically credit rating
+has been upgraded to care A plus table. So, as the report card says, if someone
+has B or C, then B or C means the company's liquidity commission is bad. A A A A
+A A A means the company is doing well.
+
+[2:39:08]
+So what has happened is why the credit rating has been improved. The revision in
+rating assigned to debt instruments of South Indian bank factors in improvement
+in profitability during FI 23 and improvement in capitalization levels. Right
+company reported a profit of 775 crores versus 45 crores in FI 22. Majorly with
+reduction in credit cost return on total assets improved and the bank has
+churned the book with increased focus on higher rated components and gold loan
+segments. This has enabled in reducing the risk-related assets of the bank and
+capital adequacy ratio has improved.
+
+[2:39:42]
+So basically in the comments is like the credit rating has improved simply
+because of just look at this. How much has the pad gone up? The comments how
+much has the pad improved? Because it was depressed earlier and it is still on
+an improving trajectory right because Q3 and Q4 are the highest in numbers.
+Banks need credit rating. Banks raise the debt instrument in every way. If there
+is no bank, then who will have it?
+
+[2:40:28]
+Banks will have credit rating because they raise all types of insurance, debt,
+debt, insurance, right? Whether it's the HDFC bank, whether it's the best of the
+best organization, you know, because banks run their own business, they need
+credit rating. That is why it happens. But in the South Indian bank, again, it
+is seen from credit rating that profitability has improved, which the credit
+rating agency is also taking a note, right? Let's look at another credit rating
+to find out the business position. I have studied business ethics for 2-3 years.
+
+[2:41:01]
+How many of you attended these case studies of Usha Martin? How many of you like
+looked at the business, studied the business? Great, great. So another one of
+those businesses is Usha Martin's name in which credit rating gave a lot of
+insight into when we were studying in 2021.
+
+[2:41:29]
+So credit rating gave a lot of insight into a simple thing that the deleveraging
+over here right Oh deleveraging make you out of a karza but at the end does the
+debt level increase or decrease during deleveraging So, you do the deleveraging
+the debt decreases right and you do decrease in debt right so it was reflecting
+that interest coverage ratio is increasing which we will learn in this class
+when it comes to interest coverage ratio which means the ability to cover its
+interest payments is increasing right And there was also an idea that this is
+not an ugly duckling but it's a white swan.
+
+[2:42:29]
+UML is the market leader in Indian wire and rope space and top five leading
+player manufacturers globally communicators to various non correlated end user
+sectors like elevators mining container ports fishing among others with a
+considerable market share in each industry. UML has two manufacturing plants in
+India and three overseas, through its foreign subsidies and UMLs, customer base
+is widespread with top 10 customers accounting for 36% of sales. Value added
+products e-sale but e-post hiring of the steel division. UML only manufactures
+value added wire and wire rope products.
+
+[2:43:00]
+Wire ropes are not commodity products. A customer is based on customer
+requirements, thus commanding a higher and more stable realization than other
+commodity products considering UML's leading market position, product approvals
+and closed association with large and user industries in RA believes the company
+will maintain its market share. So, this is what I was expecting. This company's
+thing is quite interesting and what was the agency's expectation of this
+company? 10, 000 to 12, 000 rupees, and a bit more.
+
+[2:43:29]
+So, from these things, I was also aware that there was a risk of crystallization
+of contingent liability. But also, there was this risk that there are
+differences between the two promoter groups over the past couple of years. So
+there are two brothers and there is a fight between two brothers. One is Rajiv
+Jhawar group and the other brother who sells the entire time stop. If you see
+here, one brother is buying. So Peter now is selling the stock of the statement
+because he is getting out of the company.
+
+[2:43:55]
+And the other brother that is Rajiv Jhawar, which is a bridge investment, mutual
+publishing house and bridge family trust. These guys are buying the stock,
+right? Like anything. So the non active promoter is exiting and the active
+promoter is increasing his stake. Right. So that is what has been happening
+within the stock. I think a Peter house. We are talking about Peter house. We
+are still around 10% stake. And another business which has done phenomenally
+well because simply here, when interest costs are reduced, when the loan is
+reduced, the interest costs are reduced.
+
+[2:44:30]
+So again, credit rating was the first thing that gave the insight. Credit rating
+was the major insight that you can read from 2020. The idea was that the credit
+rating was upgraded. All the credit ratings started being upgraded. In the same
+case, Bharatwire was also in debt. We had read an annual report of Bharatwire a
+year and a half ago. And there was a lot of debt and the debt started to fall.
+Just look at the interest costs. It used to be 25-73 crores as it fell into 22
+crores. Again, debt restructuring.
+
+[2:45:03]
+This was also a stock that was still in stage 2 and still was in good valuation
+and still is coming in multiple screens and scans and you should read the credit
+rating. So this is the beauty of reading credit ratings and credit ratings Even
+in credit ratings, when you come up with a new idea, fundamentally, it's just go
+through the credit rating. You will get an idea of what is happening, the mental
+models of variant perception, you will get to know if the credit rating agency
+is expecting improvement in margins or not. Yes or no, what is happening in the
+business or not.
+
+[2:45:39]
+So that is the beauty of using credit ratings. That is what credit rating gives
+you an idea into. Now let's go towards an alternate data set. In an alternate
+data set, If you are analyzing a pharma company then pharma company is a website
+pharma compass pharma compass is a website so why do we use it? Like we have a
+company with a lot of details in recent years. So the molecules that are made in
+the Newland labs, they say that some of our molecules are specialties and some
+of our molecules are commodities. Now how do we know the specialties of the
+specialties?
+
+[2:46:20]
+So we are simply looking at the prices of their APIs from here. So simply we are
+seeing the pricing of their API, but for Kilo realization. Let me show you once,
+if they have put an API here, then business strategy, prime API, that's the
+moment. What can you say here, simply that Palipero Dean is the API of the CMS.
+Now everyone is looking for the first Perodein. People make the first Perodein
+in the speciality business. What we have to do here is search. And the moment we
+search for the first Perodein, we can see the pricing here.
+
+[2:47:03]
+If you do a little bit of play around, you will get a deep insight. What is the
+pricing of Palo Verdein? Let's do a look at the ad. Let's close it. Let's come
+to pricing info. So the pricing of Palo Verdein is that is just a second that is
+50, 000 dollars rupees per kilo right so these are your pricing in different
+countries right different countries have different prices So is it a highly
+priced product or it is a lower priced product? This is super highly priced
+product, right?
+
+[2:47:48]
+Very high in price. Again, these are known as specialty APIs. So, I don't know
+how this specialty is. So, this is a commodity API. Let's talk about ibuprofen.
+Ibuprofen is literally sold in the form of Kilo. Ibu Profine was a scene where
+people were eating in a hurry during Covid times. So let's take an example of
+ibuprofen and let's go to the pricing of ibuprofen. Just over here ibuprofen
+pricing. I am looking at the api suppliers of ibuprofen. So the pricing
+information of ibuprofen you will understand that it is not the website, it is
+the ad that has been added.
+
+[2:48:37]
+Pricing information and you will understand right so I do profane if we look at
+pricing just second I think I do profane if you look at pricing then you will
+see that I do profane pricing is somewhere between I will remove the pricing of
+the ibuprofen. So, how much is it worth to see the pricing of ibuprofen? So, is
+it more commoditized and lower value versus palabarodine? Yes or no in the
+comments?
+
+[2:49:13]
+So is it a very helpful tool to get an idea, pharma compass if any API comes at
+$2-5, 000 per kilo then it is considered expensive that is considered in
+speciality below $100 per kilo is a very cheap API it is considered to be cheap
+one. So pharma business is very difficult, but if we work hard, then we will get
+to know from here. So we studied the pipeline of the new land, so we saw that
+30-40 thousand dollar per kilo is the DMA of APIS.
+
+[2:49:49]
+So that is one of the ways to go about it so this is also a good tool to
+research like we have seen the API for website so we have seen these are good
+tools to research then if we talk about all the tools then You can subscribe to
+some YouTube channel, you can subscribe to a trend line YouTube channel So from
+there you get the conference calls of companies, AGMs, companies, everything If
+you want to see TV interviews, then you can do some interviews on Twitter For
+example, Mangalum Maloo's example Some people do interviews on Twitter, like
+Manglam Maloo.
+
+[2:50:23]
+If we take the example of Manglam Maloo, they post the interviews on travel and
+tour. They are posting whatever they are doing on travel and tour But many times
+they did this with Tata consumers They had a discussion in the jewelry stocks
+Then here They have a lot of TV interviews, like Asian Pains, Promoters expired.
+But different businesses and TV interviews you will find from his twitter handle
+as well. Like Scyth Silk, he had a TV interview here, he had a signature global
+discussion. So almost every company here will get a TV interview.
+
+[2:51:05]
+If you want to see TV interviews in banking, then you can follow them. Take a
+shake on TV. Right, then one more Nigel de Souza can follow them.
+
+[2:51:14]
+Then their CNBC TV18 is better to go to their YouTube channel and watch their
+videos and leave their opinions because they don't invest that much because they
+do interviews so that is what becomes very very important So here we have learnt
+this thing but now how to consolidate all these things Now we learn how to know
+all the data of the company So we learn how to do consolidation and let's see
+the confidence calls We have all the things automatically So here I will share 3
+tools with you which will give us a great idea So one tool that I am sharing
+with you that is by the name of Tejori Finance So what you have to do in Tejori
+Finance is simply you can use it for free You can also use SOIC015 or SOIC010
+for 10% discount So as I am tracking Bajaj Finance So I have put Bajaj Finance
+in my watchlist So basically what I can do is that I can simply add these
+companies to my watchlist and whatever news or TV interview will be released in
+this company, all of it will get reflected on my tijori.
+
+[2:52:27]
+Like in Navin, Florin, One of the businesses we are tracking for 5 years but the
+main thing was that the MD is the main instrumental guy in the company. So the
+moment thesis breaks you exit types right? So here you see that the person has
+exited. So again this is an idea. Then in infrastructure you get to know that
+the infrastructure sector is tracking. Then if any company has an interview,
+then you see like Rolex Ring Com is tracking for 2-3 years.
+
+[2:52:54]
+So spoke with management take away is below so this is a wonderful tool to
+consolidate all your learnings in one you can put the stock in the watchlist you
+will get the results and the confidence call of the stock, all the things will
+keep coming to you here, you don't have to worry about anything right, so like
+we have been tracking Kousha Martin for so long, so if there is any, if there is
+any BSE notification, right, so sapphire food, we have been tracking HBL power
+for 2-3 years now, right, so we are tracking Chola Mandlam, right, so all these
+things So all these things you will get sector give you the news.
+
+[2:53:30]
+So here is a news that 3rd wave raises 35 million by led by Kregis So this is a
+wonderful example of how you can track a lot of companies Like we have put APL,
+Apollo, Sandur, Magnes and Usha Martin in the watchlist So here everything I
+have is about the timeline So This is also a very good thing that you can know
+about companies. You will see on all companies that what is going on in all
+companies. So all the learnings will be consolidated here that there is no
+factual thing on any company. So you can use this.
+
+[2:54:05]
+And as a standard disclaimer, we do have a small tie up with the jory finance So
+we have a 10% discount for our subscribers so that they can use a good tool So
+you can use this information to explore the tool and make an independent
+decision If you have any good tool, then I will tell you if you are interested
+in any conflict or interest. So that you can explore this information and make
+independent decision making. So this is one tool that we use, right, which gives
+us consolidated learnings. Then we use one more tool, it is a tool by the name
+of nodesjoy.
+
+[2:54:38]
+So I think I will just open this on Google. So let's talk about nodesjoy. So
+again, this is a wonderful tool. So you can simply right after reading the
+concourse, whatever you have learned, so you can keep updating them over here
+and here again. So you will save all the things at that time. So solar
+industries is a wonderful example. So this is a way to create a structured
+format of nodes for yourself.
+
+[2:55:24]
+So nodes that you can use. Recently, I have started using Screener more for
+these purposes. So I will open an example like I feel finance. Here you will see
+the option of the notebook. When you see the option of the notebook, generally
+what I end up doing is generally what I end up doing is I am using the
+conference call to make notes. Because I use the screener, so they write notes
+on the conference call. So you can create a new set of notes and save it over
+here. So this is just an example that can be done like in Arman Finance I can
+come in to create a new note right?
+
+[2:56:09]
+So you can write in the note that Arman Finance, if you have heard of Quarter
+Conference called FY24, you can save it by making a note. So this is also one of
+the use cases of it. I think in Equitas, I might have done this. So in Equitas,
+I have been listening to concourses and storing them over there only. Because
+whenever I need to get an idea like the top like those results a price of the 5%
+down it's whenever I need to get an idea that I am thinking to use time because
+I can simply open it along with screener so You can consolidate your learnings
+from the tools.
+
+[2:56:48]
+You will keep going with the company's story. You will see that there will be
+something in the web pages. But again, if you want to consolidate the company's
+stories, then you can connect them with the stories of such companies. I think
+we won't make it in the 90s. So these are the ways to create notes, right? These
+are the ways to go about creating the notes about different companies, right? Is
+it okay? Is it like helpful just in the comments? Is it helpful to store your
+learnings in a notary and today's session is it helpful to you a lot.
+
+[2:57:33]
+Great. Great. Awesome folks. Hopefully, you have paid for the session, the crash
+course, like you are getting much more value versus a price that you paid.
+Because in the next class, when we will learn technical, towards the end, we
+will learn how to make our watchlist ourselves. That is what we will end up
+learning. We will also learn how to make our watchlist ourselves. We will also
+learn how to make our watchlist at the end. Now, one of our last part of today's
+session, I will answer the question, how to check for commodity prices. How to
+check commodity prices for any company.
+
+[2:58:15]
+Although I will be able to talk with you in more detail in this video. But how
+to check commodity prices of any company, let's discuss that. Similarly, we can
+come to Tejori Finance. We can also use this as a paid tool on the screener.
+There is another website which I will share with you. That is free to use. So
+let me open that website as well. Just give me 30 seconds. I'll just open all
+these three things. Just 30 seconds. By website load area, it takes usually some
+10, 20 seconds. If you have a website load, it takes usually 10-20 seconds. Just
+a second.
+
+[2:59:05]
+So I will just open it just over here.
+
+[2:59:14]
+So name of the website is SunSales The name of the website is SunSales where you
+can see different prices of different products so in commodity prices you can
+just check what is the price of a coke, what is the price of energy and
+chemicals so all these things that you can check so it's a free to use website
+so you don't have to spend anything as you see the price of benzene so you will
+get to know the news of benzene and the price of benzene from last 3 to 4 months
+you will get to know the pricing so this is an idea so I will just give the link
+to you in the comments all right over here opening the comments and sending the
+link to you.
+
+[3:00:03]
+So SunSys is a website that you can use. Then apart from that, what you can do
+is that research tools, you can simply go to this raw materials and you can
+check the prices of different commodities and products if you want to. What is
+the price of the phenol and MIBK? You can check the spreads between the raw
+material and the finished product that you're selling. So spreads, you can
+check. You can see the price of metals. As you can see the price of metals, you
+can see here. The price of flat steel is increasing slowly.
+
+[3:00:43]
+The price of the sponge iron of scrap is falling in the last one month, but it's
+been three months. You can see the price of the billets. You can see the price
+of the billets, long steel products, but generally producers can also see who is
+making it. So producers, consumers, you can check everything here. So all these
+things can be seen on the Jory Finance so much more intuitive to DI then what
+can we do?
+
+[3:01:08]
+Like I give you a case study, by dissolving the property a product in which the
+Ashtek Life Sciences was very dominant so the reason for selling Ashtek Life
+Sciences was 1.5 years ago because the pricing of the product was very big and
+the growth was coming Here we see commodity prices in tools. And here we search
+for this one. We took out the HS code from the internet and here we search. So,
+here we could see that the pricing of this product was almost 3 years high. And
+from there it started falling. And you know about case studies, you will find
+more in the twitter.
+
+[3:01:45]
+I will also retweet for you. I will search here as a hashtag. Let's go to an
+advanced search. Let's write hashtag. Let's write SOIC finance. We wrote a
+detailed thread. We covered it in business originally in 2020. And just over
+here, yeah. Why over earning is a deadly mental model. So here was one, then
+one, we wrote that, yeah. We covered commodity prices here. It's too expensive
+that the commodity price is like this is a deadly one, like this is a deadly one
+when sales growth is driven by pricing growth, I mean when molecules increase in
+price, I retweet it, why is it deadly?
+
+[3:02:34]
+Now you will see in a year what is deadly these are fundamental pointers if you
+are not so smart in technicals we will cover them in July 22, I think stop price
+has taken a 30% beating. So I will retweet this entire thread for you that is on
+top line growth and what are the different ways to look at sales of a company.
+So these threads are worth reading right. So I will add this thread in the
+highlight. I have already added it in the highlight. The important threads here
+are added in the highlight. You can know the meaning of QIP. You can know the
+books to read from the beginning.
+
+[3:03:12]
+You can know the top line. So all these things are over there, balance sheet,
+cash flow, so you can take a read, like this is written from a beginner friendly
+perspective, right? So these are ways you can check out commodity prices. HS
+code is put in Google and in the screen, but it was paid feature as screener. As
+a standard disclaimer, we don't have any type of Swiss screener, right?
+
+[3:03:32]
+So you already know that there is no financial interest or conflict of interest
+which is where we want to be very very truthful with you right so again more or
+less all the case studies that we have done and a lot of tools that we have
+covered in today's session and finally use this mental model for better
+learnings, right? And the screener, we saw the sheet that we saw the customer,
+the custom made screener then you have to use scans and mental models and you
+have to do this in confidence calls.
+
+[3:04:01]
+So before concluding the session, so the new tribe members here, the new to the
+session, so we'll be basically giving you an offer to renew as well. Just in
+case if you want to renew, so you can use these two offers. If someone wants to
+sign up for SOIC membership, you can use these two offers in the comments below.
+And these two offers are valid for the next 4-5 days. You can use them and you
+can become a SOIC tribe member. SOIC tribe members also have a notification. On
+22nd October, the session is being done at Indian Habitat Centre from 9.30 am
+onwards.
+
+[3:04:48]
+This time, time we'll be releasing the tickets like tomorrow only so tickets ka
+usra po participation fee hai waha pe jobi holka ka cost hai because lunch like
+three dine snacks and everything is included and also there's like two big
+projectors and there'll be a offline SOIC trial Sunday League and like so it can
+be 500 to 600 SOIC trial members. But I will highly suggest that the moment
+registrations is out you should register for it and I think fee will be very
+minuscule like triple nine somewhere around that. So the moment the
+registrations are open, please it's basically there.
+
+[3:05:25]
+Basically we are expecting a very like large audience. So 22nd October, the
+session is and we have the hall till 6pm in the evening. So we have the hall for
+8-9 hours. So the whole day will be SOIC day and we will have a lot of learnings
+on that day. And we will have like offline question and answer. We will interact
+with each other a lot. So That is what the community is there for because that
+is the beauty of the community. After that, we will go back to Pune, Bangalore,
+Mumbai and Sughrat every month. Once a month, we will keep that trip. So I have
+sent you the basically SOIC membership.
+
+[3:06:04]
+If you want to become a part of the tribe, so if there's a 10% off on the SOIC,
+basically membership, right? So if you want to become a tribe member, right? So
+with this, we'll conclude the session and whatever questions that you have, I'll
+be willing to take your questions. And I'll be willing to take your questions.
+So I'm opening the comments. So ask responsible questions. Please don't ask a
+buy-sell. I'm here to take all your questions for the next 30 minutes. All right
+folks, opening the comments. How Google Earth, right? So Google Earth, I'll show
+you once. So this is a good question.
+
+[3:06:46]
+So once I show you Google Earth, I'll show you the last one. This one was our
+learning. So we can see that we can simply go to an option by the name of Google
+Earth. We can explore Google Earth and get an idea. If we want to check in any
+company, suppose I have to see the plant of Venus pipes I have to see if the
+plant is real or fake so I can at least go to Google Earth and I can just check
+see the plant is real and around the plant they have a lot of area as well. So,
+if you have an area around the plant, do further Kpex. Here as well, Kpex can be
+there and here as well.
+
+[3:07:27]
+This is how much you can see. So, if you have an area around the plant, do
+further Kpex. So, this is one way to find out. Then we look at SRF plant. SRF
+plant is a city in its own way. Right, so here we look at SRF plant in Dahiage.
+So this is SRF plant, right, so if you check here, this is a very cool feature
+to use. Let's check here. Actually, actually, the plant is quite big.
+
+[3:07:59]
+So, this is the entry to the plant this is the entire plant right so this entire
+piece of land right this this this this this this this this this and here that
+So this entire piece of land belongs to SRF and this area seems empty, this area
+seems empty, means for brownfield KPEX, here everything can be KPEX, this area
+seems empty, this area seems some bit empty, this area also seems empty, but
+rest of the area is full fill. So ties up with the guidance that they have used
+60% of the area, 40% is left. So we can do a diligence check. You can see the
+plant in the complete actual.
+
+[3:08:43]
+It's a very cool feature to use. And we can check the plant's, how the plants
+are configured. And I think the largest plant is called P42 A single dedicated
+molecule is planted for them. I think it's probably... It will be somewhere here
+only but it's very difficult to tell from the top. A molecule is planted for
+them. But is it helpful like looking at Google Earth just to get an idea of the
+trends in the comments. Great, great.
+
+[3:09:31]
+Awesome. Awesome books. So any other question like related to today's session
+please ask question. I can't give you any opinion like the, I've taught you the
+exit strategy, the entry, the SOIC course, how much you should teach. So You
+have to independently side your emotions and think about it. Any other questions
+related to today's session? Tejori code I think just try SOIC 015. Will there be
+discussion about class 2 assignment? No Pranav, assignment up Karke ek baari,
+daali ek baari discussion forum pe, there we will take a look at it.
+
+[3:10:30]
+SOIC Research, you can just check it on the SOIC research website. So this is
+this is different from education. This is a like biocell forum if you want to
+check the S.O.I.C. Ambassador is purely an educational activity. So you can
+check the S.O.I.C. Research website for all the details related to it. I will
+suggest you to read the credit rating. So come to the screener and what you can
+do on the screener is that you read the credit rating of 4-5 companies on the
+screener. I will make a small video for you and put it on Twitter as I have just
+put it on the EPFO data.
+
+[3:11:13]
+If it is difficult to see the EPFO data, you can see its recording. And then
+what you can do is that here we have used an EPFO website so here we have made a
+video which will be helpful to all the investors I add it in the highlight add
+to the highlight so now if you come to our profile and see the highlights then
+you will see all these interesting links what is investment letters and how to
+find it right I have told you about the trading QIP's Suman, if you want to get
+an idea about QIP you can just look at the thread of QIP if you have put it
+here, you can read about QIP from here.
+
+[3:12:02]
+Great. SRF will take some time to start, because they are doing KPEX now, so
+actually there will be a deal leverage in this, then there will be a leverage.
+Look at the horizon of 4-5 years, it will have to go on like this. Which
+investors to follow? You can follow Ashish Kachalia, you can follow Samit Varda,
+you can follow Mukul Mahavir, you can follow Vijay Kedia, All these good
+investors you can follow. The link. Meeting link, I think tomorrow, Monday and
+Tuesday, we will release over your email ID.
+
+[3:12:40]
+Technical analysis session, we will also release a weekly crash course number
+and SOIC try members, you don't need to register for it again. So that is a
+part. Right. If you want to like so SOIC crash course that basically that is a
+part of S.O.I.C. Membership only. So you can subscribe to the link in the
+comment section below and over here you can get. Alright, just a second.
+
+[3:13:38]
+Alright. I will tell you in the next session what settings you have to use. You
+will get recordings of previous session in the SOIC crash course on your
+website. You can search for warrants and you can just basically get an idea.
+Right. So exit strategy I'm seeking is for a shaggy class.
+
+[3:14:23]
+So exit strategy we will learn in Suresh Agil class. You will have to wait for a
+week. Next class folks. So another thing for you. In next class, it can be 5.5
+hours class. I will give 2 breaks in between. So please come prepared like that.
+So it will be 1 to 6pm. We will take 2-1.5 hours break in between. So please be
+prepared accordingly. Just drop a heli as if you are excited for it. It will be
+5 hours class. I will give you 2.5 hours hours. So, please come prepared
+accordingly. So, next Sunday, you have to keep your empty. So, next Sunday, the
+whole hackathon will be done. Right.
+
+[3:15:02]
+Exit strategy will also be taught in it. Right. Reverse merger of. So again,
+again, 12% arbitrage is when that one has like six months, that one has done
+really well. Great. So, special situation that we will do video on YouTube
+because I will put everything in this course then the course will increase
+because we will do video on YouTube with the star we have done a video basically
+on this topic before great, Transyl oil will be attending Great.
+
+[3:15:57]
+Transal I'll be attending. No site or plant visit allowed for retail individual
+investors. Or will you have to check with the investor relations team? Nowadays,
+a lot of retail investors go away but you have to go back a little. Plug-in
+developed by SIC tribe member telegram I have no monetary thing involved.
+
+[3:16:50]
+So, just over here, I think I have retweeted it. You will find me on Twitter
+handle where I retweeted it. So, just over here, you can basically check it over
+here. So I'll just also comment, this is the plugin folks. I'll just comment
+over here. So you can basically, it's free to sign up and get basically you can
+just add and get So whatever you get from our SOIC tribe you will get free
+learning, there is no monetary thing involved So Srinjeen is doing well Suresh,
+What is the answer to this?
+
+[3:17:39]
+Even in front of you, there is a business, so it is very difficult to tell how
+many times it is covering last three years. At least, it has increased its
+concoils. It has got a New order from zoetis for manufacturing and biologics.
+Manufacturing organization can be interesting. Good question. Value bigger video
+was awesome. However, there were some distractions that different people have
+different methods. What do you suggest for a beginner which approach one should
+follow? Ravi, I think As a beginner you have to focus on avoiding losses.
+
+[3:18:17]
+So, I think you should focus initially on fundamentals and then mix with
+technicals. The next 6 hours session can also be done. So, I will clear your
+technicals as fundamentals. After that I will clear the valuation in 5-6 hours
+session. So, After these 3 classes you will not have any doubt that what to
+follow, what not to do. You will be able to make your own watchtowers. Only 2-3
+weeks of patience and hopefully all your things will get solved. LTI indicator,
+until next Sunday. So I'll also get our like admin tip. You sit and watch. Yeah,
+MCX has done well.
+
+[3:19:02]
+No doubt. Excel sheet. We'll put the name of the all the investors that you must
+follow on the excel sheet. So we will do it right away. And when you see the
+course, you will get additional links in the course. Right. Fino, I don't track,
+sorry. In-depth book on valuation analysis from Indian market point of view
+please suggest two books to read. So Ginesh you can read book of value by Anurag
+Sharma then you can read masterclasses, super investors. Both of them will get a
+good idea of valuation. So these are the two books worth reading. There is a lot
+of application in the Indian context.
+
+[3:19:42]
+Autoanswering is good. Autoanswering sector is in tailwind today. We think this
+is good. I don't know any variant perception of election, Sandeep. So I don't
+know. BJP wins, Congress wins. I don't know. So stock specific query may be very
+difficult. So ask a good question about the concept, like the rest of you. So
+for those who are attending new today, so what we'll do is that we'll basically
+I'll just post the course link in the like comment section below if you want to
+join.
+
+[3:20:34]
+So that is that and yes, so I see crash course chalra abhi poore course ko 25 30
+hours may ab like bridge karke daal re. Right. How do I identify tailwinds and
+headwinds? Ramesh next Sunday. Next Sunday, technicals end of m watchlist. So
+let me just summarize all the learnings before conclusion. So today we saw that
+we should consult on the calls. We saw the investor's recommendations, credit
+ratings. We saw that when companies call first ever, that is also important. We
+opened the website of EPFO and saw how the number of employees can get data.
+Then we also learned how to use Google Earth.
+
+[3:21:15]
+Then we took out different insights in different businesses. We also learned the
+meaning of operating leverage and operating leverage plays out. Then we made the
+last Sunday's screener our custom screens. That is just a continuous class. That
+is why we have to use the thought process and what are the different tools to
+research. We talked about NodeJoy, Tejori, and Screener and we saw how we can
+consolidate our learnings. The regulation of the wind sector has changed,
+definitely. Because first, the envelope was actually open bidding, now it is.
+
+[3:21:52]
+Regulations change definitely and because first the envelope actually opened up
+bidding it was a race to a death in terms of prices but now on the building say
+people have started making money again but here proxies are there like proxies
+like a tohka sanghi movers on a proxy but again cyclical business so you should
+understand exit strategy so those things are basically available so those type
+of companies are there operating leverage it business may be more to do with
+product companies like Radegane, IDA, New Gen services companies are also coming
+when the top line growth is very fast the cooperating leverage is also coming
+there importance of technical analysis for long term investors Rohit, good
+question, next Sunday I will definitely take this Rohit right there is no
+confirmation of the recording of offline session so I will highly suggest you
+definitely visit in person because that is what the beauty of those sessions is.
+
+[3:22:46]
+Awesome folks, Which is a good book to read for CFA exam. So actually I am going
+to read it slowly so that I can read it for everyone. Too many proxies for power
+sector. How to go about it. Can iftp read it. How does dynamic cables compare
+with PGA or polygab. When are you launching it. The app is already ours. So for
+the CFA exam, you can give the CFA curriculum. You can read the notes of the
+Shwester. You can do a Fintry, an online teaching institute. You can read it
+well on CFA. You can see from them, they teach well. They do the whole crash
+course in a month or two.
+
+[3:23:29]
+That guy teaches really well. It's a valuation book. Don't worry, I will give
+you a suggestion of 6-7 books. Book of Value and Masterclass for super
+investors. Too many proxies for power sector. How to go about it? Sunit, there
+is no other way.
+
+[3:23:45]
+Genco's will be 10-12% ROE businesses Transomer will be made but like in the
+world, almost 15-20% will be in the promoter But companies like Shilcher are
+there And then in other ancillaries, you will get smart meter Contractors will
+get smart meter Then you will also find companies who will make magnet
+assemblies for those smart meters like permanent magnets, then you will get
+shunts like shawalik biometallic type, So all those stories are there which are
+there in the markets right. Dynamic cables actually a little bit in the
+business. There is no growth rate.
+
+[3:24:24]
+Stock re-rate is a lot Nitin but KEI and poly-cab is the best. Then KEI is very
+good. Dynamic cables you have to follow your technical exit systems very very
+stringently. So just wait for till next Sunday you will learn a lot actually.
+Right awesome. So let's meet next Sunday. This class is homework that definitely
+you do it and let's meet next Sunday. As a part of our fourth class, we will be
+on technical analysis and we learn everything from scratch, be prepared and
+hopefully you will definitely love the session and Let's meet next Sunday folks.
+
+[3:25:01]
+If you are excited for it, just drop by Hell Yes. And if you learnt a lot of
+things today, just drop by Hell Yes. So teaching how to value banks and stuff we
+have already taught but that is a core R class great awesome folks let's meet
+next Sunday let's meet let's meet on next Sunday how shall it be peak margins
+for it in a week right So again we have to be careful but again we have to
+understand the part of the exit strategy of satellite and core. Hopefully folks
+let's meet on next Sunday and have a great Sunday ahead.
+
+[3:25:49]
+Thank you. Thank you everyone. Bye. Thank you folks. Bye bye. Thank you
+everyone. Have a great Sunday. Bye.

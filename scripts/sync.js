@@ -155,6 +155,34 @@ sidebarConfig['/verification-queue/'] = [
   }
 ];
 
+// Add Transcripts sidebar
+const manifestFile = path.join(rootDir, 'public', 'data', 'transcripts', 'manifest.json');
+if (fs.existsSync(manifestFile)) {
+  try {
+    const manifest = JSON.parse(fs.readFileSync(manifestFile, 'utf-8'));
+    const transcriptItems = [
+      { text: '🎙️ Transcripts Library', link: '/transcripts/' }
+    ];
+
+    ['l3', 'fa', 'chk', 'cc'].forEach(sub => {
+      if (manifest[sub] && manifest[sub].length > 0) {
+        transcriptItems.push({
+          text: courseNames[sub] || sub.toUpperCase(),
+          collapsed: false,
+          items: manifest[sub].map(t => ({
+            text: `${t.lectureId}: ${t.lectureTitle.length > 32 ? t.lectureTitle.slice(0, 30) + '...' : t.lectureTitle}`,
+            link: t.pageUrl
+          }))
+        });
+      }
+    });
+
+    sidebarConfig['/transcripts/'] = transcriptItems;
+  } catch (err) {
+    console.warn('Could not parse transcripts manifest for sidebar:', err);
+  }
+}
+
 fs.writeFileSync(sidebarJsonFile, JSON.stringify(sidebarConfig, null, 2));
 console.log(`🧭 Auto-generated dynamic sidebar configuration: ${path.relative(rootDir, sidebarJsonFile)}`);
 

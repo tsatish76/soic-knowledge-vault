@@ -191,5 +191,171 @@
         }
       ]
     }
+  ],
+  "/transcripts/": [
+    {
+      "text": "🎙️ Transcripts Library",
+      "link": "/transcripts/"
+    },
+    {
+      "text": "L3: Corporate Valuation & Strategy",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "L3_Lec02: Why Valuation Matters + Odd Me...",
+          "link": "/transcripts/l3/L3_Lec02"
+        },
+        {
+          "text": "L3_Lec03: Art of Business Valuation-Diff...",
+          "link": "/transcripts/l3/L3_Lec03"
+        },
+        {
+          "text": "L3_Lec04: How Buffett Actually Invests? ...",
+          "link": "/transcripts/l3/L3_Lec04"
+        },
+        {
+          "text": "L3_Lec05: Portfolio Allocation Approach",
+          "link": "/transcripts/l3/L3_Lec05"
+        },
+        {
+          "text": "L3_Lec06: Part 1 Valuation Across Indust...",
+          "link": "/transcripts/l3/L3_Lec06"
+        },
+        {
+          "text": "L3_Lec07: Part 2 Finding Intrinsic Value...",
+          "link": "/transcripts/l3/L3_Lec07"
+        },
+        {
+          "text": "L3_Lec08: Part 1 Financial Modelling",
+          "link": "/transcripts/l3/L3_Lec08"
+        },
+        {
+          "text": "L3_Lec09: Part 2 Financial Modelling",
+          "link": "/transcripts/l3/L3_Lec09"
+        }
+      ]
+    },
+    {
+      "text": "FA: Mastering Fundamental Analysis",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "FA_Lec01: Class 1 Fundamental Analysis",
+          "link": "/transcripts/fa/FA_Lec01"
+        },
+        {
+          "text": "FA_Lec02: Class 2 Financial Statements",
+          "link": "/transcripts/fa/FA_Lec02"
+        },
+        {
+          "text": "FA_Lec03: Class 3 Cash Flow Statement",
+          "link": "/transcripts/fa/FA_Lec03"
+        },
+        {
+          "text": "FA_Lec04: Class 4 How to Filter Epic Sto...",
+          "link": "/transcripts/fa/FA_Lec04"
+        },
+        {
+          "text": "FA_Lec05: Class 5 Research a Stock from ...",
+          "link": "/transcripts/fa/FA_Lec05"
+        },
+        {
+          "text": "FA_Lec06: Q&A Session",
+          "link": "/transcripts/fa/FA_Lec06"
+        }
+      ]
+    },
+    {
+      "text": "CHK: TVGP Framework Checklist",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "CHK_Lec01: Class 1 Theme Part 1",
+          "link": "/transcripts/chk/CHK_Lec01"
+        },
+        {
+          "text": "CHK_Lec02: Class 2 Theme Part 2",
+          "link": "/transcripts/chk/CHK_Lec02"
+        },
+        {
+          "text": "CHK_Lec03: Class 3 Theme Part 3",
+          "link": "/transcripts/chk/CHK_Lec03"
+        },
+        {
+          "text": "CHK_Lec04: Class 4 Spotting Growth Busine...",
+          "link": "/transcripts/chk/CHK_Lec04"
+        },
+        {
+          "text": "CHK_Lec05: Class 5 Spotting Growth Busine...",
+          "link": "/transcripts/chk/CHK_Lec05"
+        },
+        {
+          "text": "CHK_Lec06: Class 6 Bonus: Spotting \"J Cur...",
+          "link": "/transcripts/chk/CHK_Lec06"
+        },
+        {
+          "text": "CHK_Lec07: Class 7 Screening Non-Linear B...",
+          "link": "/transcripts/chk/CHK_Lec07"
+        },
+        {
+          "text": "CHK_Lec08: Class 8 Read Management Like A...",
+          "link": "/transcripts/chk/CHK_Lec08"
+        },
+        {
+          "text": "CHK_Lec09: Class 9 Part 1 Valuations",
+          "link": "/transcripts/chk/CHK_Lec09"
+        },
+        {
+          "text": "CHK_Lec10: Class 10 Part 2 Valuation",
+          "link": "/transcripts/chk/CHK_Lec10"
+        },
+        {
+          "text": "CHK_Lec11: Class 11 Part 3 Valuation",
+          "link": "/transcripts/chk/CHK_Lec11"
+        },
+        {
+          "text": "CHK_Lec12: Class 12 Part 1 Financial Mode...",
+          "link": "/transcripts/chk/CHK_Lec12"
+        },
+        {
+          "text": "CHK_Lec13: Class 13 Part 2 Financial Mode...",
+          "link": "/transcripts/chk/CHK_Lec13"
+        }
+      ]
+    },
+    {
+      "text": "CC: TVGP Crash Course",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "CC_Lec01: Class 3 | Finding Multibaggers...",
+          "link": "/transcripts/cc/CC_Lec01"
+        },
+        {
+          "text": "CC_Lec02: Class 4 | Tools To Find Multib...",
+          "link": "/transcripts/cc/CC_Lec02"
+        },
+        {
+          "text": "CC_Lec03: Class 5 | SOIC Exit Strategies",
+          "link": "/transcripts/cc/CC_Lec03"
+        },
+        {
+          "text": "CC_Lec04: Class 6 | Joining the Financia...",
+          "link": "/transcripts/cc/CC_Lec04"
+        },
+        {
+          "text": "CC_Lec05: Class 7 | SOIC Method Explaine...",
+          "link": "/transcripts/cc/CC_Lec05"
+        },
+        {
+          "text": "CC_Lec06: Class 8 | SOIC Method Explaine...",
+          "link": "/transcripts/cc/CC_Lec06"
+        },
+        {
+          "text": "CC_Lec07: Class 9 | Valuations Decoded (...",
+          "link": "/transcripts/cc/CC_Lec07"
+        }
+      ]
+    }
   ]
 }

@@ -1,0 +1,1548 @@
+{
+  "lectureId": "CC_Lec06",
+  "subcourse": "cc",
+  "rawFilename": "Lec06_class-8-soic-method-explained-valuation-part-2-transcript.txt",
+  "lectureTitle": "Class 8 | SOIC Method Explained | Valuation Part 2",
+  "courseTitle": "Crash Course",
+  "totalDurationSeconds": 10921,
+  "totalDurationFormatted": "3:02:01",
+  "totalCues": 256,
+  "cues": [
+    {
+      "id": "cue-2",
+      "timestamp": "0:00:02",
+      "seconds": 2,
+      "text": "Hi everyone, welcome to the second part of the valuation webinar series. And the second part of the valuation webinar series, what we'll do is that we'll try to cover as many sectors as possible. We'll try to learn the idea of P2P analysis. And along with P2P analysis, what we'll do is that we'll ask questions to you throughout the session and once the session is done we'll have a Q&A round and Q&A round can be done by Pari so some of you emailed us so we'll just send you a Google form so that all the questions are visible. So we will take the good questions which are related to the concept."
+    },
+    {
+      "id": "cue-34",
+      "timestamp": "0:00:34",
+      "seconds": 34,
+      "text": "We won't be able to answer any buyer sell questions. And throughout the session what we will do today is that we will be learning the idea of valuations across sectors through multiple case studies and examples. So I'll just make sure that all my spreadsheets are open because those spreadsheets will really help you in terms of P2P analysis and also will help you in terms of getting to no key, what are the key variables which drive a business valuation. So with this, without further ado, I'll just start the session."
+    },
+    {
+      "id": "cue-68",
+      "timestamp": "0:01:08",
+      "seconds": 68,
+      "text": "So just a standard disclaimer that I must say is a research analyst and like so we have a different arms for both one is education, one is research And in the educational forum, we don't give any biocell recommendation. Anything mentioned over there will not be a biocell recommendation, purely and purely for education purpose. So let's start with this. And starting where we left off yesterday. So yesterday we learned about the idea of why valuations are important, why high PE, high margins and overowning categories can be a deadly cocktail. We discussed the example of Alkayla wines."
+    },
+    {
+      "id": "cue-102",
+      "timestamp": "0:01:42",
+      "seconds": 102,
+      "text": "Then we discussed if you have a portfolio of very high PE stocks, what could be the potential performance that can be there? And then we also discussed this idea, what is a derating and derating event that a haunted house becomes a house where airport is coming. So haunted house no one wants or airport wale ghar gohar gohi jaad hai."
+    },
+    {
+      "id": "cue-122",
+      "timestamp": "0:02:02",
+      "seconds": 122,
+      "text": "So that is what we discussed yesterday and along with that we also saw that what are the PE ratio and what are the multiple aspects of PE ratio right so in today's session first we'll start with D rating and D rating events that D rating is there, why is it there and we'll take multiple case studies. So first is invert always invert. What is P re rating and what is P re rating? A very very simple question to ask you. So I will ask you all what is P re rating and what is P re rating. First tell me what is P re rating in the comments. What is the idea of P Rerating? What do you think folks?"
+    },
+    {
+      "id": "cue-158",
+      "timestamp": "0:02:38",
+      "seconds": 158,
+      "text": "What does P Rerating mean? P is going up, increase of P P doubles, P is increasing. Perception has turned favorable. Market realizes. Some events happen due to which liquidity enters. Great by a great answer. When a business starts getting higher multiple due to forward of future prospects. More demand of that stock. Great. When market is bullish on that particular stock, margin expansion, market cap increases without increase in EPS, great."
+    },
+    {
+      "id": "cue-208",
+      "timestamp": "0:03:28",
+      "seconds": 208,
+      "text": "Attitude changes towards the business, operating level, demand crosses supply perception changes positively. So a lot of good answers. So just to show you one small example of PE Rerating same business exact same cash loss and how does PE Rerating take place. So same business exact same cash flows and just look at what has happened. Now this is a business where they know cupid limited and they make like female contraceptives and just to give you an idea is that earnings more or less have been at the same juncture."
+    },
+    {
+      "id": "cue-249",
+      "timestamp": "0:04:09",
+      "seconds": 249,
+      "text": "So you will see that in 2020 there was a 40 crore patch, 21 to 29 crores patch and today it is at 26 crores. But what has happened to the stock price? Can anyone tell me in the comments what has happened to the stock price? What has happened to the stock price? Last six months make your stock price go. Stop price has nearly tripled, right? Last 6 months, what is the stock price? Stock price has nearly tripled. Stock price has nearly tripled. Great. Great."
+    },
+    {
+      "id": "cue-292",
+      "timestamp": "0:04:52",
+      "seconds": 292,
+      "text": "So, in such a short period the stock price is tripled so I am not asking you that when this liquidity is in stock then again the re-rating is done What do you think could be the potential reason? Could be there. Could there be some catalyst? Institutional buying, change in management, definitely value realisation, big investors enter, premium product, great product introduction."
+    },
+    {
+      "id": "cue-344",
+      "timestamp": "0:05:44",
+      "seconds": 344,
+      "text": "Again, what did the sim catalyst here? That the company got acquired. So, if you look at it, again when the news was out, cupid acquisition universal halwaasi agrobin colombia betrochem acquired the company and this was on 12th September management change notice came here. So I think you can check it here on 12th September. Stock price has started to go up earlier because India has a better network effect. So 12th September that is over there. If you look here, it was up some like 20-30%. And the moment the news was announced, it has again doubled. More than doubled actually."
+    },
+    {
+      "id": "cue-389",
+      "timestamp": "0:06:29",
+      "seconds": 389,
+      "text": "If you look here, it was on the 886. And the PE got re-rated in spite of no material change in earnings. If you look at earnings, the earnings are flat. So this is what we call change in management happening. And this is what we call that there is some catalyst which has entered into play. Here, the story, like if there is a railcar, when will the train be built? Something or the other happens when some changes happen. This is known as re-rating events."
+    },
+    {
+      "id": "cue-419",
+      "timestamp": "0:06:59",
+      "seconds": 419,
+      "text": "So re-rating or de-rating is very important because sometimes there is a sectoral re-rating which happens and sometimes there is a sectoral de-rating which happens. So another small example to show you when the sector itself got re-rated to multiple times. So, simple example like this recent times which over so again this is one of the businesses which I studied just post IPO but never acted on it so again one of the sectors if you are just looking at the defense sector right any stock here would have done well. So astra microwave is also a stock here."
+    },
+    {
+      "id": "cue-456",
+      "timestamp": "0:07:36",
+      "seconds": 456,
+      "text": "Like, yeah, this is the 131 40 way gradient. But yeah, any stock within the defense sector would have done well because this is sectoral re-rating which played out. What is sectoral re-rating is basically whenever catalyst enters into play for the entire sector So you have to remember that 60% of your returns just remember this 60% of your returns depend upon the sector that you are getting into If you come to a correct sector at the right time then re-rating is a game of probability and possibility."
+    },
+    {
+      "id": "cue-487",
+      "timestamp": "0:08:07",
+      "seconds": 487,
+      "text": "Remember we learned relative strengths in the technical analysis class, we made filters that were attended by L5 Geno. So all these things matter a lot over there, where you can find that the entire sectors are re-rating. Now another question to you. Those who have seen the 2017 or 2018 markets, those who have seen the NBFC banks, post-ILNFS, which sector got derated together which sector got derated? Derate which sector got derated?"
+    },
+    {
+      "id": "cue-532",
+      "timestamp": "0:08:52",
+      "seconds": 532,
+      "text": "NBFC and housing sector right?"
+    },
+    {
+      "id": "cue-535",
+      "timestamp": "0:08:55",
+      "seconds": 535,
+      "text": "So NBFC and housing sector together like together derated when basically basically island FS crisis was to NBFC's for funding environment try up and you do that funding environment dry up, what ended up happening is that the entire sector got derated so those things also tend to happen so whenever there is a sectoral breakdown, remember this, write it down somewhere whenever there is a sectoral breakdown, remember this write it down somewhere whenever there is a sectoral breakdown so what happens is that markets, what is the market thinking when sectoral breakdowns are happening?"
+    },
+    {
+      "id": "cue-570",
+      "timestamp": "0:09:30",
+      "seconds": 570,
+      "text": "In the comments what do you think books? Ed wins There is a ghost there who are priced No growth Growth turns into degrowth earnings collapse PED rating, correction in stock price, stage 4, great, stage par lens, liquidity goes away from that sector. So before I go forward, why do you think liquidity will go away from a particular sector? Big investors, why do they sell off or why do they go away from a particular sector? Unki psychology, so much like that. Why does institutional money start exiting a sector?"
+    },
+    {
+      "id": "cue-616",
+      "timestamp": "0:10:16",
+      "seconds": 616,
+      "text": "Probable reasons why do you think so folks it happens. Fear. Ornings might go away for a while. Interesting one. Nobody wants to get trapped probability of lower returns both might go away negative news negative news. Great, great, bad sentiments. Everyone is trying good answers."
+    },
+    {
+      "id": "cue-663",
+      "timestamp": "0:11:03",
+      "seconds": 663,
+      "text": "Great, great. Money locked away, like so. Actually what happens is like, I give you a little more detail in the answer that it has been done. So one thing you have to remember is that there is something which is known as the Marshmallow experiment. There is something which is known as the marshmallow experiment. I will show you a video of the marshmallow experiment. But marshmallow experiments in stock markets make what works in different ways as compared to what is shown in real life. So let me show you the example of Marshmallow experiment."
+    },
+    {
+      "id": "cue-695",
+      "timestamp": "0:11:35",
+      "seconds": 695,
+      "text": "So because all these things are psychologically tied up to the event of derating and derating. So all these things are tied up to Marshmallow experiment. So let me just type here Marshmallow experiment. Awesome folks. So the Marshmallow experiment and let's just play this out. And let's just look at the kids and it's a very fun thing to see. I'll just close my camera and all of you can watch it."
+    },
+    {
+      "id": "cue-742",
+      "timestamp": "0:12:22",
+      "seconds": 742,
+      "text": "Okay, isn't that your? All right, here's the deal. Marshmallow for you. You can either wait and I'll give you another one if you wait, or you can eat it now. When I come back, I'll give you another so then you'll have to stay in here and stay in the chair till I come back. All right. I'm going to go do something and then I'll come back."
+    },
+    {
+      "id": "cue-823",
+      "timestamp": "0:13:43",
+      "seconds": 823,
+      "text": "Okay. You can have it now are you can wait. Okay. Okay. Stay in the chair. Okay. Okay."
+    },
+    {
+      "id": "cue-872",
+      "timestamp": "0:14:32",
+      "seconds": 872,
+      "text": "Okay. All right, so I'm going to leave and then I'll come back Okay. So you can either eat it right now or you can wait either way. Okay. Okay. How'd you do? Did you do good? You did? You want to eat it, didn't you? So, So what do you think are your key learnings from the marshmallow experiment?"
+    },
+    {
+      "id": "cue-945",
+      "timestamp": "0:15:45",
+      "seconds": 945,
+      "text": "Instant gratification, delayed gratification, need to have patience to get more not many can wait great It's all about patience, will power, tempted, Sabar ka pal meet hot hai. Desire and control. Great. Am ne sabar gaya, etna sabar gaya ki, folly is right. So there is a very interesting take away on the marshmallow experiment. So there are two types of take aways."
+    },
+    {
+      "id": "cue-991",
+      "timestamp": "0:16:31",
+      "seconds": 991,
+      "text": "So we will have two, three take aways discussions. Because see valuations at the end are also linked to sentiment. So sentiment is very important before we go to the math part of it. Because without studying the sentiment, there is a bit risky point. Right. So marshmallow experiment actually may there are two things that marshmallow experiment teaches us just to remember right so there are multiple things that teaches us actually man so first thing actually may the marshmallow experiment teaches us is delayed gratification."
+    },
+    {
+      "id": "cue-1032",
+      "timestamp": "0:17:12",
+      "seconds": 1032,
+      "text": "So actually this is something that is important to remember is that multiple times what I've seen is that suppose if you have a 70 to 80 percent gain in a stock if 70 to 80 percent gain in a stock What ends up happening is that if you have like suppose if you're making a 3-4 bagger in a stock So every 3-4 bagger starts as a 70 to 80 percent gain So numerous times what I've seen is that There is Merisat bhi hoi, Kaafi loko sath bhi hoi hoi hain We end up exiting early, early exits Early exits kyuki achha khasa 70-80-90 percent ka gain over How many times has it happened with you?"
+    },
+    {
+      "id": "cue-1075",
+      "timestamp": "0:17:55",
+      "seconds": 1075,
+      "text": "Where you should have ridden the entire trend but So many times, right? Interesting. Right? Interesting. Regularly happening. Great, earlier happened but now using we stopped, great."
+    },
+    {
+      "id": "cue-1122",
+      "timestamp": "0:18:42",
+      "seconds": 1122,
+      "text": "Interesting, right? So this is something that happens in terms of delayed gratification, you should have ridden the entire trend. Another thing what happens, another thing what happens is that without full knowledge without acquiring knowledge we dip into a thing without acquiring knowledge we dip into stuff because what comes to your mind? Who will spend this much time? This is also something that arises."
+    },
+    {
+      "id": "cue-1152",
+      "timestamp": "0:19:12",
+      "seconds": 1152,
+      "text": "A good thing with all of you is those who are attending this session or those who will be watching the recording that you are displaying delayed gratifications because you're willing to attend sessions of 4 to 6 hours. Hit up at least delayed gratification display career because you're trying to pick up nuggets from the session which you can apply in your own journey. So again, you're doing Marshmallow experiment in a way. Another thing is how it works in Mr. So Mr. Market, there are multiple ways in which Marshmallow experiment works."
+    },
+    {
+      "id": "cue-1179",
+      "timestamp": "0:19:39",
+      "seconds": 1179,
+      "text": "It is also linked to the D-Rating event also and also sometimes the crowd is also correct. So one way in it, through which it works is that money chases highest rate of return. Always remember this money chases highest rate of return. Why so? Because suppose if there is an advisor, if there is a mutual fund, if there is a pension fund, there is any type of fund. At the end, what are all these funds measured on towards the end of the day? That is returns. That is returns. Now there is a different take to Marshmallow experiment."
+    },
+    {
+      "id": "cue-1223",
+      "timestamp": "0:20:23",
+      "seconds": 1223,
+      "text": "Now just looking at that child who was there and he chose to forego the Marshmallow, right? Now what if he waited for 10 minutes? Now what if he waited for 10 minutes and towards the end of the 10 minutes he wasn't given the marshmallow and the marshmallow that he had in hand was also taken away. What do you think would have been the child's reaction? What do you think folks? Frustration being denied, being denied what he thought was he like belonged to him? Great, right?"
+    },
+    {
+      "id": "cue-1272",
+      "timestamp": "0:21:12",
+      "seconds": 1272,
+      "text": "So, trust deficit, great. So, this also happens, right? So, this is a different take on markets. Now suppose if there is a stock, let's say, it is at 75 XP and you know from here that the E part will collapse because 42% margins are not sustainable for example, 38 to 42% k rangement. Right, this E part is not sustainable, right. You won't get the marshmallow in spite of waiting for it, even if you wait for it for two years. What do you think in this scenario? Will there be a derating event or a re-rating event? What do you think will happen folks?"
+    },
+    {
+      "id": "cue-1318",
+      "timestamp": "0:21:58",
+      "seconds": 1318,
+      "text": "There will be a derating event. There will be a derating event. So this is precisely what happens in stock markets at large. This is precisely what happens in stock markets at large, right? 5, 10 years, everyone knows, businesses are doing well, but what ends up happening is that if there's a near term headwind, which comes up, right? If there's a near term headwind, which comes up, which might last for two years, So money is always chasing highest possible sources of return. So that is something that you are not guaranteed of the marshmallow that will come."
+    },
+    {
+      "id": "cue-1361",
+      "timestamp": "0:22:41",
+      "seconds": 1361,
+      "text": "So this is why at a high P and if there is headwinds that come people end up exiting and there is a derating event that happens. But if you just look at this, post 2018-2019, do you think the profits have been demerged after 2023? Do you think that the profits have still reached to the 2018-2019 peaks. What do you think folks? Has it happened? Has it reached to the 2019-18 peak and what happened in 2020?"
+    },
+    {
+      "id": "cue-1414",
+      "timestamp": "0:23:34",
+      "seconds": 1414,
+      "text": "Right? Profits got killed because this cyclical business wholesale ending, whenever real estate cycle was doing good, so they were making good profits, but they got killed by the NPA for 2-3 years. Now, there are a lot of volumes in stock, so I don't know what is happening, we'll study it independently."
+    },
+    {
+      "id": "cue-1439",
+      "timestamp": "0:23:59",
+      "seconds": 1439,
+      "text": "But this used to be, again, one of the darlings of the market back then and it has always been like this I think the list to a time say it's a cyclicality stock can the type of assistant right so something to remember is that whenever derating events happen they are mostly followed by a drawdown in earnings and whenever there is a drawdown in earnings then from P if your intrinsic part is gone, only transactional part is left. If the earnings are going to fall over next 1-2 years, do you think that the transactional value will increase or will it go down? What do you think folks?"
+    },
+    {
+      "id": "cue-1472",
+      "timestamp": "0:24:32",
+      "seconds": 1472,
+      "text": "Will the transactional value increase or will it go down? It will go down. Is it getting clear or not? Very clear. What is the fundamental reason for a stage 4? Awesome, awesome. Right, so I'll just repeat is that whenever there is a derating event that happens, it usually happens because earnings are falling. So, yesterday we studied that PE is full of two things. PE is made up of intrinsic value and transactional value. Intrinsic value is based upon the view of earnings, see how the earnings will grow and transactional values based upon sentiments."
+    },
+    {
+      "id": "cue-1523",
+      "timestamp": "0:25:23",
+      "seconds": 1523,
+      "text": "So if the earnings of an asset are going away, the sentiments will also go away. For those who have learned technicals in the earlier crash course class, So just remember this is that if there is a sectoral breakdown happening, that is perhaps one of the worst times to be invested in a particular sector. Worst times best time to be invested in a particular sector is specifically whenever the sector is itself in a markup phase, that is one."
+    },
+    {
+      "id": "cue-1550",
+      "timestamp": "0:25:50",
+      "seconds": 1550,
+      "text": "Secondly, when you think that the, like when the, so this requires a bit of expertise in deep value investing, you feel that the breakdown is done and after the breakdown, you are analyzing it again, that the value is emerging from here. So we will discuss the examples for that. But the worst time to be invested in a sector is whenever there is a sectoral breakdown that happens. Coming back to a derating and re-rating point. So re-rating and derating happen because of multiple reasons. So re-rating of a stock happens because earnings become more consistent from volatile."
+    },
+    {
+      "id": "cue-1583",
+      "timestamp": "0:26:23",
+      "seconds": 1583,
+      "text": "The earnings are consistent from the volatile. So let me ask you another question. Those who are watching the recording as well because it's fun to teach through questions. Now suppose if you're driving a car, if you're driving a new car and you're driving the car and suppose you're driving on a particular road which is full of potholes, do you think that the drive quality will be smooth? Will you keep having that feeling in your mind? Dangerous, right? Great, so that is the type of feeling that you will keep getting."
+    },
+    {
+      "id": "cue-1625",
+      "timestamp": "0:27:05",
+      "seconds": 1625,
+      "text": "Now the second type of feeling that you get is that suppose if you are driving a car and the road is completely, it's like a Hyderabad road, it's that type of road and you can really like enjoy the quality of the ride. What do you think is happening over there? Is the road quality consistent? Is the road quality clean? What do you think folks? Will you enjoy the ride over there? Will you completely enjoy the ride? Consistent trust building, must ride, smooth ride. Great, great. So, yeah, you can be cautious."
+    },
+    {
+      "id": "cue-1668",
+      "timestamp": "0:27:48",
+      "seconds": 1668,
+      "text": "So speed will also be fast, but at least you will end up enjoying the ride versus driving a car, let's say on a Mumbai road where there can be a lot of potholes or a Bangalore road, which are a lot of potholes."
+    },
+    {
+      "id": "cue-1680",
+      "timestamp": "0:28:00",
+      "seconds": 1680,
+      "text": "Versus a hydro bar road which is extremely smooth right so that is what is happening in businesses at large so here I'll be giving you one or two works and here I'll be discussing one or two things is that first let's take an example of a business by the name of Newland Laboratories right so just over here right so earnings of the business has been volatile or lumpy because of simple reason that the pipeline of the business is building up, the molecules."
+    },
+    {
+      "id": "cue-1706",
+      "timestamp": "0:28:26",
+      "seconds": 1706,
+      "text": "Even now, they have 3 new molecules, FF25, MAT26, MAT26, nobody knows anything about it, but in the coming 2 years, there is so much to be known. If you see the growth in the market, and earnings have started becoming more consistent of a business, that is a signal that there could be a re-rating event that plays out in the company. I think if significant P re-rating new, it is purely because of earnings growing, but significant P re-rating still hasn't played out. So, will you agree with this?"
+    },
+    {
+      "id": "cue-1747",
+      "timestamp": "0:29:07",
+      "seconds": 1747,
+      "text": "Are you understanding that significant re-rating hasn't played out in the business looking at the earnings that have grown and the Pyrirating is still at what price? 20-25 times agree we are still selling at 24.5. Why hasn't this significant P-Rating played out because markets are still skeptical that these earnings are consistent. So this is where you'll read the concourse that management keeps mentioning sustainable momentum, sustainable momentum. Now another question that I will ask you because we are trying to identify variables, we are trying to identify market kya sushhti hai."
+    },
+    {
+      "id": "cue-1793",
+      "timestamp": "0:29:53",
+      "seconds": 1793,
+      "text": "If you think that the earnings become consistent, what do you think is the probability what happens? Consistent for one or two quarters or three or four quarters. P might be right. Now this probable there is no certainties in stock market. You cannot see the Q and A. But just a question worth asking, if the base pipeline is big for the business, if the margins sustain at 25-30% which used to be 10-15%, what do you think is the probability that happens? Whether it is in 2 years, 1 year, or 1.5 years."
+    },
+    {
+      "id": "cue-1840",
+      "timestamp": "0:30:40",
+      "seconds": 1840,
+      "text": "I will discuss the examples of variables with you. So, this is how you start thinking about stuff because Aik now what say report of which all of you should read is that this one consistent volatile right. There is a report by Moodila Lhospal on consistent and volatile. Is that biggest wealth creation in the stock happens when a volatile asset class when something that is volatile in nature where earnings are volatile in nature something that is volatile in nature turns more consistent. Let me show you another example. This is something that can be seen SRF example right."
+    },
+    {
+      "id": "cue-1885",
+      "timestamp": "0:31:25",
+      "seconds": 1885,
+      "text": "From the thing here in the middle there was a sideways phase then there was a markup that stock went from 344 to 2020 2020 euro why so? Because again that the earnings earnings to the company that went from being volatile to consistent just focus on this this focus on this part that now here we will see the earnings here were volatile for almost three financial years. Then what happened? That earnings again blasted up. So earnings again started increasing. You can check the growth rates."
+    },
+    {
+      "id": "cue-1919",
+      "timestamp": "0:31:59",
+      "seconds": 1919,
+      "text": "You almost three financial years, the earnings were trapped in the same corner and then when it started blasting what happened to the stock price?"
+    },
+    {
+      "id": "cue-1926",
+      "timestamp": "0:32:06",
+      "seconds": 1926,
+      "text": "It was a 5 year trend, if you are missing a 1 year trend but still you can catch the 5 year trend from 2019 suppose you missed a 1 year trend here, 8.30 bear, let's suppose but then still you had a three-bagger journey to go that is something to remember is that whenever stocks enter a sideways movement is that probably markets are thinking earnings can be a problem here so that is what how markets think similarly if you look here what happened so what has happened is that the earnings of the chemical business has started growing or the earnings have started becoming flat lined."
+    },
+    {
+      "id": "cue-1959",
+      "timestamp": "0:32:39",
+      "seconds": 1959,
+      "text": "So again, this is a test of patience. So like money will move money probably if it won't move out. So in good businesses, the trend starts sideways. Right? Almost in 2021, you will see that the stock price has peaked. So it peaked before the earnings peaked. This is important to remember that the stock price peaked before the earnings peaked because markets were thinking that it could be over-earning. I am discussing with you the example because when you can purely appreciate this session after 4-5 years, whenever you are doing this fundamental analysis yourself."
+    },
+    {
+      "id": "cue-1992",
+      "timestamp": "0:33:12",
+      "seconds": 1992,
+      "text": "And there is almost 2 years of sideways consolidation that is almost more than 2 years. If the next 3-4 quarters are earning software then again there could be a sideways consolidation that happens. In good businesses that is what ideally happens. But once it again becomes consistent, so once a volatile asset class, if something that is volatile can be earned, if it becomes consistent? What do you think happen folks? De-rating or re-rating? Do you think volatile asset class is consistent?"
+    },
+    {
+      "id": "cue-2027",
+      "timestamp": "0:33:47",
+      "seconds": 2027,
+      "text": "This is one of the major learnings which all of you can check from here is that whenever a volatile asset class turns into a consistent asset class, the maximum amount of re-rating happens over here and this is something that you must understand. When you spend time, because these are things we generally don't appreciate and once you start appreciating these things, it becomes very interesting. So just over here, the highest returns are given by stocks where consistent companies where volatile companies became consistent."
+    },
+    {
+      "id": "cue-2065",
+      "timestamp": "0:34:25",
+      "seconds": 2065,
+      "text": "So consistent companies from volatile sectors delivered the highest return. Consistent companies from volatile sector delivered the highest returns over 2007 to 2022. Right so this is something that you must remember that if a volatile asset class just over here So what is the consistent asset class? Suppose HDFC Bank which grows every year at 10-15-20% So there's consistent SEAL or NICS Kotak Bank, similar example Right?"
+    },
+    {
+      "id": "cue-2110",
+      "timestamp": "0:35:10",
+      "seconds": 2110,
+      "text": "These are consistent asset classes which keep brewing every financial year types Now what are volatile asset classes? Volatile asset classes are those something like an SRF. You know that in two years, downturns usually are in agro, and then there is a three, four year up cycle, which has always happened in the past. And two year downturns, we are already got like done with two to three quarters already. Two to three quarters are already over in a 2 year downturn and 3-4 year up cycle. So almost there is another 1 year of downturn left but we don't know when the market starts discounting."
+    },
+    {
+      "id": "cue-2141",
+      "timestamp": "0:35:41",
+      "seconds": 2141,
+      "text": "So whenever a volatile asset class will something like this happens, in many businesses whenever a volatile asset class turns into more consistent. What happens? The returns earned by investors are the highest. The returns earned by the investors are the highest in this type of category. This is a must read paper for you. This is a must read paper for you."
+    },
+    {
+      "id": "cue-2164",
+      "timestamp": "0:36:04",
+      "seconds": 2164,
+      "text": "This is a must read because your framework, even if you're a purely technical analyst, if you just have a view on the earnings, if you just take it from this session, that it is important to make a view on earnings that what is the business doing differently. I've shared the report with you from volatile to consistent. If you can just create that view on the earnings aspect of it, it will do extremely well when it comes to stock markets. And your allocation decisions will start changing. You will observe that. So I am sharing thread with you. Which all of you must read."
+    },
+    {
+      "id": "cue-2196",
+      "timestamp": "0:36:36",
+      "seconds": 2196,
+      "text": "So he is a really good guy one of the investors which we respect a lot so Jitain Parmasar and just over here he is written a thread So we can study the thread together as well, and then we'll go to just over here. So we've seen that some of these consistent companies are delivered zero returns for last one or two years. So just over here is written a thread. So that will give you a very good idea. Why valuations matter and why it is important to respect it. My way or the highway? Though I respect all investing style, I must call out few who try to paint what they don't own as cyclical."
+    },
+    {
+      "id": "cue-2234",
+      "timestamp": "0:37:14",
+      "seconds": 2234,
+      "text": "I think an understanding of cycle is required, all stocks are affected by business cycles and market cycles by varying degrees. So, let's see what he says. To generate alpha and to do well in markets, I believe an understanding of both are required that is market cycle and business cycle. So, yes, they might have low business cyclicality, for example, FMCG companies, but they get affected by market cycles. There are periods often, there are periods and often long periods when they keep coming up where they keep on growing, but there's no growth in stock price."
+    },
+    {
+      "id": "cue-2268",
+      "timestamp": "0:37:48",
+      "seconds": 2268,
+      "text": "History is littered with such examples. There are nothing but market cycles. We probably are in such period for now many stocks. I think this he wrote almost two years back where all these things started. So between 2011 to 2011 the stock gave zero returns between 2011. Then the stock give a 10x return between 2011 to 2021 in this period to sales double but the post this period it is flat down right Why will it stagnate for some more time? It is possible. One observance is whenever valuations run in the head of fundamentals, these market cycles clear out. So, there is always a one excuse."
+    },
+    {
+      "id": "cue-2308",
+      "timestamp": "0:38:28",
+      "seconds": 2308,
+      "text": "There is an excuse for re-rating. It becomes a catalyst, Management changes, margin expands, industry cycle turns positive. There is also a possibility of derating. Today I will discuss the defence theme, which is the derating of the order book. What is the narrative of this theme? What do you think of its derating catalyst in the comments? Multiple risks, from today, you already know what will be coming. Cash flow problems, government spending stops, regulatory change, receivables increase, budget deficit."
+    },
+    {
+      "id": "cue-2354",
+      "timestamp": "0:39:14",
+      "seconds": 2354,
+      "text": "So already the re-rating is that order execution is not at the right time. The order inflow has stopped. The standing orders have been cancelled. Last week this has also happened. Other re-rating events could be that a lot of competition has come in so there's pricing walls for bidding so margins start crapping out. So again, derating event. So this is important to note that whenever valuations run way ahead of fundamentals, the whenever there's a catalyst like this that plays out, set total breakdown here, quite a d-rating went out."
+    },
+    {
+      "id": "cue-2390",
+      "timestamp": "0:39:50",
+      "seconds": 2390,
+      "text": "So you have to make sure that you exit correct on time, either use valuations to exit or use technicals to exit or use a mix of two. The last class we have taken a key how to use reverse DCF and a combination of your basically V stops to take an exit. So will it stagnate for some more time? It's possible. One observance is whenever valuations run out of fundamentals, these market cycles play out on understanding of market cycle is quite important for investors. Storytellers will never tell you this even if they are aware."
+    },
+    {
+      "id": "cue-2420",
+      "timestamp": "0:40:20",
+      "seconds": 2420,
+      "text": "One can have a view that they will not invest in companies where business cycles are deep. That's fair. I tried to marry all the learnings I have learned over the last three decades, and understanding and accepting various cycles try to generate those higher returns. We try to perform across cycles as there are different cycles playing out in different cycles at particular time. We never say our style is superior. It's just one way which we understand has worked for us for a very long period of time. There are other ways and other styles that also work. One must have the humility to accept it."
+    },
+    {
+      "id": "cue-2448",
+      "timestamp": "0:40:48",
+      "seconds": 2448,
+      "text": "It's never my way or highway in investing. So I'll just read to read this and just write words of wisdom so that all of you can read words of wisdom, wisdom, Alright folks, so these are important things to understand here we're eating or derating business cycles because I'm going to go capital returns a book suggest curry because That is where your understanding will increase. So just hear why re-rating, de-rating events play out. Because of cycles. Then re-rating, the deleveraging ends up happening."
+    },
+    {
+      "id": "cue-2495",
+      "timestamp": "0:41:35",
+      "seconds": 2495,
+      "text": "We have discussed a lot of the examples of Usha Martin in the sessions. I think the stock already has 2-3-4 baggers and this is an example that we have discussed. In sectoral re-rating, we discussed a lot of the examples of cable and wire. The entire sector re-rated, whether it is polycap, KEO, dynamic cable or phenol, but we primarily discussed examples of KEO and polycap. Then there is a new management, like in Cupid, so when it is not possible, it is something to be seen because private equity is something that has to be skeptical."
+    },
+    {
+      "id": "cue-2524",
+      "timestamp": "0:42:04",
+      "seconds": 2524,
+      "text": "Removal of issues, management changes, earnings become more consistent from volatile. That the business has reached the stage where the earnings will start becoming more consistent over a period of 2-3 financial years. That is where the re-rating events take place. So these are the same things that I have put you in the presentation. We have discussed this slide again and again. But I will ask you and you give me an answer. On the web technologies."
+    },
+    {
+      "id": "cue-2569",
+      "timestamp": "0:42:49",
+      "seconds": 2569,
+      "text": "JSL. You learn Kilburn Kilburn. I'm going to talk about it. I'll discuss the screening maybe. Elikon. Right. Another question. Corporate actions or special situations like reverse mergers or all these things. What do you think folks? Any examples that to your mind? Hold great deleveraging when the company starts shedding of debt and product mix change or KPEX. All these three things combined."
+    },
+    {
+      "id": "cue-2615",
+      "timestamp": "0:43:35",
+      "seconds": 2615,
+      "text": "What do you think anything that comes to mind books? Tilak Naga Industries, great. I've been in GPIL, nice. PEN-R industries are interesting one. Bharatwaiyos, Kovai Medical, great, great. Interesting, right? So again, there are multiple operating leverage that I gave you yesterday. There are multiple such case studies that keep playing out in markets and these are nothing but your catalyst for re-rating to happen."
+    },
+    {
+      "id": "cue-2656",
+      "timestamp": "0:44:16",
+      "seconds": 2656,
+      "text": "Just remember this or write it down somewhere if a stock is Z rating with the sector doing well so these are just the behavioral learnings that I'm trying to enforce into you math part where my input because Math part is a bit more boring, this part is very interesting. Just over here, just over here. I will just share the screen with you so that these are interesting. So, NOS is nothing but basically if you just, just a second. Just a second. NOS, last minute. NOS got the same line."
+    },
+    {
+      "id": "cue-2702",
+      "timestamp": "0:45:02",
+      "seconds": 2702,
+      "text": "So NOS is a very interesting thing. NOS is something that if you just press on it, then what happens is that the car starts running really fast because it's type of a gas that basically releases you do which the car starts running at a really really fast pace. So I'll just show you one example over here, NOS test. I think yeah I think yeah I'll just and just in the other question. Why? Let's do an example. What happened?"
+    },
+    {
+      "id": "cue-2779",
+      "timestamp": "0:46:19",
+      "seconds": 2779,
+      "text": "Basically, in Nitrox oxide or NOS is something that if you just click on it, so basically it just goes like 100 kW speed, So that is something that happens because of these catalysts that comes into play and if the catalysts are coming into play with the sector doing well, you're sitting literally on nitrox oxide because you're just clicking that 60% return to sectoral return. When do companies de-rate? Exactly when do companies de-rate?"
+    },
+    {
+      "id": "cue-2808",
+      "timestamp": "0:46:48",
+      "seconds": 2808,
+      "text": "The reason is that earnings become more volatile like in the case of chemical companies, api companies issues like headwinds, sectoral de-rating happens, high rate, no demand, all these things start playing out So whatever plays out in variant perception, the B rating scenario plays out. And these are things that you must understand. Now just going forward because today's session will be two hours because multiple sectors to cover. So this is one of the slides which I keep showing again and again."
+    },
+    {
+      "id": "cue-2840",
+      "timestamp": "0:47:20",
+      "seconds": 2840,
+      "text": "And you tell me your learnings that what are some of the learnings that you derive from here because this is a very important slide. So you will start understanding the importance of peg ratio here. What is the meaning of peg ratio? Just over here and just over the camera. Great. Just over here. Alright. Just a second. Right. So, P ratio, for all these multiple mega winners, the stocks which have done supremely well, what were the starting multiples for these companies? Companies and what the growth rates have been like."
+    },
+    {
+      "id": "cue-2895",
+      "timestamp": "0:48:15",
+      "seconds": 2895,
+      "text": "Is one thing for sure, the earnings are growing at 20% plus. At least I agree with each other. The earnings are growing at 20% plus for all these companies which are down supremely well in the markets. What do you think folks? More than 20% earnings are visible to everyone. Great. Now second question to all of you. He is starting PE and any company which has 80, 90 or 100? Can you see any company which has 80, 90, 100 or 120, 130, 150, 190p, 250p or something like that?"
+    },
+    {
+      "id": "cue-2944",
+      "timestamp": "0:49:04",
+      "seconds": 2944,
+      "text": "Not above 35. Mostly between 10, 15, 20, 25 types. Right? So, whenever you are again, I am stress again, if you are paying some 80, 100 or 160 P, the assume that your, means the chance of re-rating, you have taken it from re-rating. The probability of re-rating and the possibility of it, when you are in the stock market, you are having fun, when you are in the multi-bag, when you are in the 100-bag book, there are two engines of growth. One is the earnings start growing and the second is the PE start CD rating. Why are these companies compounded as 70%?"
+    },
+    {
+      "id": "cue-2990",
+      "timestamp": "0:49:50",
+      "seconds": 2990,
+      "text": "Do you think any business's 10-year earnings will compound at 70%? The answer is absolutely not. Maximum earnings can grow at 34-35% for 10 years. Not more than that. If the earnings of Bajaj finance grow at 34% why did the market cap compound by 70% is simply because PE went from 10 times to 43 times. So in examples, at least our last two sessions, at least we are clear that entry multiples are important. Just drop a list in the comments and you will realize that I am not going to give 70 recipes for any stop. That's it. I think beyond 35-40p if you are paying it starts becoming risky."
+    },
+    {
+      "id": "cue-3030",
+      "timestamp": "0:50:30",
+      "seconds": 3030,
+      "text": "Meaning you are taking future returns from your own. So you have to multiply the monthly charts with the doctor's issue. It may be re-rated once and it will be 60-70 but you will have to do the exit. Where 70-70 CSEP is, you can't expect 3-4-5 baggers there. You are expecting compounding returns over there. By chance if the PE holds an earnings row at 20-25% you can't expect it will keep going up 80-1900% every year. Is it something worth expecting if something is at 70 PE or 80% compounded?"
+    },
+    {
+      "id": "cue-3076",
+      "timestamp": "0:51:16",
+      "seconds": 3076,
+      "text": "What do you think folks? Is it something that is reasonable to expect? It is highly improbable. It is highly unlikely. Chances are low. Yeah, Pee, misleading adharshan, that we have already discussed. That we have already discussed. Right. Great. Great. Great. Make sure that it grows at 25%. If it's growing at 10-12%, so you'll have to sit on a lot of time correction, pain period."
+    },
+    {
+      "id": "cue-3121",
+      "timestamp": "0:52:01",
+      "seconds": 3121,
+      "text": "Anyways, you're getting 10-12% in earnings compounding, so it's not fun, right?"
+    },
+    {
+      "id": "cue-3125",
+      "timestamp": "0:52:05",
+      "seconds": 3125,
+      "text": "So, if you're buying 70 B stock, make sure that the earnings are growing at 25-30% types this is a beverage company example here, you see earnings growth, so the peg ratio is quite low because of that If you are paying that type of multiple make sure that the earnings go as such that it compensates for even if the PE multiple D rates Like the average PE multiple is 60 times of the business If the PE suppose if the earnings go at 30% for 3 years, PE multiple degrades from 70 times to 60 times So even on exit, it's not like even after being multiple degrades, the Bs by Stucka will become a compounding But in some of the businesses where you are buying for 100P and the earnings are growing at 10% What will happen?"
+    },
+    {
+      "id": "cue-3166",
+      "timestamp": "0:52:46",
+      "seconds": 3166,
+      "text": "If the earnings keep growing at 10% and if the multiple collapses from 100 to 50 times, at least 4-5 years of returns are gone. So that is something that you need to make sure. I think when I said this in Bangalore's tribe meet, who was in the offline tribe meet? Anyone was there? So in the tribe meet of Bangalore, our discussion was about KPIT versus D. I had a discussion with the KPIT versus D Martin high P. The KPIT growth rate 60 70% are. This is why if you're paying a high P for it, it might make sense."
+    },
+    {
+      "id": "cue-3199",
+      "timestamp": "0:53:19",
+      "seconds": 3199,
+      "text": "But if you are demanding 250 B, where the growth rates have slowed down, so again it could be riskier. But now even KPID has gone to some 85-90 B. So again, we have to use stop there. But that is something to remember if you are paying extremely high multiples, paid when the growth is extremely high or when the growth is very certain. But make sure to remember that you cannot have irrational expectation, or you will get 4-5 bagger there."
+    },
+    {
+      "id": "cue-3224",
+      "timestamp": "0:53:44",
+      "seconds": 3224,
+      "text": "Expectation compounding returns you need to do a rational expectation that is possible but make sure that you can beat nifty as we saw in the session yesterday But now coming to the very important part that we have seen in the line of variables in variables maybe there are certain type of businesses which are very difficult to value we cannot value them why so let's see so lower the variables easier to understand the value larger the variables the harder it is to understand thus out of circle of competence very simple question Something that is very simple to understand is that I'll just ask all of you."
+    },
+    {
+      "id": "cue-3267",
+      "timestamp": "0:54:27",
+      "seconds": 3267,
+      "text": "Is that a hospital business? What do you think folks in the comments? Is it easy or difficult to understand? Kpex understanding is the key part right? ARBOB will be more or less than anyone There is a value hospital or a liver transplant It is sold for 30 lakhs Reasonably easy right? Now another question An exchange business is it easy or tough to understand the rain industries?"
+    },
+    {
+      "id": "cue-3328",
+      "timestamp": "0:55:28",
+      "seconds": 3328,
+      "text": "Has he ever thought about rain industries? I tried understanding it for 3 months, 3 months later I also lost. So, it is easy to understand business like Lupin or difficult. Right? Wherever there are multiple moving parts because today we will be learning how to do a SOTP on Laura's labs."
+    },
+    {
+      "id": "cue-3362",
+      "timestamp": "0:56:02",
+      "seconds": 3362,
+      "text": "So you'll see that if there are multiple moving parts in the business comes extremely challenging to value and where we say that it is important to remember this is something that he also says right just over it so yeah wait what important line right so when Charlie and I buy stocks we think as small portions of businesses our analysis is very similar that we use in buying entire businesses We first have to decide whether we sensibly estimate an earnings range 5 years out. What are we talking about the earnings range of 5 years out?"
+    },
+    {
+      "id": "cue-3399",
+      "timestamp": "0:56:39",
+      "seconds": 3399,
+      "text": "That you should understand here that if the answer is yes, we will buy the stock if it sells at a reasonable price in relation to the bottom boundary of our estimate. Which we made the estimates of forward P.E. That he is trying to do 3 to 4 to 5 years out. 3 to 4 to 5 years out, if it is in single digit, if it is cheap, if it is easier to understand. Do you think he is doing something similar that we learned yesterday for what peaky ranges? Do you think folks? Absolutely not. He doesn't do a DCF. Right. Do you think he's doing something similar that we tried to learn yesterday? Great."
+    },
+    {
+      "id": "cue-3443",
+      "timestamp": "0:57:23",
+      "seconds": 3443,
+      "text": "Now, this is again, a little bit additional part, but this is what is something that is happening. Then he also mentions, if however we lack the ability to estimate future earnings, which is usually the case, we simply move on to other prospects. In 50 or 4 years we have worked together, we have never foregone an attractive purchase because of macro or political environment. So this noise is removed from the mind. It is completely noise that if this political party is done, it will be like this, it will be like this, it will be like this, it will be like this, it will be like this."
+    },
+    {
+      "id": "cue-3474",
+      "timestamp": "0:57:54",
+      "seconds": 3474,
+      "text": "You always get opportunities bottoms up. This is something that I have learnt that you have to invest in spite of being scared. There are many people who are scared. There are news stories, I asked you a question. Have you ever seen a news being printed? Is that everything was good in the country today? And there is nothing to report. Have you ever seen a newspaper like that? Have you ever? If someone only reads the news and doesn't win in real life, they will think that people are going to die every day."
+    },
+    {
+      "id": "cue-3506",
+      "timestamp": "0:58:26",
+      "seconds": 3506,
+      "text": "Sometimes North Korea will bomb, sometimes Ukraine will do something, sometimes something will happen. So you will always think you are going to die. So, that is something to remember is that political or macro environment, you will always keep finding businesses something to remember. Right. So by circle of competence, we are talking about circle of competence is nothing is that just just a minute, but they will not be. Yeah. But circle of competence is nothing but this larger variable of outcomes, right?"
+    },
+    {
+      "id": "cue-3550",
+      "timestamp": "0:59:10",
+      "seconds": 3550,
+      "text": "Because problem got the large variables of outcomes, that the biggest problem is that I discuss with you, here I will give you a small example. We have made many case studies for you. We will discuss all the things that are being done in each sector. But the biggest problem is that sometimes it works wonderfully. Sometimes when it doesn't work, it becomes very difficult. Like this is the example of the lawrence. Similarly, I think between Newland and lawrence, what is there in lawrence? There are five businesses. First, I should consider the five business."
+    },
+    {
+      "id": "cue-3586",
+      "timestamp": "0:59:46",
+      "seconds": 3586,
+      "text": "Then I should consider the value of the five business drivers. Then I should consider the margins of the five business. Then I should consider the key drivers of the five business. Do you think it's an easy task? What do you think folks? I should go to a business and see the tender Then I should go to a business and look at the tender, then I go to a business and look at that. Do you think it is easy? There are a lot of moving parts. Simple question, why do you think the re-rating? First of all, tell me why did the re-rating event happen?"
+    },
+    {
+      "id": "cue-3630",
+      "timestamp": "1:00:30",
+      "seconds": 3630,
+      "text": "Two lines if you can tell me what what caused the re-rating in the business when it went 5x. Operating leverage margin expansion and why did it had operating leverage play out because of ARV stocking up ARV stocking up SOTP valuation which I will teach today why D rating? Can anyone tell me? Even today, there are many retail investors who cannot tell the reason for D rating. One of them went away."
+    },
+    {
+      "id": "cue-3677",
+      "timestamp": "1:01:17",
+      "seconds": 3677,
+      "text": "I will tell you a simple thing. The molecule of $40 was $5. What do you think will happen in that scenario? $40 molecule left at $5. Will there be erosion of pricing? Correct. So, again business wise no doubt what they have done is phenomenal and sector also did well."
+    },
+    {
+      "id": "cue-3715",
+      "timestamp": "1:01:55",
+      "seconds": 3715,
+      "text": "So you can play such things when the sectors are doing well because whenever the downturn hits the problem arises is that you don't know if the base business pricing erosion is going on, you don't know when there's light at the end of the tunnel because there are alternative therapies which have been developed which say that ARVs will go out of 10 in 4 years So this is something that we learn in SOTP evaluations, that when there is a complicated problem, how should we think about it?"
+    },
+    {
+      "id": "cue-3741",
+      "timestamp": "1:02:21",
+      "seconds": 3741,
+      "text": "But this is precisely what it means that lower the variables, easier to understand, larger the variables, harder it is to understand and value, thus very difficult to comprehend. Now something, if you take the lawless versus the new land, what are the businesses in the new land? There is an API business or a CDMO business, what do you think folks? One CDMO business and one API business versus five businesses. So if I'm trying to spend time, which one will be easier to understand? Understand it, nothing beyond that. Just if you are trying to understand."
+    },
+    {
+      "id": "cue-3779",
+      "timestamp": "1:02:59",
+      "seconds": 3779,
+      "text": "Lumpiness, you have understood everything in the CDM moment. But if you do it in 2 years, then the lumpiness will end. If the lumpiness reduces, then it can never end. But if the lumpiness reduces in 2 years, then it can never be done. So exactly that's the type of thing that you will encounter in markets. Variables, where all these are there that we learned in our childhood. If there are so many variables it becomes more difficult to value. Thus search for easier businesses. The easier the business the more the money you will make."
+    },
+    {
+      "id": "cue-3814",
+      "timestamp": "1:03:34",
+      "seconds": 3814,
+      "text": "Actually it happens, the easier the business the more the money you will make actually the more the money you will make it happens a lot, like if the wagons were doing well then what was there, order book and wagons, how many wagons were getting order if the stainless steel one did well, then what are the variables how important is this from China, how much product is increasing so easier companies, pipe industry, what are the variables in pipe industry? They are making pipes and selling them, just want to see volume growth."
+    },
+    {
+      "id": "cue-3839",
+      "timestamp": "1:03:59",
+      "seconds": 3839,
+      "text": "So, easier the variables, easier, better, lower the variables, easier it is to understand. So, now let's do a simple this peg ratio analysis so I'll just ask you to participate with me for you to give me the answers. So if a stock has a PE of 30 times and growth rates of 20%, what is the peg ratio, folks? Second, if the stock has a PE ratio of 60 times and growth rates of 10%, what is the peg ratio? Earnings Rode ki Baat Hoon Yaan Be Bottom Line Growth Ki. If the stock see as PE of 20 times and growth of case what is the peg ratio?"
+    },
+    {
+      "id": "cue-3919",
+      "timestamp": "1:05:19",
+      "seconds": 3919,
+      "text": "So peg ratio is also 2-3 ways to take it. The way to look at peg ratio is you can do a forward peg, that in forward you are estimating that the earnings of the company will grow at 20% and today if you calculate it at 30 times, then if you calculate it with the last one year earnings, then you can calculate it with the quarter earnings, so these are 3 ways to calculate it In the forward bank, you are taking one year forward earnings worth or two year forward like forward earnings worth."
+    },
+    {
+      "id": "cue-3950",
+      "timestamp": "1:05:50",
+      "seconds": 3950,
+      "text": "So here we calculate a business together and we go to the trend line or telegram we take out a report and try to calculate a business together. So just over here I will just search for this one. Just give me a moment folks. Again, cyclical business. So we'll calculate what this, again we are not making our estimates right now, but we'll just calculate the peg ratio here what this like again we hope you have estimates even are a but I'm here simply peg ratio a very calculate the next day just over it just a second yeah I'm just sharing the I am just sharing the screen with all of you."
+    },
+    {
+      "id": "cue-3996",
+      "timestamp": "1:06:36",
+      "seconds": 3996,
+      "text": "I think I will see better down here. Sharing the screen. Alright. Now let's calculate the peg ratio. As a percentage of total growth rate so this is one of the businesses which is auto-answering and again, the EPS estimates that this year 64% growth will come, next year 38% growth will come well, if the company's growth of 64% comes and the PE ratio is currently at 30 times so what will be the PEG ratio of the company? If you put the growth of 60% and 30% PEG ratio, what do you think is the PEG ratio?"
+    },
+    {
+      "id": "cue-4043",
+      "timestamp": "1:07:23",
+      "seconds": 4043,
+      "text": "0.5 times key So, this is a simple way that how you can sort of calculate the peg ratio for this FI 24 right so this is one of the ways that you can calculate the forward peg that the forward peg company is running and another question to you."
+    },
+    {
+      "id": "cue-4074",
+      "timestamp": "1:07:54",
+      "seconds": 4074,
+      "text": "The upper limit I make for you so that your help is that this is just a very broad range of valuation that if you are giving more than 2x pegged ratio for any businesses apart from the consumer sector, If you are paying more than 2x pegged ratio for any businesses apart from the consumer sector, if you are paying more than 2x pegged ratio for all businesses apart from the consumer sector, there could be a trouble that happens that you are overpaying for a particular stock remember this if you are paying more than 2x keep tightening your V-stop multipliers as well so that you are not caught whenever the earnings cycle goes away but try to avoid paying more than 2x peg ratio especially when you are entering a stock don't give it in the entry time if you are going to a company that makes motor and water and you are thinking that earnings will keep growing at 30% for 3-4 years don't forget that for 15 years the earnings will be at 1% Turbine, vermin and all companies So at the end those are gap good and cyclical sectors So more than 2x pegged ratio if you are paying at the end of the entry time, you are inviting yourself you are inviting trouble So Is it clear just drop a helios in the comments?"
+    },
+    {
+      "id": "cue-4143",
+      "timestamp": "1:09:03",
+      "seconds": 4143,
+      "text": "If you are absolutely clear that if I give more than 2x pek then it can be a trouble for me. Peg in a layman's language means for 1 rupee of earnings worth how much money I am willing to pay or for 1% of earnings growth how much money that I am willing to pay simply it means that nothing else you have to sit down and practice it once in Westopedia you have to read the meaning of PEG ratio the price to earnings growth for ratio is a formula that compares the stock price to its earnings and rate of growth."
+    },
+    {
+      "id": "cue-4189",
+      "timestamp": "1:09:49",
+      "seconds": 4189,
+      "text": "To calculate peg divide the PE ratio by EPS growth rates. If you are giving PE 1 for a stock, so how much earnings growth you are getting, that is what peg ratio tells you in a very simple nutshell right now a couple of questions to you just so that all of us remember these things so should we remove one of cost while calculating a p ratio after these questions we'll take a short break should we remove one of cost while calculating P ratios?"
+    },
+    {
+      "id": "cue-4256",
+      "timestamp": "1:10:56",
+      "seconds": 4256,
+      "text": "Yes? Great. So I think while calculating P ratio, one of cost, ideally you should remove and calculate it. So you should remove it and calculate it whenever you are doing that P ratio analysis. One stock is at P multiple of 25 times. So forward growth rate in next financial year is expected to be at 25% what is the peg ratio for the next F5? If PE 25 is growth rate 25% then how much is the peg ratio of the next financial year? Peg ratio 1 times is around great What do Businesses mean when they say they are increasing the sales of value added products."
+    },
+    {
+      "id": "cue-4308",
+      "timestamp": "1:11:48",
+      "seconds": 4308,
+      "text": "If we read con calls, we will see this. All businesses say we are increasing the sales of value added products. What do you think they mean by sales of value added products? What is the meaning of value added products? What do you think folks? What is the meaning of value added products tougher to make better realizations less competition higher margins less competition barriers to entry in that particular product. They are adding more complexity to production. Tech heavy. Not easier to make great."
+    },
+    {
+      "id": "cue-4351",
+      "timestamp": "1:12:31",
+      "seconds": 4351,
+      "text": "So most of you have got the answer correct whenever someone says management we are coming to value added products so as you will see in the technical fibres then the mix of value added products is increased the mix is also in the high tech that value added product mix has gone to 90-91% because there is a problem in the base business but again that is one of the business's manufacturers, pain protection firms you can watch the video today there is a governance risk P multiple is capped so these are some of the things that you must remember that you will get the benefit from this quiz so that you can learn the concepts of the next thing these are some of the multiples that we will be learning today so we will see in detail in the price to earnings we have already seen the bag ratio we have learnt these three things we will learn enterprise value to EBITDA, we will learn SOTP valuations, we will learn price to sales and we will learn price to cash flow so all these things we will learn together I am not teaching you in detail because we have already learned 3 ratios in the previous session We will learn the rest of the ratios Then what are the variables in different sectors So this is one slide for different variables In all different sectors that we will study and we will also study this, valuation metrics for different sectors."
+    },
+    {
+      "id": "cue-4434",
+      "timestamp": "1:13:54",
+      "seconds": 4434,
+      "text": "So here I will take just a short break. Today we do not take a break for 15-20 minutes. We take a break for 10 minutes. I will just get a cup of coffee and then we'll resume again. Great folks, if you're learning something new, just drop by Elias in the comments where you can learn a lot of things. Question and answer sheet I'll send like 10 minutes before the end of the session. Great, 15 minutes break. We get exactly at 2.52, okay? Till then, I'll leave this slide open. You guys can read it. You guys can make learnings from it."
+    },
+    {
+      "id": "cue-4465",
+      "timestamp": "1:14:25",
+      "seconds": 4465,
+      "text": "So this will give you a good insight great, significance of forward V, when we will be in the last session, we will be in the bull bear and base scenario, then I will explain the significance of forward V. So which slide should I keep it open? Do you want this one or this one? This one just drop a yes or this one just like one or two one or two once you slide So I think I will leave more than 2 and send the presentation to you all. Great."
+    },
+    {
+      "id": "cue-4510",
+      "timestamp": "1:15:10",
+      "seconds": 4510,
+      "text": "So I will be back in 15 minutes folks. So we will meet again at 2.52 and I will just keep this slide open. All of you can read from this. You can also take a 15-17 minute break. So let's meet back at 2.52pm. Okay folks, see you at 2.52. See you at 2.52 pm you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you Alright folks, one minute we start."
+    },
+    {
+      "id": "cue-5424",
+      "timestamp": "1:30:24",
+      "seconds": 5424,
+      "text": "All right folks, so let's start in 1 minute and everyone is joining back. I think everyone is joining back. Awesome. Awesome. So this back to the presentation."
+    },
+    {
+      "id": "cue-5476",
+      "timestamp": "1:31:16",
+      "seconds": 5476,
+      "text": "All right. Great. Is everyone back in the comments? Just drop a yes. Great. Great. Great, great. I just turned the phone on silent. Great. Great."
+    },
+    {
+      "id": "cue-5525",
+      "timestamp": "1:32:05",
+      "seconds": 5525,
+      "text": "Awesome. Awesome. Great. So what we'll do is that different sectors will go and throughout the different sectors what we do is that we learn about different multiples that are used over there."
+    },
+    {
+      "id": "cue-5551",
+      "timestamp": "1:32:31",
+      "seconds": 5551,
+      "text": "It is a hospital sector may get used with it may what we use banks may what we use life insurance I haven't included it in this because it will take 2-3 hours to teach but very complicated, extremely complicated sector, chemical companies we will see, building material we will see, we will discuss pharmaceuticals, SOTP analysis, platform businesses, exchanges, cyclicals, auto-ansilary, FMCG companies, all these companies we'll study. So, what valuation metrics we are using over there, what are the different variables that apply over there that we'll do."
+    },
+    {
+      "id": "cue-5584",
+      "timestamp": "1:33:04",
+      "seconds": 5584,
+      "text": "We have read a lot of these variables in hospitals, but in hospitals, there are some interesting variables that we'll discuss. So these are some of the variables which are there in multiple sectors."
+    },
+    {
+      "id": "cue-5595",
+      "timestamp": "1:33:15",
+      "seconds": 5595,
+      "text": "So I'll keep coming back to these sectors and I'll keep studying them with you right so just over here so yeah first we will learn about EV to EBITDA and different different sectors and we will also see the variables of different case studies So EV to EBITDA is what is the enterprise value and what is known as EV So let's suppose that you go to buy a business Now if you go to buy a business, think of a simple example you are going to buy a business and the market cap of the business is Rs 100 but the balance sheet of the business is about Rs 10 cash and the debt is Rs 20 so basically the business has a big debt of Rs 10 because this cash gets minus from debt because you can pay off the debt of Rs 10 So you are going to buy the business for 100 rupees and there is a net debt of 10 rupees."
+    },
+    {
+      "id": "cue-5651",
+      "timestamp": "1:34:11",
+      "seconds": 5651,
+      "text": "So in a nutshell, are you buying it for 100 or are you buying it for 110 rupees? What do you think? Can you buy it for 100 rupees or 110 rupees? What do you think?"
+    },
+    {
+      "id": "cue-5661",
+      "timestamp": "1:34:21",
+      "seconds": 5661,
+      "text": "I will just open the comments so that all of you can answer Are you buying the business for Rs.100 or Rs.110 if you are also taking the net debt of Rs.10 Think about it There is a lot of thought in this There is a lot of answer You are giving Rs.100 for market cap and you are also assuming the balance sheet with the debt of Rs.10 The second one is the mind of the mind, there are many answers You are paying 100 rupees for the market cap and the debt of 10 rupees is on the balance sheet, that too you are assuming Right?"
+    },
+    {
+      "id": "cue-5689",
+      "timestamp": "1:34:49",
+      "seconds": 5689,
+      "text": "So it is simple, you are going to buy the business at 110 rupees not at 100 rupees because again 20 rupees of debt, 10 rupees of cash is the balance sheet of the business, so basically the net debt is the balance sheet of the business, 10 rupees is still remaining. So this is known as enterprise value in a nutshell this is what enterprise value means right?"
+    },
+    {
+      "id": "cue-5711",
+      "timestamp": "1:35:11",
+      "seconds": 5711,
+      "text": "It is used for companies which are asset heavy it is calculated as EV to EBITDA and enterprise value is also known as EV multiple but we use in companies so EV to EBITDA is used up now suppose a business enterprise value is that is that you will pay for the entire business suppose you are paying 110 rupees but operating profits of this business are 11 11 is operating profit which is called EBITDA so how much is the EBITDA of this business? What do you think will be the EBITDA?"
+    },
+    {
+      "id": "cue-5745",
+      "timestamp": "1:35:45",
+      "seconds": 5745,
+      "text": "If the enterprise value is 110 and the ebita is 11 ebita is 10 times it is not difficult so ebita is 10 times so 10 times ebita is for 1 rupee of enterprise value you've paid 10 times the EBITDA Basically if the payback period of the company, the operating profit or the working-time profit If you don't have the working-time profit for 10 years Then the money you have given for the business will be recovered Simply in a nutshell, that is what it means That in 10 years, in a nutshell, it doesn't grow so you will be able to pay back the entire Enterprise value using the EBITDA that is what it means but real life make out that the businesses keep growing So my question to arise karega kiya rya EV to EBITDA use ka karate?"
+    },
+    {
+      "id": "cue-5807",
+      "timestamp": "1:36:47",
+      "seconds": 5807,
+      "text": "So EV to EBITDA use ka hatha? It is typically used in companies which are asset heavy in nature Acid heavy in nature companies It is typically used to do some of the parts valuation SOTP means to extract different parts of the valuation first we will learn some of the part valuation in EV2 EBITDA then we will look at asset heavy businesses why people are using EV2 EBITDA versus SOTP valuations right, so We will discuss the 4-5 examples and then we will conclude EV2 EBITDA and then we will go to the sectors and see which sector is using EV2 EBITDA and why is it happening so."
+    },
+    {
+      "id": "cue-5845",
+      "timestamp": "1:37:25",
+      "seconds": 5845,
+      "text": "Now what is SOTP valuation? So now suppose you open a packet of biscuits. If you open a packet of biscuits where there is a cream filled biscuit, then there are three biscuits in that pack. One is chocolate chip biscuit and one is salted biscuit. I am sure that I like chocolate chip but some people like cream filled biscuit and some people like salted biscuit. But I think salted will be the least preferred over it. So do you think that in these three biscuits, value should be different if you like chocolate chip more versus the other two? What do you think folks in the comments?"
+    },
+    {
+      "id": "cue-5898",
+      "timestamp": "1:38:18",
+      "seconds": 5898,
+      "text": "What do you think books? Value will be different? That value will be different for all the three. So this is what we call the sum of the parts valuation. So we get the sum of the parts valuation. Here in a very simple way I will show you two examples that I have discussed in the beginning and Q and A. Let's see a simple example. Usually the conglomerates businesses are evaluated in SOTP. So, let's take an example of the techno craft industries. So, we will see in its quarterly results."
+    },
+    {
+      "id": "cue-5940",
+      "timestamp": "1:39:00",
+      "seconds": 5940,
+      "text": "So, you will find that some of the businesses are making very high ROC, that is scaffolding and drum closures whereas some of the businesses are loss making. So a question that I will ask you, though may I say directly question just over here, Is that will these two businesses get higher valuation versus this and this and will this business get higher valuation versus this and this? Yes or no in the comments? Yes or no in the comments? Will these businesses get a different valuation?"
+    },
+    {
+      "id": "cue-5993",
+      "timestamp": "1:39:53",
+      "seconds": 5993,
+      "text": "In case of ITC also the same. So exactly this is what keeps playing out in SOTP valuations. So problem well defined is a problem half solved. So here we take out the SOTP valuation of the LORUS Labs. And what is implied in this. Again, we have no assumption. It's all Kotak's assumption. So our assumption is zero because we are not giving you any biosell recommendation. But I will teach you how to get SOTP valuation."
+    },
+    {
+      "id": "cue-6018",
+      "timestamp": "1:40:18",
+      "seconds": 6018,
+      "text": "So now just looking at this as a percentage of revenues, so So basically what you must understand is that in the case of the Lawless Labs, there is an API business, a formulation business, a synthesis business and basically a Lawless Biogaric business. So here if we take total revenues of the Lawless Labs, in 2023, it was 6, 040 crores. And in 6, 040 crores, a synthesis business was contributing 35% almost, which is the CDMO business."
+    },
+    {
+      "id": "cue-6054",
+      "timestamp": "1:40:54",
+      "seconds": 6054,
+      "text": "So this is the best part of their business so this is a good business rest of the businesses won't survive after 5-6 years like ARV or they'll survive with very reduced profitability here with terminal value challenge if you look at percentage wise again 35% here is synthesis and ingredient 18% formulation business 13% other APIs, antiviral 25% because de-stocking was done, first it was 36-37% and oncology business was around 5% so different different businesses have different contributions here now what is the thing to understand, in 2024, we are de-stocking synthesis business."
+    },
+    {
+      "id": "cue-6097",
+      "timestamp": "1:41:37",
+      "seconds": 6097,
+      "text": "We talked about one-off. So, there is one-off at this time of synthesis business. Why is one-off? One-off means that they had one-off large molecule from the past year. Due to which, this is de-growth. Because that order has not repeated. And that order itself was some thousand crore crore. So in 2025 again, Kotak has done SOTP next year's sum of the parts valuation. So you can see it easily. They have assumed that ARV API sales are Rs. 2, 500 crore, non-ARV API sales are Rs. 12, 37 crore, non-ARV formulation sales are Rs. 6, 64 crore, synthesis and CDMO businesses sales are Rs."
+    },
+    {
+      "id": "cue-6138",
+      "timestamp": "1:42:18",
+      "seconds": 6138,
+      "text": "2, 033 crore, and LORAS Bio sales are Rs."
+    },
+    {
+      "id": "cue-6142",
+      "timestamp": "1:42:22",
+      "seconds": 6142,
+      "text": "287 crore and they all assume the margins, EBITDA margins the synthesis of the business will be 30% the non-ARB will be this much, this much, this much, this much so basically if I have the EBITDA margin I can assume actually in ARV EBITDA margins can be even lower the way pricing erosion has continued right But still they have given an optimistic outlook just to get an idea So now important thing that arises in this because we are defining the problem well is that total ARV, APIs and synthesis business, if it is worth 2000 crores, that is we are assuming in 2000 crores, If we assume in 2000 crores, then we will be able to utilize the capacity of the synthesis in a year."
+    },
+    {
+      "id": "cue-6190",
+      "timestamp": "1:43:10",
+      "seconds": 6190,
+      "text": "But in real life, it is not like that. But we are still assuming that. So, the E-Bita of 3000 crores is being assumed."
+    },
+    {
+      "id": "cue-6197",
+      "timestamp": "1:43:17",
+      "seconds": 6197,
+      "text": "Means the EBITDA is being assumed of 3000 crores so I think just over here sorry EBITDA's exact value if we check here then almost it's being assumed of 600 crores if it's around 30% and here EBITDA's exit is assumed of synthesis business of 30x if it's of 600 Crores so that is like almost 18000 crores we are saying that the the value of the synthesis business is 18000 crores they might be assuming over it so net debt canona and minors so just something to remember if 30X's EV2 EBITDA market is giving to LORROR synthesis."
+    },
+    {
+      "id": "cue-6244",
+      "timestamp": "1:44:04",
+      "seconds": 6244,
+      "text": "So now if you will do P2P comparison here, if you will see it very simple, then we will take the example of syngene and the EV2 EBITDA of syngene is 27 times. So syngene is at a higher multiple or at a lower multiple versus laura synthesis. What do you think folks? Singin is at a lower multiple. Singin is at a lower multiple even versus laurus synthesis right now. I am sending you a report here and I am explaining it from the report. Just a second, alright. To sin gene is at a lower multiple versus even laurus synthesis."
+    },
+    {
+      "id": "cue-6291",
+      "timestamp": "1:44:51",
+      "seconds": 6291,
+      "text": "In a business that is a few years old, it is getting a lower valuation versus that. So, remaining the lower business, what are the valuation multiple ascribe. So, you are ascribing that ARB business will get a 4-5X EBITDA, non-ARB will get a 5X, non-ARB formulations will get a 7X, laurus bio will get a 10X. And when you do net debt minus, you will get total EBITDA calculation. You will get total ev2 ebeta calculation right?"
+    },
+    {
+      "id": "cue-6320",
+      "timestamp": "1:45:20",
+      "seconds": 6320,
+      "text": "That you assume eva you can just assign a ev2 ebeta calculation I will just open it for you where the exact codec is so that it will be more simple for you just a second alright I will share this report with you so that you can read it yourself so you will understand it right, just open it right simple. Just a second. All right. All right. All right folks. So they are saying that."
+    },
+    {
+      "id": "cue-6349",
+      "timestamp": "1:45:49",
+      "seconds": 6349,
+      "text": "All right folks, so here they are saying that if you read their full assumptions, right, that Loris is guiding for largely flat sales in 2024, actually flat is not a sale that has degrown with the margin recovery from Q2, FI24 margins recover new margins have also degrown like the Q1 ke baadi bola da expecting synthesis to be 33% of overall sales ARV contributing 32% despite our assumption of 52% growth in X-Pax divide synthesis We agreed that ARV volumes pick up and laurus add further synthesis project core margins will improve but still in spite of it laurus synthesis is trading at a 30x EV2 EVTA so 30x EV2 EVTA laurus labs are being implied on current market price because if we look at its PORS, then where are the PORS trading?"
+    },
+    {
+      "id": "cue-6398",
+      "timestamp": "1:46:38",
+      "seconds": 6398,
+      "text": "So if we look at PORS in 25, then the multiple of PORS, the amount of Samsung biologic, the syn gene is even lower 2 years forward DVS is also lower versus LORIS synthesis even LONZA is lower, even CATILENT is lower, So we have analyzed it with peers. And if you see, what is its evaluation in the end, then we will check here."
+    },
+    {
+      "id": "cue-6419",
+      "timestamp": "1:46:59",
+      "seconds": 6419,
+      "text": "This is the correct way to do it actually just over there right so again total may jakeh at the end may be so implied eevee to eevee ta if you are looking at the law of synthesis card then already it is higher and total may jakeh in ka dekhenge to pad company ka 7500 to 1000 crore kya beech mein osat the and that is something to remember that 2 years out, they are cutting the estimates, so they have cut the estimates in this quarter as well but if the synthesis sales don't come, then it is not that cheap as it looks in a price to earnings ratio. It is not that cheap at this time."
+    },
+    {
+      "id": "cue-6461",
+      "timestamp": "1:47:41",
+      "seconds": 6461,
+      "text": "You can understand this through SOTP."
+    },
+    {
+      "id": "cue-6466",
+      "timestamp": "1:47:46",
+      "seconds": 6466,
+      "text": "The PE ratio of the company is around 52-53 times but you are really betting on that the synthesis will do well but non-ARV, ARV formulation, everything will make a comeback that is what essentially your bet is that is what essentially your bet is but apart from this, all the other things will start doing well and this is how this is the only way the stock might even justify a 407 rupee stock price that they took out right so that is the bet and that is the ask so you have to do SOTP like this, if you want to understand this let's do another simple SOTP so that you can get a simple result because this is a complicated business, so if you will do ITC I think we will do more similarly let's do ITC's SOTP so if you see ITC, you will see product segments in SOTP I think again we will go to school right now similarly ITC's SOTP is there."
+    },
+    {
+      "id": "cue-6519",
+      "timestamp": "1:48:39",
+      "seconds": 6519,
+      "text": "So if you see in ITC, product segments in SOTP will open. So the simple is that which business is driving the bulk of the growth which business contributes to bulk of the growth is the FMCG cigarette business. Rest of the business is not even close to 25% of the EBIT being contributed by FMCG, by the cigarette business. So, if the growth in the cigarette business comes, then the ITC's stock price will start doing well. The moment secret business slows down, like it happened in the quarter, so again consolidation, again that sideways movement, everything else has started."
+    },
+    {
+      "id": "cue-6552",
+      "timestamp": "1:49:12",
+      "seconds": 6552,
+      "text": "So whenever we see a company in SOTP, it gives us an idea of what is happening with the business right now. So in the case of Lawyers, what are you actually thinking about? Is that their synthesis business will be worth 600 crores? That synthesis business will get 30 times EV2 and EVT. And after that, the businesses will also start recovering. And then you can make a market cap of 32, 000 crore. But then again you have to think about it that can there be a synthesis business of 600 crore or not because now some of the parts are giving different valuation to different parts."
+    },
+    {
+      "id": "cue-6586",
+      "timestamp": "1:49:46",
+      "seconds": 6586,
+      "text": "So as a homework do this activity I know it can be a little complicated because the synthesis is a little bit complicated. But whenever there is a complication then break it down and then start to basically reason from there. So we have studied this case just a second. Just a second, I'll come back to the presentation. So, you can see this case study in a moment. You are assuming such multiples was talked to justify a 407 rupees price, those time, I think from there it is still corrected."
+    },
+    {
+      "id": "cue-6621",
+      "timestamp": "1:50:21",
+      "seconds": 6621,
+      "text": "Similarly, have you ever seen that when the business is at a discount to Apollo and the likes of your, why does it trade at a discount? Simple reason because people are doing some of the parts valuation some of the parts valuation because half of the EBITDA comes from almost 30-40% of the EBITDA comes from K-Main Island whereas rest of it comes from India. So the K-Min Island business gets a discount versus the Indian business because people think you abe growth rates itne jada nahi ho sapthe."
+    },
+    {
+      "id": "cue-6660",
+      "timestamp": "1:51:00",
+      "seconds": 6660,
+      "text": "But actually that business is growing and it has grown 40% way away Indian business has grown almost 24% way away so this is why it gets a discount, it gets 30% because of other hospitals, so it gets 60-60% so again one of the reasons why this business trades at a discount to other hospitals then where do we use ev2 ev2?"
+    },
+    {
+      "id": "cue-6682",
+      "timestamp": "1:51:22",
+      "seconds": 6682,
+      "text": "You will see the asset heavy business scheme so if you check here, apollo hospital, max hospital so all these hospitals, all the hospitals are your asset heavy businesses so you will see each and every brokerage report you will see ev2 ev2 you will see in comparison because these businesses have higher depreciation expenses and higher lease rentals, this is why people are assuming it on ev2 ebeta to see how much money we are giving for this asset today at the end of the day in hospital business, assets are the only thing so how much money we are giving for this asset that is why people use enterprise value to ebeta to value hospitals so you can see in peer to peer like we saw the nh discount but it is still growing fast like Compounding in line with earnings."
+    },
+    {
+      "id": "cue-6729",
+      "timestamp": "1:52:09",
+      "seconds": 6729,
+      "text": "Highest is your max, Apollo. So you know 30 times is expensive types. 30 times any business's EBITDA is very expensive. Below 20 times is something, is a metric that I personally use that is cheap Like a global health is close to Apollo and wax 40 times is 20 times Kim's is 22 times Aster is 9.5 times so we have to see if this is GCC business, it might do well. Rainbow's 26 times, healthcare's 17 times and Shelby's 20 times. I think the prices were low. So, within last 2-3 months, Narayana has gone to Rs. 1250, but EBITDA has also grown. So, I think it will be between 19-20 times."
+    },
+    {
+      "id": "cue-6770",
+      "timestamp": "1:52:50",
+      "seconds": 6770,
+      "text": "But is it getting clear that what is the use of EV2 EBITDA in the comment section? Is it clear that what is the use of EV2 EBITDA? Great, asset heavy businesses and SOTP claim. Thread I will write on a SOTP valuation make thread be like some of the parts valuation. Right, ITC, you all know SOTP, we write on which business, so we write on that. Right ITC, you guys tell me which is written on SOTP, we will write on that. In real estate we cannot do EV2, EVTA, real estate funds are different."
+    },
+    {
+      "id": "cue-6812",
+      "timestamp": "1:53:32",
+      "seconds": 6812,
+      "text": "So, value in real estate is like difficult, it goes on NAV but it is But slightly complicated method I will explain this with DCF If you want to calculate EV2 E.V.T from the screener I will make it very simple if you want to calculate EV2-EVT from the screener, then you don't have to do anything just open let's say SRF, just enter EV2-EVT in the ratios and it will automatically calculate for you You don't have to manually do it, just put in ev2 enterprise value to ev2 ebita just over there and you will get it."
+    },
+    {
+      "id": "cue-6862",
+      "timestamp": "1:54:22",
+      "seconds": 6862,
+      "text": "So above 20 to 22 times if you are paying Ebitda for a business it becomes slightly challenging."
+    },
+    {
+      "id": "cue-6869",
+      "timestamp": "1:54:29",
+      "seconds": 6869,
+      "text": "So let's do one more in SOTP valuation so that it becomes simpler let's understand the example of Gujarat Ambuja in Gujarat Ambuja exports there are two different segments one is the maize processing segment which is 188 crores at the time and another agro processing segment which is 41 crores let's look at the full financial year this is the data of FY22 so let's look at EBIT which is 549 crores whereas other agro processing division is 146 crores basically other agro processing division it is much more volatile versus the maize processing division so again I am not going into precise math but can I say that the ROC of maize processing division is more than 10 years period so if the growth in the mass processing division of this business will come then overall the growth rates will be better in valuations versus other processing division, what do you think folks?"
+    },
+    {
+      "id": "cue-6927",
+      "timestamp": "1:55:27",
+      "seconds": 6927,
+      "text": "I can't say this much, I am not going to SOTP, can I say this much? You are understanding this much, you are not getting confused, you are understanding this much actually other agro processing, if you see the results, sometimes it is very volatile I will just repeat this in very very simple language If there are multiple businesses in a business and the highest ROC business, the Maze Processing one, if you see, then 10 years of ROC is between 20 to 42% and other business whose ROC is lower, last 2 years are good."
+    },
+    {
+      "id": "cue-6965",
+      "timestamp": "1:56:05",
+      "seconds": 6965,
+      "text": "So if this part of the business shows better growth rates, then the valuations will move higher versus this part of the business or especially this part of the business. Can I say that these three parts of the business that the cotton division is the ugly business, the maize business is the great business because it is always so high? Other agro processing business, it was a great business in the last two years but it is a good business because it is also a little volatile. Can I say this by looking at this? Just a simple question, yes or no? Because ROCs are volatile for all the 3 businesses."
+    },
+    {
+      "id": "cue-7004",
+      "timestamp": "1:56:44",
+      "seconds": 7004,
+      "text": "Can I say yes or no by looking at this simple question? So that is the type of segmental analysis that you will have to do. That is what will help you to identify which part of the business is doing better or if the wonderful business in a conglomerate is doing better or not FMC, even in ITC, it's re-rating so later on I ask you one question, why is it re-rating in ITC?"
+    },
+    {
+      "id": "cue-7055",
+      "timestamp": "1:57:35",
+      "seconds": 7055,
+      "text": "Simple reason for re-rating in ITC was that the growth rates of the cigarette business were accelerated again. When you see, the cigarette business started growing at 29, 11, 14, 15% The Other businesses are very small. They are not so big. Overall, EBITC ITC is 62-63 crores. 5000 crores comes from a cigarette business. So is it easy to tell me looking at some of the parts? ITC will do well when the secret business does well. Is it clear? Great, great. Great."
+    },
+    {
+      "id": "cue-7101",
+      "timestamp": "1:58:21",
+      "seconds": 7101,
+      "text": "Great. The EV2 EBITDA less than 20 times, if you are looking at different businesses, then it is quite good. Great. Great. Awesome folks. I premium version of Screener. Great. See again, if there is some complicated business, I can't help you in that. So again, I can teach you whatever you want. Is it clear that if SOTP valuation is conglomerates, it is complex, so what else can I do? Is it clear?"
+    },
+    {
+      "id": "cue-7148",
+      "timestamp": "1:59:08",
+      "seconds": 7148,
+      "text": "It is a little bit difficult to do simple, you can do biscuit examples, because where there is conglomerate, what should I do? Great. Awesome folks. Great. Awesome folks. Awesome. So, getting back to it. Yeah, right over. So, this is something to remember, if EV2 EBITDA is less than 20-22 times, we think that business reasonable valuation trajectory may be there."
+    },
+    {
+      "id": "cue-7183",
+      "timestamp": "1:59:43",
+      "seconds": 7183,
+      "text": "But we at least get to know from valuation that if something starts doing well in businesses then it can also be 30x EV2 and EVta because the highest end of the EV2 and EVta is that so Stanley Druckenbiller says that they never use valuation to time the market use technical analysis to time the market But if a catalyst enters in play that is the liquidity or people start buying this top, so on the top end, how much can you go to EBITDA? So even to you, you will always get this idea by seeing valuation ratios, right?"
+    },
+    {
+      "id": "cue-7214",
+      "timestamp": "2:00:14",
+      "seconds": 7214,
+      "text": "Then going forward, peers can cement business, asset heavy business or asset light business what do you think folks is it an asset heavy business or an asset light business So can we still look at eb2 ebita in asset heavy business?"
+    },
+    {
+      "id": "cue-7247",
+      "timestamp": "2:00:47",
+      "seconds": 7247,
+      "text": "So again another example over here, if the business is asset heavy then we will end up using EV2 Eputta over here Like if we see here Ultra Tech, C7 and ACC, you will see that maximum EV2 Eputta in this sector A company gets by the name of Shree cement right but here growth is less than a long time whereas if you go to Dalmia Bharat or JK cement then even though these companies get 14 to 13 times EV2 EBITDA but these companies are actually growing faster than their peers So this is a way to also filter stocks. You know that the maximum limit in this sector is 21x. 21x na mile 17 to 18x mile."
+    },
+    {
+      "id": "cue-7285",
+      "timestamp": "2:01:25",
+      "seconds": 7285,
+      "text": "But if some of these stocks which are at a lower to EV to EBITDA and if they start showing higher growth rates kyunki jyada capacity expansion kar re. So you will be also able to filter stocks and you will be able to create a scenario where if these companies do what she cement has done, they might get a higher multiple. Use case, I am understanding the use case of evaluation of EV2 EBITDA type. You know, you attended the class yesterday and if you do it today you will be getting better. Do you understand what is the use case?"
+    },
+    {
+      "id": "cue-7313",
+      "timestamp": "2:01:53",
+      "seconds": 7313,
+      "text": "We can use it for conglomerates but we use it for more asset heavy businesses. We use EBITDA and TAN metric for the cement but many people use the EV2 and EV2 too. No, don't use this for CDSL because CDSL again, I will explain it again, until you understand, my purpose will not be complete. So, first I will start a business, let's say Narayanagram. So, as a percentage of sales, if the sales are of 4500 crores, then how much is the depreciation?"
+    },
+    {
+      "id": "cue-7358",
+      "timestamp": "2:02:38",
+      "seconds": 7358,
+      "text": "It is going to be around 5-6% depreciation cost. And now looking at something like a CDSL, so in the CDSL, if the sales are of 555 crores, then how much is the depreciation of 20 crores? So approximately 3.6-3.7% depreciation is going on the cost. Similarly, we have an example of Bharti Airtel. Now, in Bharti Airtel, if the sale is of 1.40 lakh crores, then the depreciation is of 36, 432 crores. So, almost 20% of the entire PNL is going in depreciation."
+    },
+    {
+      "id": "cue-7392",
+      "timestamp": "2:03:12",
+      "seconds": 7392,
+      "text": "Versus something like an IEX example, I think IEX may be a lot of amortization but if you see in IEX case also, then it is around 400 crores, so 4-4.5% is going into depreciation So is it getting clear that 20 crore depreciation, 15 crore depreciation versus absolute 36000 crore depreciation and depreciation like 200 crores, 220-230 crores like in the case of Apollo hospital, then you will see depreciation here too, there is a depreciation of 600 crore Is it clear in terms of depreciation absolute quantum just shows us that these are asset heavy businesses versus the platform ones."
+    },
+    {
+      "id": "cue-7429",
+      "timestamp": "2:03:49",
+      "seconds": 7429,
+      "text": "Is it clear? Whether you are for hotel business, wherever you see asset that is very very asset heavy, wherever you see it, the asset is very big. So there we use EV2 and EVTA. So we use EV2 and EVTA there. Most companies do not have different lines of business. They are in a lot of conglomerates. For example, if you take an example, something like Raj Jatin Global Vial, there will be only one line of business, in Alkalamines there is one line of business, in Deepak Nitride there is one line of business, right? Like chemicals are being made, whether it is a bulk or specialty."
+    },
+    {
+      "id": "cue-7470",
+      "timestamp": "2:04:30",
+      "seconds": 7470,
+      "text": "Right, so again, multiple, like in SRF, what will happen? In the SRF case, if you check, so you can always assign a multiple."
+    },
+    {
+      "id": "cue-7478",
+      "timestamp": "2:04:38",
+      "seconds": 7478,
+      "text": "In the SRF case, if you just open the product segments, so very simple to do, if you look at EV2EVDA, SRF, so if you want to remove SRF, simple is that packaging business gets 10 times EBIT Because it is a depressed multiple, 10 times, the polyplex and the cosmos gets this much You can say that it will be worth around 6000 crores of this business If the textile gets 10 times, then it will be 2600 crores, it should be less than that, let's assume So, the valuation of 8600 crores of business is only in these two segments compare it with P.R.S."
+    },
+    {
+      "id": "cue-7513",
+      "timestamp": "2:05:13",
+      "seconds": 7513,
+      "text": "Then let's look at the chemical and polymer business, it is 2341 crores so the remaining valuation of the business is 68000 crores market cap so the maximum value of the business is 60, 000 so the remaining value of the business is 60, 000 crores so for the remaining chemical business on the basis of F523 numbers we are paying almost 10 like EV to EBIT of 60, 000 divide 60, 000 divide 2, 3, 4, 1 so if we check 20, we are paying for the chemical business. So chemical business has to grow at a rate of 20 to 25% to justify this. Simple or SOTP valuation use case where conglomerates are."
+    },
+    {
+      "id": "cue-7562",
+      "timestamp": "2:06:02",
+      "seconds": 7562,
+      "text": "And simple was example. And simple is clear. Right? Means you were able to grasp the concept right? How to assign multiple? By looking at simple peals. Polyplex, Cosmophost, what are the multiples? Polyplex is less than this time but 10 times is an assumption we called it as assumption so if we look at polyplex, it was 3200 crores then it's market cap so how much is the EBIT?"
+    },
+    {
+      "id": "cue-7603",
+      "timestamp": "2:06:43",
+      "seconds": 7603,
+      "text": "341 crores minus so I think it will be more now but at least at 700 crores this sector gets EV2 EBIT between 7 to 12 times at lower end it gets 5 to 6 times at higher end it gets 12 to 13 times here you can see EV2 EBIT if we open it simply if we see in the long term you will see that at peak EV2 EBIT is getting 7 times so you can adjust it in SRF case as I told you you can take 7 to 8 times just to get a better sense of idea so again compared to peers, what is the market giving in their wisdom in the long term so you can assign SOTP valuations like this you don't have to put more time on SOTP the more time you will put, the more you will see this recording so it will be very simple for you sit with a pen and paper and do what we are doing just to get an idea similarly, there is a company that is in mining, so let's take a simple example so this is a company which is present in mining and so mining is in pellet production So here also, what do people take?"
+    },
+    {
+      "id": "cue-7670",
+      "timestamp": "2:07:50",
+      "seconds": 7670,
+      "text": "EV2, EBITDA Actually, we can take P ratio in this business and price to cash flow as well because their cash flows are good So in the business where we are taking EV2, EBITDA we can take the assumption of price to cash flows I will also understand that if you will see then EV to EBITDA price to earnings zone can be taken because the business of EBITDA can be of at least 2168 crores in the next 2-3 years and current market cap is around 8000 crores so you guys calculate if the current enterprise value of 8000 crore is full, that is market cap plus debt minus cash and in future if the company's EBITDA can be 2168 crores, so what do you think is the EV2 EBITDA of this business, just for our understanding, what do you think it could be?"
+    },
+    {
+      "id": "cue-7722",
+      "timestamp": "2:08:42",
+      "seconds": 7722,
+      "text": "Approximately 4 times right approximately 4 times And this is the precise use case of this. Well actually tell you that this company got spotted and it was fun. This company's market cap was about 3800 or 3400 crores. 3800 crores per 4, 000 crore market cap. I'm just giving you a small example. The company is expanding capacities. So, the iron ore capacity is 2x and the iron ore capacity is 2x. And they am putting a steel plant integrated. So I just ran some numbers."
+    },
+    {
+      "id": "cue-7767",
+      "timestamp": "2:09:27",
+      "seconds": 7767,
+      "text": "So the number of steel plants that I had was close to a vicinity of 3500 crores. This company's EBITDA could be 3500 crores, in FY 2728. At that time, I was getting a full enterprise value of 4000 crores. So can I say this, again I am asking you this question because the more fundamental analysis you do, the more you appreciate this class? When I was doing this analysis in my mind, 3-4 years ago, I was getting this business almost in the payback of one time, if we think 3 years forward. Is it easy to understand it?"
+    },
+    {
+      "id": "cue-7813",
+      "timestamp": "2:10:13",
+      "seconds": 7813,
+      "text": "Almost 1.2 1.1 1.2 times there was one moment how we use the valuation 1.1, 1.2 times. Well, one moment, what kind of valuation we use. Right. Easiest way to value company."
+    },
+    {
+      "id": "cue-7829",
+      "timestamp": "2:10:29",
+      "seconds": 7829,
+      "text": "See, the one who has spent some time, Fundamental, it will be easy for you because you will be able to join all 3 things so I will return it to you so this company announced an expansion plan, so I will return it to you on this case study I will put it on the whiteboard so that you can have a simple test over it so this company announced a capacity expansion so this company made capacity expansion announced so the capacities what expansion announced that 2x will do the capacity of the iron ore pellet 2x will do the iron ore ore and the expansion of the capacity that is close to 2x iron ore, 2x pellet expansion and close to one steel integrated plant iron ore will also be made at that time The company's EBITDA was around 1000 crores, the company's E-BITDA was around 1000 crores and the company's enterprise value was at 4000 crores So I did some math, I did a math and saw that the company's EBITDA can increase from 1500 crores to 25 crores And the company's EBIT is 1500 crores, which means it can increase by 1500 crores The company won't be able to hold the company on the 2X capacity And then there will be a 2X expansion, so just as an idea so if 1500 crore is earned from these 2 projects and 1500 crore is earned from this project so in total, the company will get the company's of almost 3500 to 4000 crore and how much was the enterprise value of 4000 crores at that time this is in I think this is just F523K end so I was thinking 4 years forward if I take the ebit of 1x company in 4 years then the growth rates will be spanned out so this is the use case I understood that it was like a no-brainer I understood in the comments that at that time it was like no-brainer This is so cheap if it is valuation, so basically it could be sideways for a year but this is something that we have to remember."
+    },
+    {
+      "id": "cue-7962",
+      "timestamp": "2:12:42",
+      "seconds": 7962,
+      "text": "Understood? Simple."
+    },
+    {
+      "id": "cue-7967",
+      "timestamp": "2:12:47",
+      "seconds": 7967,
+      "text": "Calculate capacities, you have done the rest of the steel plant, you have removed the epitaph, it is very simple, you are a little busy, without any business, I will tell you what I am telling you now, use case yeah this is the pellet company based out of Rai Pura basically yeah same company great but this is how you start to think about opportunities if the company gets a 5x exit then you can get a market cap of 20, 000 crore in 2-3 years so at that time there was no risk and from here you are thinking that 20, 000 crore is also done but still implies a 120-130 upside if it is an 8000 crore market cap but this is the use case of EB2 EBITDA and I am really sorry if you are getting complicated somewhere but it is supposed to be like this."
+    },
+    {
+      "id": "cue-8027",
+      "timestamp": "2:13:47",
+      "seconds": 8027,
+      "text": "I can't help it. If you have to clear your basics, you should spend more time on basics. Is it easier to understand? It's better in the comments. It's better to understand earlier. If you see the recording, you will understand more. If you look at the product, you will understand more great if the website is asset heavy, you will do SOTP in Reliance you will give retail business colloc valuation you will give their main business colloc valuation you will give their oil and gas business colloc valuation, telecom colloc valuation."
+    },
+    {
+      "id": "cue-8065",
+      "timestamp": "2:14:25",
+      "seconds": 8065,
+      "text": "So you will see 4-5 businesses colloc valuation and they will come to EV2 and end. SOTP valuation. I could explain it as much as I tried So in exchange businesses, volume growth matters the most in exchange businesses So a very simple example, let me discuss it with you So volume growth matters the most in exchange businesses Why did BSE and re-rate work well in IEX? It's a very simple example, volume growth So how much sales growth can be achieved in this business?"
+    },
+    {
+      "id": "cue-8107",
+      "timestamp": "2:15:07",
+      "seconds": 8107,
+      "text": "So Volume is something that matters the most in exchanges Remember when IEX became a multi-bagger type So just look at the volume growth of the business. Fundamentally there was only one reason to sell. When the volume growth started tabering off, simply there was a selling thing that got created. So can you observe the amount of volume growth that came into the business? How much electricity was traded or how much volume growth was brought into the exchange? Is it easy to comprehend that why did the business do extremely well over there?"
+    },
+    {
+      "id": "cue-8140",
+      "timestamp": "2:15:40",
+      "seconds": 8140,
+      "text": "Easy to comprehend in the comments, easier to comprehend and when the business's de-rating started, what happened? Is that also easy to comprehend? It is entire, like, a comparison is by way. Easier to to comprehend what happened when derating started. Wonderful correlation that minus 2% or a 16 growth rate 40 50% say minus 2 or 16 only get the IEX, you get it every month so they themselves they're basically release it."
+    },
+    {
+      "id": "cue-8185",
+      "timestamp": "2:16:25",
+      "seconds": 8185,
+      "text": "So if you check here, I'll just show it to you. IEX, great. I think stock price peaked out exactly where it is, and volume growth started slowing down from 60-70% to 14-15% So that's why we have that V-stop and all these things that I have taught you, it's important just over it Just to search for volumes So I think they keep reporting the monthly volume growth over there. I think the company updates may be coming media press release may be coming. I think it's an investor presentation. But every month they sort of release the volume growth rates."
+    },
+    {
+      "id": "cue-8229",
+      "timestamp": "2:17:09",
+      "seconds": 8229,
+      "text": "So whatever new products that they're launching, so I think we can search on the internet as well. So every month they start releasing the volume growth rates also as a way for the October 2023 so you can study it right. In the key key volume growth rate then September you can check the volume growth rate August key volume growth. This is one of the businesses which is easiest to track. Why easy to track because you just need to track volume growth. You just need to track volume growth. Let's see in November how much volume growth there is. IEX shares are up 6% on October market update."
+    },
+    {
+      "id": "cue-8267",
+      "timestamp": "2:17:47",
+      "seconds": 8267,
+      "text": "So 8.3% YY, so total electricity volume jumped to 21%. So 21% volume growth in October, This is where the stock price was up 6%. So the key driver is the volume growth. So overall volume grew by 18% by a way. Is it clear that all exchanges make key driver is the volume growth? Volume growth is a key driver. Similarly, if the volume growth returns in the business and if this coupling risk removes So is just looking at the business."
+    },
+    {
+      "id": "cue-8314",
+      "timestamp": "2:18:34",
+      "seconds": 8314,
+      "text": "Can you see the trends of volume growth they are slowly coming back. Is it observable? So in this way we put our business in the watch list. If your volume growth has gradually increased, then what is the business in our watch list? Same for BSE, same for MCX, same for all these companies MCX, if you track, then why is MCX doing what it is doing? Why is the stock price going up? IEX makes cyclic ality, I made a video on YouTube, you can see it Why is MCX going up the way it is going up?"
+    },
+    {
+      "id": "cue-8359",
+      "timestamp": "2:19:19",
+      "seconds": 8359,
+      "text": "Simple reason is if you study the business you will understand the business. The simple reason is if I show you their volumes are growing at some two, three hundred percent for the options. Just over here MCX. If you want to see any report then you can come here and see the report. I will just options just over here mcx. Report. So whatever report you open, just mcx. Then you will find. Just over here. If you open a report, then you will find, yeah, here it will show MCX."
+    },
+    {
+      "id": "cue-8394",
+      "timestamp": "2:19:54",
+      "seconds": 8394,
+      "text": "Right, so, right, so, the volumes are basically, the volume growth rate is coming, options are coming, so they are expecting a CTR of 76 to 53%. But between 2018 to 2023, the volume growth rates of the options have been at 181% So that is the key trigger that is sort of playing out over here. So here one of cost time which is also getting removed. But if volume growth accelerates, like in BIC, it's like the market share is gaining. In BIC, it's like the market share is gaining. So why do you think this type of move will happen?"
+    },
+    {
+      "id": "cue-8432",
+      "timestamp": "2:20:32",
+      "seconds": 8432,
+      "text": "So again, I was a fool to miss out this move because it was happening in front of me. But why do you think this type of move happens? A brand new product or market share. MCX's Gulaam volume I think every quarter they release and they tracked on their website daily. Is it clear why BSE has done what it has done? BSE also volume is tracked daily like how many contracts are being traded, how many contracts are being traded and how many roles are being put on whatsapp group to get the data out of it."
+    },
+    {
+      "id": "cue-8477",
+      "timestamp": "2:21:17",
+      "seconds": 8477,
+      "text": "All of these are available on websites So stock kept going up because people were tracking this data. I RCTC may need to work in exchanges, volume growth rate. But if someone can make a view, see I can just teach you these are the important key variables of valuations. So, you have to value your purpose later. You are valuing at a hundred pp volume growth. So, again, it's a risky factor. But will you be able to combine volume growth with your technicals to take an exit now after understanding this in the comments. Just drop a hell yes if you will be able to do so."
+    },
+    {
+      "id": "cue-8513",
+      "timestamp": "2:21:53",
+      "seconds": 8513,
+      "text": "But this is a valuation variable. Awesome. Great folks because explaining these variables have to simplify them to a certain extent. Great. There are actually a lot of case studies here. We will go to different sectors and see. So, we will have a 15-minute session. Then we will round the question and answer. And then we will take it to the part of the session where we will do DCF and multiple case studies."
+    },
+    {
+      "id": "cue-8546",
+      "timestamp": "2:22:26",
+      "seconds": 8546,
+      "text": "It will be more simple for you because I always thought that the second session will be a bit more difficult because here you have to make a ratio so I will send the access of this entire presentation to you right now looking at what is price to cash flow so price to cash flow is nothing but market cap upon operating cash flow this is the cash earnings gap right So cash flow is nothing but cash earnings of a business cash flow from operations those we have done our accounting classes as well. So if you divide the market cap from CFOs you will get the price to cash flow ratio."
+    },
+    {
+      "id": "cue-8578",
+      "timestamp": "2:22:58",
+      "seconds": 8578,
+      "text": "So now a question that I will ask you is that in a business like how many of you track mtar over it Satya P for MCX is because of one of expense. So, that's why I'm saying just focus on the current thing. Don't go 10 steps forward. Just focus here once. So, how much MTR for the market cap? 6, 800 crores. P ratio is 66 times. Business cash flow is 9 crore."
+    },
+    {
+      "id": "cue-8624",
+      "timestamp": "2:23:44",
+      "seconds": 8624,
+      "text": "If we do it on cash flow then it is really expensive."
+    },
+    {
+      "id": "cue-8628",
+      "timestamp": "2:23:48",
+      "seconds": 8628,
+      "text": "So you better bet that the cash flows come 80% of sales is coming from one customer So again, this is a valuation challenge Whoever has this, I will tell you that you should sit on this and think carefully that if the cash flow is not fixed, then this business will have to keep raising equity so they will have to raise equity funds again and again this issue can persist or they will have to keep taking extra debt so if you see here, they are taking a lot of debt right because cash flows are not there so this is a problem that arises but again for price to cash flow, where there is operating leverage now like this example of sandhar so 3000 crore market cap, P32 looks like."
+    },
+    {
+      "id": "cue-8681",
+      "timestamp": "2:24:41",
+      "seconds": 8681,
+      "text": "So, 3000 crore market cap, what is the cash flow? Almost 300 crores. So, what is the price to cash flow of business? What do you think folks, in the comments? So price to cash flow, what do you think about this business folks in the comments? And why do you think it is happening? Why is cash flow more than the profits?"
+    },
+    {
+      "id": "cue-8715",
+      "timestamp": "2:25:15",
+      "seconds": 8715,
+      "text": "It is due to depreciation, higher depreciation, higher fixed cost means the company is doing Kpex in the down cycle, now in the up cycle, it is time to take the profit So price to cash flow statement can give you an idea, so again anything above 22 to 23 times becomes a bit more expensive Our framework is that it is more than 22-23 times the price to cash flow So it can be that the business is a bit more expensive on the side But if there is a big discrepancy between P ratio and price to cash flow The biggest use case of price to cash flow is that operating leverage can be hidden in that business Remember this, if there is a lot of discrepancy between price to earnings and price to cash flow Price to cash flow is very less whereas price to earnings is very high So that can be the element of operating leverage in that business just write it down somewhere so that you don't forget it."
+    },
+    {
+      "id": "cue-8763",
+      "timestamp": "2:26:03",
+      "seconds": 8763,
+      "text": "So, Sandar is one of the examples that we studied for price to cash flow. So, again just to make sure that I don't miss out on some of the examples. So, Sandar is done here. So, that is with our price to cash flow, EB2, EBITDA, price to earnings, PEC ratio, we have learnt all this. Now we will learn another ratio which is called price to sales. What is price to sales? Market cap upon sales. One business's market cap upon sales. How much market cap of that business is its upon sales. So let's take a simple example."
+    },
+    {
+      "id": "cue-8798",
+      "timestamp": "2:26:38",
+      "seconds": 8798,
+      "text": "Just to take an example over here let's take a simple example If there is a market cap of 3000 crores and a sale of 3200 crores, then how much is the price to sales of the business? The market cap is 3000 crores, sales are also 3000 crores. So what is the price to sales of the business? One times. Price to sales of the business is one times. Almost less than one. So, let's check this once. So, when the business listed, right, so even now, when it was listed at the time, So almost not that much."
+    },
+    {
+      "id": "cue-8836",
+      "timestamp": "2:27:16",
+      "seconds": 8836,
+      "text": "When the business peak of the otter cycle was 2, then how much was the price to sales of the business? In the comments. What was the price to sales of the business at peak of the otter cycle? Price to sales, how much? 1.6 times. So, the sales year is here. So, how can the use of price to sales be? Now, if the up cycle comes and the margins start expanding of this company, there is a peak of the auto cycle with 10% margins, then it corrected to 8, 8, 9, 9, but it is starting again to go towards that 10% mark."
+    },
+    {
+      "id": "cue-8878",
+      "timestamp": "2:27:58",
+      "seconds": 8878,
+      "text": "If there is an auto cycle that again happens and if this business starts doing a sale of let's say if we put any example, I am taking out a simple valuation with you. This company starts selling for Rs. 3500 crore and it starts getting 1.6 times the price to sales multiple which is the last peak of the cycle. What do you think the market cap will become? So I am teaching you the use case of price to sales in the cycle goals. 3500 crores into 1.6 times. What do you think will happen to the market cap?"
+    },
+    {
+      "id": "cue-8912",
+      "timestamp": "2:28:32",
+      "seconds": 8912,
+      "text": "For that margins have to go up so price to sales multiple interacts with the margin a lot market cap potentially if you come to 55 crores then divide it from 6.02 so you will get the per share price So if you divide the app of Rs.5500 crores from 6.02, then how much will the share price be? You divide from 6.02 So, those who haven't seen the operating leverage video, please watch the operating leverage video that we discussed yesterday because that will really help you in terms of understanding these examples."
+    },
+    {
+      "id": "cue-8959",
+      "timestamp": "2:29:19",
+      "seconds": 8959,
+      "text": "The use case of price to sales is in cyclical stops where margins are volatile. Let's discuss another company's example, Thirumulai Chemicals. This is a company which makes a deeply cyclical company which makes pan and deep and makes a material. And because it is deeply cyclical, so if you see the P ratio, then how much is the company seeing? The comments, what is the P ratio of the company at this time? So is this the P ratio elevated or not? Is it insane?"
+    },
+    {
+      "id": "cue-9006",
+      "timestamp": "2:30:06",
+      "seconds": 9006,
+      "text": "So, BE ratio is optically high as someone correctly mentioned because this is a cyclical business. Cyclical business is that in a few years, sometimes its margins go up to 15-22%. If you look at the 10-year history of this business, again, if you look at the 10 year history of this business, so this business has reported like more than 15% margins thrice and more than 15% margin over it twice. So last 10 years like 11 years, 11 years, 11 years, almost 5 years have been or we can put almost 40 to 45% of the times, the margins of this business have been above 15%."
+    },
+    {
+      "id": "cue-9053",
+      "timestamp": "2:30:53",
+      "seconds": 9053,
+      "text": "Remaining 50-55% of the times, this business has proven to be very very cyclical. Is it easy to tell this stock? Yes or no in the comments? Is it easy to tell? Look at the whole thing. Can you value such a business at a price to earnings? Because at worst point of the cycle, the P-E ratio will be very high."
+    },
+    {
+      "id": "cue-9077",
+      "timestamp": "2:31:17",
+      "seconds": 9077,
+      "text": "At worst point of the cycle, P-E ratio will be very high because earnings are not there are you understanding at the worst point of the cycle P ratio will be very high cyclical stocks may as a lot of time right So at worst point of the time of the P ratio is very high, then P is a misleading metric."
+    },
+    {
+      "id": "cue-9102",
+      "timestamp": "2:31:42",
+      "seconds": 9102,
+      "text": "So here we sometimes look at price to book ratio or sometimes look at price to sales and we have discussed this business in a very short discussion because this business is doing more than the apex of fixed assets at this time and again I don't know when but if the market recovers again if the cyclicality turns on the upside maybe 1 year down the line, 2 year down the line so this will be a very interesting case study when it comes to applying your cyclicality framework so worst, where do we get the COVID crash? If we look at the last 5 years, it is still at the median level."
+    },
+    {
+      "id": "cue-9145",
+      "timestamp": "2:32:25",
+      "seconds": 9145,
+      "text": "But what do people do in the cyclical investing? They just follow one thing, a very beautiful thing a friend of mine does, he just purely cyclicals so it's one of his ideas only he says that when the price to sales goes below the median average then he buys the stock then he waits for a couple of years and when he comes up he sells it he says that when he goes down people will be making the whole story that the company is dead and the company gets better then they will say that the company has a speciality."
+    },
+    {
+      "id": "cue-9174",
+      "timestamp": "2:32:54",
+      "seconds": 9174,
+      "text": "Only two people make this product, IG, Petrochem and this is why this company should get a higher multiple. And he has played the same cycle in this talk I think at least twice in the last 10 years right do you think even though it's not easy because as retail investors we think that nothing has happened since last 2 years but then within 6 months it becomes a 4-5 bagger But in this price to book and price to sales people use it. Is it a good use case that you understood that some people do this too? Right, I mean people do this on a valuation basis."
+    },
+    {
+      "id": "cue-9211",
+      "timestamp": "2:33:31",
+      "seconds": 9211,
+      "text": "The risk approach for those who will not understand this. This is actually the parent company of Altamareen. So actually I mentioned in these type of companies when the P ratio falls to a low level, so you guys tell me in this type of company when the P ratio is low, when the earnings will be high, are you understanding? When the earnings will be at peak. These things are not taught in books but this is something that we have to understand that real life practicality."
+    },
+    {
+      "id": "cue-9260",
+      "timestamp": "2:34:20",
+      "seconds": 9260,
+      "text": "Right, so these are cyclical stocks right you will see earnings here peak kargi jup 7 ki peer ratio ki earnings here peer kargi jup 7 ki peer ratio ki and last time peer ratio toh abhi infinite ogui hai basically because koi earnings in here business main but this is a use case of price to sales price to cash flow all these things applied in one session. I will take a pause in the session because if I increase the price to book for banks then it may be confusion now."
+    },
+    {
+      "id": "cue-9291",
+      "timestamp": "2:34:51",
+      "seconds": 9291,
+      "text": "But I promise that when we conclude these things in the end, when we will make bull bear and base scenarios, all the multiples that we are learning, all the multiples will be much easier for you. I will put these multiples in your place, I will put them in the presentation too. Keep going through these multiples because it will become easier for you to do technical analysis also post this. Because nothing is done, only the valuation multiples are combined with technical analysis."
+    },
+    {
+      "id": "cue-9319",
+      "timestamp": "2:35:19",
+      "seconds": 9319,
+      "text": "So with this I will take a hard boss in today's class because we are getting next Saturday So the same people who are already attending the evaluation webinar, you will get a link for the next class and those who want to register for the SYC membership. You can use a coupon code SYC bonus tend to register because all these classes are part of SYC membership. Some people basically what we do is that I'll just send a question."
+    },
+    {
+      "id": "cue-9342",
+      "timestamp": "2:35:42",
+      "seconds": 9342,
+      "text": "So I'll just take some of the questions and I'll read out those questions which are really good or the questions sheet I'll send just give me a 2 minute break which I'll get till then you can keep asking me questions which are good questions and I'll try to answer them so hopefully you enjoyed today's session because it was a little bit more advanced as compared to what we were doing earlier. Right, so Gauri, how about key variables, discussion of other sectors. I am doing this in the next class. So next, our class 2, 2 and half will be done. After that, we will conclude."
+    },
+    {
+      "id": "cue-9383",
+      "timestamp": "2:36:23",
+      "seconds": 9383,
+      "text": "Presentation will include in the recording for you. Reverse DCF views. Reverse DC abuse. Explain. Right. What should be the proc sales upon depreciation? So, I'll ask everyone can sort of ask the questions over there."
+    },
+    {
+      "id": "cue-9434",
+      "timestamp": "2:37:14",
+      "seconds": 9434,
+      "text": "Just sharing the sheet with you books. Sheet with you folks. Please calculate the price to cash for granules. So you guys do it. The market cap is 9385 crores. And the cash flows are 739 crores. So it's simply calculated. So it's almost a cyclical low. It will be 12 to 13 times the answer. Great."
+    },
+    {
+      "id": "cue-9482",
+      "timestamp": "2:38:02",
+      "seconds": 9482,
+      "text": "Just a second. I'll just take the question sheet first. So let's take questions. Next Sunday we will host the next Sunday. So we can host the next Sunday. So we will just check. IDD Cementation is a contractor business. So if we look at asset heavy business, If the company's sales is close to 5000 crores, then how many fixed assets do you need for the sales of 5000 crores?"
+    },
+    {
+      "id": "cue-9533",
+      "timestamp": "2:38:53",
+      "seconds": 9533,
+      "text": "It is not an asset heavy business, but it is a working capital heavy business. Fixed assets will not be heavy, it will be a working capital heavy business because of government and inventory that will be involved but this business will have decent ROC. Now in the cycle, 20-25 ROC will be earned. Both ITD and Alu Wali are going through tailwinds at the moment, right now correct higher depreciation means I'm like more asset heaviness right AMN plus no I haven't read the business."
+    },
+    {
+      "id": "cue-9578",
+      "timestamp": "2:39:38",
+      "seconds": 9578,
+      "text": "Cams can the share you will have to check how fast your AUM grows and if they are able to win new customers or not. But problem is in the case of Cams why it hasn't re-rated the way CDSL all the others have because CAMS is a declining yield business as the AUM keeps growing, the yield keeps falling so the percentage of fear that is being cut is basically a problem for them so just for today's session, your learnings do drop them over here in the comments below you whatever your key learnings from day two. I'll just ask over here."
+    },
+    {
+      "id": "cue-9615",
+      "timestamp": "2:40:15",
+      "seconds": 9615,
+      "text": "I'll strategize the day three in a way so that it is very simpler. So what were your key learnings from valuation mega series part two? So you can keep participating in the competition because there are at least five to six books to be one. So you can keep participating over it. So I am sending the Google form, whatever questions that you have you can ask in the Google form. In the store I have sent you the Google, Google Sheet. You can just ask whatever questions that you have in the Google."
+    },
+    {
+      "id": "cue-9660",
+      "timestamp": "2:41:00",
+      "seconds": 9660,
+      "text": "Google. Now, you will get the recording. Right. So you can just ask the questions in this Google sheet. I think just a second, sorry. I'll just send the Google form just to clear. You can ask the questions here in the Google form. What is this check? I've sent the Google form below."
+    },
+    {
+      "id": "cue-9709",
+      "timestamp": "2:41:49",
+      "seconds": 9709,
+      "text": "Great. We have just shared the Google form, so whatever questions are you have, you can ask over there. Awesome. Awesome. So just a moment."
+    },
+    {
+      "id": "cue-9754",
+      "timestamp": "2:42:34",
+      "seconds": 9754,
+      "text": "Second, yeah. Awesome. Second, yeah, awesome. So first question is, so how do value EPC companies like Stirling and Wilson enable? So Stirling and Wilson, so I haven't ever valued, but if you are looking at contractors, these companies can be valued on price to cash or price to earnings only because they shouldn't have a lot of depreciation, So I will just share the screen with you. If you are looking at the aloo contracts, you can value it at P ratio. Here, on the basis of price to cash flow, we can value the same company."
+    },
+    {
+      "id": "cue-9792",
+      "timestamp": "2:43:12",
+      "seconds": 9792,
+      "text": "And on the basis of order book, you can also value the market cap to order book. Because order book is what drives the market cap in a lot of these contractors. But if you invest in a long term, at the end of the day, what will really drive value is if the money is not able to come back or not. Because in Aluvalia, all the receipts are received, so it is almost a debt-free contractor. But ideally, market cap to order book, price to earnings and price to cash flow is the metric to look for, for valuing different industries."
+    },
+    {
+      "id": "cue-9824",
+      "timestamp": "2:43:44",
+      "seconds": 9824,
+      "text": "If P ratio is more than 100, but forward P is 30 by 40 times, so can we buy the stock in phase 2? So again, without getting to know the stock, if P ratio is more than 100 but forward P is 30 by 40 times so can we buy the stock in phase 2 so again without getting to know the stock if P ratio is more than 100 which means that the earnings will be growing at 120 to 130 percent for forward P to come down but you must be sure that the earnings will keep growing at that rate for next 2-3 years for you to make decent amount of money."
+    },
+    {
+      "id": "cue-9848",
+      "timestamp": "2:44:08",
+      "seconds": 9848,
+      "text": "So weekly charts and monthly charts have a good question, why is the opposite of the VSTOP signal? Let's open VSTOP here as weekly charts are your trading data for 5 days monthly charts are for 20 to 25 days so if you are looking at trading data for 22 days it is natural that if you are looking at the hit in the positive then it will come weekly and later in the month so it it's just a time series analysis, nothing else."
+    },
+    {
+      "id": "cue-9883",
+      "timestamp": "2:44:43",
+      "seconds": 9883,
+      "text": "So you should actually do weekly and monthly analysis and then you should go to the business and read what is happening in the business for example, if Tilak Nagar's weekly V stop would have turned positive first and monthly, after some time, you can see the monthly but the divergence in weekly and monthly you will see here originally it started turning positive over here but the negative thing of weekly VSTOP you can just observe this the negative thing of weekly VSTOP it will stop you out of stocks. Right?"
+    },
+    {
+      "id": "cue-9919",
+      "timestamp": "2:45:19",
+      "seconds": 9919,
+      "text": "Weekly VSTOP will stop you out of stocks here when you were doing hold here also you were selling but in weekly VSTOP frequent selling transactions will increase if you take example of Ujjeevan if I am not mistaken in the case of Ujjeevan monthly VSTOP was on sale in weekly VSTOP it will stop you out of stocks."
+    },
+    {
+      "id": "cue-9940",
+      "timestamp": "2:45:40",
+      "seconds": 9940,
+      "text": "So something to remember is that use either of one, or if you are using both, remember that you are only looking at it in different time series if you are using weekly, then what you are doing on weekly is that you are trying to get into the stock earlier or trying to get out of the stock earlier but if it was only a few months of consolidation or a few months of downturn, then you will get out of the stock faster whereas if you are using monthly, then there is a chance you might get into the stock later versus earlier But once you get into a stop, then you'll be riding it on monthly charts."
+    },
+    {
+      "id": "cue-9969",
+      "timestamp": "2:46:09",
+      "seconds": 9969,
+      "text": "But I'll highly suggest that if you're going to be positive in the weekly, then go read the fundamentals. There is a fundamental trigger or a variable that has come into play. Right? So hopefully, you will remember. How is screen or different from the jory? Any subscription is okay. I think it's up to you. The specialty of the jory specialty data is the trend line relative strength and in all this, markets in the use of it. So we'll make a video on all these four comparisons soon. Marine and fertilizer sector I am not tracking, I am sorry."
+    },
+    {
+      "id": "cue-10004",
+      "timestamp": "2:46:44",
+      "seconds": 10004,
+      "text": "Textile sector or chemical textile may simply use price to earnings. P ratio you can use. If earnings are depressed then use EV to EVTA. How to understand where we stand in a sector cycle? Again, where are the valuation metrics? Like in our defense, every company is on stock. So definitely, the euphoric environment is getting formed. Even though those companies can still do well, but we don't know when it ends. Like in EMS, there was only a PG Electroplasty which was on 30-40 B. All the other ones are on 120-140 B."
+    },
+    {
+      "id": "cue-10040",
+      "timestamp": "2:47:20",
+      "seconds": 10040,
+      "text": "The problem is that paying that type of high multiple is just over here if you accidentally get accident then in one year just looking at the chart actually the PED rating hasn't been yet but the earnings have fallen quite quickly if you see in the last 6 months or If you see in the last 6 months, you can see that 700 set has fallen to 479 because there is no valuation support as the earnings have kept declining. So, again, even today, this is a risk. So, in this sector seems to be at a very, very frothy and toppy level. Even though businesses can do well, write them using your Weestops."
+    },
+    {
+      "id": "cue-10080",
+      "timestamp": "2:48:00",
+      "seconds": 10080,
+      "text": "You have to use Weestops to write them. And as the exit trigger is there, again there is nothing else that you can do. But with the valuation mindset, these stocks have already left at this time. So this is one of the ways. Then there is another way, that if you look at agrochemicals today, then there is a growth in the agrochemicals in the domestic agro."
+    },
+    {
+      "id": "cue-10097",
+      "timestamp": "2:48:17",
+      "seconds": 10097,
+      "text": "Whereas there is no talk at this time so you know that it is at the bottom of the cycle you can use relative strength so if you see the class of technicals then I have taught you relative strength so you can filter out where we are at which sector we are also bringing a tool probably in 15-20 days it will launch 100% In the name of stock scans, where every sector has relatives, they will come to the ranks How to gauge and time sectoral tailwinds like defense and railways, it is simple, stock is set to stage 2 Right, all your sectors are set to look like this, you should use it in markets So again, what can you do?"
+    },
+    {
+      "id": "cue-10132",
+      "timestamp": "2:48:52",
+      "seconds": 10132,
+      "text": "You have to make a simple purpose So here I will give you an advice How to make money in stocks So I see So just watch this video of us, I think cancelling this video, just watch this video. This video is taught by the entire market, smithindia. Just watch this video and you will also find out about sectoral rotation here. And you will also learn about sectoral rotation here. Most of the times, sectoral moves happen together. If you will just check together. So, the entire thing is explained in this video. I can also make a video on how to catch the total rotation."
+    },
+    {
+      "id": "cue-10177",
+      "timestamp": "2:49:37",
+      "seconds": 10177,
+      "text": "Do you want me to do that in the comments? It's a dedicated Beats Minute video. So, we'll do that as well. Great folks, so we'll do that. Great, so we'll do that. Tailwinds, headwinds, so the answer I just gave, my new unicotas, re-rating will only happen when the growth comes back. Right? I think we'll take some good questions from this. I didn't actually study VFX sector because I didn't understand it because there are many variables. That's why I just left it alone. Like I just need like 15 simple problems in life versus one hard one. Which is why I didn't work on it."
+    },
+    {
+      "id": "cue-10225",
+      "timestamp": "2:50:25",
+      "seconds": 10225,
+      "text": "Real estate cycle, I have a very favorable view. I think some of these companies will do extremely well even from here. In sector uptrend, someone asked me how do you see sectoral timing. So let's see the nifty reality. Just over here. So just to give you a sense, So this chart goes to the V stop. You think sector uptrend may down trend. What do you think folks? Underline companies will be doing well or bad?"
+    },
+    {
+      "id": "cue-10280",
+      "timestamp": "2:51:20",
+      "seconds": 10280,
+      "text": "So again this is one of the ways to find it out. Then technically, we say, look at fundamentally, we say, look at promoters, we bullish, FI, we bullish only one that is not bullish is retail investors. So that is that is another bullish pointer. Right. Do you think folks is that a bullish pointer or a bearish one? Right."
+    },
+    {
+      "id": "cue-10312",
+      "timestamp": "2:51:52",
+      "seconds": 10312,
+      "text": "Right, so real estate cancer is done, reverse GCF possible to calculate manually yes it is possible to calculate manually in a sheet, I used to do that back in the day but mind you it's extremely complicated if you get a number from here then everything changes you have to apply a goal seek function, you can learn it you can learn it through a goal seek function but I avoid doing it now, it's because it's a bit complicated for me but I'll try to find the old excel sheet that I have so if I get it, I'll share it with you but no commitments if it's from the old laptop, I'll definitely try to share it with you how to get Kotak report session as shown in the session don't just do anything, just come to telegram and come to telegram and do nothing but just join this group this is a group called Research Reports."
+    },
+    {
+      "id": "cue-10361",
+      "timestamp": "2:52:41",
+      "seconds": 10361,
+      "text": "You can just join this group. Sikhar is a tribe member. I will mention his name, Sikhar, learning 11 Tag Diary Group All free reports are over I will take the value of Bajaj finance in price to book next time. There were reasonable prices at one time because the PEC ratio was 1 to 1.25 times. There is no discount in the research services. So, there is no discount in the research services because we are actually like if you break down so they are actually visiting plants we are going here or there so it is taking a lot of effort."
+    },
+    {
+      "id": "cue-10412",
+      "timestamp": "2:53:32",
+      "seconds": 10412,
+      "text": "So you can look at the research services independently. But I'll say folks who are patient enough should like come up then impatient irrational expectation so it is totally okay. I think YouTube videos will be back. Is our small cases open. Can do the same thing. But we think one market cycle is required of three years. This is why we only have a three year subscription and this is why we haven't kept any discounts because we are happy with limited set of books but we want to deliver real value. I don't know if any of you are getting any value in the comments, you can tell me in the comments."
+    },
+    {
+      "id": "cue-10463",
+      "timestamp": "2:54:23",
+      "seconds": 10463,
+      "text": "Awesome folks. Thank you so much for the good feedback. Matrix for textile hotel defense sector to make break we do the current next session may not be to make recording good good all the minutes key Matrix for every sector may only a be my recording miss nearly there are two Unnecessary but kitchen a jai session for who are equally me beach miss a leke easy connect with all the Does SOTP pay question and Does SOTP only work for asset heavy businesses?"
+    },
+    {
+      "id": "cue-10496",
+      "timestamp": "2:54:56",
+      "seconds": 10496,
+      "text": "No, SOTP works for businesses where there are multiple business segments where it's a conglomerate business KEEI related from 20 to 45 times can be pyramid or what at 20p how do you think irrespective of the stock name so again the growth better persist at 20 to 25% types in such cases not necessarily to this stock I will tighten the V stop because the move started to become a little bit parabolic because I think it will be 50 P, 45 P in the end so till the time the cable and wire in the sector will look good but that fancy can go away anytime in next 1 to 2 years."
+    },
+    {
+      "id": "cue-10534",
+      "timestamp": "2:55:34",
+      "seconds": 10534,
+      "text": "So I'll be closer to the exit door. That is something to be sure of when valuations are done. But yes, exits will go to technicals, not just valuation. Because if it was valuation, then it would have been much earlier at this time. It is very difficult to tell VFX industry that I haven't studied till today. For pharma business, I'll also do that recording which I'll put for you once. Valuation is sometimes a filtration process and sometimes the last step in the process. Real estate companies are very difficult to value, but this is the correct way to value them."
+    },
+    {
+      "id": "cue-10572",
+      "timestamp": "2:56:12",
+      "seconds": 10572,
+      "text": "So, I will try to value one in our YouTube session, but it is very difficult to do. For SSWL type business, keep Price to earnings and price to cash simple So we had already discussed about NAT that there is a lot of earnings in it Right so I think most of the questions I have answered. KPID is in the momentum territory where no evaluation methodology will work."
+    },
+    {
+      "id": "cue-10621",
+      "timestamp": "2:57:01",
+      "seconds": 10621,
+      "text": "Because you are betting on a growth stock it will keep growing but in KPID type business, the people who are watching this session, I think if you use SOIC LTI or VSTOP, just multiply it by 1.5 so that at least 1.5 multiplier beauty is that it will keep you in a momentum stock. But the moment momentum is broken down, it will also help you to take out your profits on a monthly chart. Is it understandable in the comments? Is it understandable? Great. Great. Is it understandable? Great, great so manu has a very good question how to drill down So Manu's question is how to drill down."
+    },
+    {
+      "id": "cue-10675",
+      "timestamp": "2:57:55",
+      "seconds": 10675,
+      "text": "Every sector has a simpler story. Like the real estate sector is a simple example. We need to take residential real estate in the real estate sector. There were also companies which are making malls. How many of you remember this case study, proxy investing class? Who remember the mall study? Was it a 10 feet hurdle or a 2 feet one? Right? So again some of the upward complex sector may be the simple than the middle of the right."
+    },
+    {
+      "id": "cue-10725",
+      "timestamp": "2:58:45",
+      "seconds": 10725,
+      "text": "So even in complex sectors, you get simpler businesses, right? So, if you don't understand, leave it. What do you do? If you understand, then find a simpler business. Find a nesco that has a 34x square feet asset land pack in 27. You have to wait for 1-2 years. It's their own land. But again, there is no immediate catalyst for the next 1-2 years. So there are multiple ways to do it."
+    },
+    {
+      "id": "cue-10751",
+      "timestamp": "2:59:11",
+      "seconds": 10751,
+      "text": "I'll try to cover all these concepts like market sector rotation, I have to teach you how to use charting, I have to teach you how to use charting, I have to teach you how to use real estate, I think it's a never ending journey even teaching. Right. So I think most of the, how to value a PDS type business, you can take the price to earnings but it was so complicated for me to understand that if I feel something is very variable then I didn't value it so instead I read a home textile where I had to wet one or two things and I value it it is growing at 18 p.m."
+    },
+    {
+      "id": "cue-10787",
+      "timestamp": "2:59:47",
+      "seconds": 10787,
+      "text": "If P ratio is at 18 times 25% is the growth rate, what is the peg ratio folks in the comments? Lesson 1, if you get 1 to 1.5 times peg ratio, it's the real beauty right great great I will help you in the morning, I will tell the team great I think most of the questions I have taken. So, we will take the terminal value to the next class. The valuation is sometimes complicated. If you understand it easily, the examples we are discussing, it will be difficult for you to understand."
+    },
+    {
+      "id": "cue-10833",
+      "timestamp": "3:00:33",
+      "seconds": 10833,
+      "text": "You will find it fun. Those who are advanced, you will enjoy this class. Did you like the class? Those who have already done some advanced things. Right? Because it is slightly leveled up. But those who are learning, if you see it again and again, then even you will understand it, even you will get the So, let's meet in next session and next session. So, CDR ishub, I will definitely take this question in the next session."
+    },
+    {
+      "id": "cue-10879",
+      "timestamp": "3:01:19",
+      "seconds": 10879,
+      "text": "Actually, I think we have already started 3 hours. We will be tired. But if you are using the PEG ratio, that will be a great one. The PEG ratio will be kept below 1.5-2 times. Keep the valuation simple. Below 1.5-2 times PEG, below 3 times price to sales below 35 times PE ratio or below 22 to 23 times price to cash flow or below 20 to 22 times EV to EBITDA. If you just follow these things and you will do very well in investing. So let's meet next Saturday and Sunday when I will announce it. And we will give you access to full recording."
+    },
+    {
+      "id": "cue-10921",
+      "timestamp": "3:02:01",
+      "seconds": 10921,
+      "text": "And those who want to sign up for the membership you can use the coupon code S Y C bonus 10 right so let's meet next weekend folks so let's meet next weekend have a great weekend ahead and don't forget that there's a book like there's a book Giveaway competition and you can participate in that by replying to all your key case studies under this comment Awesome folks. Jay Hind have a great have a great week ahead. Jay and folks have a great week ahead. Thank you. Thank you everyone. Bye."
+    }
+  ]
+}

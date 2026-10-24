@@ -1,0 +1,852 @@
+{
+  "lectureId": "CHK_Lec03",
+  "subcourse": "chk",
+  "rawFilename": "Lec03_class-3-theme-part-3-transcript.txt",
+  "lectureTitle": "Class 3 Theme Part 3",
+  "courseTitle": "Crash Course",
+  "totalDurationSeconds": 4628,
+  "totalDurationFormatted": "1:17:08",
+  "totalCues": 140,
+  "cues": [
+    {
+      "id": "cue-6",
+      "timestamp": "0:00:06",
+      "seconds": 6,
+      "text": "Hi Investors, welcome to SOIC. Today is about the growth of the theme. I think one of our students made this slide which I really like So I just put it up where we are. What is the importance of the theme? So the importance of the theme is what we will see. Why themes are very important to look at. So the theme adding foundation is top down. So when you see the process, it is like this. So first you identify themes, policy trends, cyclical case studies, multi-themes, structural demands, clear beneficiaries. Stock picking is later. So read industry reports. So first the theme is identified."
+    },
+    {
+      "id": "cue-39",
+      "timestamp": "0:00:39",
+      "seconds": 39,
+      "text": "Then the screening of stocks. Then you apply technical stage analysis, deep dive research and final prioritization framework and then you construct the portfolio."
+    },
+    {
+      "id": "cue-54",
+      "timestamp": "0:00:54",
+      "seconds": 54,
+      "text": "So the whole course of TVGP, which we are finishing with just the theme of the two classes, we are talking about the thematic foundation In this course, there will be a second class on the growth That will be for screening and narrowing the research filter and applying the technical stage analysis Then when we talk about valuation and promoter, then we will go to the deep research and final prioritization framework And you will see portfolio class in the SOIC course So this is how we will structure the TV GP course also. So today is the second class of the theme."
+    },
+    {
+      "id": "cue-86",
+      "timestamp": "0:01:26",
+      "seconds": 86,
+      "text": "And this is where we look at how a framework of stock picking is. This was a very good slide made by him. So I thought I'll include it in the part two of the course. So warm welcome to each and every one of you on the part two of the theme class. And in this class, we will look at how to identify themes and some of the like what I've done is that I've even posted the Twitter channels which you should follow for sectoral case studies like I give an example which one do you remember, Ritesh Jain sir, one year back almost, 12-18 months back how many of you remember that?"
+    },
+    {
+      "id": "cue-118",
+      "timestamp": "0:01:58",
+      "seconds": 118,
+      "text": "How many of you remember What did he pitch at that time? Which precious metal was he pitching? Perfect. How many of you remember we hosted Mr. Degan Tharya sir also? Was it at the right time when banks and NBFCs were turning? Even on metals we hosted him. So the idea is that this is a part of the theme. To identify the right set of people. So we will discuss that today also. How do I look at people? Anyone here from International Research Advisory, Global RMA, has anyone here? Have you seen some of the businesses over there which were in memory chips or optics switches?"
+    },
+    {
+      "id": "cue-151",
+      "timestamp": "0:02:31",
+      "seconds": 151,
+      "text": "There was a theme of semi-conductor, you can pick from that proxy. Was it helpful to you?"
+    },
+    {
+      "id": "cue-156",
+      "timestamp": "0:02:36",
+      "seconds": 156,
+      "text": "So this is the idea that if we identify the theme, then in the theme of semi conductor we went in memory chips for, for optic switches, there were some companies in PCB substrates that would miss me, that I could have looked at as well, but again the idea is that when we are identifying thematic, going where the fishes are that is what the job of a fisherman is going where the thematic tailwinds are that is what the job of a stock picker is that is something that you always have to remember right that always becomes a theme so you have to see the theme as a stock picker in which industry tailwinds are coming so identifying themes is the biggest job of an investor first."
+    },
+    {
+      "id": "cue-201",
+      "timestamp": "0:03:21",
+      "seconds": 201,
+      "text": "Let me give you another question. 2021-2024, Voltamp, Bharat, Bicely, Trill and Chilcher. Did all four of them do well? Voltamp, Bharat, Bicely, Trill and Chilcher. Voltamp Bharat Bichli, Trill and Chilchar Did all four of them do well? Actually all four did well right? He had identified the other theme Another example In the last two years, the theme of coverage did both HBL and Karnex do well? Even though HBL is a better company, did both of them do well? Let's ask another interesting question. In the last 6-9 months, has Lumax, Auto and Lumax industries done well? Has Prycall done well?"
+    },
+    {
+      "id": "cue-240",
+      "timestamp": "0:04:00",
+      "seconds": 240,
+      "text": "Has SJS enterprises done well? Has Bellrise done well? Most of the auto banks have done well. Even Mothers and Sumi has done well. Financials, has AB Capital done well? Has Sriram finance done well? Has LNT finance done well has Bajaj finance done well Bajaj finance khe phir bhi thoda kum hai baaki sapse but still all three remaining three did well So these things they move in patterns. So first conglomerate back to NBFC, I think NBFC is up tier 2, tier 3, then it will be interesting. But again in last one year or two years you will check cycles, So this is how cycles work."
+    },
+    {
+      "id": "cue-274",
+      "timestamp": "0:04:34",
+      "seconds": 274,
+      "text": "This is how thematic tailpins are. So first time I think what I've done in this webinar also is that the handles I have put in for you, the things I have read, to identify, I have put everything in it. So this webinar will be a small webinar because it's the part 2 of the thematic webinar and you will start to identify like the themes. I think part 1 we had ended up with custom indices and we had learnt to stage analysis but we will look at how to create these custom indices. So you can make custom indices in stock scans which can help make filtering and scanning a lot more easier."
+    },
+    {
+      "id": "cue-307",
+      "timestamp": "0:05:07",
+      "seconds": 307,
+      "text": "So look beyond indices for scanning via custom sector specific filtering. As the leading indices don't have the emerging sectors and sectors which can be solved via custom indices. So by doing a custom index, you can see a tool on the stock scans which can also see the benchmark return. You can use the coupon code TVGP10 to be a stock scan member. And you can make a theme of different sectors. Like here, you can see the theme of auto-angs. It can be a theme like auto-angs, that 30 weekly AMAs started shaping upwards. So, this was the clear stage 2 which started over."
+    },
+    {
+      "id": "cue-337",
+      "timestamp": "0:05:37",
+      "seconds": 337,
+      "text": "Those who are just in part 2, part 1 recording will be already in your email. If you don't come, you will come after this webinar. So this is where the sector started inflecting. This was close to the GST cut when it started taking place and premiumization and to how to find all these things we'll study but this is where it should start coming in your screens and scanners idly right?"
+    },
+    {
+      "id": "cue-358",
+      "timestamp": "0:05:58",
+      "seconds": 358,
+      "text": "Like B2G sector example that stage 4 started, so many B2G companies are disrupted because of a stage 4 which has happened over there similarly, in the recent themeatic tailwinds companies which are into commodities whether they are into iron ore whether they are into silver whether they are into gold like you see the growth rate of the gold lenders, 30-40% plus growth rate is there I think the leading gold lender has already done very well but the remaining players are also showing 30-40% growth rates similarly, let's talk about silver let me give you an example here, to spot thematic tailwinds, you to help you with the tools to do the thematic tailwinds."
+    },
+    {
+      "id": "cue-395",
+      "timestamp": "0:06:35",
+      "seconds": 395,
+      "text": "One is the SOIC which is the main telegram group for students. We posted a report of BNK on Hindustan Zinc to learn about how many of you remember that which we posted last week for you just to study the thematic tailwinds but if someone is not there, what can you do?"
+    },
+    {
+      "id": "cue-416",
+      "timestamp": "0:06:56",
+      "seconds": 416,
+      "text": "You can just go to this by picking up your value and go to a forum and pick up your value and there are some people to follow which I have also covered in the webinar so here they say you can see their thread of freak so just look at his summary activity there is a YouTube video as well of us on how to study value picker how to look at value picker So this is again his post on Hindustan Zinc. That everybody knows technicals and look of the chart. Hit of fresh 52 week after 6 months, trading at 2 year high but considerably low all time high."
+    },
+    {
+      "id": "cue-448",
+      "timestamp": "0:07:28",
+      "seconds": 448,
+      "text": "So brief in on a poor a bazaar company zinc led of silver."
+    },
+    {
+      "id": "cue-451",
+      "timestamp": "0:07:31",
+      "seconds": 451,
+      "text": "And one of the lowest cost producers in the world has four largest silver deposits as well and silver macro here again the report I shared with you telegram group I told you about the sakeer in that you will get the report of the bnk and how this the price has been moving because drones solar panels everywhere silver and there's a supply deficit and how this supply deficit can impact their EBITDA for Hindustan Singh this is also a schematic identification because the charts of all these commodities are turned and the charts of all the commodity index also turned and that is how you can start spotting it right so reading as much as you read, follow good people that this guy is one of the good guys to follow and I have covered similar minded people on this webinar with all of you."
+    },
+    {
+      "id": "cue-499",
+      "timestamp": "0:08:19",
+      "seconds": 499,
+      "text": "How many of you are excited to see that? Again, this is after following these people for 6-7-8 years that I am telling you that they are doing a good job. Like on Value Picker, he is one of the guys that you can follow. Like, so, freek karke, barani manoran, don't disturb him with questions."
+    },
+    {
+      "id": "cue-515",
+      "timestamp": "0:08:35",
+      "seconds": 515,
+      "text": "But just observe whatever he is writing Because a very good thinker, quality thinker To inko a follow kar satthe for example value picker pe So again I have found value in his writings Then jay se aik aur koi value picker pe Kabhi kum log active hai But jay se aik aur jo active hai So I think he used to be a student also in the past, but doing very well in terms of writing. So his name is Nirwana Lah. So you can follow him on value picker."
+    },
+    {
+      "id": "cue-543",
+      "timestamp": "0:09:03",
+      "seconds": 543,
+      "text": "So again He is posting good stuff on different companies, and industries This is one of the guys you can also follow But again, he has a good post on his themes You can also follow his posts we have also covered other people on Twitter that you can follow. So that's a part of this webinar. But how to use value picker, there's a YouTube video of ours that you can watch. That is how to use value picker. Actually, the good people in this, I have covered a lot in this. And you can watch this video, this one. How to find multi-bagger using value picker, a hidden tool."
+    },
+    {
+      "id": "cue-576",
+      "timestamp": "0:09:36",
+      "seconds": 576,
+      "text": "So it's, you can watch this video at 2x and we will give you a lot of good idea like value picker, I will give you an example we had posted on a company that is basically by the name of I think we made an AI-led beneficiary post in which we discussed field power, intellect, design arena, well-spent corp, come ins, india and all and then value picker someone found that post of ours and he did a detailed write up on Intellect Design Arena because he belongs to that industry. So he has broken down what Intellect Design Arena does in AI."
+    },
+    {
+      "id": "cue-613",
+      "timestamp": "0:10:13",
+      "seconds": 613,
+      "text": "I was searching for AI plays and found a blog post by SOIC and he has then just broken it down to bare basic levels to explain it well. Now this is domain knowledge right? You are getting it for free. Many people pay for expert calls. Yet I have seen how expert calls are done. 50-50 thousand rupees for one expert call. But you are getting this type of domain knowledge for free. So a must use tool that is value picker. But there are noise people, what's the price? Or people who will put an article like this."
+    },
+    {
+      "id": "cue-643",
+      "timestamp": "0:10:43",
+      "seconds": 643,
+      "text": "But the people who are posting detailed deep dives over a period of time the more you read value picker the more you will identify to differentiate between noisy people and the people who post actually good stuff right so that is something to remember the commodity tailwinds example is here so again you can read their thread so like the silver one I identified I have identified a report on the silver one, which was also related to BNK. I got the report from Sekhar's group, learning11. Actually, I have it separately."
+    },
+    {
+      "id": "cue-672",
+      "timestamp": "0:11:12",
+      "seconds": 672,
+      "text": "But if you want to find a detailed investor, you can find it from the learning11 group. We have posted the group part 1 in the additional resources. Another thing is that when we talk about the custom indices, This is a custom index of gold financials. Now let me just ask all of you because you have part one of the webinar. Let me just ask all of you because you attended part 1 of the webinar. Let me just ask all of you. Is it in a stage 2 or a stage 3, stage 4, stage 1? Stage 1, stage 2, stage 3, stage 4. Relative strength is shaping upwards or downwards. Relative strength is high or low?"
+    },
+    {
+      "id": "cue-705",
+      "timestamp": "0:11:45",
+      "seconds": 705,
+      "text": "Is the relative strength higher or low? Relative strength is high. Another question that I will ask is that is the underlying commodity price of gold is higher low now I will teach you one interesting thing is the underlying commodity price higher low you can compare it with bank nifty but again I am comparing it with nifty now the idea is atleast that these types of businesses we should study you look at lenders who will still be on the 1, 1.2 times price to book I think I will cover one or two of them at the IAS event but again the idea is that this is how thematic spotting can also happen."
+    },
+    {
+      "id": "cue-739",
+      "timestamp": "0:12:19",
+      "seconds": 739,
+      "text": "Another tailwind can come in this sector. You give them the top-down of the sector. Someone has heard that silver loans can also be used to pledge and borrow loans. RBI has approved it in November 2025. Which companies will be able to get that product out quickly? I mean, for the easiest reason, it has just been approved by the RBI on April 2026. But the whole land is right because it has already been made into a branch. That will be interesting to see. That could be a new product that gets unlocked. Let's see if it happens."
+    },
+    {
+      "id": "cue-767",
+      "timestamp": "0:12:47",
+      "seconds": 767,
+      "text": "But again, thematic tailwinds point, I'm not saying that you bought a stock, I'm just telling you how to do the sector spotting. We will learn the sector spotting, then I will teach you the growth triggers in the next one class. The sector spotting is like this, otherwise it could be that if you find a sector good, then You can also create a basket out of the sector. Now some people say that I don't have stockpicking. It doesn't matter if you make a basket out of top 2 or 3 names."
+    },
+    {
+      "id": "cue-794",
+      "timestamp": "0:13:14",
+      "seconds": 794,
+      "text": "So this is also One of the ways to play themes, but again this is secondary, this is stock picking part, but again this is also one of the ways people do it. Let's talk about one more thing, order wins, like order wins or management commentary, like we talk about PEV sector, and order wins. I'll teach you one thing on the stock scans or on the screener. Let me just come to this, it will be value picker visible. Let's go to stock scans and see one thing. Let's open the example of InterRaj. I was looking at the announcements. There are two announcements in the company last one week."
+    },
+    {
+      "id": "cue-831",
+      "timestamp": "0:13:51",
+      "seconds": 831,
+      "text": "You guys are very careful with the students. What were the announcements in the last 2 1 week, folks? What were the announcements that happened? It was an order of 10 crores or 180 crores? It was an order of 75 crores. Let's check how much it was. It was an order here. The company was ordered."
+    },
+    {
+      "id": "cue-846",
+      "timestamp": "0:14:06",
+      "seconds": 846,
+      "text": "Which was of how many 70 crores order another order was given to the company this was an order of nearly 84 crores, so 2 orders were given to 154 crores this is plus taxes, so 154 crores for 2 order mila company, and again, now the idea becomes is that, once order mila company, orders can also be scanned, like, you can scan an announcement and in stock scans, you can add a keyword here, order wins, so you can scan your stock in order wins order wins can also be added in order so if we add a keyword in order, then the companies getting orders like GST order will also come but the key order wins like tax authority has a lot of order wins and companies, but again, if you ignore the order wins of GST, but wherever the company comes in, so these orders also start coming over as last one day as a tax notices but still you can track this on a base as a be a knowledge marine and engineering works more order I just like a big order in the middle of the big order right Similarly, if you look from below, you can keep loading and you can keep seeing, like GE where NOVA Finally, two orders of HVDC came."
+    },
+    {
+      "id": "cue-923",
+      "timestamp": "0:15:23",
+      "seconds": 923,
+      "text": "I keep tracking order wins out of curiosity. Mtar has an order, Mtar has a CIS code, let me just check once. And a new customer in the civil nuclear power sector various equipment and 310 crore copy order mille right though tracking the order when becomes important because see a b inter-arch quarter mila da inter-arch the pile kuch din pile konsi kumni quarter mila day e-pack prefab quarter mila day yes or no Did you see orders for EPAC Prefab? It means that there is a top down in the theme. You can track the order wins. I will also tell you the variables in every sector."
+    },
+    {
+      "id": "cue-957",
+      "timestamp": "0:15:57",
+      "seconds": 957,
+      "text": "You can leave the tax orders. For example, L&T has got an order. Let's see what type of order L&T has won so L&T got to build factories they got an order FIFA compliance stadium they got a PC business project classification significant orders in 1, 000 to 1, 500 cr it's above 15, 000 cr so L&T got a large order it's between 1, 000 to 1, 500 cr we got an order significant orders 1, 000 to 1, 500 crores, UltraMega is above 15, 000 crores So how big order is given to L&T?"
+    },
+    {
+      "id": "cue-987",
+      "timestamp": "0:16:27",
+      "seconds": 987,
+      "text": "Large order is given to L&T So large order is given to L&T between 2, 500 crores L&T is One of the companies that one can study independently, business has been doing well. I guess there is some order for Suslon here. Again, tracking these orders just to do a thematic tracking of businesses can give a very interesting idea."
+    },
+    {
+      "id": "cue-1007",
+      "timestamp": "0:16:47",
+      "seconds": 1007,
+      "text": "Like when taxation orders can be left out because taxation orders are more in India but still if you look at the new orders the companies have been receiving so every week, once you start doing activities, you can get a good idea of where the companies are getting tail winds so this is a good activity to do the stocks you can check on the screen so you can easily check on the screener also right, so on the screener there are these announcements which happen so I think you have tracked us at the company announcements you can just add a filter filter mad the order and show results that you are getting the order that you can check over it so this is also easily doable ght orders ignore because at this something that is ignorable but wherever the company is getting any order, you will see it here so it's one of the ways to do it another way to do it is that orders are here another thing to check is that here again we were talking about ePack Prefab ePack Prefab comes here, so let's see in the shareholding pattern so the company is listing right now and from now on it is buying insider Can everyone of you observe this?"
+    },
+    {
+      "id": "cue-1075",
+      "timestamp": "0:17:55",
+      "seconds": 1075,
+      "text": "The insider buying is happening on the IPO time So it means that insiders usually buy for one reason But what is important here is that the order is in the interest The order is in the E-Pack Prefab So what can you do here? You can read the management commentary to make a sense of the sector, like we will read the management commentary that There is a next to 3 to 5 year visibility, prefab is only 3 to 5% of overall construction market, building construction market, it means there is a tremendous potential for growth in the prefab segment."
+    },
+    {
+      "id": "cue-1107",
+      "timestamp": "0:18:27",
+      "seconds": 1107,
+      "text": "So what we did is, we saw orders in the company, saw insider buying and management commentary that the time is very huge because only 3-5% penetration was there then we come to the PPPT, investor PPPT now let's see in investor PPPT investor PPPT, we know the time, the company doesn't know because it is necessary to know the total addressable market this is what the total addressable market looks like this is a slide which was there in the DRHP also so you can check the website of DRHP but from this slide, can I easily bifurcate now what type of orders these companies will be getting?"
+    },
+    {
+      "id": "cue-1147",
+      "timestamp": "0:19:07",
+      "seconds": 1147,
+      "text": "Or what type of industry growth these companies will be seeing?"
+    },
+    {
+      "id": "cue-1149",
+      "timestamp": "0:19:09",
+      "seconds": 1149,
+      "text": "Guys this is not a biocell recommendation class, just for thematic spotting, understand this if we look at thematic spotting, it is easy to find out the total addressable market, we can directly assess it again, where is the penetration of the PEV industry, where is the building material, where is the PEV industry so this is how you start spotting the time of the sector So we saw the presentation, insider trading, order wins, management commentary, and then we saw the time Now the idea is that the company's growth rates are like if we compare the EPAC and Prefab with Interaj recently So both the recent quarter sales growth is visible So Interaj had 491 crore crore which was last year's 323 E-PAC pre-fab's sales of 268 crore were 434 So, in both the companies, sales growth was good So, that is something that we saw So, overall, we have seen the sales growth of the sector and sales growth is also improving Now, This is where thematic tailwind spotting works And this is how it works that you top down start analyzing the businesses this way So this is something that you can do independently also That you are joining dots, we are covering this in the conclusion So this is how we do it Now let's go towards some of the ways to execute also and some of the people to track also."
+    },
+    {
+      "id": "cue-1226",
+      "timestamp": "0:20:26",
+      "seconds": 1226,
+      "text": "First let's see what things we can track and then I will come to more thematic spotting. I'll give you an example but these are some of the folks that you can follow. There are two folks who are missing over here but I'll also include them. But These are some of the folks that you can follow. But these are some of the folks you can follow. How many of you follow them all? Or are there any new new people here? I will tell you what is in it. I sure you are following all of them. You can follow them on Twitter. Again, see folks, we don't judge any returns."
+    },
+    {
+      "id": "cue-1252",
+      "timestamp": "0:20:52",
+      "seconds": 1252,
+      "text": "We are telling you that some of the people who can give you an idea of what is going on in the sectors. Again, we are not here to sort of promote any of their products or any small cases and all that. I am telling you that they post good things. Like Abhishek sir has posted a video on a ship building sector. You can see very good videos. Like the one that we have hosted in the past. So, Mr. Sajal has posted very good things on pharma. I mean if you follow Sajal sir today also. I will follow him also. So, sir has done a lot of good work on Lawyers. He keeps posting very good stuff right?"
+    },
+    {
+      "id": "cue-1287",
+      "timestamp": "0:21:27",
+      "seconds": 1287,
+      "text": "Great person also. Here I think 2-3 people missing, I will also include them. Retail investors like Shil Aditya Berke, he posts some good stuff, you can follow him. Value equity posts some good stuff. Equity insights elite posts some good stuff. A lot of them are SOIC tribe members also."
+    },
+    {
+      "id": "cue-1304",
+      "timestamp": "0:21:44",
+      "seconds": 1304,
+      "text": "Like Saker posts some good stuff, investor compass posts some good stuff Actually more than that is the beauty of it The more you share the ideas, the further you go in life So again I am subscribed to most of their things They are subscribed to the SYC membership So the idea is of win-win They said tar will from time to time post some good stuff on technology and stuff. They said Kumar Saurabh will post some very good analysis on market. Suresh I think did for daily market tracking he posted some very good stuff."
+    },
+    {
+      "id": "cue-1335",
+      "timestamp": "0:22:15",
+      "seconds": 1335,
+      "text": "Now Rahul Sanghi is not, many people might not know him but he has a blog, he had just written it on Misho. He had written it on Misho's blog. I think everyone should read that write up That's the level of business analysis people can do I was blown away after reading that write up I was like bro, this is not normal That's the type of write up it was How many of you read that Meshwa write up? This was pre IPO the data right up follow. Right then semiconductor analysis."
+    },
+    {
+      "id": "cue-1380",
+      "timestamp": "0:23:00",
+      "seconds": 1380,
+      "text": "Global RADS, so I'll just give you an idea that I generated the idea of memory chips in the semiconductor that was after listening to the podcast of Gavin Baker because he's a, I think, so say the best semiconductor chip analyst or semiconductor data center analyst, that's him in US So why shouldn't I listen to him? I'm asking you, isn't it an advantage if I'm spending time in these things? So that's an advantage. Another couple of people who are missing away, I'll just include it, right?"
+    },
+    {
+      "id": "cue-1411",
+      "timestamp": "0:23:31",
+      "seconds": 1411,
+      "text": "So semi analysis example, you can follow Nuresh Mnani for broad market analysis and persistence capital is our AIF farm. So sometimes we put stock ideas in the AIF team. So I think AU Bank and many other ideas are posted. Just if someone wants to read. So again, actually ideas are posted by Siddharth Bhandari himself, so he is there, active there. Then let's look at Twitter and some people will miss here, I will give you an example. Like Digan sir, right, Digan Thariya, so their green edge wealth, you should track, their interviews come. So We have been doing podcasts with them."
+    },
+    {
+      "id": "cue-1450",
+      "timestamp": "0:24:10",
+      "seconds": 1450,
+      "text": "But whenever he is posting something, you should... He comes out rarely. But whenever he will do something, it will be epic. How many of you agree with me, those who have seen my videos and industry analysis, that rarely come but when they come, they do it very well. I am a big fan of his teaching. Right now, if someone wants to follow tracking results, then Shri Nidhi has a good handle, NID under scope rocks. You can follow his Twitter handle for results, tracking and business updates tracking. Again, these are some of the handles that one can follow."
+    },
+    {
+      "id": "cue-1483",
+      "timestamp": "0:24:43",
+      "seconds": 1483,
+      "text": "So his handle is good for results and business updates tracking. So I have turned on the notification. Whenever a company's result comes, they will just post. Whenever a company's orders or updates come, they will post. So this is like a BSE corporate announcement for Twitter. It's free. Again, that's the best part. But you have to be careful that they can also be biases. So you have to build your gains. But still one of the good guys to follow on Twitter. Right, so we took an example of Mr. Digen, Mr. One who is here is congruence advisors."
+    },
+    {
+      "id": "cue-1516",
+      "timestamp": "0:25:16",
+      "seconds": 1516,
+      "text": "Right, so these are good articles written in business analysis. So, on business analysis, people like consumer discretionary, like sector review, or again, Concord biotech has written a very good article. I have written a very good article on Rolex rings. It's buying promoter in Rolex rings. So, all these things he is covering. So you can listen to the podcast that is available on youtube and he does a lot of quitter spaces. So all these guys you can follow because the idea is that I am a very shameless person. I want ideas but the framework should be mine."
+    },
+    {
+      "id": "cue-1549",
+      "timestamp": "0:25:49",
+      "seconds": 1549,
+      "text": "Because the idea is that I got ideas but the framework is mine. Is there an advantage? Is there an upside to following people because of this? Good people? What is harm in this? If you got one idea, I got one idea and I read it well. So I have an advantage or not? Learning and humility is the key. Again, many people will say that you are your peers, why are you telling them about them? I say why not? If I want to teach someone, if I want to teach my students, then I should tell them whatever I do, yes or no? Whatever I follow, whoever I follow, I should know."
+    },
+    {
+      "id": "cue-1585",
+      "timestamp": "0:26:25",
+      "seconds": 1585,
+      "text": "So another thing is that the SOIC Twitter handle that you see, I am following the people in this. If you see an investor from outside, you can follow them. Because after refining and spotting, people are getting it. You can follow Chartist for technical chart spotting. The newsletter is also good. You can follow Chartist also. I am following these people wherever I go. Actually, some of these markets by zero, you are a very good channel. You get videos for free of different sectors. Right. So that is there. But wherever I'm following people, you get foreign investors as well."
+    },
+    {
+      "id": "cue-1627",
+      "timestamp": "0:27:07",
+      "seconds": 1627,
+      "text": "That there is a foreign hand-led person I am following. So you should look at it. Like one of my favorite research houses is Citrini Research. This is one of my favorite research houses. But it's a paid research. But what I've read, write-ups did who is like, that's the level of benchmark that we should have. It means that it's a good research. And it's like completely stunning and same. It's a detailed research book. Like, so again, How many of you know about city research? It's something new for you. Folks, they have a lot of research. If you follow tweets, you'll get a good idea."
+    },
+    {
+      "id": "cue-1661",
+      "timestamp": "0:27:41",
+      "seconds": 1661,
+      "text": "What type of things he's doing. You can read free previews. There are good articles in the substack bin. I tell you everything I do. I follow them. Those who miss here are okay. But I think, like Peter Mantis. How many of you know about Peter Mantis? Now let me just ask you bluntly. How many of you know about him?"
+    },
+    {
+      "id": "cue-1681",
+      "timestamp": "0:28:01",
+      "seconds": 1681,
+      "text": "Now guys, his track record in picking biotechnology stocks is of the roof good in US of the charts good track record so, it's not like this, track record is made track them from 6-7 years so, it's like, yes, these people do good work this is the first time I'm opening a bit I haven't put in a lot of handles in this. So wherever I am following the people in SOIC or the people in Ishmoid's ID, I am following the people in foreign investing. Or in the people in persistence's ID, I am following the people in foreign investing. That the persistence team is doing."
+    },
+    {
+      "id": "cue-1714",
+      "timestamp": "0:28:34",
+      "seconds": 1714,
+      "text": "So you should at least go and follow those people because you will create a good ecosystem of Twitter for you there is a male Twitter is research I don't think indulgent political debates and stuff Is it okay guys? That is something that you can track? Perfect. Again, this is invaluable information because after doing a lot of research on people, you get the idea that who should be tracked. Now coming back to the sector landscape, I think this is part 2. We don't have much time. One more thing you can do is you can see the handles and subscriptions."
+    },
+    {
+      "id": "cue-1748",
+      "timestamp": "0:29:08",
+      "seconds": 1748,
+      "text": "Like in Financial Times, there are so many alpha, people don't know why they don't read it. For example, I give you the stocks of Memory Chips, right? So there are only two companies, SKINX and Micron and Samsung There was such a detailed article on memory chips on financial times How many of you remember us reading it together? We read it together in a SOIC session on memory chips After that, we tracked the results of the Micron There were personal results And again, I also keep posting these things."
+    },
+    {
+      "id": "cue-1776",
+      "timestamp": "0:29:36",
+      "seconds": 1776,
+      "text": "So, SOIC membership, SOIC YouTube channel, in SOIC research, our new long-term research product has a watch list of ideas. It has 32 stocks, total 50 stocks watch list. We keep doing webinars. These are the tools that we use. Ken is a good tool. Markets by Zero are free tool to use. Business Breakdowns are free tool to use. All these podcasts are very interesting in companies. If you want to listen to someone, right? How do business breakdowns work? You can listen to business breakdowns and acquire the podcast. Right? So these are the subscriptions to look out for."
+    },
+    {
+      "id": "cue-1812",
+      "timestamp": "0:30:12",
+      "seconds": 1812,
+      "text": "And these are the people that you can follow for free. Right? You can also follow me for free if you want to on Twitter. If you check here, whenever the rate cuts were happening, we started talking about consumption, financials, and financial cycle turning. This is an example of banks and NBFCs. So, in SOIC membership, we talked about PSU Bank B's before, then about private sector bank B's, Microcap 215 index. Recently, we posted a post of which sector? Because we post post of sector level. So which sector post is posted? Day before yesterday. It's nifty IT, right?"
+    },
+    {
+      "id": "cue-1847",
+      "timestamp": "0:30:47",
+      "seconds": 1847,
+      "text": "That there is a lot of pessimism at this time. So these are things that you can follow on sectoral notation. How you can go about it. Now let me just go back to the, these were the tools that we checked. But now we go back. So again, we can play with basket approach. You can check sectors where they're entering stage two at the moment. So stage analysis we covered in the last session where it is upward shipping in 30 weeks you can check that why basket approach is given, even sectoral tailwinds are strong sometimes what happens is that one doesn't have time. You can do ETF investing too."
+    },
+    {
+      "id": "cue-1880",
+      "timestamp": "0:31:20",
+      "seconds": 1880,
+      "text": "If you see that the sector is turning. Like I have done, in stocks cance, all sectors have a sub sectoral index. I will just show you how my dashboard looks like. That you will see here. So you can do it on trading view. But if you look at stock scans, then how you can do it? I have made a custom index. A pre-built and these are my own indices that I have built. This is to track. This is my index in CDMO pharma. It is a business in ports where JSW, Adani and Gujarat Pippa port is built. Like in the hospital sector, there is a correction, so I have an index here."
+    },
+    {
+      "id": "cue-1918",
+      "timestamp": "0:31:58",
+      "seconds": 1918,
+      "text": "Like in asset heavy businesses, I have an index. I have an auto and auto angst index. So whenever these indices go to stage 2, you get an idea where things are happening. Another thing that you can do is returns benchmark. You can compare different indices. Where and what is going on. Like in the cable sector, if we look at it in the last 6 months. In the last 6 months, in all of these, PSU banks has been the best performing sector."
+    },
+    {
+      "id": "cue-1943",
+      "timestamp": "0:32:23",
+      "seconds": 1943,
+      "text": "Between hospital, cables, alcoholic beverages, cements, hotels and small cap 250 You can add symbols or even delete symbols that can give you a good top-down idea because these pre-built scans you can already make for yourself. So this is a comparison of the custom index. Let's talk about the commercial vehicle. So in the commercial vehicle financiers, looking at the index top-down, do you think this index has done a fresh stage 2 yes or no? Looking at the commercial vehicle index, what do you think is happening over here? This is the index top down, right?"
+    },
+    {
+      "id": "cue-1978",
+      "timestamp": "0:32:58",
+      "seconds": 1978,
+      "text": "Again, if we go here and look at the companies, for example we take this Ashok Leland for example data because around Ashok Leland there are a lot of auto ancillaries, right here are CV financiers just looking at the data you start seeing that the data is also turning around that around 9% growth is there because 9 to 15% growth is like an upcycle for this, If you look at domestic and exports, then the growth of MNHCV is 23% If you look at light commercial vehicles, then there is another company, Force Motors You can also look at the data because these are monthly data that you can track and we just go to what's announcements and monthly business updates the company has grown around 59% in small commercial vehicles if you see Tata Motors, you will see 10-15% growth Aysar will also see growth in the trucking business Mahindra and Mahindra will also see growth in the trucking business So the CVE which is the financiers, again because I tweeted yesterday, follow the money So now the promoter has changed in the CVE financiers, not no promoter in a company but there is a promoter here we checked that Mufg seals a 40, 000 crore Sriram finance day now it's a NBFC which is almost as big as Chola Mandalam but valuations Now you have to do it yourself because we will cover it in the TV, GP, Webinar and valuation sector But again this is again following the money Changes in the sector, changes in the data, changes in the promoter Now you can see how we are decoding sectors and top-down are you able to observe that?"
+    },
+    {
+      "id": "cue-2072",
+      "timestamp": "0:34:32",
+      "seconds": 2072,
+      "text": "Who are SYC students, you have been enjoying it for 2-3 years how we are able to decode the sectors, how changes are taking place so again this is what thematic spotting is the more you can spot thematic, the bigger it is so This is what thematic spotting looks like. Then another thematic spotting, I will give you an interesting example. When we look at thematic spotting, we can see in different sectors, this is where it will become more important to check. These are the variables of different sectors. This is included in the presentation."
+    },
+    {
+      "id": "cue-2106",
+      "timestamp": "0:35:06",
+      "seconds": 2106,
+      "text": "So auto OEMs and auto when you have to track the trend of growth. So auto OEMs and ancillaries, what you have to track monthly dispatches, So every company will give monthly data and track market share. Right. So the market share, the one who has tracked it well, market share is the number one thing to look out for. Ather energies and Ola's difference. What do you think is the key difference? Which company is losing market share? Which company is gaining market share? A promoter is different."
+    },
+    {
+      "id": "cue-2133",
+      "timestamp": "0:35:33",
+      "seconds": 2133,
+      "text": "But is Ather gaining market share or losing market share so either energy is gaining market share, like hero moto has gained a little market share whatever happened to the stock price is in the past but again as market share is gained in auto, that is where things start looking interesting. Cement can the region wise demand growth but frankly it's a sector which is a bouncer for me also because it is such a tough sector something or the other keeps going wrong for this sector. In chemical can the companies that can maintain margin?"
+    },
+    {
+      "id": "cue-2165",
+      "timestamp": "0:36:05",
+      "seconds": 2165,
+      "text": "In the last 4-5 years, there are only 2-3 companies with good margins like Caroma Chemicals, a Chromium and a Fertilizer segment where the margins are good. In pharma, USFD approvals and all these things have to be tracked in pharma. But what all is there to track, you can see it has been included in key variables. So let's see here. What is it tracking in the dairy sector? Milk procurement prices, skim milk prices, value added products mix, granite product contribution. Those are the things to track. There are now a daily sector results. Some ads and agro results."
+    },
+    {
+      "id": "cue-2199",
+      "timestamp": "0:36:39",
+      "seconds": 2199,
+      "text": "When you sit on PRTPR, as a homework, you can see ads and agro results. You are the company posted in results. So that is again value added product mix badaa similarly it services electronic manufacturing services hospitals FMCG in all sectors make a key variable to track that I've covered over here with you and actually my mother you do videos taking a free may have put the information will be there membership may do things I cover the year but you do videos may I think we provide far more value versus the time people give."
+    },
+    {
+      "id": "cue-2231",
+      "timestamp": "0:37:11",
+      "seconds": 2231,
+      "text": "Do you agree with that statement at least that there is a lot of value in YouTube videos? That if someone wants to learn about different sectors, Because those videos are going to be on Sanseh Rai Engineering and Shriram Piston. So when you know about Sanseh Rai Engineering and Shriram Piston, you will know what is going on in the companies. So you can watch that video. So our YouTube channel should follow you because you will get a lot of information. Like in the SOIC membership, well-managed companies, exchanges, AMCs, everything is covered."
+    },
+    {
+      "id": "cue-2267",
+      "timestamp": "0:37:47",
+      "seconds": 2267,
+      "text": "If anyone wants to learn about that sector is there. But again in sector key growth drivers can that is covered in this presentation and these companies give a lot of data and then you can track that data. In the retail segment, same store sales growth. So trend can the same show sales growth slowly. So company like the valuation started derating. So these are the specific data pointers of every sector that you can track. Right. So that is how you start spotting them. Another way to spot simply read news. You can use what simply read news, right?"
+    },
+    {
+      "id": "cue-2298",
+      "timestamp": "0:38:18",
+      "seconds": 2298,
+      "text": "The more news you read, the more epic results you will see. The epic results we saw in the last session, how to find them. But look at the news, right? So again, this is by Cummins India. Now, Cummins India's last post is, Data center boom to raise gender demand in India."
+    },
+    {
+      "id": "cue-2314",
+      "timestamp": "0:38:34",
+      "seconds": 2314,
+      "text": "India moving beyond data storage to AI workloads come in India Dequared 99% energy backup So AI booms remain favorable for Cummins and its generators This is a 3 year old video on Cummins India You can follow the YouTube channel But not just Cummins India, but also Kiloskar Oil Engine So we have made a video on the Gen Set industry So Cummins India and Kiloskar Oil Engine is there You can read the conference calls in investor PPD, what is happening in these companies. But at least management interviews idea that where tailwind area top down, yes or no just looking at this."
+    },
+    {
+      "id": "cue-2349",
+      "timestamp": "0:39:09",
+      "seconds": 2349,
+      "text": "Because Cummins India's Q2G result 40% sales contribution data center was not that high, but still that gives you an idea of how much growth there is in the data center. The tailwind of the ship building in the oil of Kilos is the tailwind of the engines. But that is how you should follow because in the thematic tailwinds, you have to follow all these things because see if you get thematic tailwinds right. This is some old data SRF has been the best company in chemical sector had a 5 to 6% Kaggle."
+    },
+    {
+      "id": "cue-2376",
+      "timestamp": "0:39:36",
+      "seconds": 2376,
+      "text": "PNR is like a okay okay company in a PEB sector but it still was a three to four bagger in last three years. This is from 2025 mid to last three years."
+    },
+    {
+      "id": "cue-2387",
+      "timestamp": "0:39:47",
+      "seconds": 2387,
+      "text": "But again if you get the sector right even the best company in a struggling sector is not a good investment but even an average to okay company in an epic sector can become a good investment that is something to remember just like I posted an interview on shipbuilding which was posted by Sanjeev Sahajan also what I did is that students or if you follow the group of seker on telegram, so a report of a shipbuilding PC, who saw that report, I posted it for you, it is a report of Philip capital, so again if you read that report, you will see that if you get an order on each company if you get an order on each company that one or two orders could be bigger than the current order books I had posted an interview of Sanjeev Sanyal You can also watch Abhishek sir's YouTube video But which shipbuilding webinar did you attend?"
+    },
+    {
+      "id": "cue-2440",
+      "timestamp": "0:40:40",
+      "seconds": 2440,
+      "text": "How many of you saw the shipbuilding webinar? Was it like insightful? So that's the advantage of SOIC membership also It was done 3-4 weeks back So anyone can check that But sectoral level spotting, this is why it becomes important. And I think I've covered a lot of information with you over the past two sessions. I'll try to conclude it as well. In conclusion, we will see how to spot the next big market move."
+    },
+    {
+      "id": "cue-2466",
+      "timestamp": "0:41:06",
+      "seconds": 2466,
+      "text": "Follow policy shifts, government policies, new regulations can create powerful multi-investment teams, analyze sectoral performance, track the sales growth, profit margins and results of key industries, key industry players. For example, if KPEX opens up in the chemical industry, then what does it mean by proxy? You can also find AIGAP's prompt in proxy. In proxy, GMM for example, HLE Glasgow's order book will start opening up. So the ecosystem of the industry starts getting better. Listen to the export commentary."
+    },
+    {
+      "id": "cue-2494",
+      "timestamp": "0:41:34",
+      "seconds": 2494,
+      "text": "So sector experts, management interviews, con calls, specialist industry reports start following that That gives you a good idea of which company is doing well, what is the theme If you don't have time to do all this, you can use Relative Trend Scans. You can use Stock Scans, you can use Trinidad in the markets. You can use Trend Line. Relative Trend Scans will be available everywhere. So Relative Trend is that this sector is doing better than the market. At least you should know. So actually, we are introducing one more thing on this."
+    },
+    {
+      "id": "cue-2527",
+      "timestamp": "0:42:07",
+      "seconds": 2527,
+      "text": "So I think I'll just showcase that to you like introducing this sectoral rotation tool also on stock scans. If anyone wants to check, like so that is something that we'll just show you a brief demo. So I think that is going live by Christmas it is going live. So you can spot, it's not an RLG chart, it's a different sort of framework. It will rank in which sector number 1 was in that framework. You can find stocks there. Then there will be a ranking of stocks. So that we will do a separate session with you. So again, after that separate session, we will just put it with myth."
+    },
+    {
+      "id": "cue-2563",
+      "timestamp": "0:42:43",
+      "seconds": 2563,
+      "text": "Then check sectoral specific charts, which sectors are in the stage 2, and then identify the contraria and opportunities. How can we find the contraria place? What will come in the contraria place is that nothing will be good from the last couple of years. Then all of a sudden the growth rates of the companies will start getting better. What we have made on stock scans is something that I will just showcase it to you over here. It'll be like this. Rank sign. Which sector has the highest number of stocks relatively strong. Like so, how many of you are excited for this?"
+    },
+    {
+      "id": "cue-2592",
+      "timestamp": "0:43:12",
+      "seconds": 2592,
+      "text": "This will change once a week. Rank sign. This will help you a lot in sectoral rotation. There will be these ranks which will come. It is coming on Christmas. You can use TVGP10 tool, TVGP10 coupon. You will get a big discount on stocks as well as like nothing. 200 rupees a month. I think the pricing is going to go up. But it's 200 rupees a month. 200-300 rupees a month. But again, this is something that you can track. If the metals are the number one rank in terms of relative strength auto banks may have a headlight lamps may There are two companies one is PM and Lumax Industries."
+    },
+    {
+      "id": "cue-2627",
+      "timestamp": "0:43:47",
+      "seconds": 2627,
+      "text": "So number two, why are you coming? It is a private banks number three, we will be looking at you now. This will change once a week, but it will give you a very good idea in terms of sectoral spotting. Then we will go and find growth triggers in those companies, which will complete the course of TVGP I am also very excited to study this one and we will also put this in the segmental rotation chart then we will come to growth triggers in the second class of tier TVGP. The theme and growth triggers are part of your subscription. But valuation and promoter class will be separate."
+    },
+    {
+      "id": "cue-2667",
+      "timestamp": "0:44:27",
+      "seconds": 2667,
+      "text": "Those who have subscribed for part 2, you will get the next class of growth triggers, included in this, that how companies can find growth triggers, and the theme of Part 1 and Part 2. Now, let me introduce you to the SOIC membership. In the SOIC membership, what all do we do and what do we plan to do? I will tell you. What we plan to do is that we plan to build a platform where we keep educating investors. We have a course that you have seen in the recording. We will keep getting sessions with you. Different cities have come."
+    },
+    {
+      "id": "cue-2698",
+      "timestamp": "0:44:58",
+      "seconds": 2698,
+      "text": "It has not been since the last 2-3 months because research work is very big. And it was going out of Delhi for the vocation. But from February to May we will start the workshop again. So we keep doing offline sessions also and then we stream them online. In level one of the course we teach you about financial planning, the basics of financial planning So in that we have made a video of 2026 mutual fund You can also watch that if you are doing level 1 So who has seen level 1 of the course yet? How many of you have seen the complete level 1?"
+    },
+    {
+      "id": "cue-2728",
+      "timestamp": "0:45:28",
+      "seconds": 2728,
+      "text": "Is it easier to do financial planning after watching the course you can make your own financial plan after that right? Insurance, insurance, all are easy right? Perfect so level 1 to level 6 are done so already 70-80% detail investors have gone ahead right? So level 1 of the course The idea is that we teach you about financial planning and stuff. Level 2, we teach you about fundamental analysis. Level 3, we teach you about financial modeling and valuations. Level 4, we teach you about an exit framework, entry exit framework, how can we build it?"
+    },
+    {
+      "id": "cue-2758",
+      "timestamp": "0:45:58",
+      "seconds": 2758,
+      "text": "Level 5, we teach you about screening activities. And level 6, we teach you about sectors. And then we do market trend analysis by weekly or once a month. Then we also keep doing sessions on basically or keep doing sessions on using AI. So We have also made a course for AI and we are also making a crash course for TVG. So all this is included in the SOIC membership. Whatever webinars we do are part of the SOIC membership. If you want to register for the SOIC membership, you can go to SOICFestive17 offer and you can go to learn.soc.in."
+    },
+    {
+      "id": "cue-2792",
+      "timestamp": "0:46:32",
+      "seconds": 2792,
+      "text": "And for SOIC current students, there is now 50% off on 2 year renewal so I have removed 2 year renewal so if you see yearly membership then it is 15, 000 so it will be 2 years 30, 000 so if you take renewal of 2 years then it will be 11, 999 to get renewal offers you just send us an email We will reply to you within 24 hours And you can renew for the SOIC membership It was something new that we did We are offering even more value than the price Hopefully that you pay So now we will stop the session here And I will take your questions and answers And also another thing Tomorrow I will be presenting at IAS I will be presenting on 2 gold lenders And if anyone wants to basically register for the IAS also, There's an offer for the SYC members that you can check, I think."
+    },
+    {
+      "id": "cue-2838",
+      "timestamp": "0:47:18",
+      "seconds": 2838,
+      "text": "Someone will post in the comments. But for SYC students, you can check separately. This is the IS summit. Vocationally, I was in Goa. I'm presenting on two gold lenders tomorrow. And YouTube video is coming on Sansehra and Sriram Pistons. Alright. Any question folks? In the PEB sector, there is a question that there is a company that was misguiding that there is so much margin in a sport and then the margin is broken."
+    },
+    {
+      "id": "cue-2861",
+      "timestamp": "0:47:41",
+      "seconds": 2861,
+      "text": "So it is not necessary that the company, because all the companies have 30-40% growth rate, so again we should study the sector with an open mind independently I think in the pharma distribution you should have the cash flows of the company but the moment cash flows turn positive then the business model will prove itself that's why the chaos and pit of the presentation Now the chaos is that people say cash flows are not there. But if there is 100 crore cash flow in Q4, then business model will be proved. So that's the thing to track closely. International AIF, we are funding SOIC Global."
+    },
+    {
+      "id": "cue-2895",
+      "timestamp": "0:48:15",
+      "seconds": 2895,
+      "text": "So we recently got the license in gift city. So it will be AIF which will focus to invest internationally across the names. So hopefully it will start in next 2-3 months. If anyone of you is interested, you'll float a form. I don't know how much interest there will be but a lot of NRIs are interested and there is no taxation for LTCG, STCG, income tax bracket. So we have devised a strategy that way. The question of the day is sir, meaning three topics in TVGP will have approximately two classes or two hours per topic. So valuation and promoter will have to register separately."
+    },
+    {
+      "id": "cue-2929",
+      "timestamp": "0:48:49",
+      "seconds": 2929,
+      "text": "Growth-class included in your case. In TVGB, in T and G class one session. So growth-class next is under, then valuation and promoter. So there is a total of 9 hours of content left. So next class is included in this subscription for sectoral rotation, let me check screener I will come to screener let me just go to screener I think market pulse is a tool market pulse is an industry overview sectoral rotation is not a tool because technical is not included in the screen you can see the tool by doing market pulse, you can't see the sectoral rotation."
+    },
+    {
+      "id": "cue-2991",
+      "timestamp": "0:49:51",
+      "seconds": 2991,
+      "text": "Great, level 1 to level 6 of the course is done. Awesome, Ashish Ji. Hopefully you will get a lot of learning from it. The question is on the balance sheet. You can work on the balance sheet the debt increases on the balance sheet, the cash loss is negative like if you look at the entire company, the problem is that people think that when will the cash loss come so the debt to the company is near net cash on the balance sheet the company has cash of 265 crores. But again, cash flows are necessary there for example. If cash flows come, then the business model will be proved."
+    },
+    {
+      "id": "cue-3024",
+      "timestamp": "0:50:24",
+      "seconds": 3024,
+      "text": "For a very long term, it cannot be that cash flows are negative and the balance sheet is dead. Because that is a trap that the company can enter. Recording of the session, Sandhya Ji, you will get an email. Sometimes it can also come on email, I think sometimes it will also go in spam. Right, in the B2G sector, I am not tracking many companies today. You can track coverage sectors. That could be interesting again. But not many names in B2G at the moment. Transmission is a different sector because Government companies are ordering there."
+    },
+    {
+      "id": "cue-3059",
+      "timestamp": "0:50:59",
+      "seconds": 3059,
+      "text": "But in B2G sector, I am not tracking many names at the moment. But that is interesting. Transmission like this entire coverage team could again be interesting. I think there are a lot of interesting opportunities in the market today. I can make you so much that I'm finding a lot of new opportunities today. They are promoter buying happening in companies that are 20-25p, whether in CDMO, in Lenders, in Prefab, or in Orders, it looks interesting once. Great. Michael Barry, I don't track, he has had hundreds of predictions. Who has seen How many predictions of Michael Barry over the years?"
+    },
+    {
+      "id": "cue-3096",
+      "timestamp": "0:51:36",
+      "seconds": 3096,
+      "text": "How many predictions of the last 10 years? Now the world is over. So what is the benefit of this in 25 years? You have seen Robert Kioski's Twitter follow for the last 8 years. He is optimistic. We will say negative, there are two types of attention gathering, here it is overly positive, here it is overly negative. People don't pay attention to the beach people, because of this our YouTube subscribers may see that it is far lesser than other folks, because value is realized by few people. That's a good thing. We are not going extremely. We are not going extremely pessimistic."
+    },
+    {
+      "id": "cue-3141",
+      "timestamp": "0:52:21",
+      "seconds": 3141,
+      "text": "We are not going extremely optimistic. I am optimistic in nature. But I am not going to be extremely optimistic. But again, it is important to maintain balance. Because in the portfolio, we don't know which company will do well. So in the portfolio of 20-25 stocks, sometimes more than half the company is at their dual, that is what the nature of the game is, very unbreakable. So how can I be very pessimistic and extremely optimistic?"
+    },
+    {
+      "id": "cue-3164",
+      "timestamp": "0:52:44",
+      "seconds": 3164,
+      "text": "There are questions on the theme, you can ask in the last 2 sessions I will make a conclusion right now No, minimum is 1.3 You can check it out We had made a video on the dairy sector on YouTube But I think there are interesting businesses in the dairy sector there is a long term tailwind that due to GST, there is a rationalization of the organic sector."
+    },
+    {
+      "id": "cue-3186",
+      "timestamp": "0:53:06",
+      "seconds": 3186,
+      "text": "So in the dairy sector, it is interesting that at this time, the likes of the Heri-Desh foods, Hats and Agro, Parag Milk Foods, The sale of value added products is increasing Because the unorganized sector is being given, it is ending The difference between Chola and Shriram is because there are many blinding products in Chola Shriram is a vehicle financier Mono liner vs Multi liner And when did the promoters come to Chola? There was no promoter in Shriram, but a promoter also came. Memory theme in international, you can see it through Optics switches."
+    },
+    {
+      "id": "cue-3219",
+      "timestamp": "0:53:39",
+      "seconds": 3219,
+      "text": "So you can read about Optics switches on Gavin Baker, where companies like Lomentum holdings etc. But again, I can't give you any bios sell advice. But then there are companies in memory theme which is SK Hynex Micron because the next 1 to 2 years of memory theme is a big bumper demand. You can check the results of this micron recently. Hospital theme is an evergreen theme. Until there is no government regulation, it will keep doing well. Hopefully, it should keep doing well. Why is the theme of the tyre being created? Because in the tyre sector, raw material prices are down, demand is up."
+    },
+    {
+      "id": "cue-3257",
+      "timestamp": "0:54:17",
+      "seconds": 3257,
+      "text": "If raw material prices are down, demand is up, what is the margin? What do you think happens to the margins? Margin's rise. That's why a lot of tire companies will start popping up on their relative strength scans. We will do research webinar next Monday Tuesday. Because today is a go back to back webinar, so we will have a cognitive burnout. Monday Tuesday will be a good day to do. Tuesday I think we will do it. I think it's profitable in BAS. BAS is too early to say. It means that industry profitability is not established. How to bet when there is no profitability in the industry?"
+    },
+    {
+      "id": "cue-3300",
+      "timestamp": "0:55:00",
+      "seconds": 3300,
+      "text": "The government should have a barrier to entry. Like in 2017-18, it came in solar. So the government's side didn't have any such idea that you have banned Chinese batteries. Because they imported Chinese batteries and made EPC projects. So until the ban was banned, the commodity players would remain in the best. It's a good payback period in EPC, a payback period of 18-24 months. So that's good for the sector. But again, that's the risk which exists next session will be on next Sunday next session will be Sunday home finance, I don't track here, Home finance is a weak sector at the moment."
+    },
+    {
+      "id": "cue-3335",
+      "timestamp": "0:55:35",
+      "seconds": 3335,
+      "text": "28th will be next session. Sunday. That will be on growth triggers. Now even if there is peace in the nuclear, I have to track it. I have to read anything. Defense index is strong or weak at the moment? What do you think? It's weak at the moment, right? It is going through a connection, right? So, any defense company, it will be weak right now because index is weak. So, first of all, what is the theme value in the growth promoter? What is the theme covered? In the businesses, the petrol is missing. The petrol is that the theme is not correcting at the moment."
+    },
+    {
+      "id": "cue-3370",
+      "timestamp": "0:56:10",
+      "seconds": 3370,
+      "text": "Like in banking, our debt is even tiered, three banks are doing well at the moment. Yes or no? Because the theme is doing well. Same, the transmission theme is also going through some direction. But I think the order book has become very big in the transmission. Next, the growth of 4-5 years can be seen. Same, till the time the theme is corrected, your stocks will also be corrected. But the moment the theme revised, the stocks should do well. In pre-engineered building, you will need a different framework for the SME sector."
+    },
+    {
+      "id": "cue-3398",
+      "timestamp": "0:56:38",
+      "seconds": 3398,
+      "text": "Because the problem in the SME sector is that the liquidity corner is made. The stocks to do well right pre-engineered building may be a SME sector clear up to the different framework to a guy because SME sector may problem can't you know equity cornered a lot of companies like shareholders are cornered float is cornered and it requires a different bent of mind. Like we did the sessions with you on SME, we will call the investor and see if there is any further delay in the next 6 months. So we will see if the investors will come and present or not."
+    },
+    {
+      "id": "cue-3424",
+      "timestamp": "0:57:04",
+      "seconds": 3424,
+      "text": "But I will ask them to present again The bad side of SME investing Coming out of a bear market How many of you are experiencing bear market for the first time in SME Is it something that is brutal? Are you feeling how brutal it can be? Company can deliver results, but what is happening? Is there massive derating happening? Why is there no buyer in these stocks? There is no buyer, 40-50% of the stocks are in the stock. Time correction, price correction, both are happening. And actually, I am like, pardon parcel of nature of investing. If you have a 25-25 stock PF, you need to see 2-3 drawdowns."
+    },
+    {
+      "id": "cue-3458",
+      "timestamp": "0:57:38",
+      "seconds": 3458,
+      "text": "You can't invest without that. So that's the nature of diversification. I also own 2-3 stocks where I have given 20-30% Some of them have done really well but there are 2-3 stocks which are down That's the nature of investing Portfolio is good Right? In financials, FDI interest is worth it Foreign direct investments are coming That's a good one Capital markets as a theme I think it's a multi-year theme, multi-decadal theme because see some of the themes have like long-term tailwinds, it's in that category."
+    },
+    {
+      "id": "cue-3491",
+      "timestamp": "0:58:11",
+      "seconds": 3491,
+      "text": "But some of the well-managed investment bankers, 1 or 2 AMCs, there are valuations, bottoms up interesting looking. If you get anything on the mid 20s P, in the capital market, you should think more there because they rarely get anything. In the mid 20s to mid 10s P, you get something. Because growth rate is a given in a country like ours. Insurance sector means sagility, it's interesting. There are problems in media system because it's an acquisition, so initially EPS diluted because there are a lot of fund raise. IKS and sagility definitely are unique businesses when it comes to IT services."
+    },
+    {
+      "id": "cue-3525",
+      "timestamp": "0:58:45",
+      "seconds": 3525,
+      "text": "Sagility is something that I am studying at the moment. I won't be able to give you a firm view because I am also studying but PrimoFacil looks an interesting business to study. We will do a video on YouTube. I guess for this Surgility soon. So the pumps last time we talked about working capital problem, till the time when the B2G businesses are running. Themes that I am optimistic on. Let me just open it. I am optimistic on which theme. I think if you ask me themes that I am optimistic on first will be financials. Financially, I will be optimistic. Gold lenders are part of financials."
+    },
+    {
+      "id": "cue-3560",
+      "timestamp": "0:59:20",
+      "seconds": 3560,
+      "text": "Then commodities may be via commodity exchange or like some of the miners that is there. Then what else could be there? There are auto anxieties, auto and auto anxieties look interesting. Aerospace and defense looks interesting from a multi-year point of view. Identity building also looks very interesting to me from a multi-year point of view. Then apart from this, PEV is a sector which I'm interested in."
+    },
+    {
+      "id": "cue-3585",
+      "timestamp": "0:59:45",
+      "seconds": 3585,
+      "text": "There could be corrections that come and go but next one two years new age private sector kx k like then aroma chemicals may like differentiated or let's let's put it this way integrated chemical players which will have margin expansion in fi 27 is a theme that I like and there are two three companies which fit that theme cdmo is a theme which I think is very structural in nature over 2-3 years. So companies where there is more API business and Cmo business can be big, so we should look at that."
+    },
+    {
+      "id": "cue-3614",
+      "timestamp": "1:00:14",
+      "seconds": 3614,
+      "text": "Then apart from this consumption, this consumption is an interesting theme to look at consumption, auto, dairy, hotel sector should have good growth in H2 in November, October, it was very good for hotels rep pile growth was in double digits but December month it got disrupted because of Indigo and stuff but still RepR growth single digit is still there which is still visible in the data hotel wait so it is its publication in the hotel wait, we can check it out but Q4 should be very strong for hotels then internet platforms is a theme which are like a lot where J curve is on other platforms, whether it is ed tech or payments when J curve is on other platforms, whether it is e-commerce or value commerce, then it can be interesting because there, profitability growth becomes non-linear."
+    },
+    {
+      "id": "cue-3660",
+      "timestamp": "1:01:00",
+      "seconds": 3660,
+      "text": "Ports is a theme which I like a lot, ports and airports."
+    },
+    {
+      "id": "cue-3663",
+      "timestamp": "1:01:03",
+      "seconds": 3663,
+      "text": "In port operators, I think the largest one and there's a small one also where the growth is getting better that's an interesting theme hospitals are interesting to you I mean does that theme is more than enough because these themes have long term tailwinds even in transmission, I believe that order booking will be very strong in FY 27 because the power grid guidance for KPEX is very strong for next year so in transmission, some EPC players could look interesting so that's also an interesting theme but now, in the priorities of the theme, I have some backlog Because I won't look at too many players over there till the power grid Kpex starts again."
+    },
+    {
+      "id": "cue-3703",
+      "timestamp": "1:01:43",
+      "seconds": 3703,
+      "text": "Then what else? Auto has been done, precision engineering has been done, aerospace has been done. These are the themes broadly which I like. Farmer has always been there. But these are the themes broadly which I like pharma has always been there but these are the themes broadly which I'm tracking if I look at growth rate in terms of growth rate I think internet companies, gold lenders, auto ancillaries these three four areas minors growth rates can be accelerated here pb sector growth rates can be good in near term. So that's how I'm thinking about themes."
+    },
+    {
+      "id": "cue-3730",
+      "timestamp": "1:02:10",
+      "seconds": 3730,
+      "text": "That's what my technical analysis is picking up. Internationally, I really like the AI team's proxies. Like I see upstream, downstream, to like, like, companies which are backed by the government or there are proxies like optical switches there are proxies like memory chips there are proxies like PCB and substrates there are proxies like AI material They are proxies like semiconductor chips, right? So, the software that makes semiconductor chips, right? The software that makes EDA, one of the companies has like, it's very reasonable valuations, right? So, That's a theme which I like."
+    },
+    {
+      "id": "cue-3795",
+      "timestamp": "1:03:15",
+      "seconds": 3795,
+      "text": "So that's a part of the AI theme. Then what do I like in non-AI themes? Where AI is used to make software. Like the company Evolve Technologies, that's a company which is into the security software part of it. So Again, there is a big problem with guns in the US So how to detect guns without any manual frisking AI based software is also available So in FIFA World Cup, it is looking like a software of evolved technology For example So that's the overall theme that I generally like where will the use of AI come from? I won't be able to bear the IT services sector, I'll tell you the reason."
+    },
+    {
+      "id": "cue-3832",
+      "timestamp": "1:03:52",
+      "seconds": 3832,
+      "text": "Because in the end, the IT services will be the biggest AI beneficiary. Because the enterprise level is still not using AI. So who will implement AI, Any company will do it. And AI will benefit them, any company will do it because employee count will be reduced. So who will increase the margins? Any sales will increase. So this is all a cycle. First, it is built on upstream, then there will be implementation in downstream where IT services companies will be involved."
+    },
+    {
+      "id": "cue-3861",
+      "timestamp": "1:04:21",
+      "seconds": 3861,
+      "text": "So That is also where I am trying to find IT product or services companies which will be beneficiaries of A and R So, if you can read the Accenture you will know that what I am saying has weight to it. So that is there. Globally, weight loss drugs is a theme which I like. One of the innovators was not so long back trading at 14p. All weight loss drugs they are launching which will be very interesting. Then, a lot of interesting businesses internationally, like there are companies which are being backed by Donald Trump and the government to bring deregulation in the housing sector over there."
+    },
+    {
+      "id": "cue-3898",
+      "timestamp": "1:04:58",
+      "seconds": 3898,
+      "text": "So like for example 2008, the Lehman brother crisis was after that, Fannie Mae and Freddie Mac have been like penny stocks, right? But there is deregulation now. So the IPO of those stocks is coming, again they will get listed on S&P and they will get listed in S&P. So that's again a part of theme, right? Again, wherever the government is going, that is what you're looking at. If you track the theme of Gold Miners, and if someone asks you about the theme, then I'm telling you that I'm tracking 20-25 themes."
+    },
+    {
+      "id": "cue-3929",
+      "timestamp": "1:05:29",
+      "seconds": 3929,
+      "text": "Now, I'll take the stocks that I get from those themes and take action here and then I'll look at the businesses. But that is again curiosity Because curiosity will lead you to somewhere other Like defense is a globally good team Like in Germany, the whole Euro has one ship builder that's a german company which got demarched out of thaisenkant so if the whole euro's defense is increased, then the company will get an order so that's the type of thematic spotting you do was it helpful that curiosity will lead you to themes?"
+    },
+    {
+      "id": "cue-3959",
+      "timestamp": "1:05:59",
+      "seconds": 3959,
+      "text": "Perfect, hotels were mentioned in it the link to consumption Was the answer clear to all? Was the voice not clear to all? There are unlisted companies in cybersecurity. There are no companies in the listed sector. There is nothing on the invisible screen right now. I am not able to present anything. How will I keep the allocation? Look, again, I don't know your risk framework. I am going to be 30 years old. I am 100% equity. I will get a little capital. For emergency fund, I will get fixed deposit. For example, fixed deposit."
+    },
+    {
+      "id": "cue-3995",
+      "timestamp": "1:06:35",
+      "seconds": 3995,
+      "text": "But that will be less than 2-3% generally, how to allocate capital, suppose you can do equity at this time you can do 70% equity, which means you can have a mix of flexi cap, mid cap and small cap funds and index funds then remaining 30 may you can do 10 to 15% dead funds 10 to 15% if anyone likes so you can type gold ETF type so that's one of the asset allocation approaches for conservative investors. Those who really believe in equity, you still have to maintain capital."
+    },
+    {
+      "id": "cue-4025",
+      "timestamp": "1:07:05",
+      "seconds": 4025,
+      "text": "If you do 80% equity, then increase the allocation of small gap in mid-gap, if index comes at the B-Bice, if micro-gap comes at the B-Bice, then increase the flexi-gap index. The large gap in the mutual funds is of no use. Flexi-gap is always better. Then remaining 10-10% each you can do in debt and 10% you can do in gold. Or 5% in gold as per your preference."
+    },
+    {
+      "id": "cue-4050",
+      "timestamp": "1:07:30",
+      "seconds": 4050,
+      "text": "Someone who doesn't believe in precious metals to 80 20 Rake 80% equity 20% debt and multi asset funds because they're not not to take any of this call but may I say truly believe cut over 456 years the equity should even outperform like some of these multi asset funds and stuff because business growth at the end of the year it cannot be that the gold price keeps going up if business growth doesn't come then everyone will stop their business and not buy gold that's not possible in the long term but you can play between these 3-4 assets for fixed income, if you can see the invits and reads when you see PPFS, then you can read Brookfield you can do Brookfield read analysis, you can see the indigred invits where dividends are given."
+    },
+    {
+      "id": "cue-4093",
+      "timestamp": "1:08:13",
+      "seconds": 4093,
+      "text": "They can also see the hybrid funds. But generally, when I go for equity, I go for pure equity. I personally, because I have been going for 100% equity, because my risk appetite is high. I don't fear volatility. If I ever lose in a company, I don't fear booking. Because for me, I believe that booking a loss in a company is a sign of progress. It means that you have changed your mind. It means that you have gone ahead to a different business with a better risk reward. So gains and losses don't matter to me. It's just a scorecard, an ID and portfolio has to move."
+    },
+    {
+      "id": "cue-4129",
+      "timestamp": "1:08:49",
+      "seconds": 4129,
+      "text": "But someone who gets disturbed by losses, volatility, because I see it from retail investors, they can't run their portfolio. Why can't they run it? Because they can't sell volatility. But in mutual funds, many people earn money. Why do they earn money? Because in mutual funds, they see NAV. So, seeing NAV and individual stocks is the same difference. I will tell you, after running research desk also, talking to a lot of investors, it is a big hindrance, right? Because EQ and rational quotient people just don't have. Not everyone is fit to do stock picking. So, you should do asset allocation."
+    },
+    {
+      "id": "cue-4164",
+      "timestamp": "1:09:24",
+      "seconds": 4164,
+      "text": "You are doing active investing and passive investing. So, asset allocation gives you staying power. Now, do you realize what is important? In part one of the course, there is a framework covered by the asset allocation that was made with the year If you see the whole presentation, you will understand the importance of asset allocation We had uploaded 6-7 months ago, which asset allocation class did you see? Was it helpful? That's something you can check. I am 20, what to do, mutual funds or direct stocks. Do a mix of both. See if you are able to survive bear markets or not."
+    },
+    {
+      "id": "cue-4198",
+      "timestamp": "1:09:58",
+      "seconds": 4198,
+      "text": "If you read a book, master class is super investors. There is a chapter of Raj Shikhar Aiyar which I have read multiple times. Whenever I get a bear, I read that chapter. In that chapter he mentions that your third or fourth cycle as an investor, that is when you truly mature and start doing things which seems premeditated. Because you have seen cycles, you have seen sectors, you have seen new sectors emerging, you have seen old sectors emerging and you have seen that when to exit a hot party, right? How to exit a party before Cinderella arrives, right?"
+    },
+    {
+      "id": "cue-4227",
+      "timestamp": "1:10:27",
+      "seconds": 4227,
+      "text": "So, I also think the same, like for me this will be what this will be like one two three almost a third fourth cycle now and I'm also I'm observing it in myself. So starting at a young age and that's your advantage. It's a big advantage over others because by the age of 28, 29, 30 you would have seen 2-3 bear markets and by that time, if you are interested in direct stock picking You will go a long way because of this. But again, first make a career, generate cash flows. It is very important to generate cash flows too. Like in my case, how did I generate cash flows?"
+    },
+    {
+      "id": "cue-4269",
+      "timestamp": "1:11:09",
+      "seconds": 4269,
+      "text": "I opened a football business. Even today, football business is going on. Delhi is running AQI, so it is closing due to the grab for. But football business was the first one to open. It's a passive business for me now. I put an active in-law in the estate and the active partner manages it. But have a source of cash flow because a lot of people run after returns. But if the present value is more, the returns are a little less. Then it will work. But increase cash flows. How many of you have increased your cash flows in the last two years, that will be a good point."
+    },
+    {
+      "id": "cue-4298",
+      "timestamp": "1:11:38",
+      "seconds": 4298,
+      "text": "I will just drop a hell yes if you have done that. That is something that is there. If your career limited add and you are the biggest asset of yourself, If you are your own biggest asset, then again, you need to increase cash flows. To increase cash flow, I can also do a mental model class with you if you want. How can you do it? I don't know if people will like me to do or not. But I really don't know. How should I think about my day or how should I think about my business? How should I think about myself as an asset? It's just a mental framework change which requires..."
+    },
+    {
+      "id": "cue-4334",
+      "timestamp": "1:12:14",
+      "seconds": 4334,
+      "text": "I don't know if there will be any acceptance on this. People want that type of a class or not. I'll try to do something but it's a topic which I'll put in the health department. It's something that is there in my mind if I want to do it sometime. I'll just do it for the SOIC tribe and I think there will be a lot of things that you will get to know. I do gaming once or twice a week. I am waiting for GTA 6, as soon as it will be GTA 6, then I am just going on a one week off. Global AF's IANG will do soon, soon, soon. Just waiting for the post-new year. Because the team members have also gone."
+    },
+    {
+      "id": "cue-4372",
+      "timestamp": "1:12:52",
+      "seconds": 4372,
+      "text": "And the service partners are also going on the vacation. We'll discuss the magic number also. Everyone's magic number is different. Someone will give a solo leveling show here. Someone will watch the movie Durandar. The movie Durandar, there was a character development of N.V. Singh. He said in the starting that he was beaten up. And by the end what was? He killed the gangster over there in the beginning of the movie he was beaten right? Outside the shop and by the end of the movie he was the he killed the main gangster was that character development?"
+    },
+    {
+      "id": "cue-4403",
+      "timestamp": "1:13:23",
+      "seconds": 4403,
+      "text": "So that's the thing I will do this soon but now just to summarize the class how can we build things I will take a class of software side that is there but just to summarize the class, Thematic Tailwind Spotting is important. Why is it important? Because if you even pick an okay company in a strong theme, then you'll do well. If you pick even an epic company in a bad theme then you will do badly. Let me give you an example. Epic company in a bad theme between 10 years was Voltamp. Voltamp Transformers epic company between 2010 to 2022 bad theme. 2022 was a bad theme for 12 years."
+    },
+    {
+      "id": "cue-4444",
+      "timestamp": "1:14:04",
+      "seconds": 4444,
+      "text": "It was a company epic. There were always margins, always pricing power, there was a little pricing power and in the sector, the company was always the best known. But again, for 10-12 years, the company wouldn't do anything. At the same time, Deepak Knightwright, O.K.H commodity chemical company in 2013-14, between 7-8 years it did really well. So I believe that if we catch the right theme, then stock picking is overrated. So the first thing is, it is important to find the right theme. Second thing is, what we have to do to find out?"
+    },
+    {
+      "id": "cue-4471",
+      "timestamp": "1:14:31",
+      "seconds": 4471,
+      "text": "We have to read the policy news, policy tailwinds, government regulations, we have to scan the relative strengths and see what are the better results of the companies in which we discussed part one. For example, if there are 5 companies in one sector and 5 companies are getting de-growth and losses, then something is going wrong in the theme of the company."
+    },
+    {
+      "id": "cue-4490",
+      "timestamp": "1:14:50",
+      "seconds": 4490,
+      "text": "But in one sector, there are 5 companies and 5 companies are getting losses which means something is going wrong in the theme but in one sector, there are 5 companies and 4 companies are getting a good profit so it means that there is no need to do something good in the company but something is going good in the sector so we should increase the sector, top down, right? So that's an example Then we discussed that we can make a custom index like we made gold financiers, auto. You can do all this on stock scans. You don't have to do it on stock scans. You can do it on the screener."
+    },
+    {
+      "id": "cue-4519",
+      "timestamp": "1:15:19",
+      "seconds": 4519,
+      "text": "You can do it on different sectors. You can do it on index which is the NSE. You can go there and see. You can also use the stock scan to make a different index. Finally, I have told you in part 1 that the themes are always the same. But the dukes are also the same. Sometimes, themes have an expiry code. For expiry, you should see the class of when to exit in SOIC membership. But if you don't see the class of SOIC membership, You can read two books. One book is Secrets to Profiting from Bull and Dare Markets by Stan Winston. And a trade like a stock market wizard by Mark Minervani."
+    },
+    {
+      "id": "cue-4556",
+      "timestamp": "1:15:56",
+      "seconds": 4556,
+      "text": "An extra book is How to make money in stocks by William O'Neill. And masterclass with super investors Raj Shekhar Iyer Ji ka chapter ne, wo aapko padana chahiye. Exits, bhekiye main toh hi kaya doh ki, Exits are more important than entries. And, mene se aajmi mistakes hotiye tabhi kabhi exits main. I am trying to do away with them, right? But still hotiye mistakes. I am not saying I am perfect, I also make mistakes. But again, as much as I will drag you down in my mistakes, I will learn from it. So you should also learn the exits. Exits is not something to be left."
+    },
+    {
+      "id": "cue-4591",
+      "timestamp": "1:16:31",
+      "seconds": 4591,
+      "text": "Then finally we learned tools like we have learned from the market with stock scans and screens last year. Then stock edge is also a good tool, you can see on stock edge. And finally in this session we saw how you can track different people who are the experts of that theme and how you can join dots by reading the news. So this is the conclusion of the webinar on theme. Second webinar will be on growth. We have learnt about themes and how to find the growth of the theme. Because growth is life. Without growth, there is stasis. And in stasis, there is death."
+    },
+    {
+      "id": "cue-4628",
+      "timestamp": "1:17:08",
+      "seconds": 4628,
+      "text": "If you are not growing, you are stuck in one place and moving forward so you are going back in this way So that is what growth pointers will become important. And that is the topic of our next webinar, which will be done on 28th of December. Thank you so much for attending this webinar. Hopefully you had a great time. See you everyone. Bye bye. Hopefully you love this webinar. Hopefully I cleared a lot of doubts for you. Thank you everyone. Jai and bye-bye."
+    }
+  ]
+}

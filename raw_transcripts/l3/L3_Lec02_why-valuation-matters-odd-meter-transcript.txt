@@ -1,0 +1,1851 @@
+﻿Why Valuation Matters + Odd Meter!
+Level 3 How to Value a Company & Portfolio Creation!
+====================================================
+
+[0:00:00]
+Hi investors, welcome to SOIC. Hopefully everyone is doing well and hopefully
+you're excited for the session. Because in this session we learn a lot of ways
+to value companies and we look at live examples. So throughout the webinar I'll
+discuss a lot of live examples and I'll actually show you the models that we
+have made for them and how you can do financial modeling yourself. So that is
+the idea. And to make yourself independent when it comes to the idea of
+valuations, how can you value the company? And how you can do independent
+modeling of the companies as well.
+
+[0:00:29]
+And moreover, what we'll talk about is that why basically like concept sector
+make concept valuation a metric that can you do valuation in the metric in come
+calculate case a case of how these valuation metrics can also be calculated. So
+I'll just start the presentation with all of you and all my slides are open now.
+Great. So all my slides are open and then we'll also talk about so Joby, after
+doubts ring it towards the end, we'll take all your doubt questions as well.
+Right? So, right. So the deck of it, I think you can mention it first. But like
+all the case studies are latest.
+
+[0:01:05]
+Like, today's case studies are a steel cast example, then the case study of the
+KEEI industry. And all these case studies are included. Right. So, alright, so
+I'll just start the session. And now I think, hopefully, all the people have
+already joined. So I'll just start with a standard disclaimer that nothing
+mentioned in the presentation or the webinar will be construed as an investment
+advice. And like we are not steady registered and it's just a method to teach
+you about how valuations work.
+
+[0:01:34]
+And also one more thing throughout the webinar, I'll also refer to my notes
+because it's a massive webinar and because there will be a lot of like
+calculation of multiples, how to calculate it or how to calculate it. So
+throughout the webinar I will just refer to my notes as well. So with that out
+of the way let's start the session and let's start the session with a few book
+recommendations. You know definitely I think you should read these books if you
+want to understand the idea of valuations better. So first book recommendation
+is book of value by Mr. Anurabh Sharma.
+
+[0:02:10]
+And this is one of the books that you must read. And if you can write down the
+name somewhere, I think I'll be on the YouTube giveaway. So if you can write
+down the name somewhere. So this is one of the books that you must read because
+reason being because valuations is a very dynamic concept. So valuation is a
+dynamic concept is static concept. Because the competitive scenarios of
+companies evolve. The company's basically psychology involves perception of the
+markets also revolve. Are the interest rates going up or going down in the chat
+section below.
+
+[0:02:45]
+And what is the difference between the interest rates going up and going rates?
+Valuation multiples are correcting or like expanding. Correcting or expansion is
+happening. Corrections are happening. So valuation multiples are correcting. So
+this is why I want to start in the beginning with is just to make you aware that
+this is a concept which is very, very dynamic. So valuation just doesn't matter
+on fundamentals.
+
+[0:03:08]
+There are n number of factors which decide the valuations of a company and we'll
+try to go down to all the n number of factors and what is in our control as
+investors and what we can like fundamentally what we can learn about valuations
+and then definitely technically if you want to make selling decisions of stocks,
+so how do I ride because technically because a lot of times the companies will
+look very overvalued, but then it will keep going up again up and up. So how as
+value investors as well, we can take advantage of basically writing the entire
+thing. So that is also what we learn.
+
+[0:03:41]
+Second book that I'll suggest is expectations investing, which is a book by
+Michael J. So this is a book which will talk about reverse DCF and it will teach
+you about how expectations are built into stocks. So this is a tool that we
+learned today as well. Then third book is numbers and narratives. So this is by
+Professor Aswad Damodaran. So he has a free course on valuations on his YouTube
+channel, Professor Aswad Damodaran. So that is one of the books that you can
+read. But if you want to read 200-300 pages of books, you can read a little book
+of alligations.
+
+[0:04:08]
+So this is a 150-200 page book and this also talks about whatever is written in
+narrative and numbers, but a little simplified way or a little short way. And
+finally, the book that I will suggest actually three more books. One is bulls,
+bears and other beasts. So Indian markets may whatever booms and busts have
+happened. This book talks about that in the story format. And then One more is a
+short history of financial euphoria. So 100 page book which will basically teach
+you about how like Tulip mania and stuff has happened over the years. Then bull
+by Maggie Mahat.
+
+[0:04:41]
+So this is another book which talks about financial cycles which have happened
+in USA ever since 1900s. So, how many financial cycles are there? What happened
+in the dotcom bubble? What happened in the like financial crisis of 2003 to
+2008? So, these books give you an idea that how like valuation metrics evolve.
+Every time a new theme comes out. In 2008 housing came out. And financials came
+out in the US. Giving a lot of subprime loans and stuff. Similarly, in
+2020-2021, you all know me in the chat section, what bubble burst in the US in
+2021? What bubble burst in 2021?
+
+[0:05:22]
+Crypto burst as you mentioned correctly. Then the fang and acronym for all the
+tech companies going to 200x price to sale multiples or 100x price to sell
+multiples. So the whole bubble that that got busted. Another example is in the
+US. So they actually raised, they got a valuation of almost $8, 200 billion and
+they didn't even have a car like car production facility in place and that is
+the kind of stupidity that happened. So these books will teach you about the
+stupidity we have in the markets.
+
+[0:05:58]
+So idea is that we need to have a process in place by chance if you are part of
+such a stupidity so how do we take our exit calls this is what we will learn in
+this webinar so another question that I will ask all of you so where do you
+struggle the most when to buy or when to exit struggle I think fundamentals when
+to buy or what to buy may help, but fundamentals when to exit, that's a lot of
+problems. So when to exit problem, this today I'll basically solve for all of
+you. So when to exit problem, I'll solve for all of you. So that you can have a
+problem with when to exit.
+
+[0:06:36]
+So with this out of it, so you can read or listen to all these four talks on
+valuations. So it is in this presentation only, the presentation you'll get. And
+once you click on the like this like topic, the entire video will open. So these
+are four talks that you can listen on valuations. One is by Chuck Acre. One is
+by Professor Aswad Damudan. Free course I think, Joe Stone University. So
+actually like thousands of dollars cost free for you. Then you can listen to Mr.
+Ashish's last talk on valuation of high quality company. So this is also very
+good talk.
+
+[0:07:08]
+Then finally a talk by Yen Liao for Oxford University Alpha Fund conversation.
+So with this out of way, so your basic things, books, talks and finally websites
+that are going to be used in this session, I will discuss with you. But to start
+with, what happens in a company? So just to start with, this is a simple story.
+So many people will say that we are value investors, some will say that we buy
+companies which are growth at reasonable prices, some will say that we are
+momentum investors, some will say that we are technical investors, some will say
+that we mix fundamentals and technicals.
+
+[0:07:47]
+So, there are n number of ways to Nirvana. So it's similar to something like
+this. So it's an elephant story which all of you must know that this is a story
+for like the blind men in their category. So there are at least six or seven
+blind men and first time they are touching an elephant and all of them have to
+imagine what the elephant looks like. Right? So the story goes like this. The
+blind man is a different part of the elephant's body feel. But only one part
+such as the side or the tusk.
+
+[0:08:17]
+They then describe the elephant based on the limited experience and the
+descriptions of the elephant are different from each other. This guy actually
+touches the tusk of the elephant, so he says it's a spear Because he's a blind
+man. Then this guy touches a trunk of the elephant and he thinks it's a snake.
+So she touches the leg of the elephant. So she thinks it's a tree. He touches
+the stomach of the elephant so he thinks it's a wall. He touches the tail of the
+elephant so he thinks it's a rope and he touches the ears of the elephant so he
+thinks it's a fan. It looks like a fan.
+
+[0:09:00]
+Similarly, in valuations, there is a problem that if a company is looking
+expensive at 40 ppm and if a technical analyst is coming at that time, then if
+his cup and handle break out is being built, then according to that, that is
+where he will get into it because his setup is being built. Similarly, if there
+is a deep value investor, I will tell you an example of a friend of mine. So he
+runs, he manages money as well. So his rule is whenever I converse with him, if
+I have mentioned any stock on 10, I would literally cut the phone. Right.
+
+[0:09:34]
+So the rule of talking to him on the phone is everything that we discussed
+should be below 10p. So again, he's a deep value investor. But again, the thing
+is that's his framework. So it's literally like an elephant touching different
+parts of the body. So idea is, if you learn multiple perspectives, then what
+happens with multiple perspectives? That you can develop a more complete picture
+of the elephant, right? And once you develop a more complete picture of the
+elephant, then your thesis of buying or selling, it becomes much clearer. And
+you get to know that these perspectives are going on.
+
+[0:10:10]
+So what we'll do in this webinar is that I will show you the valuations
+fundamentally first. And then how to exit. I will show you the technicals.
+
+[0:10:18]
+Which will be a very simple tool for all of us to use one simple tool and our
+exits will become very very simple for all of us so similarly like just we
+talked about so what's our investing philosophies one is growth at reasonable
+prices one is by quality companies at any price, then special situations
+investing in technical analysis and then deep value investing in there are
+multiple approaches to valuations, but the idea is to do as many case study as
+possible that we can do. So, the case studies possible and we'll try to do it in
+this session.
+
+[0:10:49]
+Just to start with another example, why just fundamentals won't be enough for
+getting an idea about when to exit. So Tarr shared one of these snippets on
+Twitter and I thought K. Resonated with me a lot because I've been watching
+professors lectures for a while now. So he's considered to be the dean of
+valuation and even he went wrong with when to buy and when to sell. Just Imagine
+like if you're just following fundamentals, so you can actually go wrong on when
+like when to buy is okay, but when to sell also is something that like majorly
+fundamentals don't cover.
+
+[0:11:25]
+So he mentioned one of his case studies that I like so it was a combination of
+changes so he basically covered Tesla. And he thought it was undervalued in June
+2019. And after Musk funding was secured and stories of cars being built in
+tents since the company was running out of capacity in plants. So he bought the
+stock at the time of that post and luck was his ally and since he caught the
+bottom at $180, $12 in today's terms because I think his stock has split B1, 15
+as a split to Ska. So I thought I did sell the shares in January 2020 after the
+price more than quadruple.
+
+[0:12:00]
+So he basically bought the stock at $12 and he sold it at $60. Right. So he
+clearly timed the sale wrong. So when to buy was correct because fundamentals
+teachers went to buy and what to buy that is totally correct. But he timed the
+sale wrong because after his selling like, like almost at like after the sale,
+the stock price went to almost $1200 in 2021 and $410 in today's terms. Right.
+So basically, Joe, $12, $60, had he like time the sale. So this is a mistake. It
+happens with all of us. So first thing, massive respect for the professor.
+
+[0:12:39]
+But you know, because you went to exit point, we will learn a lot in the
+webinar. So basically had he kept the stock so his $12 returns would have become
+$410 gaspuska right in today's term right and again he kept pushing his
+valuation assumptions but he couldn't get to a value of more than $600. So
+fundamentals will actually sometimes make you exit early into a stock that you
+are into. But when to exit point, we will talk a lot about this webinar.
+Similarly for Apple, so Apple I think has been an eight-bagger.
+
+[0:13:19]
+If you have dividends, although it's been almost a 16, 17-bagger including share
+buybacks, this is another stock which Professor kept buying and selling
+throughout this time. But Again, idea of when to ride and till when to ride
+again is a part of valuations only, which we'll cover in today's webinar. And so
+this becomes very, very important. So a very simple example I'll give you,
+whenever we look at the business cycles, so this is something that will keep
+playing out again and again. And in the beginning, we will talk about why we
+fail, why valuations matter and how business cycles work.
+
+[0:13:59]
+Then we will go to N number of case studies and index valuation. Index is very
+cheap, you should buy it. When should you invest in the sector? When can you
+take the bank and the frau? First thing is if you look at this book, there's a
+book by the name of capital returns. And this is a book which keeps talks about
+that everything is cyclical, right? And this is a book that you must read
+because again, cyclicality element of this book will teach you. So this is how
+the industry capital cycles happen.
+
+[0:14:29]
+Now quick example, MDF industry exactly a children medium density fiber, your
+boards want to go MDF, apply would say MDF pairing exactly this mdf it is
+happening this industry. So what ends up happening is that competition is that
+like so let's start with this point. When competition increases, so business
+investment declines, industry consolidates, firms exits and investors become
+pessimistic. Then because firms start exiting, then supply side starts
+improving, causing returns to rise above cost of capital. I mean your ROC, it
+goes above cost of capital.
+
+[0:15:08]
+Cost of capital, I will discuss with you today. So your ROC goes above cost of
+capital because now you are earning excess returns commodity business and new
+entrants come attracted by prospects of high returns, investors become
+optimistic, companies value are also raised and then again rising competition
+causes So, I will just show you one example, live example, which is happening
+right in front of us. And this example will actually show you the importance. So
+over here, I'll just show you the live example. Just a second, I think I've
+shared the right screen, right?
+
+[0:15:47]
+No, I think I've shared the wrong screen. Right, I've shared the right screen.
+Just a second, all empty. This is the right. So again, I'll just show you one
+live example of how this is happening today is that let's take the case study of
+MDF and let me just show it to you over there. Let's take a company by the name
+of green panel and then the second company over there is by the name of
+Roushield Decal right and also on value picker as well I created a post on
+Roushield Decal.
+
+[0:16:17]
+So this will give you an idea that spotting these changes like earlier gives you
+a lot more idea about how different cycles and different valuations work. So
+I'll just type Roushield Decal, right, over it. I'll just come to the post that
+I created over here. So, again, this will give you an idea that capacity of the
+MDF industry is this much, right? So capacity of the MDF industry, if you look
+at this, so it's a cubic meter. So like, so here if you look at the accept,
+capacity of the industry, how much it is increasing.
+
+[0:16:58]
+And I think next two years may like next two, three years make capacity of the
+industry will more than double. Just look at it over there. That capacity of the
+industry will more than double. But what is happening is that utilization levels
+of these plants which are coming up will actually go down because of the excess
+capacity now another problem is that the assumption of imports is wrong Like
+imports are heading to pre-COVID level. At this you can do some industry checks
+and actually check export import data. So your imports have increased back to
+pre-COVID level. Imports pre-COVID level.
+
+[0:17:37]
+So again, a question of mine arises to you. If the industry doubles more than
+doubles the capacity and imports go back to the pre-COVID level, A question that
+arises, that what will happen to margins or realizations? What do you think will
+happen? Margins will go down. And why will these margins go down? So, see,
+everyone wants a piece of the pie.
+
+[0:18:05]
+And just over here I'll just show you an example that the market preempts things
+first because in the market, there is a meter of capital cycle like whichever
+industry has displayed commodity characteristics So it is green panel industries
+and green panel industries may currently the earnings haven't deteriorated. You
+will just see the example that your pet has grown actually from 240 to 294 kHz
+even in last one year.
+
+[0:18:28]
+So earnings towards a soft and only start on a quarterly basis but what ends up
+happening is that market has punished the P from 34 times to almost 13 times
+today so green panel has come to a P of 13 times because of this capital cycle
+that is happening within the MDF industry even though margins are healthy at 26%
+but it's very very evident that the market is expecting that imports are
+increasing so your realizations will further go down another example, Rushi
+Lekor So similar story, utilization has just begun. I think this company will
+add up to 100 crore. So almost 8 P.E.
+
+[0:19:10]
+But if the industry is one of the biggest players whose value added mix is the
+most and the Russian décor is where commodity elements are more because they
+don't have full value added mix in MDF. So this gives you a simple idea that
+whenever you are tracking supply side of an industry, whenever you are tracking
+such expansions that are coming up and whenever you track the next one to years,
+the industry can be an oversupply and imports have also restarted. The markets
+will naturally react to it and what I see. What's cheap. What's cheap.
+
+[0:19:47]
+But markets are making in that the earnings can compress. So this type of
+understanding you will get from a lot of like industry case studies and a lot of
+business case studies. So this was important to teach you because you get an
+idea of how the stocks of the markets and industries are. So this is how capital
+returns play out in a lot of industries. Another example is that of mean
+reversion. So what is mean reversion?
+
+[0:20:16]
+Mean reversion is simply basically it's a theory in finance that the asset
+prices that have gone to P or the historical returns of asset prices, they will
+they will revert back to the long term average. So here we have a very
+interesting question. So let's take an example of nifty. So for example, in the
+next 2-3 years nifty gives you a 25% CAGR. This is as an example. And earnings
+growth is 17-18% whereas 7-8% is backed by P ratio but what is the long term
+earnings growth of nifty? Can anyone tell me what is the long term earnings
+growth of nifty in the chat section?
+
+[0:20:57]
+What is the long term earnings growth of nifty? The answer is it varies between
+12-14% types. So long term earnings are between 12-14%. So if long term earnings
+are between 12-14% and if you want to know how much is the long term ROE of
+Nifty long term return on equity is 14% so if you look at very long term returns
+of Nifty you will find that they are always between 12-14% because if you have
+12% earnings then 1.5-2% dividend yield is 1% So your long term returns from
+Nifty are between 12 to 14%.
+
+[0:21:35]
+So if you get a 25% CAGR from Nifty, if the Nifty doubles in a very short period
+of time, so idea of mean reversion is that your next few years of return won't
+be that great. That is a simple idea of it. If you have a very short span of
+time, you get a very good return in nifty, so next few years of returns won't be
+that good because earning growth will revert back to me. Similar is on the
+opposite side. If nifty gives you 3-4% CAGR, then you will say that everything
+is over.
+
+[0:22:04]
+Then again, reversion to mean will happen and your earning CAGR will be much
+higher so that long term average is 12-14% so this is a theory in finance like
+mean reversion always works like mean reversion always works now without the
+company's case studies, I cannot teach you the valuation so we will do case
+studies throughout it always works like mean version to me.
+
+[0:22:26]
+I'm a case studies case studies coming in throughout it because that will help
+you a lot in getting these ideas and actually may I think if you just look at
+this, so like in today's webinar, there are so many like models that we have
+created as a key equity ask a South Indian bank. I feel like right here is steel
+cast, one of the best life. So actually, I like I'll also teach you how you can
+create all these models independently as well. But because we were talking about
+case studies, what is the main reversion? Here, we take an example of Alka
+Elamines.
+
+[0:22:57]
+We'll take an example of Alka Elamines, a fine organics, a Balaji Elamines. So,
+Alka Elamines. So, just let me just take this right away from you. Just from
+here, I'll just show this example to you. And actually, in many industries, you
+will find this happening. What is the range in which EBITDA margin is at in the
+chat section below?
+
+[0:23:47]
+To average 19% by the year. Right. So on an average, it's between somewhere
+between 90, 80 into 19%. If you look in the years, but you can assume 17 to 19%
+right. Now a question to all of you, right. Now a question to all of you.
+Because I want to make you skeptical because whenever bull cycles will come,
+maybe after 2-3 years, you will remember an example. Here, quarterly, so give
+you an example. So, quarterly after this, I think, the COVID, basically, so what
+is the range of EBITDA margins Alkay LaMine was at?
+
+[0:24:48]
+See everyone should participate because you will get a drill down in your mind.
+Great. Management, you know what I was saying in the con call. Analyst was
+saying that your margin is so much, so the management was saying that the
+average margin is between 18-20% Then after a while, they came to the management
+and said that because it was 4-5 quarters, the average margin has increased But
+we think it is between 18-20% Then what ends up happening is mean reversion. So
+idea is that you should be aware of these things.
+
+[0:25:22]
+And if you're writing it, how to have a sound process which will also make you
+exit as well. So we are seeking it. So mean reversion here. So your margins are
+back to what just in the comment section like chat section margins are back to
+what everyone should participate margins are back to what back to mean 18 to 20
+percent chat say means a little bit we go percent over it right margins are back
+to 18 to 20 percent right so see as a retail investor I'm not saying you don't
+have to write this but there is a particular method of writing it as well. It's
+a process.
+
+[0:26:04]
+And if you see the stock peaks out when the margin peaks out, around July 21, I
+think this quarter, here is your margin peaked out, right? 35% started falling.
+An exact peak of the stock was made here right and similarly exact peak of the P
+ratio was also made here that is 75x so it's a simple idea again one more
+example Balaji Amines So this is also fallacy because we'll discuss how earnings
+can evaporate. So Balaji, I'll just give you an example. After this quarter's
+earnings, management came on TV and guided for 26 to 28% margins.
+
+[0:26:55]
+After this quarter of earnings, management came on TV and guided that 26 to 28%
+will wheel sustain. After this quarter of earnings stock started falling
+actually like in spite of reporting 32% EBITDA margin stock started falling
+rapidly. Management came on TV and said that 24 to 26% is what is sustainable
+this 32% is a one off. After this quarter of earnings management came twice on
+TV and said 24 to 26% is sustainable. Then they again came on TV one month ago
+and said that 21 to 22% is sustainable.
+
+[0:27:30]
+22% sustainable lagra right and over a long run again like for getting last
+three years what has been the historical mean or historical range at which
+Balaji Amin's margins are at now in the comment section everyone everyone should
+participate even those who are watching recording they should actually answer
+the comments right so this is a great question so again mix over here if you
+just look at this standalone margins so that is just aliphatic mines so
+aliphatic mines which is what alkylamine does so margins again went to 29-22 but
+they have started flattening out but the margins EDA business or paper is in
+business method.
+
+[0:28:19]
+So those margins, they were actually massively over earning on those prices. And
+the advice guy report, you can just check on trend line. So you'll be able to
+see value and volume mix in the advice report. So volume growth in Balaji mines
+you'll be shocked to where is only 6 to 7%. Volume growth in Balaji Amines over
+the last 2-3 years, barely 6 to 7%. Pulk of the growth is led by value. But the
+thing is, let the margins form a bottom. Let this go down to 20, 22, 21 types.
+Basically let the form subside. Means the more the form, the additional 80, 90
+crs of pad, 70, 80 crs of pad.
+
+[0:29:04]
+The more additional form, let the form go down. I think that is where the real
+value will start emerging. So in fundamentals, we can think this way. In
+technical, I will teach you how to think later. Another example today that is of
+fine organics right like similar thing like very similar thing which you'll find
+happens just look at the long-term margins why am I teaching you this because
+see long term margins again 17 to 20% band sometimes 22 sometimes 23 recent
+margins 26 29 28% right.
+
+[0:29:44]
+You have to always make valuation models or assumptions when by taking the
+margins that are long term average or long term mean margins.
+
+[0:29:56]
+If you take valuation assumptions assuming that this 28 or 30% margin will
+sustain without any clear sight of mix changing because mix hasn't changed it's
+a similar expansion into the similar line of business without getting an idea
+that mix not changed and same same mixer is over earning now you will regret
+basically you are getting into a stock when it is in zone of danger that is a
+simple thing, I have made a mistake, it's not like I have made a mistake, I have
+done a lot of these mistakes after eating, now I have started getting an idea, I
+should look at it in the average when it is over earning maybe you can write it
+but you have to have a very clear exit trigger in mind.
+
+[0:30:35]
+So that exit trigger that we will discuss with you in the webinar. But this was
+the example of mean reversion, right? It was a little clear what is mean
+reversion just in the chat section. If the answer is yes, just drop a yes.
+Great. So again, coming back to the session, so this is what the idea of mean
+reversion is. Now, first we've discussed how there are different types of, like
+how there are different types of like investing methods. Then we talked about
+what is capital cycle, discussing MDF industry example.
+
+[0:31:09]
+Then we also discussed how mean reversion happens by using mines and fine
+organics example.
+
+[0:31:16]
+Now also we'll discuss like finally we'll come to the topic of key why is
+valuation important how the bubbles get created in the markets so there's a
+saying that only when the tide goes out you get to discover who's been basically
+swimming naked and this is exactly what you will find when bull market stories
+over so you will see charts like this so this is the chart of valuation when
+valuation is low so this is a fundamental scenario when valuation is low, it
+will take off then first sell off will be a bit bare trap awareness phase will
+be there, people will get to know about this stock then stock will come under
+media, enthusiasm will increase, public will come, greed will come, delusion
+will come, then this is the new normal.
+
+[0:31:58]
+So right now, a group of companies has reached 800XKPE. This is the new normal
+because maybe they are digging gold. So this is the new normal then will come
+the denial stage then return to normal then fear, capitulation, despair and then
+again return to mean return to mean get back to average. I will give you my
+example. I was buying Algae Lavines in 2019. I thought that the earnings
+estimate that was like 5 years out, it will be packed. I thought that it will be
+packed with 250-240 crores. That packed actually came within 18 months.
+
+[0:32:39]
+That pat actually came within 18 to 20 months of holding the stock. Same
+scenario. You take the stock and you take the scenario because reversion to mean
+is the essence of markets. If a stock gives you 60% KG or 70% KG always remember
+this.
+
+[0:32:56]
+If a stock gives you 60% KG or 70% KG within a short period of time within 2-3
+years of holding, it is very likely that once the reversion to mean happens
+because in long-term investing, if you have a business that is 20-25% over, it
+is very difficult to imagine it will give you because 75% growth in earnings for
+2 decades, then you will become a very large company and how often that happens.
+It's very rarely that happens. This is a stage you'll find like this is
+something that you have presentations for your next bull market because we went
+to the sideways trend. So we will come back here.
+
+[0:33:31]
+You'll see a lot of companies where a lot of good stuff will be happening but
+they will not get a good valuation because they have gone sideways from bull
+market this is the stage that we are going into again and you need lower
+valuations for these multi-bagger types set ups to be to happen. Like the last
+one, two years may be multi-bagger, so you need to temper your expectations as
+well because we are reporting back to me. So this is the financial bubbles that
+happen. Similarly, whenever we talk about PE ratio, I'll discuss all the
+valuation metrics with you.
+
+[0:34:05]
+So similarly, this is the example of Newton who purchase the South Sea stock. So
+this is, this might have happened with all of us. So like be very candid. Has it
+happened with you in a particular stock where you bought something at a high
+price and it goes to a higher price and you sold it and then you again enter at
+a higher price and again you are not able to exit in time because you don't have
+an exit system in place. Has it ever happened with you in a stock. Someone is
+writing a Danny Wilma right. Loris, Divis, Phineotex, NeoGen chemicals, Supriya
+life sciences, right.
+
+[0:34:48]
+Sequend, BSE, Tata LXC, land pharma, right. See, this is a scenario which will
+happen over and over again and see no matter how good the company is there will
+be phases to purchase the stock and there will be phases to sell the stock. I
+think the people who are in the webinar like stick till that thing is thought.
+Give me your 2-3 hours today because when you see the recording later, you will
+know but here it will be much more interactive and this is a point which will
+get drilled into your mind and for next 10-20-30 years of your investing
+journey, this will help you a lot.
+
+[0:35:28]
+Similarly, like bubbles get created on an index level as well. So since 1991
+till 2022, even 2023, the first half milleke deko in January. So Nikai has given
+barely any returns to Japan index. Because Japan made 90 90s such a bubble got
+created where the index itself went to 70, 80 types B. And such was the extent
+of the bubble. So what ended up happening was that the asset bubble that
+happened in Japan was the Imperial Palace in Japan. Its valuation was more than
+all properties combined in California. Like one is Imperial Palace in Japan and
+one is all properties in California.
+
+[0:36:10]
+So such things, they just don't make sense. And once such a bubble gets created
+and once those types of bubble collapse, then it's a very very painful journey
+basically. So it's a very very painful journey that gets created. And usually it
+happens because it's simply because of theory of reflexivity which George Soros
+talks about. That the price goes up, then people say, it's good, right? So
+fundamentals initially improve, price goes up, people say it's good.
+
+[0:36:37]
+Then fundamentals are improved, then the growth of the price goes up from the
+growth of fundamentals and perception growth goes up from the growth of price
+And I think I was having a conversation with a friend of mine. So actually, see,
+because in some of the stocks, we just leave them alone for long-term investing.
+This is a funny story which will actually hit to you on a lot of nerves. So
+let's take an example of all the fields. So a friend of mine, I was recently
+having a conversation with him. So we've been owning the stock since what, 2,
+000, 1, 500 crore market.
+
+[0:37:12]
+And we feel that growth is 20-25% in this. Result was also 25% growth. So he
+says that when the price goes down, the first person to say, Sanjeev is in the
+group, right? Then fundamentals are fine, fundamentals are fine, but what will
+happen in perception? If the price is 300, then they will say Sanjeev is in the
+group. If it is 270, then what will they say? They are thieves. If it is 250,
+then what will they say? The caravan is a product company. So this is the cycle
+of perception that happens This is a funny example that he shared, even though
+earnings are still growing at 20 to 25%.
+
+[0:37:49]
+But this is how your perceptions, like perception becomes negative. Similarly,
+what happens in the opposite? Yeah, like if the price again goes above 500 or
+430 rupees, then what will happen on the opposite side. Music licensing is a
+wonderful industry. It's a great industry. It's a royalty business. You don't
+have to do anything. Your EBIT margins are more than 38-40%. It's a dividend by
+dividend. We have announced the dividend of 3 Rs. That is the opposite side of
+perception that happens.
+
+[0:38:19]
+So just to like share an example with you like this is how actually like your
+perceptions shift and this is where our like your theory of reflexive reflexive
+that also gets created. I'm not saying maybe it's a good buy or a good sell, but
+just to give you an example over it, right? Then similarly, a bubble that was in
+the Netherlands, that is by the name of Tulip Mania, and Tulip Mania bubble, so
+this is the price of a Tulip, right?
+
+[0:38:47]
+So I'll just give you an example so a lot of people don't know and some people
+know so what happened during tulip many a was the tulip became a status symbol
+in Netherlands and as a status symbol manga key like the rich people wanted to
+buy tulips. The middle class and the lower class people saw the rich people and
+they sought to buy tulips. And it's a perishable commodity because after 2-3
+days, it doesn't perish after a week. So there was so much expenditure on
+production in the Netherlands. People took so much money from banks and put the
+production of tulips.
+
+[0:39:25]
+The concept of futures started there. If you look at the futures and options,
+that started because of tulip mania and it was not a lot of people created its
+euphoria that tulip should be at home at the prices of tulips went obscene right
+and a lot of production came in because of production what happened a lot of
+supply came into the market because a lot of supply came into the market the
+scarcity attached to tulip that went away. And again, there was a bust and a lot
+of banks collapsed because of this because banks were financing these tulip
+production farms.
+
+[0:39:57]
+So again, these are the manias that will keep happening. But the idea is the
+exit system has to be in place. So exit system will learn by chance if you ever
+become a part of this mania. Similar mania that happened in India. When we talk
+about perception to earnings, I don't call it price to earnings. I always call
+it perception to earnings. I always call it perception to earnings, right?
+Because perception can be rigged. How can it be rigged by controlling the float
+of a stock? By controlling the float of a stock, the perception can be rigged.
+
+[0:40:28]
+But in the long run, your perception will meet the earnings growth of a company.
+That is what you have to remember. These are lines that you need to write down
+somewhere because example like what Harshad Mehta did was bank securities,
+right? He did the fudging of bank securities. He got money from there. Then
+money went to Harshad Mehta. That money went to ACC stock and then ACC stock
+went from 125 to 12, 000 almost 500 rupees. Right. And in early 1990s, Harshaad
+Mehta happened and that single event changed Indian stock market history.
+
+[0:40:59]
+Because people say that only fundamentals matter in valuation. No, fundamentals
+is only one third or 50% of the story. Rest 50 to 60% of the story is in
+perception. That is what basically technicals will teach you. It catapulted the
+stock like ACC and few others into five digit prices, leaving a lot of them mind
+boggled. And, when the, like when the scam was out, right? So then there was no
+buyer for these stocks and all of a sudden lower circuit started similar
+example, Mazda enterprises, right?
+
+[0:41:30]
+So again, stock went obscene from, 10 rupees to 950 rupees within one, two
+years, then went from 950 to 11 rupees. Why am I teaching you this? Because
+these are examples you will find in each and every market cycle. So all this is
+linked to valuations and perceptions. There's nothing different about it.
+Another example of Penta media. So Penta media stock is 21, 000, then 2130 to
+0.27 because perception at the end perception at the end always always gets
+married to your fundamentals over a period of time. In short term, where does
+the perception go?
+
+[0:42:07]
+In short term, in some scenarios, it can be 10-12 years, where things are done
+in a sophisticated way. But over a period of time, your perception has to meet
+the fundamentals of a business. Similarly, how to get an idea that market
+conditions are becoming very very heated. So, when do you get the most IPO in
+the market? You can tell in the chat section, when the market is going bad,
+good, the mean P and mean margins, I will come to everyone, there are many
+slides made. So, I will come to everyone. Iike of IPOs, it's when they are at,
+when they are at, when the bull run happens, right?
+
+[0:42:47]
+So example, just a vision, like we did videos on PB FinTech's IPO and this
+NICA's IPO, even before the IPO valuation band was announced, and I felt that
+the IPO valuation band, like Similarly for PB FinTech, if I remember, it's 8000
+crore, maybe 8000 crore to 10, 000 crore valuation band Ika and then it might
+become reasonable. But once the valuation band was announced, we thought, what
+is this? Basically the valuation band was announced at 45 to 50, 000 crore and
+it was like even like 5x of my most bullish assumption which I could like think
+about back then.
+
+[0:43:24]
+Similarly for Nika, it was nearly 4x of my most bullish assumption when the
+valuation band was announced and I was quite taken aback because I think PB
+FinTech is a really good business which will do really high margins in the
+coming times and when I was calculating in those high margins, my best case
+scenario was of 10-12, 000 crores which today it is at 12, 000 crores type like
+in enterprise value, it is at the balance sheet of 5, 500 crores. So today the
+froth has gone and no one wants to study it today.
+
+[0:43:53]
+But again the kind of valuation bands which were announced, those things
+generally happen in a bull market, a full blown bull market and similarly coal
+India's IPO in 2013 it was covered over 15 times similarly reliance power IPO so
+in the chat section below he has any one any of you who has been long enough to
+do the markets has applied for reliance power IPO or your family members have
+right so I think back then even my family applied for this IPO and different
+different basically the family members used them and applied and this is like
+one of the things that happened people took loans to apply for the IPO and that
+is classic bull market cycles whenever such things happen so the idea of
+valuation is to teach you and make you aware about history we are going to talk
+about individual companies so before going forward into all multiples multiple
+case studies basics course to do so actually I'll just give you one of the case
+studies that how Buffett actually invests.
+
+[0:45:02]
+So if you just look at one Buffett's example, he actually means West. How do
+they do? I mean, no one has told me that he read the letter, so it's a lot of
+ideas, but actually ma'am, how does he invest? This is one of my favorite case
+studies. And whenever I do something on valuations, I definitely take this case
+study. Simple thing that so this is a case study so like the book like the so if
+you've read the book the snowball so it is written by miss Alice Shorin and she
+illustrated the story that how he actually invests.
+
+[0:45:32]
+So in 1950s IBM was forced to diverse itself of computer tab card business as
+part of antitrust settlement with Justice Department. The computer tab card
+business was IBM's most profitable business with profit margins of 50%. Right.
+Buffett was approached by some friends to invest in mid continental tab card
+company which was a startup setup. So it was a startup back then. The Buffet
+declined because of the real risk that the startup could fail. This illustrates
+the first fundamental principle of how Buffet invests. First focus on what you
+can lose and then only then think about the return.
+
+[0:46:05]
+Every great investor that you talk to or every great trader that you read about,
+what is the first thing that they talk about? Every great investor or every
+great tech trader you read or talk about, what is the first thing they talk
+about? First thing that they talk about is risk or do not lose money. So over
+here as well, this focus is because it's a startup, so we don't know whether it
+will lose money or how much it will come. So once Buffett decided, concluded he
+could lose money, he quit thinking and said, no, this is his first filter.
+
+[0:46:37]
+Then Shorter argues that most investors do just the opposite, they first focus
+on the upside and then give passing thought to risk. Later, after startup was
+successfully established and competing, Buffett was again approached to invest
+capital to grow the business. Company needed money to purchase additional
+machines to make the tab guard business. But the business now had 40% pat margin
+and was making enough that a new machine could pay for itself. It's a second
+scenario. After a few years, he was again approached to invest in the business.
+
+[0:47:07]
+The second scenario, what ends up happening is that in 1959, long before Buffett
+had established himself as an expert stockpicker, people were coming to him with
+special deals just like they do for now Goldman Sachs and GE. So again, second
+filter made what happened was so he went down and actually laid down the
+quarterly data of midcontinent factory and then compared it with us. As we do,
+as you do, There is nothing else. Basically nothing differently. We have done
+comparison of KIA industries and polycap and Havels. We have taken V guard and
+universal cables and 2-3 cable companies.
+
+[0:47:46]
+And then we have figured out which segment is growing faster and which volume
+grows faster. Which company's valuation is cheaper as compared to P.L.S. And
+then you'll figure out the concept of faster growth in the segment and what is
+the value of the company's value as compared to P.L. It's similar to what he did
+over there. That mid-continent factories and its competitor at best he could
+determine on the sheets of legal pad and studied the data. He established his
+hurdle rate of 15% return. He asked him if he could get it based on the
+company's 36% pat margin and 70% growth.
+
+[0:48:18]
+It was a simple yes or no decision. He determined that he could get a 15% rate
+of return. So he ended up investing into the company. Simple thought, 15% rate
+of return will get 70% growth at 36% margin. So it's not available in the
+obscene valuation. So simply he decided to go and invest into the company. And
+15% is from day one on his investment, that can come from there. And this is how
+Buffett does a discounted cash flow analysis. DCFBM is going to learn today. So
+again, because the company is growing at 70% and he is assuming he had 50% 15%
+rate of return.
+
+[0:48:56]
+And just look at the returns he got. So Buffett invested $60, 000 of his
+personal money or about 20% of his net worth. It was an easy decision for him.
+No projections, only historical data. He held the investment for 18 years, put
+another 1 million into the business over time and he earned a 33% CAGR over the
+next 18 years. That is the idea of investing. That Buffett is very risk averse
+and follows firestone's law of forecasting. Chicken little only has to be right
+once.
+
+[0:49:27]
+This is why Berkshire Hatways not only dealing with a lot of problems other
+companies are dealing because he avoids the risk of catastrophe. This is the
+idea, right? That whenever basically you are getting the opportunity within your
+sweet spot key, you see the problem is that why we get swayed away from our
+discipline. Like, if I look at my scenario, the majority of the portfolio is in
+two companies where the peg ratio is below 1x. So, almost probably in my case,
+two-thirds of the portfolio will be there. Then, the rest of the portfolio will
+be in two companies which are at reasonable prices.
+
+[0:50:04]
+Then, very less percentage of the portfolio will be in companies which are at
+obscene valuations. I am trying to learn something new. So the idea is the
+majority of the portfolio, if you're practicing value investing or if you are a
+discipline of like growth at reasonable prices has to be in companies where you
+can find reasonable like valuation comfort and growth along with it. And a
+question to all of you, how many stocks do you think he bought and sold in
+Berkshire's 26 year history, I think from 1970s to 1990s. How many stocks are
+sold here? Now let's talk about Berkshire's history.
+
+[0:50:41]
+The answer is close to somewhere between 2142, 2300 stocks he bought and sold
+within that span of 1970s to 1990s. In his partnership days, when he was
+pre-starting Bokshaar, he bought and sold nearly 400 stocks. Because simple
+idea, so buy and hold is the scenario because he has 200, 300, 400 billion
+dollars, cashy 120 billion dollars, so he can't do all this churning around, but
+on a small scale you have to, I don't think there is no reason for you to not to
+do it if you're like really active into like if you're really active about
+investing so this was the Buffett's case study.
+
+[0:51:27]
+We'll understand what is the true essence of PE ratio and we will look at first,
+we will discuss strategies that may passive investing may help us to solve our
+problems of PE ratio and how we can actually spot opportunities. So this is one
+of the wonderful quotations which I actually was listening to an interview by
+Mr. Sameer Arora. I think he did this for money control and he beautifully laid
+it out. The P ratios are nothing but we play the odds when it comes to
+valuations. Payne's company was at 30, 40 times earnings, not so long back.
+
+[0:52:04]
+Earnings were still the same, yet P has increased to 90-100 times, making odds
+unfavorable. So he is simply saying that P ratio is nothing but odds. We were
+thinking of fundamental investing because I came from the same journey that I
+want the exact value that I should buy this stock at what price but the reality
+is that you will never get the exact value you have to buy this stock at this
+price all that you will get is these three things. Low valuation, reasonable
+valuation or high valuation.
+
+[0:52:41]
+You can filter down all the stocks that you own into these three things along
+with the earnings that the, along with the earnings that those companies have.
+So simple example like you have to see peer to peer. We will learn that too.
+Like high valuations or that against you, even if you're not sure about earnings
+or headwinds.com. So one more example because it will be a very fresh example.
+So just coming to over here, I'll open a website by the name of trading view.
+Sunday session. So trading you over it. Let's open a stop by the name of Dixon.
+Over here.
+
+[0:53:29]
+So let's look at the P ratio of Dixone, so went almost 182 times, right? PE
+ratio, let's see EV2, EBITDA, went almost 86, 87 times. I inside, it was very
+easy, it was very expensive. But in real time, how to actually think about it?
+And recently, company, even though it will still grow, but they came and
+downgraded the guidance. Let's look at what has happened to the P ratio. Just
+the E they cook this blue bars are the earnings growth. This blue bar, this blue
+bar is the earnings goal. But look at the fall in PE, right? Because perception
+has taken ahead from almost 120 times.
+
+[0:54:08]
+It is down to 68 times, even in a period of less than one year, right? Even in
+less than a period of one year. Just look at the earnings going but the PE
+falling because perception has taken a deep hit. Look at the price. I think from
+5000, it's almost down to 2721. Look at the volume bar. So I think SOIC tribe
+members are done. But it's a very simple technical tool that I will teach you
+that will help you. So this is on monthly candles. So because SOIC tribe members
+are discussing. So just a second in the chat section.
+
+[0:54:48]
+So, SOI, like how many of you know about volatility stop in the chat section?
+Tribe members I think are dented it. Non-tribe members might not know. So, what
+it really is top is a wonderful tool. Right so volatility stop is a wonderful
+tool. I'm just having a five-minute discussion because then we'll go back to the
+valuation session. See because idea is that if you are learning these small
+things, if you are also riding high valuation, then you must understand right.
+
+[0:55:34]
+So first thing is that volatility stop is an indicator. So I will show you from
+here. So I will just write volatility stop. Just over here. Volatility stop and
+over here, the indicator will come. Simply just go to the length, length of 10
+months and multiply it. You can keep it as 2.5 or 2 2 now when the valuation is
+very high because it will give you an exit early. If you are doing reverse DCF
+then I will tell you reverse DCF if the valuation is very high, the growth of
+next 20 years is getting big, then keep it at 2.
+
+[0:56:10]
+So what we will do additionally is that the thickness here, I will increase the
+thickness let me explain some logic the idea is that the average true range
+basically an indicator is ATR which measures the volatility of a stock because
+we are investing in long term, so these are the tool traders, but we will see
+this on monthly chart. If you see the monthly chart, you can see it on monthly
+chart. So average true range is the like average volatility of a stock and this
+volatility stop is nothing but times two. I mean, average true range into two.
+
+[0:56:58]
+Now you guys tell me that green plus sign. Green plus sign. This gives you an
+idea that the volatility is in favor of you that the markup phase is happening
+technicals markup stage. But once the red plus comes in like when the green,
+when the candles come up, that is the markup stage that the stock is doing well.
+Consolidation will be there, so it won't give you an exit.
+
+[0:57:33]
+But once these red points come in right you can do this with any stock that you
+want and you'll see it works like 90% of the time it will work right once this
+red candles come in right these these are red plus dots come in So this is the
+point of time that the volatility is going above. So my volatility is very big
+and volatility is increasing. So this is an indirect correlation with volumes
+when distribution starts when people are selling this top nonstop. Right. So
+here overvalued to a guy pay or go out value investor to be a wage can go out.
+
+[0:58:07]
+But this simple tool would have helped you to write the entire journey and exit
+somewhere close to this point. That is 4200, you got the exit here. It was 4,
+000, it's 4200. You can do this with any stock and you will find that it really
+works. Similarly, if you can do this with a stock by the name of relaxo, this is
+the idea that actually may seem odd. They basically become unfavorable. So if
+you just simply do this with the laxo and if you just look at this, right?
+Simple thing made you like ride relax. So since 275 to almost 1000, then it gave
+you an exit and today laxos at 820 or 815.
+
+[0:58:48]
+This is a simple tool in which we will discuss in depth. But the people who are
+encountering this tool for the first time, it seems interesting in this just in
+the chat section.
+
+[0:59:11]
+So I am doing this on monthly chart, reason being because I am investing in long
+term, but you can simply do this, if you think that the valuations have become
+obscene if reverse DCF or normal excel formula is seen then it will give you
+like early exits like you will get exit here at 1073 but it won't let you
+basically stop out similar example you can take this in the case of isher motors
+so you will see on the example of isher motors so simple thing, because we are
+looking at monthly candles simple thing, taking 35 rupees, almost a journey till
+2800 rupees and then it gave you an exit then it gave you an exit to go there
+almost 10 years after exit time this is one of the beauties of this tool, You
+can mix this with your technicals and stuff and then you can get these ideas.
+
+[1:00:06]
+Similarly, because outside, there are a lot of volatile markets in the US, so we
+use 2.5x here. Similarly, in Tesla's case, entry over here, first exit over
+here, so entry in 2011 first exit in 2019 then one more entry over air in
+November 19 and then finally November 19 entry 21 dollars And then your exit
+comes close to $2.50. Right. So gain an example, right? So almost a 10 bagger
+journey with less tension. You can also alert on trading view Whenever it goes
+below, it will set you an alert over your email. You don't have to follow the
+markets on a daily basis.
+
+[1:00:50]
+See, because fundamentals won't teach you how to exit and this is something that
+I figured out after like almost Maluptuation fees, then all the things are
+simple example, another one, sequence, right? I think we were out somewhere
+close to this 170-180K the buying was also around 160-170K the average buying
+was in 2-3 accounts Similarly, again like your exit triggered like your exit
+triggered at 232 rupees if you're trying to do long-term investing, right? So
+exit triggered at 232 rupees at exact point of time, right? Would have saved you
+a lot of pain because today's stock is at 80 rupees.
+
+[1:01:29]
+Supriya Life Sciences. How many people have Supriya Life Sciences? People are
+thinking about 12 rupees, 12 rupees, 12 rupees. Then maybe the problem lies
+beyond the balance sheet. We don't know. And simply never gave a buy. It is
+never been a buy. And here we will talk about the base formation.
+
+[1:01:45]
+Why you should mix these things in valuations if you are getting excited because
+all the things are coming up just drop a heli us in the chat section below
+because there is a lot of baggage in your mind that will get removed after
+learning these things great awesome So let's start and so let's start and let's
+go back. Just giving almost over here. So back to this.
+
+[1:02:19]
+So idea is the whenever a stock goes to high valuations so odds are against you
+so if you are using something like a vstop so where is it 2.5 times true range
+so take it to 2 times when the valuations are observed so take it to 2 times
+your exits will get triggered early. But suppose if it's something that is
+horribly expensive, 200, 300, keep it out of the job, still, our technicals exit
+me there. I'll go then take this. We stop even back to 1.5 times. So I'll go
+exit or be just the Miljaya Gaussian whenever something bad happens or whenever
+the volatility starts increasing massively.
+
+[1:02:52]
+So those are signs of distribution in technical spar lands. So you have to
+escape as a retail investor when the distribution starts because your selling is
+not going to be not going to be going to be because a chart will get created or
+get broken because of institutional buying and selling. Second is reasonable
+valuation. So this is where the peg ratio is at less than 1.5 to 1.75 times.
+
+[1:03:16]
+So what is the formula for peg ratio now suppose if a company is basically a
+scapura a co formula so come on the same way suppose if a company is growing its
+earnings at 30% and P ratios at 30% 30 times now peg ratio comes to one times I
+have put the whole formula in the presentation just give it to us, the baggage
+and the valuation so almost peg ratio 1x is here suppose if a company is at 30
+times P ratio and earnings growth of the company is at 20%. So peg ratio in that
+scenario, you will get around 1.5x because peg ratio is nothing but P upon
+earnings growth of a company.
+
+[1:03:58]
+This is the formula of peg ratio. Low valuations when Peg is below 1x and market
+is not expecting any growth, growth can surprise leading to P e rating. So these
+are some examples. So here I will come to this slide later, but one more case
+study that you can actually have. So I think when valuations go obscene, like in
+Infosys example, valuation went to 206p.
+
+[1:04:27]
+For at least next nine years, the stock didn't give any returns in spite of
+earnings of infosys growing at 20 to 25% CATR because your valuation multiple
+collapsed from 206 to almost 30x meaning 6x compression was in PE ratio, almost
+60-70% compression was in PE ratio earnings are growing but your P ratio got
+compressed. Right. Just look at the Infosys chart. It's actually may let me just
+take you to trading view and look at the Infosys chart over there. But these
+things will give you a better idea. So all right, over it. So just coming to
+Infosys. Just a second. Right. I think.
+
+[1:05:17]
+So just. Because we thought it was going to keep it in the PEEP. And I go right.
+So just look at the example, right? Here over here, you get stopped out, right?
+And in between, after initial like selling and stuff, again, you basically
+purchase and you write the journey but because of high valuations at that point
+of time what end up happening was Infosyska return over a very long period of
+time, if you just look at this, so this peak of Infosys, this was the point of
+time where Infosys, if someone bought at this peak, gave no returns from 1999
+till almost 2009.
+
+[1:06:04]
+No returns were given by infosys right between this period of time if you
+purchase it at a very high valuation. Similarly, even from here from 41 dollars
+like 41 rupees till 256 rupees you would have made like good returns. But this
+is the idea as retail investors, retail investor, respect risk, respect high
+valuations and do not fight the market, have an exit signal in place, right?
+
+[1:06:30]
+So similarly, this, right, you're getting into a stock when the valuations have
+become reasonable again and you're basically all the way you're basically tail
+up, you're riding it and whenever you think that the valuations are becoming
+expensive, you can take your exit calls based on that. I think HDFC bank for the
+last 25 years may there have been barely two exits that to even in scenarios of
+market crashes right. But that is a simple idea if you want to really use
+technicals to combine with your fundamentals.
+
+[1:07:00]
+So coming back over a to co-return the money in for this man because he went to
+200x, right? Even though look at the infosys pad growth, look at the pad growth,
+115%, 117%, 30%, 18%, 30%, 50%, 30%, 56%. It's not a bad business, but it was a
+bad stock. This remember this, it's not a bad business, but it was a bad stock,
+right? That's the only thing. Like if this was a bit eye-opening for you, just
+in the chat section, just like write keep what were your learnings, a key
+learning bus, Joby, okay, a sentence may Just write the key learning after
+looking at this example.
+
+[1:07:42]
+Take 5-10 seconds and just try to write key learnings. Respect valuations. So
+one key learning everyone in the chat section a key learning up supply
+participate. Like there are a lot of good tribe members and a lot of good
+students in the chat section. So all of you just write one key learning. Yeah,
+we stop can be automated up like I think kind of code we call it as cool, but
+what me, what I've done, you have just created alerts. So alerts email. Next
+Sunday, we'll be teaching tribe members how to create those. P ratio base ke
+baad hi aar ho.
+
+[1:08:31]
+Because I am a long term investor generally I use monthly but if I own a stock
+and it goes to really high valuations then I basically multiply its exponential
+and you can also put it on weekly So one thing is clear that buying at any price
+is doesn't work in the markets like over a period of time last two, three years.
+
+[1:08:58]
+But buying at any point of time doesn't work in the markets right so this is a
+simple idea that starting valuations always matter looking at infosys example
+like starting valuations they always matter now coming to a very basic concept
+that PA ratio is there, some people don't know about the P ratio, so I will just
+break down the PE ratio and tell you how to calculate it and all the methods of
+valuing a company, I will discuss with you all the multiples Simple thing is
+what is a P ratio? A P ratio is simply calculated as price upon earnings of a
+company.
+
+[1:09:37]
+This denotes how much are you willing to pay for 1 rupees of earnings of an
+asset. This is a simple meaning of P ratio. Example is right. So I think I think
+I have shared a lot of children in the webinar last night. So like I take my
+father's example, he took a plot of 2 crore and those 2 crore residential plot
+where it had 2 lakh rupees per annum. What is the P ratio of this asset because
+the audience all knowledgeable and what is the P ratio of this asset? The answer
+is P ratio of this asset is 100 times, right? Because annual capacity of earning
+is 2 lakh rupees, right?
+
+[1:10:16]
+And the price is around 2 crore, right? Why did you give the price around 2
+crore? Because in 2008-2009, everyone was buying a house, so dad also had to buy
+a house. We have also kept it in the residential plot site. It did not even have
+construction for 4-5 years, then it had a dispute for 1-2 years, then finally
+handover of the property in 2015-16. And see, personal finance is very personal
+because of everyone's experience. So my experience was very much because I saw
+that my dad had to run so much for a plot.
+
+[1:10:47]
+So this is why my experience is very basically charred over there in property
+but generally if someone gives me like a 14 lakh rupee rent on a 2 crore
+property then the like P ratio over there would be lesser but just to give you
+an example over here P ratio is 100 times and if I write it upside down 2 lakh
+upon 2 crore or intu 100 this will give you the earning yield of the acid
+earning yield is 1% if I am putting 2 crore then I am earning 1% if you will
+reverse the P ratio then it is known as what?
+
+[1:11:32]
+Earning yield of an asset If I am buying something of 100 rupees It is earning
+of 10 rupees If I reverse it, it is yield of 10% of the asset Similarly over
+here if they had invested this money in bank fd then they would have invested
+100 rupees in bank fd 7 rupees earnings would have come right so 14.3 times p
+ratio means that for earning 1 rupee I have given 14.3 rupees right and how much
+earnings would be 7 percent if you reverse the p ratio then you will always get
+the yield and why this is important to understand because some people talk about
+yield, so simply just do this and this is how PE ratio is calculated now the
+concept of PE ratio is that PE ratio is the perception to earnings.
+
+[1:12:21]
+So, this is how PE ratio of a stock gets calculated. That is market cap upon net
+profit and stock price upon earnings per share. So, as a fundamental investor,
+you take your view over here, net profit. Market cap and stock price, right? So,
+market cap and stock price, that is decided by n number of factors what are the
+number of factors that can be considered as liquidity in the market? What are
+the second factors that can be considered as liquidity in the market? Like if I
+tell you today that if you want to measure the liquidity of the market right?
+Second factor in number of factors.
+
+[1:12:54]
+If you want to measure liquidity, there is also a tool that I have made for it,
+which is just this try, if you are in the webinar, then share it with everyone.
+So simply just going to charting, and I will just share this tool with all of
+you. This is a free tool to use. Just look at the market liquidity today.
+
+[1:13:15]
+This compares the current market liquidity with market liquidity one year back
+one year back the market liquidity was really high so when yellow line blue line
+goes up means at that same time one year back market liquidity was high so just
+look at this for throughout the year the market liquidity has more or less
+remained below 1 year ago so you are seeing that the markets are in a sideways
+trend and the FII selling or DIS buying is not ferocious as compared to 1 year
+back So your valuation multiples are also contracting nifty 22 pt as nifty pv
+20.7 a right junior nifty 39 pt as 24 times a day.
+
+[1:13:56]
+So your valuation multiples are collapsing or contracting because liquidity is
+going out. This is a free tool that I will share with all of you. So you can see
+many things in this but this is an example. This is one of the reasons why your
+perception gets corrected. What other reasons can be of perception correction?
+What other reasons are? There are more reasons. There are more interest rates.
+If interest rates increase, I will tell you the whole example. I think he will
+be in the webinar today, so he asked me this question. What happens if interest
+rates increase?
+
+[1:14:28]
+Initially the prices of bonds fall. So the prices fall because they get repriced
+to a lower level because the yield is adjusted according to the yield. Initially
+the prices fall but if interest rates are stabilized at a high rate suppose
+interest rates are stabilized at 8-9% so what ends up happening is that after
+stabilizing at 8-9% so you have options, right? The institutions in the world
+have options so this is money, right? So let's say this is rupees so this is
+money, So what is the option of rupees that money will come in stock markets or
+bond markets.
+
+[1:15:08]
+And the institution is thinking where to put it. If they can lock in a yield of
+8 or 9%, then the competition between stock markets and bond markets will be
+liquidated. So this is exactly what is playing out over the last 1 or 2 years
+that the money is flowing now into bond markets as well. And your stock markets
+liquidity at least in Indian case has reduced a bit. So even though markets
+might do might do well because earnings will grow, but there is always a
+competition between bonds and stocks. And this is what happens. Or care is an
+old time perception of fluctuate.
+
+[1:15:42]
+So perception upon net profit will be like September. Or care is an old time
+perception of fluctuate. Example let's take an example of a business by the name
+of Relaxo just to give you an example so, let's take an example of Dixon or
+Dixon relaxo is a monopoly business that is the perception that is created,
+monopoly business and this is one of the best companies But Relaxo, what was it
+before? It was one of a kind company that was listed in the market. Then after
+relax, what was listed?
+
+[1:16:19]
+Metro branch list Campus list Mirza is also cleaning up And as compared to
+relax, the volume growth of metro brands is very good means the volume growth of
+metro brands is 15-20% The segment where they operate relax the maximum impact
+of inflation there actually if you study the business models then you will be
+shocked to know that the margin in spite of contracting has actually expanded
+because if you are selling 1400 shoes and you have to take 100 rupees for a
+price hike it won't make much difference because the customer is coming to your
+shop look at the margins so you should see pre-in-days but just to give you an
+idea the pat margin business ka beast purchase like 20% kya aspas a right so
+almost 50 and 18 to 20% pat margin here but just look at the margins of the
+company right so margins in spite of contracting has actually expanded because
+of premium mix increasing.
+
+[1:17:21]
+Sales are not suffering in the scenario. Let's just look at Relaxo. Relaxo
+scenario. Similarly, you look at the margins. So that tells you that the
+customer that laxo is serving to is very price conscious. Whereas the customer
+metro is serving to isn't very price conscious. He actually will pay 100 rupees
+more. Right. If you are paying 1400 rupees, what will the difference be?
+Basically that's the type of customer daddy is getting to. And this is where the
+perception took another hit because all the other companies also got listed.
+
+[1:17:51]
+And now, two, three years ago, there was no option to invest in footwear. Now
+all of a sudden you have an option to invest in, right? Which is actually
+superior than Bata as well because Bata wasn't growing. So business models be
+valuation or perception. This is what I'm trying to teach you over and he always
+has been. So as a activity, because there are a lot of beginners, so experienced
+tribe members, so we do this activity. So let's take a business like let's take
+a business value. I have to finance. Right. So I feel finance.
+
+[1:18:25]
+How much market capitalization so let's take our business, let's take our
+business value and let's take the IFL finance right so how much market
+capitalization of IFL finance is now 17, 512 crores right and how much is the
+earning of trailing 12 months is, 1358 crores so divide the market cap and
+trailing 12 months earnings and tell me the PE ratio in the chat section just
+take the time, those people who will watch the recording of this after 2 days,
+you also write the answer to yourself whatever the answer is, put it in the chat
+section everyone should participate, it will be all simple some people are very
+experienced they will have to walk in the park but still should participate so
+almost 13 times P ratio will be seen here you will see almost 13x P ratio this
+is one of the ways to calculate your P ratio.
+
+[1:19:21]
+Let's take KIA Industries. So KIA Industries market cap is 14189 crores. So I am
+not telling you to take out P ratio, now show me earnings. So how much is the
+market cap and how much is the PE? 31.2 times. Now you can show me the earnings.
+Now you have to show the net profit.
+
+[1:19:45]
+Take your time and think how it will come out alright opening the chat section
+TTM Dev TTM means trailing 12 months like now in FY23 the third quarter is going
+on So trailing 12 months means that the earnings of Q3 the earnings of Q2 and Q1
+are only 3 quarters but then they will take the earnings of Q4 F522 that is why
+they join the 4 quarter and make it trailing 12 months I hope you will be very
+clear that the last 4 quarter earnings are always trailing 12 months so almost
+454 crores is the answer I think everyone should participate all the people
+watching this otherwise it is useless to attend so 454 crores and over air so
+454 crores looks like 457 crores Everyone should participate, otherwise it's
+useless to attend.
+
+[1:20:42]
+Right, and over here. In trailing 12 months, if you just look at the answer of
+this, so over here, that type of your earnings will come here, I think that
+decimal point will be there, the screen has given 455. So same thing, your
+answer is correct, that the answer of 455 crores has come to you. So This is one
+of the ways to calculate P ratios of a company. All of you are participating.
+You will remember this in your mind. This is one of the ways. Now, let's talk
+about passive investing.
+
+[1:21:18]
+How to buy bank beads, nifty, and how to make a return till now whoever has seen
+nifty, p, odds meter in the chart section, who has seen this? Who has not seen
+this? So simply the idea is that if you look at the convergence of earnings
+growth and returns in the very long term, So I have data prepared over here for
+you. So if you just look at the earnings growth in the long run, you will see
+that it might be over here. If you look at the returns of Nifty in the long run,
+you will find that the EPS growth of Nifty in last 22 years is 11X whereas
+returns of Nifty in last 22 years is 10.5X.
+
+[1:22:10]
+I think this is data as of first table like 2022. But again, what has happened
+is that you can play around nifty to actually beat nifty. If you have 11x return
+in long run, you can actually make a return of more than 40x just using nifty.
+Not even doing passive investing. Do you remember the simple thing? So over it,
+whenever Nifty P, so many people know that you do job, business is owned, so you
+can't get time for markets, but if the market crashes, or something is not good
+in the market, then just remember this chart and take like print out out of this
+screenshot.
+
+[1:22:54]
+So when Nifty is of 20 to 22x, this is a rule of thumb, always remember that
+whatever return you will get in your market, that will be as much as earning 12
+to 14% CAGR with earnings and the dividends that you get If you buy nifty
+between 20 to 22x, if you buy nifty above average, your returns will be
+somewhere between 10 to 12% over a long period of time. If you buy at an
+expensive price, do not expect great returns. 9 to 10% is what you will get as a
+CAGR.
+
+[1:23:30]
+If you buy Nifty at an expensive price, the return will be 6 to 8% when the P
+crosses 25 times calculate it on normalised earnings take it at below average if
+you calculate your nifty, if the P goes to 19x, so your returns can actually be
+even higher than 12 to 14% 13 to 15% as per your return.
+
+[1:23:54]
+If you buy nifty at 18xp, then your returns goes to actually 15 to 17% CAGR over
+a long period of time because he P expansion or the way is the do the in person
+fault you will get right and then if you buy that 16 next this is the moment
+where actually if you are not getting anything to bet then just go and buy nifty
+right go at time actually me nifty the peer ratio because earnings collapse the
+normalize earnings with a 10 or 11 times the peer ratio of the nifty game I
+think it was time to give the 10 and if the 10 and In the COVID time, actually,
+the PE ratio of Nifty was collapsed because of normalised earnings.
+
+[1:24:24]
+I think at that time, how much was Nifty? Was it 7000 or 6000? And from there,
+Nifty has gone back to 18000. Instead of Nifty, Nifty became your big, big, 120,
+130% return in the last two years. And this is like literally the best companies
+in India top 50 companies 16x is bed the house movement you can do a back test
+too, it's a very simple thing so you can do it in valuation because some people
+can't do stocks I have interacted with a lot of people and I see that sentiments
+are not controlled. This is one of the simplest ways to benefit out of stock
+markets. Simple way.
+
+[1:25:01]
+What is the price of nifty today? I will teach you. What is the PE ratio today?
+Nothing to do. So let's come here and come to the friend line. Simple thing is
+that there is no paid nifty in the friend line.
+
+[1:25:19]
+Nifty 50 and the moment you write nifty 50 your P ratio will come so today P
+ratio is 20.7 times is it average, cheap or expensive in the comment section
+because I will get an idea that you keep up with me so nifty PE ratio at this
+point of time was average so trend line has wonderful functionality, you will
+all click PE so the nifty PE and price will come in front of you and if you do
+EPS then EPS will also come in front of you. So actually when I came to COVID,
+what happened at the time of COVID was that EPS of Nifty fell.
+
+[1:25:57]
+So EPS almost 480 that EPS fell to almost 360 because companies earnings
+collapse away right and here consolidation was the subsidy.
+
+[1:26:08]
+If you look at it from COVID lows because of consolidation of subsidies and
+Nifty EPS growing the EPS has gone to 840 right but here if you calculate the
+price of nifty and pe calculate at that time so let's calculate it right now
+right so almost at that time I think nifty if you normalize and calculate where
+the nifty like EPS is also expanding from 450 it's going to 500 forward 50 to
+your nifty was somewhere like it went almost as low till 80 to 100 almost 16 XP
+was time pay one year forward available and actually made the EPS actually went
+above like your 840 almost at 840 right now.
+
+[1:26:52]
+Similarly, past me, I'll be case studies, because you never nifty PES fallen
+below 1617 times, and you have invested, I chai o 2003, may or 2004, may or
+2009, chai o, I've got 2012, I chai o, I've got 20 in in 2003, 2004, 2009, 2012,
+2016, COVID, you have always made obscene returns. That is what has been the
+nature of investing right. If you want to invest a little bit in Nifty, then
+this is one of the charts that you can follow right. And always create this
+historical growth rates of Nifty.
+
+[1:27:29]
+If you haven't seen the growth of Nifty for 4-5 years, then always calculate the
+reversion to mean that in the next 2-3 years if the EPS is enough then Nifty is
+on the forward P. So this homework we have given in the financial literacy
+course, I don't know how many people have done it but you should do this because
+if you are just an index investor this is where it will help you a lot with.
+Similarly now coming to your other indexes copy so this data I will share with
+you so this is for every 27 Jan of every year so I will share this data with
+you.
+
+[1:28:00]
+So let's look at nifty bank, bank nifty has a price to book and PE ratio you can
+see the dividend yield but banks don't give dividend so today PE ratio is 16x
+and price to book is 2.6x the price to book was 4.53 on peak and P ratio was 24x
+so today the price to book is only in the mean, if you can get the average so
+you can just simply do this, is equal to average you can get the data in this
+sheet, is equal to average and now by summing up, you will get an average of the
+price to book average you can get an average of P ratio now P ratio is a little
+below the long term average earnings road is also bank nifty so earnings road is
+one of the only indexes, it index and bank index where earnings road is very
+secular.
+
+[1:28:55]
+In 2019, when the crisis came, but earnings road has been more or less very very
+secular. So again, bank nifty seems to be just below average valuations at the
+moment. If you talk about bank nifty itself.
+
+[1:29:10]
+So again bank nifty bees like if you want to see that is something that you can
+look at nifty farmer's time pay it is just at the average valuation so nifty
+farmer is not cheap at all then in 2015 what happened in 2015 pricing pressure
+USFDA Oversupplier, pricing pressure, distribution or distributor consolidation
+So that is something that happened way back in like 2015 and index level if you
+just look at this You are almost your earnings of like your pharma index peaked
+out in 2015 when all this started. So earnings have still not grown very
+handsomely because of those issues.
+
+[1:30:08]
+So this is why pharma index for me, like, like, like, like, companies, like,
+companies, like, maybe, but I owe you last six months, but again, exit points
+are important. Similarly, Nifty FMCG always trades at 40 PE and above because
+earnings grow very very slowly, but they grow very very consistently. In Nifty
+IT, they always like currently 26 XP, but at one time in 2018 and in this
+scenario, it went to a PE ratio of 19 or 16 times. I t indexy lele the it busy
+lele the mota mota kaam hujada right. So that is that today I think it is not so
+cheap at the moment as compared to the past.
+
+[1:30:52]
+It is not so cheap at the moment as compared to the historic past. So that is
+something that you have to remember and Nifty auto is not as cheap as it was at
+one time, so the PE expanded at that time you could have just normalised the
+earnings and calculated it but you can calculate it from a historic perspective,
+but nifty bank and ITBs these are two ETFs or indexes where you can use it
+wonderfully and finally you can use Nifty ETF you can learn to do this like
+earning and P ratio timing definitely a good point is interest rate is
+increasing but interest rate will not be elevated forever.
+
+[1:31:32]
+When that interest rate starts to decrease when you get uncertainty, you will
+get 17-18% P and you will not get P as well if interest rates go back down from
+7-8% after 2-3 years, what if they go back to 4-5% what will happen? Your P
+ratio will again expand and that is where you make your returns. Generally this
+sentiment meter will work 95 to 96% of the time and you can back test it
+yourself. With that out of the way, I think our passive investing concept will
+be very clear about how to evaluate. Is it clearer? If you practice yourself
+later, it will be clearer.
+
+[1:32:07]
+Just drop a clear in the chat section normalize earnings what is the other thing
+that sometimes companies like covid happened So what happened in Covid? You guys
+told me that the company was closed. Means a lot of things were closed, right? A
+lot of things were closed and then everything was going on.
+
+[1:32:32]
+So, see price to book is a good indicator, dividend yield is also good, price to
+book will not be in IT index, in many indexes price to book will not be there,
+because it is historical equity, so there will not be much space, so I think
+dividend yield and price to earnings along with earnings growth in these
+indicators you have to mix this long run earnings growth how much is index key I
+think I have done it for you for Nifty but I will try our best to send it to you
+next week so that you have an idea that this point was here. What does normalize
+earning mean?
+
+[1:33:06]
+Pratik asked that Pratik basically means that the normalize index is that the
+normalize PE that when the COVID I and PE ratio increased, I mean it will look
+artificially better because your earnings were finished.
+
+[1:33:20]
+So when the 2 quarter lockdown of Nifty was nifty, the earnings were not visible
+so what you had to do was to normalize it and assume it if the earnings come
+back to 440-450 and it grows around 15% so 1-2 years forward way, earnings are
+between 500 and 550 so on that scenario, you have to take 1-2 years forward what
+you have to do, the price of nifty which was 8000 and then you have to divide it
+from EPS which was in your mind by normalizing that 1 year forward way nifty is
+going on the PE ratio of 14-15 times and That was the time to basically bet the
+house.
+
+[1:33:56]
+We say that by when there is blood on the street, that was the time to bet the
+house. So that is a simple scenario of normalizing earnings you can forward it,
+you can do it on trailing, what will be the problem? That sometimes there is
+such a scenario, you will never be able to think about it so that is why you
+need to teach it as a homework, what should you do?
+
+[1:34:14]
+So nifty, you should go to nsa's website, you should get nifty's P ratio and
+earnings and the earnings and P ratio and the price, you should calculate it you
+should keep it from 2001 so that you do the same similarly, if you look at the
+NIFTE's EPS, EPS more or less keeps growing so sometimes when recession comes in
+Indian markets, post-2015 earnings recession in India I think EPS is 840 now and
+here the reversion to mean comes very quickly. What is the reversion to mean? In
+one or two years, the earnings of CAGR will go up to 36-40%.
+
+[1:34:58]
+And then when you look at the long run, you will see the CAGR of 12-14%. So, in
+a year or two, this recovery is always like this. And it is possible that the
+Nifty, which was in a earnings momentum, might still keep leading to the growth.
+If you look at the earnings, there are major portion banks in Nifty. And banks
+are still reporting stellar results. So that is what has been happening. So
+remember this. Long trough then in a couple of years it will be complete. If you
+look forward, at that time on COVID, it was around 10 times the ratio of nifty
+and this is where the spring happened.
+
+[1:35:40]
+So this is an example, you can take these examples but a very important concept
+is that in the very long run, so this is taken from Sage 1, so entire credits to
+Summitser and their team. So in the very long run, the price or the CAGR of a
+stock eventually interacts with the EPS CAGR of the stock. That means how much
+earnings the stock has, and how much stock returns are there. In the long run,
+it always connects with it. For example, the 10-year track record of Bajaj
+Finance, of 69.5% CAGR, the simple reason being, because P in FI-11 was 10
+times.
+
+[1:36:19]
+So here, we give 10 minutes of tension to the two or three, it is a very
+important concept. The P ratio of the Bajaj Finance in FI 11 was 10 times, the P
+ratio of the Bajaj Finance in FI 19 was 43 times, right? 10 times and 43 times.
+You can just look at this example that whatever return you made in Vajaj
+finance, of 69% 34% was led by EPS growth and rest of it was led by PE re-rating
+So this simple tool you will get in the Tejori finance that share price returns
+or earnings growth. You can get it on the screener too. Let me just take you
+over there.
+
+[1:37:02]
+First let's fix the fundamental concepts, then we'll go to the technicals, how
+to get exit signals So just onto the screener, let's go to the screener and I'll
+show you how to see the tijori finance So if you want to sign up for the jeori
+finance, I think syc 015 will get 15% off so again if you want to do it, so
+let's take an example of asian paints as I will come in financials, so as we
+will see below the share price CAGR, because of which, if you look at the 10
+year track record, over here you will get an idea, the 10 year share price CAGR
+is 19.72% but the EPS growth is 12.3% whereas the rest of it is led by price to
+earnings ratio.
+
+[1:37:56]
+Similarly, 7 years share price CAGR 17.7% is led by like almost 11.64% is led by
+EPS whereas 5.24% is led by PE. 8 year may be same, 9 year may be same, 5 year
+may be same, 4 year may be same, 3 year may be same and finally, now in last 1-2
+years, PE contractions started because interest rates have started rising right?
+So this is where you have to be a bit careful when I am giving money to the
+company I am putting money in a company Is it because of purely the earnings
+going up or is it also because of P going up? Because if the P cycle contracts,
+imagine how painful it can be for you.
+
+[1:38:43]
+So imagine the amount of pain that you can have over there. Another example, a
+relaxer example, right? So just have an idea of all these things. When you are a
+stock main, then how much return is coming from earnings or P e rating. So
+relax, so you will see in four years, the return that was 20% CAGR, the P e
+rating, earnings were 1% right.
+
+[1:39:08]
+In 10 years, you will see that only 13.9% of your EPS CAGRs were 18.84% PE
+growth these are some of the examples that you must look into if you have a
+portfolio, you have to experiment with it similarly, if we look at the KIA
+industries, this is a stock that I own, so a standard disclaimer, I don't know
+how many years it has been since then So again an idea right here even though
+your just a second right here baby your P rating definitely where the share
+price CAG are 59.68% out of which 27.6 is contributed by your EPS growth but
+again in last one year you will see that the return bulk of it is contributed by
+earnings growth PE Rating has definitely played a role so you have to be humble
+enough to admit that PE Rating is at pe, it is at 30 times bhi, rhas earnings
+kis pe grow kar rahi hai.
+
+[1:40:08]
+Just in the comment section, earnings growth rate ke hai agar aaj 30 ki bhi pe.
+Approximately 25-30% types right so peg ratio how much right so how much is the
+peg ratio? 1.25 or 1.5 is the peg ratio so again the growth at reasonable prices
+is fit in the framework similarly someone asked to show it on the screener. So
+here on the screener, you can watch it over air.
+
+[1:40:53]
+I showed more details on the head truck. So on the screener, you can just watch
+it over air. Share price, CAGR, 10 years, like your compounded pad growth. So
+the difference is because of PE rating 5 years more or less same, last 3 years
+14% is contributed by PE rating last 1 year 31% pad growth and 13% of the return
+is contributed by PE ratio That is a simple idea that you have to understand the
+PE ratio, how much it contributes, how much it contributes, and how much it
+contributes over a very long period of time. This is a simple idea that you have
+to understand.
+
+[1:41:29]
+So this is one more thing that is out of the way because see a valuation
+examples it means are a key there are n number of ways to look at it but idea is
+the process banana key when to buy and when to exit kese karna uskom seeking it
+right so one more example so here peh aap dekhenge PI industries ka jo 47% CAG
+aata earnings were 22.6 whereas re-rating led to the difference of the returns.
+Similarly, Deepak Knightwright earnings were 23% CAGR whereas re-rating led to
+15%. So the idea is that you look at all the starting P multiples of these
+stocks which have gone to be huge winners.
+
+[1:42:09]
+Which P ratio has gone to 60-70? Tell me one stock whose P ratio has gone to
+60-70, which have gone on to be huge winners. Tell me one stock. Pause for a
+minute and answer me. Which stock has gone to 60-70? Just tell me one stock. On
+to be huge. Tell me one stock. I'll give you one stock. In the comment section,
+which stock was starting at 60-70? Just stick to this experiment. A demart can
+happen, but there is a flow. The PE of the varun beverage was always 40-45
+times, now it is at 55% earning growth was 75-80% of the earn-beverage right?
+
+[1:42:55]
+Some people took the example of earn-beverage but look at the earning growth
+ferociousness of earn-beverage see the ferociousness of earning growth in the
+earn-beverage Right, so just over here, over here, varun beverages, right? So
+look at the earnings road, right? Definitely PE, CA, GRB, but just look at the
+earnings route.
+
+[1:43:27]
+Right, that gives you an example like one beverages here, you can see on the
+screener stock price CAGR actually, P multiple contract were because earnings
+growth has been really ferocious just look at the pad growth CAGR right better
+work, clear work, a little idea, a little idea, a little idea, a little idea,
+just in the comment section, starting P matters and earnings also matter, a
+little more clear work idea, or I will explain a lot of examples ahead. So
+basically, so you can watch it in recording as well.
+
+[1:44:22]
+This is that difference. This is a simple difference. And simple example is
+you're on a very long period of time. If you really want to create very good
+returns, then you have to pay lower valuations, you have to pay lower
+valuations. And second thing is the earnings of the company that you buy have to
+grow. So two things are in your hand as an investor, low valuations and earnings
+growth of companies. This is what you have to bet on. If you buy a company at
+100p, don't expect very high returns.
+
+[1:44:50]
+Expect maybe nifty returns or below nifty returns in case if the P ratio doesn't
+contract, what if the P ratio contracts? Because sentiment is in the market's
+hands, right? So that is a simple meaning of this. Look at the slide again and
+again and again. I think Nifty Auto, Nifty Bank, Nifty ID are already big. But
+now coming to a very important concept because we are at the PE ratio right now.
+So I think what is the time now? I mean just look at this. I think four o'clock
+time. So, maybe we can also do this webinar in two parts because webinar is a
+little detailed. You have to teach modeling.
+
+[1:45:25]
+So, how to calculate core PE from a business, right? So, how to take out a
+business's P ratio? What is the P ratio of a core P ratio? What is the P ratio
+of a business? Let's do an example here. You will all get a little easier.
+Because P ratio is a concept that is confusing to people. So here I will take an
+example. First let's take map my India. See info systems. What is the B ratio in
+the comment section? 66.4 times. I have done 66.4 times. That is the question.
+
+[1:46:06]
+Now coming to the profit and loss statement right so here is a simple thing you
+have to do do this experiment independently the profits of 91 crores is the
+company's just 91 crores just subtracted by other income because other income is
+getting money in FD, that's why it's becoming money What's the answer? Rs.57
+crores So the money that Core Business is earning is Rs.57 crores Remember this,
+how much money is the company making from Core Business? Rs.57 crores. Now
+calculate the PE ratio. 57 crores is from the core business and the market cap
+is 6, 000 crores. Now what is the PE ratio?
+
+[1:46:46]
+If you want to buy a core business then what is P.E ratio? Take a minute,
+understand what it means. Other income comes in PNL when it is put in FD-FD.
+What is the P.E ratio of core business? How did you get 57 crores? Simple,
+Karan, 34 crores is the other income of the company. If you look here, then 34
+crores is the other income of the company. So, you minus 34 crores of the other
+income from net profit. When is the income of other income when you allow your
+money in FDFD, that is not the core income of the business. Do you understand?
+
+[1:47:31]
+You can reduce the tax as well. I think you can reduce 25 crores after taxes 34%
+and remove 25% so almost if you reduce the tax, then reduce the tax of 34 crores
+to 25% so minus 25 crores from 91 crores, then you get the answer of 66 crores
+and that 66 crores is still more than 90 times P ratio So again, I don't know
+maybe another 50% fall and we'll get interested over here because 20-25%
+earnings growth as business. So I'm just telling you how not to get fooled using
+P ratio.
+
+[1:48:13]
+So one more very pertinent example because big people are interested in this
+talk because what is the name of this business? Industries what is the P.E.
+Ratio in chat section? What is the P.E. Ratio? Right? It looks cheap the answer
+is not cheap means it is not cheap why not?
+
+[1:48:45]
+It is cheap simple reason that one is demerger so it was of 150 crore EBITD
+Pharma business which was almost 100 crore PAD so it was 100 crore PAD because
+it was demergered, so it was 100 crore PAD then there was a termination income,
+so we called it accounting jugglery the company did that you will see a quarter
+there was a quarter where EBITDA was 254 crore and 966 crore and this margin was
+41% so the other income they had, they had a contract that was cancelled, 700
+crores contract for reasonable assumption, 700 crores, let's take an example so
+they had a other income, they had book 700 crores here, in 2 quarters so they
+booked the other income here in 2 quarters I think in the first quarter they
+booked it in the second quarter if you want to see the exact value, I will see
+the notes in the accounts because you will understand the recording of this
+session I will see the exact value here.
+
+[1:49:54]
+You will see the recording of this session. Here you will see the termination of
+631 crores. Incluses of 631 crores. So, how much did they book here?
+
+[1:50:07]
+The next generation income book includes of 631 crores so the 631 crores they
+have booked here and how much they have booked here once they have booked 631
+crores and the second time they have booked so I think over here as well there
+is some amount that they have booked as a homework you can do so in this
+quarter, the income of 631 crores has been booked so trailing 12 months because
+we are seeing so in trailing 12 months, your question is that in trailing 12
+months, the last 4 quarters have come the last 4 quarters have come so what will
+happen next quarter onwards, you will start seeing the real P-E ratio so this is
+one-off, it has almost 630 crores of one-off so you have to subtract and
+calculate the PE ratio And here, the 100 crores of the pharma business has been
+removed So, if you remove the 100 crores of the pharma business, which we have
+started with this quarter the run rate of this business is of 124-125 crores of
+every quarter so it is not that fast so it is run rate of 124-125 crores the
+business's pad if you subtract everything it was of 150 crores so now you add it
+with me, 150 plus 194 plus 136 plus 124 simply add it with me, 150 plus 1.9 plus
+1.36 plus 1.24.
+
+[1:51:28]
+What is the answer? 604 crores. Now you subtract 100 crores out of this because
+pharma business is gone. Pharma business is out of this because it has been
+demurged. 100 crores. So, 100 crores gone and this is over it. It could be a
+little bit of a termination income in one of the quarters like this quarter may
+be tea. So we are just doing rough estimation. So 500 crores is the answer.
+Right. And now what is the market cap? 19, 059 crores. So divide 19, 059 crores
+by 504 crores. What is the answer that you get for the true P ratio?
+
+[1:52:13]
+The answer is 37.8 times, right?
+
+[1:52:17]
+And like almost, if you hadn't seen it, then we would have become a waifu so
+this is why when you are looking at PEE ratio always come to core business
+income nothing is there, simple things, research reports also write this nothing
+else, even in the IEX case if you look at core PEE ratio it is like removing
+other income, it is still around 50 times it does not analyze it, I have read so
+many threads on Twitter that people don't do this but just simply do this right
+there is nothing complicated about it I think we will talk about peg ratio and
+then I will talk about forward peg and forward p and just in the comment section
+because I think it's got DCFBA there are a lot of things I think modeling is
+also there So it can be that we do this webinar in two parts, two to three parts
+or two parts, so that at least digest, otherwise information will be too much.
+
+[1:53:14]
+So we can do it next Saturday or Sunday, so I just realized that otherwise it
+will become too much. So what do you think that if we do it in two parts, it
+will be digested better. Till then, you can see the recording in two or three
+parts. It can be in three parts, there is no doubt about it. Right? So we can
+basically do it in two or three parts. So it will get basically better, you will
+be able to basically the digestion of this webinar that will be much better than
+just one part. So coming to this, what is forward peg and forward V ratio? And
+from here, we'll conclude the first part.
+
+[1:53:52]
+Then second part, we'll discuss when to buy. What are the selling pointers we
+consider? And then we'll also take up discounted cash flows and financial
+modeling. So all the models are actually created over here. So models I already
+have, but I think it will become too much if you do it, if you do a webinar of
+seven hours in one go, because you will lose yourself in the process, right? So
+all the models we have created over here, all bull bear based scenarios we have
+taught over here. So all the models are already created even DCF model K like
+for KEI and Asian paints are already created.
+
+[1:54:23]
+But I think better digestion will happen in two, three parts. Similarly, model
+of Westlife, Warren beverages, steel cast, all of it is created over here which
+I will teach you as well. But I think better way it will be if we just take it a
+bit slowly. So last two concepts which we learn today is peg ratio and your
+forward PE ratio and forward peg ratio. This is a simple example forward
+earnings forward peg ratio is up here then. So what is price to earnings?
+
+[1:54:52]
+So price to earnings to growth is a formula that compares the stocks price to
+earnings and rate of growth to calculate peg ratio of a given stock divide the P
+ratio with the EPS growth rate. So simple thing can just participate with me. If
+a company so peg ratio, formalize P ratio on earnings growth rate, if a company
+has a PE of 30X and growth of 20%, what is the peg ratio of this company? If the
+company has a PE of 30x and the earnings growth of 20%, what is the bag ratio of
+this company? 1.5 times, right? Great.
+
+[1:55:29]
+Second question, if a company has a PE ratio of 60x and growth rate of 10%, what
+is the bag ratio of the company? What is the bag ratio of the company? 6 times
+Last question, if a company has a PE ratio of 20x and what is the growth of 20%,
+what is the PEG ratio of the company? Everyone should answer, participate as
+much as you can. So the growth rate is a very good question. How do I see it?
+One times, right? So simple thing, right? So simple thing that if your peg ratio
+is above 1.5 or 2x, then we consider that the stock has become really expensive.
+
+[1:56:19]
+If the peg ratio is between 1.5 maximum 2x, if you want to give it to a company,
+so we think that stock is still there is some reasonable valuation in the
+company. If the peg ratio is at one X, we'll discuss a lot of examples of stocks
+at one X peg ratio where the earnings are growing at 35 40% and the P ratios are
+at 10 times or five times today. So that is the idea of peg ratios. Simple thing
+how to calculate peg ratio. So peg ratio trailing basis may be calculated.
+Forward basis may be calculated. So let me just show you an example of
+calculating PEG ratio.
+
+[1:56:56]
+So over here, let's just calculate a PEG ratio. Alright, over here, let's take a
+business by the name of KIA industry let's see the KIA industry, P ratio is at
+31 times today last 3 years pad growth is 27% last 3 years Pag ratio at 31 times
+today last three years pegg ratio how much will it be in the comment section
+what is the pegg ratio? 31 divided by 27 percentage 1.14 right? 1.1 take it is
+bigger alright now let's calculate peg ratio on a forward basis.
+
+[1:57:41]
+So forward basis. So forward basis. Either we can create a model or let's look
+at some analysts who might have created a model on KIA industries. So KIA
+industries, this is on trend line, you can find it under reports. So forward
+pepeh kate, kya chal raha abhi? So let's look at the latest report is from the
+capital and let's just look at the forward growth rates. Right. So forward FI
+24, what is the growth rate that like the capital expects is 32%. I think what
+aggressive side is up to be spudges. But I think let's say, assume, let's assume
+like 20% growth. Right. Let's assume 20% EPS growth.
+
+[1:58:28]
+So 20% EPS growth is 30x. What is the peg ratio? According to this report, it's
+1x but I think it shouldn't be so aggressive. Money should be at the end of the
+day. Beg ratios close to 1.5 times. No, no, for other parts of this webinar, so
+questions that you don't need to pay again, it will like I want to teach you in
+such a way that you never get any doubts in valuations. So I will basically
+break this entire webinar into two to three parts because I just realized while
+teaching you, if I make a khichdi in 7 hours, you won't be able to understand.
+
+[1:59:18]
+So on a forward basis, it's still reasonable because forward basis way, abhi bhi
+peg ratio aki 1.5 to 1.55 times ki aariye whereas in the report if you see, so
+it's at 1x. So it's still not that horribly expensive. Yes, if the P ratio goes
+to 4045 times or 50 times, then the stock will start becoming very, very
+expensive. And then we'll start to consider our exits or something. And also
+like over here, we also like to mix our, if you just mix volatility stock with
+this. So just look at KEI industries and just look at the monthly charts.
+
+[1:59:51]
+So over here, just look at KEI industries and let's look at volatility stop.
+Like if it goes to 40, 50p and I will basically basically And I will basically,
+basically, it's called a voluntary stop. I'll reduce it here. Just a second, I
+think it's taking away difficulty loading, right? K.I. Right. Steminate K.I.
+Industries. I think we'll come back to it again. So again, an idea that a peg
+ratio is still like 1x and 1.5x whereas over it, whereas the volatility stop
+still hasn't given any exit signs right?
+
+[2:00:33]
+If it goes to 40 or 50p if the peg ratio goes above 2 or 2.5 times then I will
+use the multiplier as 2.
+
+[2:00:40]
+But currently just if you look at the monthly charts right, like if you just
+look at the monthly charts still there is no exit right you can just peacefully
+ride on to the stock right I think last decade may there have been only one or
+two exits in the stock that is during covid time only like two two exits since
+2014 so almost 10 years no only two exits right because the nature of the
+business is very very structural in nature this gives you an idea use this
+volatility stop play with it because in next session may come a almost 20-50
+minute session going to volatility stop right so play along with it right So I
+think in the first part over here, I'll conclude and forward P trading P forward
+eb to ebita trading to be eb to ebita enterprise value and all these things we
+learn in the second part along with discounted cash flows and then we'll go to
+when to exit and when to buy.
+
+[2:01:32]
+So that your entire valuation criteria will get completed. I think this much
+information intake for the day is more than enough, right? Just in the chat
+section, is it okay? Like if we stop over here and we take all the things in the
+second part. Right. Think that the information take like is more than enough.
+Recording is called a job. You will get it tonight. Probably. I'll do a separate
+session on question and answers as well. All of this you don't have to pay
+again. This is all included in the webinar. So just like no need to pay again.
+Right.
+
+[2:02:10]
+So let's meet again on like next Saturday or Sunday or like a day map would
+decide I'll post it on Twitter and you'll get it on your email IDs chatting cut
+will be second or valuations to let's meet again on next Sunday same time to PN
+let's meet again on next Sunday same time to PN right Thank you so much for
+joining us. Hope to see you in the next session. And next session may a Q&A
+dedicated session we'll keep because I know valuation detail investor like pain
+point I want to solve it for you once and for all. Right. Great. So see you on
+next Sunday. Have a great week ahead.
+
+[2:02:49]
+Whatever questions that you have, I'll send an Excel sheet. Just put them over
+here. I'll solve each and every question that you have. And we'll have a
+dedicated session for that as well. Thank you so much for joining us. Have a
+great Sunday ahead and I'll try to send the recording today. Thank you so much.
+Have a great Sunday. Jai Hind.

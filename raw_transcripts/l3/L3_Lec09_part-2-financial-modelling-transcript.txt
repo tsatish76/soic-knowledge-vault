@@ -1,0 +1,1826 @@
+﻿Part 2 Financial Modelling
+Level 3 How to Value a Company & Portfolio Creation!
+====================================================
+
+[0:00:06]
+Here we will learn different scenarios of valuation and we will also take a
+study of bull bear base in front of you. Now just to give you a couple of
+examples. Now you now Sid and Samusha Shop returns. So along with this Samosa
+Shop, Sid also sets up a coffee shop. So with his Samosa shop, Siddharth has
+also started a coffee shop. And his coffee shop is booming and starts
+contributing Rs. 200 to his sales every year with EBITDA margins of 50%. Samosa
+business is also doing well, which is doing sales of Rs 200 and margins of 60%.
+So Rs 120 to Samosa business is also a sale. Rs 120 to EBITDA.
+
+[0:00:44]
+So in the markets, Coffee shop gets a PE of 20 times, Samosa gets a PE of 10
+times, which segment is more valuable and why? Question In both the businesses,
+coffee shop's EBITDA margin is lower, Samosa's EBITDA margin is higher But
+still, In the stock markets, coffee is getting 20% of the P multiple and Samosa
+shop is getting 10% of the P multiple Why is this happening and why do you think
+this thing exists? Let's open the comments, why do you think so?
+
+[0:01:13]
+Coffee time can be big, Coffee could be more difficult to scale coffee shops for
+example Growth in coffee could be higher Growth in the coffee business could be
+higher Attracts the masses Perception could be better in the stock markets
+through nice So this is the thing which you often used to bother me up. I used
+to bother you a lot. So I mean, I just generally discuss with you. I used to
+look at print valuations and I used to think, what is this? EW2 EBITDA is 60
+times. We will also come to EW2 EBITDA. Which I just find very expensive. But
+generally, I used to get bothered.
+
+[0:01:50]
+The company is making a cash flow of 1600 crores. The company is getting a
+market cap of 1 lakh 83, 000 crores, then I used to compare it to the other like
+jay jay jay 1600 crores of cash flow like Dalmia Bharat's example there is a
+market cap of 36000 crores and company is making 2117 crores of cash flow so
+this is a coffee samosa example only guys that in markets every segment, every
+sector gets a different valuation on the basis of time it possesses, on the
+basis of growth it does and also on the basis of return ratios the company
+makes.
+
+[0:02:37]
+But Do you understand that the valuation of different things is different and
+start going across companies you start understanding is that the different
+things have different valuation and I think why I am not teaching you DCF
+because as you can see in the class we have done in the course Because in DCF,
+you get a false sense of superiority Because you end up making the numbers But
+you should reverse DCF, it's better So here, every sector's valuation is
+different So this is an element of stock market.
+
+[0:03:32]
+What is an element of stock market? Now Siddhant is doing both the businesses in
+the same entity. So which business segment will get more valuation and why? If
+the state is doing the same business in these two businesses in the same entity
+which business will get higher valuation But there will be another question Will
+I have to break both the businesses to value the company's business? How much
+profit does this business have and how much profit does it have? Yes or no?
+
+[0:04:02]
+What do we call it in the world of finance or in the world of valuation I will
+have to do some of the parts valuation for Siddhan's business What do I have to
+do?
+
+[0:04:12]
+Some of the parts valuation for Siddhan's business So we give examples here SOTP
+you want to do The companies in which there are multiple business segments in
+companies so usually you do SOTP valuation like in the tube investments our
+tribe member did a valuation there went through that so you have to give a
+valuation to every business segment you have to give a valuation many of you
+remember this basically special situation that came in who remember this special
+situation in life and what eventually happened over it So again the business
+didn't do so well after this thing happened So again If you check here Many
+people were comparing it with the trend in retail businesses But this was never
+a scenario Because in this company When I was going to do modeling of some
+products, you can make mistakes everywhere So what was the issue in this
+company?
+
+[0:05:03]
+There are many business segments in this company that still exist If you look at
+the PPT of this company There are many different business segments in the Raven
+Life You will see one of them is a business of Garmenting One of them is a
+business of Suiting One of them is a business of branded textile, one is a
+business of branded apparel, one is a business of only creating cotton shirts
+and value shirts, right?
+
+[0:05:30]
+So again, the first question I will arise for you is, brandy textile, branded
+apparel, high-value cotton shirts came, If you start valuing each and every
+segment of the business Does it become a more complicated story or an easier
+one? Does it become a more complicated story or an easier one. It becomes more
+complicated right? Versus that print. How many businesses are there in the
+print? One or two max? So easier or more complicated than this. It becomes more
+realistic.
+
+[0:06:00]
+So as a part that you should always remember is that market rewards simplicity
+in the business structures Always remember this is that market Mr. Market is
+very clever Mr. Market loves simple things market also rewards simplicity in
+business simpler business structures because if I am going to value it then I
+will have to value its four parts before I value the final one right? You will
+have to remember this thing similarly as SRF's example right? So in the case of
+SRF, there are 3 business segments, 3 business segments, which are in SRF?
+
+[0:06:41]
+Chemical and Polymer business, then the packaging film business, and the
+technical textile business. And their technical textile business right so in the
+past SRF valuation today you are seeing P-E ratio means 77 went because people
+are betting is that the earnings will start growing again but in the past also
+in SRF there was always a discount for these chemical companies because there
+was also always a holding co-structure again let me just ask you this question.
+I will show you a SOTP live.
+
+[0:07:14]
+This packaging film business will get more valuation, less technical textile
+will get more, less chemical will get less. Which business do you think will
+command the highest valuation over here? What do you think which business will
+command the highest valuation over here? Chemical's command will be because of
+very high margins, Yes or no? What about the packaging film business? Will it
+command lower valuations or higher? Packaging film businesses have polyplex and
+all that. I mean, it would be a good idea to do peer-to-peer analysis here.
+
+[0:07:41]
+When we look at polyplex here, polyplex is trading at 18 Pee. Polyplex is
+trading at 6-7 Pee in the past. There was full earnings. There are earnings
+missing in polyplex now. We will see EV2EBTA in polyplex. So, this trade was in
+4.7 times. Polyplex has been traded for 6-7 years Now, there are earnings in
+Polyplex EV2Ebita is traded for 4.7 times SRF's peer is Naveen Florin He is
+purely in a chemical business So, how much does EV2Ebita trade? This is traded
+for 46 times And how much does PE ratio trade?
+
+[0:08:08]
+It is unforeseen, it is 84-85 times is in the chemical business how much does EV
+to EBITDA trade this is traded at EV to EBITDA at 46 times and P ratio is traded
+at unforeseen at 84-85 times so which business gives more valuation to the
+market packaging film or chemical chemical right so in the case of SRF you
+always have to do an SOTP where you will evaluate the chemical business
+packaging film and technical textile I think its its peer is Century Nka which
+is its technical dextile How much EV2-EVT is Century Nka getting?
+
+[0:08:42]
+I am getting better from the packaging film How much EV2-EVT is Century Nka
+getting? But in the past, we got the EV of 3 times How much is the P ratio? We
+got the P of 5 in the end The rough models of the companies, business models
+higher the number of business segments Sometimes more the complicated the
+valuation becomes Because you have to do an SOTP out of the company Here we will
+do an SOTP I will just do an SOTP So that you all have clarity Actually we will
+do peer to peer analysis, SOTP, we'll do 4-5 more things and I'll give you 2-3
+homeworks so you can make them yourself.
+
+[0:09:25]
+A model is being opened. If you are looking for models, you can join the equity
+research group. You will get all the reports in the group in the pre-search. We
+will open a report of Kotak and we will take the model. I will open Kotak's
+report and show you. Again, the more time you spend on valuations, the more you
+will be able to see the valuation Exactly, just over there What did they do?
+After EV2 EBITDA, I will come to EV2 EBITDA What did they do? Simple activity,
+right?
+
+[0:09:59]
+The company's technical textile business, the EBITDA One year forward, they made
+some assumptions about how much growth they will get they gave the ebit of 6
+times so it will be worth 1727 crores they gave the ebit of the chemical
+business 18 times they gave the 58, 742 crores value of the chemical business
+they gave the ebit of the packaging film business as much as Polyplex that is 8
+times So, they made the EV value of 6316 crores Then, others gave 68 crores
+There is cash-wash in it and they minus the debt in the end which made the
+enterprise value that is 63, 360 crores which is like 2135 rupees per share and
+today I think the stock is going on 3, 000 rupees why is it going on 3, 000
+rupees?
+
+[0:10:43]
+Because what is the market betting on? That the margin of the chemical business
+will be improved or will it decrease? What do you think is the market thinking
+about? If today, versus a conservative estimate, it is going on a higher
+valuation what is the market betting? Whether the margin is improving or not?
+Margin should ideally improve if the margins don't improve, then what happens?
+
+[0:11:00]
+It can happen but again, that is the bet that market participants have taken We
+will only get to know once the results start coming out So that is again just to
+understand how you can make a thought process of companies in different,
+different, long-term companies where there are many segments you can make a
+thought process of the valuation of companies if you master the bull bear based
+scenario there is nothing more or less in the valuations different companies and
+different industries and see the PE ratio you can watch the PE ratio videos the
+first part of this webinar is the must watch webinar part so that you get more
+clarity, which is included in this only.
+
+[0:11:40]
+You can value on different entities, different valuation based models, they can
+be valued. Now, let's put an example, if someone asked about EV2 EBITDA, then we
+will come to EV2 EBITDA and we will do full case studies and I think a lot of
+studies are there today. I think this is the best way to learn about bull bear
+ways scenarios. Now there's another situation is that Sid is doing sales of 500
+rupees. EBITDA margin is of 60%. Simple. He said 500 rupees is the sale. EBITDA
+margin is 60%. So how much is EBITDA? 300 rupees?
+
+[0:12:21]
+It will be simple for you to understand He said that he is selling 500 rupees
+Now he has invested 60% of EBITDA margin EBITDA of CID is 300 rupees Now CID has
+fixed assets of 250 rupees So there are fixed assets of 250 rupees which will be
+depreciated for 10 years So the first question is how much will be the
+depreciation? Depreciation question mark. That's the first question. Second SID
+has a loan of Rs.50 at 10% interest cost. Second question is how much will the
+finance cost of the SID be?
+
+[0:13:06]
+Third question is how much will the SID be? That has been put in the money
+market mutual fund in which it is making 10% So the third question is that how
+much will be the other income of the SIDK business And the tax rate of SIDK is
+25% So what we did in the RR Cabel, can you calculate EBIT, EBIT, PBT and PAT in
+the SIDK business? Yes or no? Can you do it or not? If you can calculate,
+everyone should do it Alright The first question I will ask is how much will the
+depreciation of the Ebit be according to you?
+
+[0:13:29]
+What will be the yearly depreciation what will be the yearly depreciation 25
+rupees so EBIT is 300 rupees so EBIT is 300 rupees so EBIT is 300 rupees so EBIT
+is 300 rupees so EBIT is 300 rupees then in the SIDK business other income if
+200 rupees is parked at the market mutual funds at the 10% rate of interest The
+other income of the same rupees will come to you Right?
+
+[0:13:54]
+How much is the tax rate in the business of the same 5% So in EBIT, you add the
+other income You have the EBIT of 295 crores The interest cost will also be
+minus Sorry, you added 295 crores in EBIT so 295 came Then, how much interest
+cost was there in the business? If there is a 10% interest cost on 50 rupees,
+how much interest cost was there? How much interest cost was there? 5 rupees?
+How much PBT is there in the business? How much profit before tax will be made?
+How much did you get interest cost? Rs.290 Rs.290 profit before tax How much tax
+is 25% if you get it from Rs.290?
+
+[0:14:32]
+Rs.217.5 So all listed businesses are like the store of the steady case samosas
+If you find out these 4-5 things, then you can make a forecast of anyone Now,
+who is feeling so difficult? Now tell me, Is it a difficult activity to do? Yes
+or no? After reading the business, is it difficult or easy to do? Is it like
+easy? Simple? Simple? It's very easy, right? You have to study the business for
+assumptions, there is no other way. You have to read the business to understand
+the assumptions. There are three or four assumptions. The sales growth is an
+assumption. Depreciation is a big assumption.
+
+[0:15:06]
+Other income is also a good thing. You can use GPD. I am telling you to watch
+our video. How to use AI tools. You should watch the video. Actually, I am going
+to make a webinar. How can you make these agents for yourself? Which can really
+help you to... I mean, personal research analyst. How many of you will attend
+that webinar, I don't know. We can automate this entire thing and also get
+automated. But first you should understand the base level, then we will go to
+automation. Yeah, we'll do that webinar also. Now we'll do that webinar.
+
+[0:15:38]
+Actually, I've been using a couple of these tools to I'll just share which one
+I'm most accurate. So while forecasting or estimating the PNL, what you need is,
+Stains growth assumption, EBITDA margins assumption, CFO to EBITDA historically,
+which you can get on cash flow, interest cost assumption, other income
+assumption and depreciation assumption. How to get them? Who are the calls?
+
+[0:16:00]
+Look for clues as we just saw in their presentation in RR Cabel Similarly, you
+can do homework in PDS Limited So I'll give you a homework over it Do the same
+activity for PDS Limited, Kiva Preview Specialty in Ganesha Equusphere And on
+the basis of FY 27, value these companies What companies I have given you in the
+past? Will you do the homework? Again, increase the conference call of the last
+4-5 quarters Value such an excel sheet And then, see what the model will be in
+the next 2-3 years How many of you will do this homework?
+
+[0:16:31]
+I have just given you 4 examples to do read the business as well and then value
+them discussion. I think Q and A session is a tribe members K wise SHK will put
+Q and A session with the tribe members. So I will discuss the model of four. I
+made it as per me and you made it. We'll do a discussion Next to next Sunday we
+will do the Q&A session Next Sunday we have a capital market event So to study
+capital market cycles Now we will go towards an interesting case study, which we
+will discuss on EV2 EBITDA price to cook. So actually, I will look at this
+again, this is an interesting case study.
+
+[0:17:10]
+So, Sardegh wants to buy Farana's entire business of hospital outright. So
+Farana has loaned the hospital. And Sardegh wants to buy Farana's entire
+business of hospital outright. Here are the things he is looking at. The market
+cap is Rs. 1500. 100 on Farana's balance sheet. The cash is Rs. 200 on Farana's
+balance sheet. So if we want to buy the entire year of Farana's business, then
+what will be the enterprise value of Farana's business? If we acquire the entire
+business year, then what will be the enterprise value of Farana's business? What
+do you think is the answer? Let's see.
+
+[0:17:41]
+Once you think that you are going to buy someone's business and you have these
+three facts in front of you, then why would you want to buy the enterprise
+value? Awesome, right? So the market cap is 1500. If the debt is assumed for the
+whole year, then the debt will have to be assumed for a year, then it will be
+1600. But there is a cash of 200 rupees on the balance sheet. So your debt minus
+will be given to the cash. So if the whole business of the year is bought
+outright, then what will be the answer?
+
+[0:18:07]
+You will get 1400 rupees, which is clear Converted into Hindi, think about it I
+am going to acquire a complete business Just think about it, convert it in Hindi
+I am going to buy a whole business of it clear?
+
+[0:18:20]
+It is called as enterprise value in finance that is formula is market cap plus
+debt minus cash it is called as enterprise value equity investor will ask for a
+premium but again, I am simplifying for you if suppose now let's, someone said
+that debt should be subtracted the answer is no now suppose cash was zero here
+market cap was 1500 and debt was 100 so how much will the business of Farana
+get? 1600 or 1400? Because debt also had to assume that think about it if the
+cash was zero here, then how much will the enterprise value be? What do you
+think? Because you have to assume the debt as well.
+
+[0:19:00]
+You have to take the debt. The enterprise value will be clear. Right? Let's
+subtract the debt from the cash.
+
+[0:19:08]
+Because cash is something which you can also trade with cash and you can trade
+cash with cash for market value because if you trade with cash for 200 rupees,
+suppose if you trade with cash for 200 rupees then the company's market cap is
+1500 1500 market cap is 0 debt for 200 rupees the value of the company is
+changing, suppose the debt is 0 and the cash is 200 rupees, the market cap of
+Farana's company is 1500, the market cap of 1500 is 0, the cash of 200 rupees so
+actually how much is Farana's company getting? What do you think is the answer?
+
+[0:19:31]
+1300 or 1700 is the answer 1300 is the answer So we call this as the enterprise
+value which is known as EV in finance We call it EV in finance Now, once you see
+how many years What is the problem in the hospital business? I will discuss the
+problem. What is the problem in the hospital business? Depreciation is very
+high. How many years does the building of the hospital last? I think there are
+many doctors and many old hospitals How many years have you been in the
+building?
+
+[0:20:08]
+For 20-30 years, there are 35 years old hospitals There are 40 years old
+hospitals The building is not the same as the machinery The machinery changes in
+5-6 years This is 100 years In hospitals business depreciation is overstated
+What is the problem with this?
+
+[0:20:24]
+In the hospital business, you will always see that P-e ratio will always be less
+But if depreciation is overstated and depreciation is a non cash expense So what
+I want to see in the hospital is How many years will the operating profit of
+Farana's business be able to pay back the enterprise value Farana's company has
+taken X amount How much did we assume the X amount? We took the enterprise
+value, on 1400 crores, Farana is taking the company And Farana's company is
+operating profit of 100 rupees So how much is EV2Ebita of Farana's business?
+Which EV2Ebita is it buying for the year?
+
+[0:21:07]
+What do you think is the number? How much is it for the year? It means that in
+14 years, the entire operating profit enterprise value will pay back This means
+that EV2 EBITDA is as simple as that So, let's see a live transaction that is in
+the markets We can give a good example So here we come Who has tracked that KKR
+has bought the HCG, How many of you have been tracking that? Let's do an
+activity here. Let's keep it simple. How much is the EBITDA? It's of 3.74
+crores. 3.74 crores EBITDA. You can manually take out the enterprise value. You
+can also see it from the screener.
+
+[0:21:47]
+You can see it from the screener Or you can see it from EV2Ebita, we are
+introducing the TTM one tomorrow So actually, let's go to the screener and see
+the HCG Let's see the Enterprise value of HCG first How much is the Enterprise
+value? 9264k So, how much is the KKR for SEG? So, KKR is what? SEG for Rs.505
+per share Rs.505 per share It is an open offer Rs.505 into Rs.13.9 Cr What is
+the answer? Because the number of shares is outstanding How much market cap did
+KKR take on HSEG?
+
+[0:22:26]
+Adjust in the comments if you multiply it by 13.9 crores The number of shares
+outstanding into stock price gives you the market cap so 7, 020 crore per year
+how much per year? 7, 020 crore 7, 020 crore KKR has bought the HCG so the HCG
+is still big how much is the EBITDA HCG is still big Let's see the big one So,
+let's see the Ebitda of HCG So, it's worth 374 crores Let's divide this How much
+is the Ebitda of HCG that KKR has bought? Answer What's the answer guys? Almost
+18.7 times Is it the right way to look at it?
+
+[0:23:09]
+You are almost 18.7 times HSEG BKA company And KKR has bought it By the way, KKR
+will increase their margins of HSEG like they did in Max Hospital There are only
+two of them But now let's look at some of the peers of HCG and what EV2 and EBTA
+they are trading at They come to healthcare They edit columns here on the screen
+and put an EV2 and EBTA column These are HCG's peers and they are trading at
+this valuation Forget about max again, I am not adjusting the index 116 but
+still, just to get a rough idea max is 56, Apollo is 34 40 is 32, Narayana is
+1819 Narayana is also re-rated, Global Health is 35, Kims is 36, Astral is 30,
+then I think in the hospital, Dr.
+
+[0:24:01]
+Agarwal Hospital is 31, then Jupiter Life is 2, and HCG, he took 18, now he is
+23, he has increased from there and Kovai medical is on 15 There is one
+difference between the HCG business model and the others, HCG is an oncology
+speciality hospital There are others in multi speciality but, but, but, but,
+here is a big part If we look at the payers of HCG, then Rainbow Child Care is a
+purely children's care focused hospital Here, 27.4 times the EVB is there And
+Dr. Agarwal Hospital is a purely eye care hospital, 31 times EVBIT.
+
+[0:24:41]
+The company that is taking the KKR, will be also looking at these peer to peer
+analysis before pressing the button what do you think the enterprise value is
+already on the screener so the debt is already considered 518, actually you are
+right whatever I have done a mistake over here I think that is correct I just
+realized that I have done 5185 from market cap so actually if we look at the
+enterprise value of HSEG, then it is 9264 crores And from here, they have taken
+it at a 15% lesser price So if we look at the enterprise value, then they have
+taken it at an enterprise value of 8000 crores which comes to almost 21 times EV
+upon EBITDA.
+
+[0:25:24]
+I think you are completely correct, so I stand corrected. I have actually
+removed the market cap, so enterprise value, again these are mistakes which also
+happen while valuations But you can correct this, that means with me So what can
+you do here? If you see the enterprise value of EV upon EBITDA, then when we saw
+the market cap company, when the company was selling 7000 crores, we have to
+cash the debt minus. How much is the debt company? If we look at the debt, the
+debt is 1558 crores, so 7000 plus 1558, 8558 crores is the amount.
+
+[0:26:02]
+If you will do the cash minus, then you can do give cash minus of 290 crores
+from 85 to 58 then the KKR on EV they gave the enterprise value of 8300 crores
+on which how much EBITDA company is earning, almost P74 crores. So KKR has given
+22-23 times EBITDA. So are you able to, were you able to basically realize that
+my mistake was there, what did I do? You don't do this mistake again, 22.2 times
+EBITDA.
+
+[0:26:34]
+In this, I am not adjusting the 116 Because that will make it very complicated
+But roughly, we are buying KKR between 20 to 22 times Now, anyway, we will slice
+it or dice it, so you will get 20 to 22 times of EV2EB. But here, if we do
+peer-to-peer analysis, what do you think?
+
+[0:26:56]
+Have they bought it maybe at a, if they are able to increase the margins, so as
+a P fund, have they overpaid given a fair valuation or have they paid below what
+the peers are trading at what do you think looking at we am pure to be an
+analysis karne these are just for rough estimates yes meh love ho sakte fair
+valuation no versus the peers to sastay liye ha margin of peers jadein to that
+is true but yaabe company ka thought meh love again for every buyer there is a
+seller for a PE fund to come in now after a period of time they will also have a
+thesis that they can increase the margins of this company That is how you start
+thinking about stuff Now here you will see the PE ratio in the HGG How much does
+the PE ratio look like?
+
+[0:27:41]
+What do you think is the PE ratio? But will PE ratio give you the correct
+valuation picture over it?
+
+[0:27:47]
+Because these companies have very high depreciation will it give you the correct
+picture is made in this 116 impact is it artificially inflated so as it heavy
+businesses are where we use EV upon EBITDA as it heavy businesses are where cash
+flows are good where we use EV upon EBITDA or priced upon cash flows So, for
+this example it will be easier so you can peer to peer here Narayana, Max, HCC
+and Apollo so you will get an idea why we use EBITDA in hospitals Actually, I
+have prepared a slide for you. I will just showcase that to you.
+
+[0:28:30]
+What different data can be used so, just to varier valuations for every sector
+so, just but every sector, the valuation metrics are different so we have just
+written down these what you have to see in every sector now, I will share this
+sheet with you. I think after like closing the editing, I will just share this
+sheet with you. You can use multiple valuation in each sector. If you have any
+doubt, you can use the chat GPT. And you can ask the GPT to explain you the
+valuation ratio like a three year old child. That is how simply you will be able
+to understand.
+
+[0:29:06]
+There is something that you can add value that something that you can use. Now
+we will go to banks but I'll share this sheet with you. I think last time I got
+a bank's card, so here we will take a small break and before going to the banks,
+I'll just I think banks case study is on how you can value the banks and how to
+see the P ratio. Then we'll go towards the end.
+
+[0:29:35]
+So on capital markets, I'll just see you and if anyone is interested in learning
+more about fundamental analysis or how to do analysis from scratch if you want
+to learn some modelling, some analysis or if you want to become an intelligent
+business person then accounting, language of accounting, all these things is
+something that you must know and different sectors have to learn so we do all of
+those things in SOIC membership and now the 5 year anniversary of SOIC is also
+going on so we've turned 5 on 4, like in the second so we've turned 5 so we have
+a special discount coupon code as well I will just share that, that is basically
+valid for this entire week So, I will just share that as well So, after 5 years,
+if you want to register for the SIC membership, the past webinars or future
+webinars are part of the membership.
+
+[0:30:23]
+So you can do the same. I'll just share learn dot sys.in and I'll also share the
+discount coupon code. So our course is actually very detailed of 32 to 40 hours.
+You don't run out of content because we love to teach and idea of teaching is to
+just basically keep you updated with different different things in the markets
+and how to learn about them. This is the exclusive coupon code that you can use.
+Pune workshop is also, we have started the registrations.
+
+[0:30:51]
+So Pune workshop here, if, if, if we meet in Pune, I'll just share the link for
+registrations and towards the end, we'll go towards the price to book valuation
+scenario. I'll just share the Pune workshop registrations and we do a round of
+Q&A as well. I'm just sharing the Pune workshop registration also. So this is
+for SYC members only. So I think I'll see you there in Pune. This is a Pune
+event registration that I've shared with you. Well, see you at Pune workshop.
+And I'll see you at Pune workshop where we are meeting for the entire day from
+10 a.m. To 6 p.m.
+
+[0:31:25]
+Where we'll do an entire thing on investing from end to like from beginning to
+end. It will be a complete workshop workshop type event where we'll go through
+technicals, fundamentals, screening process, interesting businesses, the entire
+thing we'll cover in a day. This is a Pune workshop. So location is also there.
+I think location is JW Marriott. So it, it's a Mumbai city. So it'll be easy for
+you because our location is very central. Awesome. So I think, but who's going
+to like today's session? There are a lot of things that are being cleared.
+Bullbear based scenario.
+
+[0:32:00]
+So I mean, if you're loving today's session, there's Robert Elias in the
+comments. And, our key Jovi learnings that do share with us on Twitter. So that
+we can say, so do share the learnings with us on Twitter as well. There's no
+discount in long term research because I think we can't give discounts there but
+we've kept the pricing very cheap over there so we cover businesses there, we
+covered a bond out IPO for the research members so we're doing webinars and
+research reports in alternate weeks that is SOIC long term research So here we
+cover different research on different businesses.
+
+[0:32:40]
+These are not buy or sell notes, but this is just to give you the fair valuation
+of those companies. What is interesting in those companies? And for those who
+can put in some work for tracking these companies, that is where this product
+makes sense. Otherwise, it might not make sense. So I'll just say that you
+educate first and then you'll be better for that. Otherwise, you can be a little
+challenging for that. Here, we cover different companies. I think the next
+company will be covering 3-4 companies that we have to cover.
+
+[0:33:08]
+One is a distributor which has grown like 16-17 times over the last 5-7 years.
+
+[0:33:13]
+Then there is a Sourcing company that we are going to cover and then a company
+which is pivoting away from an asset heavy business to an asset like business
+Over the next 3 years the company could do really well so those companies will
+be covering over here in the next 1 to 1 and a half month Alright I will post an
+explanation of the INDAS today In the INDAS, there was a detailed thread written
+earlier I will share the INDAS 116 In the INDAS 116 accounting, there was a
+simple thread written INDAS 116 You will get a thread I just retweeted this also
+I retweeted it on Twitter and shared the thread with you So, now a question is
+that, now a question that arises, that Siddhan's business was going at 30% per
+annum for last 5 years.
+
+[0:34:01]
+And now what has happened is that the growth rates have flattened to 6 to 8
+percent per annum. How will the valuation of the business get impacted? Will it
+lead to Pd rating or Reryting? What do you think happens in this scenario? Let's
+take an example of the sale growth and see what has happened over the last 2
+years. Are you able to observe something? In the last two years, sales growth
+has been flat I said that this is the avenue of supermarkets What will happen if
+the sales growth is flat? In top price? De-acceleration or re-acceleration?
+There will be a de-acceleration, right?
+
+[0:34:45]
+There will be a de-acceleration that happens so again if there is
+de-acceleration then what is the P ratio? D rating or re-rating? Looking at the
+long term P ratio so P ratio went to 313 times then between now P ratio as
+fallen to the below average of 123 times Similarly, you will see in trend, the
+trend with a little sales growth is slow So what happened to the P ratio?
+
+[0:35:11]
+The peak of 233 times, the P ratio has come around 119 times So the P ratio over
+here as well has sort of sort of derated with the slowing sales growth numbers
+With the slowing sales growth numbers P is derating, if the sales growth is
+slower then there could be more struggle going forward That is how you have to
+look at sales growth. So P ratio actually, if we look at it, it is perception
+upon earnings. And what is P ratio a study of that is market sentiments,
+liquidity.
+
+[0:35:42]
+Now, in the beginning of the webinar, everyone asked what will happen in India,
+Pakistan, Pakistan has attacked, India has attacked again, your political issues
+and market sentiments impact on things. From tariffs, market sentiments have
+been impacted a lot in the last month. Liquidity matters, GDP growth, impact,
+Competition entering is an issue. Political issues are there and regulatory
+issues are there. All these things impact the perception of a sector.
+
+[0:36:08]
+So when in the last three years, RBI action banks were very big between 21 to
+24, you think that somewhere or the other it impacted the sentiments for banks
+between 21 to 24? De-rating with banks? Somewhere or the other the sentiment got
+impacted. Banks went into time correction. Another question, competition
+entering. So, this is a very good example of Asian Bains.
+
+[0:36:30]
+So, let me just open this example of Asian Pins Actually, I have come to a
+competition The margins of Asian Pins were 23-24 There is no correction in the
+margins It is going from 19 to 20 in the long term But what happened to the PE
+ratio of Asian Pins?
+
+[0:36:46]
+It went to 119 on the peak It was a most loved asset now beach may now it has
+come down to 46 45 50 times actually may last 10 year average below peer ratio
+agai asian paints may growth rates may have Asian paint actually may thoda s
+growth rate be last agar am dekhati 7 quarters in a row say chappan a competitor
+I are 7 quarters in a row since the new competitor came. So, 7 quarters in a
+row, the growth rates numbers are not getting right in Asian Pints. And I don't
+know when will this recover.
+
+[0:37:16]
+Because earlier it used to be a 10-20% sales growth engine and first time we are
+seeing for 7 quarters almost 1.5 to 2 years the sales growth have flattened in
+Asian banks that is happening over there for the first time so these are the
+scenarios which you see right?
+
+[0:37:33]
+So perception upon earnings earnings includes margin expansion, sales growth,
+operating leverage, deal averaging Capacity expansion and volume growth And
+perception also improves So changes are made on the corporate level So, let's
+take an example Just to give you an example recently There has been an ice cream
+business in the name of Vardilal Industries where the changes have been made on
+the corporate level because the promoters dispute has been resolved in the
+company So, the moment the dispute got resolved you can see the P ratio like
+re-rated from 16 to 28 times because here promoters dispute is resolved at this
+time so if you see the credit rating of promoters dispute the credit rating is
+also like I think the credit rating so that also talks about it And this is a
+dispute which got resolved for the company right now.
+
+[0:38:30]
+I think there was a dispute between promoters in the company. So recently it was
+resolved. We will just go through that. There is a dispute between promoters If
+you go to Vadi Lal, you will see there is an order in which promoters dispute
+was resolved, this exchange settlement If you see, family pack late March, May
+25, they have reached a pact where this promoted dispute they have resolved.
+That is also there. I think this also impacts the perception to earnings of
+companies and it improves the perception of businesses in the listed space.
+
+[0:39:07]
+So here you can do a lot of case studies, NATCO is a good one to do. NATCO can
+give a case study of one of earnings. In the case of Natco, there was a molecule
+that contributes to earnings in Natco. Natco's Rp ratio is 8 times whereas in
+Natco's case, Actually, if you see that there was no earnings in this quarter,
+There was a drug in Natco which will be in the first quarter of 2026. After
+that, the off-pittance is completely going on and many companies are entering.
+
+[0:39:39]
+Need the the only made a one of drug and at Come a job 2026 the first quarter
+that guy was the one of piton of piton completely jarra or what companies enter
+curry to use drugs they made bumper profits but now it's a profits way not for
+the 2026 the first quarter make completely went off actually my business key to
+earnings power for do you think the true earnings power is 132 crores per
+quarter? Do you think so? Because in this quarter, there was no revenue
+earnings. So we will do 132 into 4. What is the number? 500 crores of Pat. What
+is the market cap of the company today?
+
+[0:40:05]
+So, how much is the forward P? If this company has normalised earnings, of 30
+times, what is the trailing 12 months P? So, is the last 12 months P fooling you
+or is it helping you?
+
+[0:40:16]
+Is it fooling us or is it giving us a proof it there and I'm the Pali Baat Kadi
+Ki Jinnah Bada base or the only problem with the company My base Bada company my
+base last year, Karabdiki get the Bada profits are limited to the next year or
+for the problem problematic issue that is how you start thinking about
+perception to earnings see what is impacting and why it is getting impacted
+Right, so that is again a process Now coming to the final case study which we
+will do on banks And after this I think we will conclude the session today
+because Lesson has went on for quite long So here we will do a case study on
+Siddhan's lending business.
+
+[0:40:56]
+So Siddhan starts a lending business right next to his Samosa shop and his
+assets on the balance sheet includes the loan he has given, his liabilities
+include the money he has taken as deposit. So, assets on the balance sheet of a
+bank that he gives and liabilities that he takes as deposits. So, he has equity
+which includes his own money involved in business and retained profits. So, on
+the balance sheet of Siddhant, there are 1000 rupees of assets, because the loan
+book of Siddhant has also done 1000 rupees.
+
+[0:41:22]
+And the liabilities of Siddhant have raised 900 rupees and the equity of
+Siddhant has given 100 rupees from itself. Equity of Siddhant has given 100
+rupees from itself. Now, the bank of Siddhant is profiting of 180 rupees. The
+bank of Siddhant is doing profits of 180 rupees. The first question is how much
+is Siddhant's return on equity? The second question is how much is Siddhant's
+return on assets? The third question is how much is the financial leverage that
+Siddhant is using? We will solve this together and there is a very important
+reason. So how much money is involved in the company?
+
+[0:42:04]
+Rs 100. How much money is the asset supporting? Rs 1000. What can I say? The
+business of the company is almost 10x leveraged. It is said that the business is
+almost 10x leveraged. Yes or no? Is the financial leverage 10x in the company?
+Yes or no? Is the financial leverage of 10x a yes or no? Is the financial
+leverage of 10x a yes or no? Yes, awesome.
+
+[0:42:30]
+Now let's see one more thing Now when Sidhant gave the loan loan to Lending,
+Sidhant made an 18 rupees profit If Sidhant made 100 rupees equity and Sidhant
+made 18 rupees, then Sidhant's return on equity formula is profit upon equity So
+Sidhant's return on equity is how much? How much will return on equity be?
+Around 18% now Siddhant has assets of Siddhant of 1000 and profit of Siddhant of
+18 rupees so how much is the return on assets of the account?
+
+[0:43:04]
+1.8% so actually if you see this method when you multiply the return on asset
+with the financial leverage then you will get ROE the ROE of the account is 1.8%
+into 10x the leverage to ROE how much is the profit? 18% is on the same answer,
+in other ways, easy. Now let's move towards a problem, it arises in banks, now
+let's move towards a problem that arises in banks, that is over it. Given his
+business is leveraged almost 10 times, what really matters to him?
+
+[0:43:33]
+Growth, asset quality and ability to generate NIMS NIMS is the other net
+interest margins which are gross profit in the banks The amount of money that
+this Zidhan has given and the amount of money he has given The net interest
+income of that is calculated on the basis of NIMS Now let's suppose that the
+profit of Siddhant has earned 18 rupees Now what happened next year?
+
+[0:43:55]
+The equity of Siddhant will be added to 18 rupees So the equity of 118 rupees
+has been added So now the average of 118 rupees can be taken against the 10
+times Now the balance sheet of Siddhant which last year supported your Rs.
+
+[0:44:10]
+1, 000 assets Now the balance sheet of Siddhant, how many assets can be
+supported If it was the leverage of 10 times then 18% growth of Siddhant
+business can be easily done Yes or No Easy but we take an example of the
+middle-aged business, 18% growth can easily do business but the profit of 18
+rupees per year of Siddhant, that year a big loan was ruined a big loan was lost
+in provisioning, so there its 10 rupees was lost from that loan for 10 rupees,
+it was 10 rupees from the loan which again it had to be PCR of 100% because it
+would write off the loans so by the end of the half profit was 8 8 rupees profit
+was left if the equity of 100 rupees was profit of 8 rupees then how much was
+the ROE of the capital?
+
+[0:44:57]
+What do you think is the number? 8 percentage. If the capital was profit on the
+asset of 1000 rupees, then how much was the ROE? 0.8% Is it a good number or a
+bad number?
+
+[0:45:09]
+First question It's a very bad number if you ask me If a bank is unable to earn
+14-15% ROE then it will never be able to earn other cycles so the bank will
+never get the valuation of the bank but you can understand one thing, in the
+case of the bank, earnings, ROE, ROA, everything comes down to your equity and
+what I call equity is book value the better the quality of earnings, the better
+the equity of the bank can grow and the book value can also grow and equity
+value, the better the earnings will grow, the better equity will grow in the
+bank the better the ROI will grow, the better the lending and the loans will be
+so the same way the bank's book value will grow but the more you pay the loans,
+the more more asset quality issues will be, the worse the book value will grow.
+
+[0:46:00]
+So, why is the HDFC bank's return from 4-5 years ago? Because their book value
+is always growing by 15-20% Why is the IDFC Bank not getting worse?
+
+[0:46:11]
+Because the IDFC Bank is not getting ROE or ROA The growth in their equity is
+only by fundraising that is why the IDFC bank is not doing so well, the HDFCs
+are doing well, and that is why we look at the book value in the banks Because
+your ROE eventually will reflect in your book value, and if your asset quality
+is bad, growth is slow or margins are contracting, then your book value will not
+increase clarity came from this example that why do we look at book value in
+banks, we will study one or two cases, Why do we look at book value in banks?
+
+[0:46:46]
+It's a virtuous cycle in banks that if you are doing 18-20% ROE, if you maintain
+good quality, you can show the growth rate. If you want to increase the growth
+rate, you will have to fund-raise. Let's give some examples. Let's go towards
+the first example. First, let's look at AU Small Finance Bank. Let's look at the
+data of 2025. Let's look at the data of 2025. Let's look at the AU Small Finance
+Bank. Even in the AU SFB, there was a fundraising event. If we look at it, there
+was a QIP in 2022. There was a QIP in 2021 because they acquired another
+company.
+
+[0:47:16]
+But in the case of the AU Small Finance Bank, as the bank being able to do 15 to
+20% like 14 to 20% which may are only on a consistent basis yes or no. Yeah bank
+14 to 20% are only can do over the last what knows how many years now. Yeah bank
+network has a network multiplied by almost 30 times in the last 10 years The
+book value compounding was almost 30 times, not 30 times, 28-27 times The
+profits of the bank will also grow like this the profits of 92 crores in 2014,
+how much profit is there now?
+
+[0:47:55]
+The profits have also grown in line so actually this is a good example where the
+share of the book value is compound Now let's take the example of IDFC first.
+Now in the case of IDFC first, after the last three years, after the turnaround
+has happened, the first question is how much is the return on equity of IDFC
+first? Good example and bad example in bank Right now it's bad, what happens
+later?
+
+[0:48:19]
+It's good and their profitability will increase But it's difficult I mean, many
+things have to be right when their profit will increase I mean, when Karan Aljun
+would come on Twitter there would be a debate, he never came he would be single
+digit R So again, that is an interesting bit is that now if someone asks about
+the Arman Financer in Ujjivan then let's go to Ujjivan now in the case of
+Ujjivan you also tell me that if in the case of Ujjivan profits have decreased
+or profits are very cyclical.
+
+[0:48:49]
+Sometimes it is 1.99 crore, sometimes it is 8 crore, sometimes it is lost,
+sometimes it is increased. So, why is this happening? What segment does the life
+of SFB operate? Microfinance, exactly. So, in microfinance, in the last 12
+months, how much is the ROE of life? 13% I have compared it from P.O.C.
+
+[0:49:07]
+No microfinance company has done ROE of 13% Equitas has also ruined loans, they
+have slipped big loans in the last two quarters because their ROE is very
+impacted The structural growth in the Arman is not there, guys but in Arman
+finance, what is There is no structural growth in Arman finance, but what is in
+Arman finance is that there is no structural growth in Arman finance, but the
+base is quite favorable. So, in the sense that when the peak cycle of Arman
+finance is always priced to be quite high, I mean, this time it was a bit too
+much. I think there is a mistake in this.
+
+[0:49:34]
+I think the data on the screen was not 9.2, it was around 6 times on peak It was
+fundraising here, so let's put data on the screener But it was 5-6 times on peak
+And on the bottom, they always got 1.4 times the right book Like at the bottom,
+they were getting 1.4 times So this has been the bottom for the business since
+the operating history of the company, actually, from 2016.
+
+[0:49:58]
+At the bottom, they got 1.4 times price to book which was available now 1.4 on
+the bottom So these are cycles People who play cycles will come more If you see
+in Ujjivan SFB You will see an investor here You will see an investor in Bowhead
+Public here FII in Bowhead India So this place cycles very well So I think Again
+this is the cycle of investments Where what is left here See the long term of
+Ujjivan So in best of ROE I think this is the cyclical investments where here
+what is left is the price to book in the long term of life.
+
+[0:50:27]
+So in best of ROE, this is also wrong because the Springer paid data is not
+correct. I think the price to book was best of 2.5 times because There was some
+merger here, so this is more written. The peak price to book was 2.6 times. The
+bottom and the bottom date of 0.1 was around 1.3-1.4. Which is is below the
+long-term average And on peak, we get so much price to book that is close to 2
+to 2.4 times Because on peak, the company does 18 to 20% ROE So ROE is a cyclic
+micro-finance along with the asset quality issue So investors have different
+value for book value, different points of time.
+
+[0:51:04]
+But if you compare the life, if you see in the last 10 years, or in the last 5
+years, actually the profits of life are growing a lot, so it is a profit of 199
+crores to 726 crores from 2019. But there is a C-Saw in this There have been
+losses and small profits But if we compare the AU With 2019, the growth of the
+AU How much structural growth did you get In the AU or in Ujjivan? How much
+structural growth? So which is the risk of less In the lending segment? AU or
+Ujjivan? So who will get more valuation by the market? How much price to book A,
+Ujjivan? 1.1, 1.2? So, you have cycles?
+
+[0:51:46]
+How much price to book A, U on peak? I think there was a point of time, it used
+to be the most expensive bank in India, right? Banks in general have derated
+because of perception hit. But still this is one of the banks which has actually
+if you look at the 10 year profit compounding, 5 year, 3 year TTM, so everything
+has sort of been here. But again, this is just an activity that we just did in
+banks. So hopefully it clarifies that growth, asset quality, ability to generate
+NIMS, These are the three important things.
+
+[0:52:16]
+So, today, you should compare it with the first bank because they operate in
+similar segments. So, today, if we look at the operating growth, you can see the
+overall market trend line in the market in the results dashboard, results
+declared. So, today, the growth of 8.1% is the bull market growth, not the
+operating profit growth.
+
+[0:52:39]
+This is not bear market, this is the scenario of a dull market where we are in a
+sideways trend and a dull market type scenario where 213 companies have shown
+positive profit growth, negative profit growth 171 companies have shown and
+10.7% of which is almost EBITDA growth. If you go to find it Just over there,
+when you look at the sectors, where is the growth coming from, where is the work
+coming from? Let's look at sector wise, sector wise, where is the growth coming
+from? Strong growth is still reported in companies like health care supplies.
+
+[0:53:21]
+There are good growth rates in the wires and cables. I think the company has
+come up with very good numbers by doing RR Cabel. Health care supplies are very
+good in AME Organics. They have given 25% guidance in the next year. And they
+have been upgrading their guidance in the last year. Last year. Microfinance.
+After a while. Finally, there are signs of turnaround that in microfinance,
+finally after a while of turnaround, the signs are visible because the asset
+quality deterioration of these companies is stopped. That is the biggest sign.
+You won't see the pad growth in these companies.
+
+[0:53:56]
+You will see the asset quality deterioration. Because it is easy to show the pad
+growth in this.
+
+[0:54:00]
+I think after two quarters, everyone is talking about pad growth, but biggest
+sign of the turn around is acid quality basically, the GNP and NNPA gets closed,
+so that's the point, that's the point, but it's a very cyclical sector, you have
+to think about it, I think there are a lot of results when the 1000 results are
+not declared, it's difficult to tell the broad growth, but still, where the
+growth rates are coming, I think we will see more in the multiple sectors One
+sector where there are good numbers, that is, in the hotel sector, the number of
+two companies has come in the hotel sector So let's see, first is basically,
+Banaras Hotel is a company, so if you see here, so year on year, revenue growth
+has reached 38% Quarter on quarter growth has reached 26%, whereas, Pat growth
+has reached 38.8% and the company has no capacity now, if the company has no
+capacity then if the company is not able to rent more rooms, then how will the
+company do it?
+
+[0:54:59]
+Will the price increase or will it give more rooms? If there are no additional
+rooms, then the price will increase, right? Just in the comments average, the
+company is growing from the revenue, the price will increase ARR will increase,
+tariff will be high in the hotel sector, this is the thought process, right?
+
+[0:55:19]
+So here, if you see, like the binaries of hotels, there are good numbers here
+Then if we go ahead and see, then I give you another example of a company where
+there are good numbers in the hotel sector In Phoenix Mills, the overall number
+of Phoenix Mills is quite poor because here, the capacity of malls is
+constrained by FY 27 If we look at the hotel business, we will see the number of
+hotels So, the FI-25 of quarter 4 is a business where if you look at the growth
+of quarter 4, they don't have capacity, occupancy is their biggest, capacity is
+not there So, where there is no capacity, how is the growth coming in if you
+check it out?
+
+[0:56:02]
+So, how much is the rep power growth in the hotel business? How much is the
+growth in hotel business? Occupancy into your average revenue per room So around
+15% is the growth in revenue per room And how much is the occupancy? 86% to 92%
+So how much is the growth in the average revenue per room? 11-0% Where is the
+remaining growth?
+
+[0:56:19]
+That is of occupancy growth So they have very less space for hotels right now
+because all the Malabha hotels are trying to open at this time period But just
+gives you an idea that they reported one like FI 25 overall EBITDA margin 47% HT
+hotel rest is particular quarter 51% HKT so hospitality as a sector may after
+COVID years, that post COVID years, So the first demand supply in the middle was
+a little bit more. Then post COVID construction was closed. After the
+construction was closed, everyone started construction for 18 months.
+
+[0:56:53]
+So as soon as the construction started, I think people from COVID came. They
+were not traveling. There was an event like this and we ended up passing away.
+So what do you mean by that? We will have started spending more on life
+experiences, right?
+
+[0:57:07]
+So because of that 18 months lag, in tier 1 cities where there are GCCs, where
+there is urbanization, where it is difficult to find land, existing hotels have
+been printing money heads over hills and I think they elevate the data of the
+industry that they study Here, the thing is that after FY29, this demand supply
+scenario can be stabilized In tier 1 cities, till FY30, demand supply can be
+mismatched So This is more of a team that could last for 4 years There will be a
+cyclicality if tourism is closed in India If there is an inline travel, there
+could be a cyclicality Generally, this team has been playing out and it has also
+been showing up in the numbers of these companies.
+
+[0:57:52]
+Like Banaras Hotel example, St. Trigis example. So this is another sector where
+there are two company's results now. But the results of both the companies are
+strong after the capacity constraint This is one of the sectors where numbers
+are looking interesting If we look at it, broadly the sector which has been
+doing the worst in this result season right now Can you tell me what sector is
+the most bad numbers in the comments? Just guess which sector is the most bad
+number. Which two sectors are the most bad? Uday and your understanding is
+correct. IT sector for sure.
+
+[0:58:28]
+Second sector which sector do you think is IT and capital market?
+
+[0:58:32]
+Both of us will agree on this Capital market linked companies results are bad So
+here the webinar of financial modeling I will share a lesson with you You have
+to remember most of the things are cyclical in nature everything is a cycle no
+company is grade forever, no company is bad forever but There are stages when a
+company is creating a bad company from a grade I think I will show you an
+example in recent results Let me just open TDSL So if we look at the example of
+CDSL So just over here Today also the PEE ratio is around 49.9 times If we look
+at the examples here So just over here So, CDSL is a high operating leverage and
+deleverage business.
+
+[0:59:25]
+Now, I will explain in a very simple way that the expenses are fixed in CDSL
+Whereas the revenue of CDSL fluctuates along with the market cycles If the
+market's growth rate is good, then their expenses are fixed Then their margins
+expand And if there is a problem in the market in the growth rates Then their
+expenses are still fixed and if the revenue drops, then the operating deleverage
+is done in the business Here is a very good example, like in the CDSL, there was
+a shallow cycle which was bad and in the CDSL, whenever you see what is the
+revenue growth, how does the pad growth come out, you will have a better idea
+that as soon as their cycle is bad, you will see that the margin contractions
+will start and then when the cycle normalizes, the growth of 39% growth of 52%
+growth of 93% growth of 71% growth of 56% growth of 30% growth as soon as the
+cycle is good, what happened at that time again the profitability of the
+company, it started growing at a fast pace.
+
+[1:00:25]
+Right? So the company's path was growing at a fast pace. Right? So generally,
+one or two quarters earlier, the company's expenses, I think this was the point
+of time where the quarter on quarter growth will be there If you are watching,
+then the quarter on quarter growth is coming Quarter on quarter growth is coming
+Quarter on quarter growth is coming, then the money will be closed So, the
+quarter on December 24, which was in February The market will also peak in
+September And the share price of TDSL will also peak in September September was
+the quarter when this happened.
+
+[1:00:54]
+And now the results are from TDSL. Basically, their revenue is minus 7% But how
+much is the company's Pat? Can anyone tell me in the comments? Because we are
+talking about financial modelling, so I am explaining this because it is part of
+the operating leverage-deleverage industry. So how much is the Pat? How much has
+it degrow? It has degrowed by almost 3 times. Do you agree with me? It has
+degrowed almost 3 times in Pat. So I can say that it has an operating deal
+average.
+
+[1:01:23]
+Is there an element of operating deal average over here right there's an element
+of operating deal average over here now a question that arises which I'll ask
+you, so here you can take help of technicals, right? So the technicals like we
+have learned in the course about stage analysis, so in the stage analysis, you
+have seen that currently, I think just looking at the stage analysis, If you do
+a current stage analysis, then TDSL, somewhere after stage 4, it was stabilized
+again.
+
+[1:01:53]
+But probably because if you look at the very long term P ratio of this business,
+where you see the long term P ratio of this business, the peak always seems
+around 75, which is the last two cycles. And last time when the shallow cycle
+came, when the market was bad for 18 months, I went at it bottom out, pretty 2.7
+to P ratio. Before that, when the 2018 to 2019 cycle was bad, which can be a
+two-way market cycle, one is that we are bad for a year, the other is that we
+are bad for two years.
+
+[1:02:25]
+So when the two years were bad, the PE ratio came to 18 times at the bottom,
+this time it came to 30 times.
+
+[1:02:31]
+I think truth lies anywhere between 80 to 30 times when we take PE ratio so
+there may be value in the company because earnings will degrow so if earnings
+degrow, suppose we do an activity of 526 crore and suppose when the earnings are
+de-grow, then it is not de-grow, it becomes flat as you can see here last time
+there was a de-grow of 10% so out of the 526 crore, you should de-grow 10% of
+the earnings and look at the 30% we are exercising a financial modelling,
+everyone should do it you should de-grow the 526 crore from 10% whatever your
+number comes and you can see 30% ratio so what is your answer guys when you do
+477.230 roughly how much is your answer BSE is not impacting, I will talk about
+it too Approximately 14000 odd crores Where your earnings degrowth can be Value
+will emerge depending on the market's Revive after a year So what is the market
+cap today?
+
+[1:03:36]
+So this is the rough way of doing financial modelling Was it difficult? Was it a
+difficult or easy thing? I mean it was a difficult or easy thing Some of you
+wrote that the problem is that there are not many companies that are cheap
+today. So what did I say in the beginning of the webinar? That you need a longer
+time horizon in this market or you can make good money in the near term. What
+did I say in the beginning of the webinar?
+
+[1:04:00]
+You need a longer time horizon or you need a near term you might end up making
+good money you need 18 to 36 months at least 2 to 3 years 10% degrow is a rough
+estimate, one of it is from the chat so 10% degrow is a rough estimate that
+operating deleverage could happen 30p I decided, I took a rough metric that is
+the last cycle I will look at. So, the P ratio was bottomed out at 30 times, at
+32 times. So, you can multiply the range of 3235 by the last time when the stock
+bottomed out, the case valuation was bottom out. Right, so before that, it was
+bottom out on the other side.
+
+[1:04:38]
+But there your technicals will start helping you because when you feel that base
+formation is happening in the stock, when you feel that sideways movement has
+started, I think in the case of CDSL, if you check just over in the this is like
+a past chart that we are looking at though not a recent one in the case of CDSL,
+if you see when the base formation started there then your moving allergies will
+go sideways and then when the break out comes then how does it come the previous
+high goes across on very high volumes right so here If you have evaluated the
+company's entire time then it would be easy for you to get into the business So
+this is half the battle is won if you are prepared for what is coming And all
+these businesses are good businesses In 10-20 years, TDSL will be relevant
+business from here also But that's the thing that you have to mitigate these
+cycles right so entry point if you are good then even 10 20 years hold it
+becomes easy so this thing is very clear learning that if your entry points are
+good then it becomes easy to hold in the long term so that is there but I think
+we do activities because I am a financial modeling before doing it, you have to
+make two or three financial models and show them to the company results.
+
+[1:05:56]
+Let's take a look at the results. It is a good number for RR Cable. So first, if
+you are learning financial modeling You are in this class I will just tell you
+one thing You observe what is happening in numbers What is happening in numbers
+in the last couple of quarters because reading the quarterly result well is also
+a part of financial modeling guys which this is also part of financial modeling
+reading the quarterly numbers well in numbers what do you think is happening all
+right now in numbers initially pad level because of margin volatility But now
+the base effect is playing out.
+
+[1:06:38]
+Highest ever revenues the company has shown. Reversion of degrowth happening
+exactly. Neeraj, margin is expanded. But if we look at this number, it has
+limited value You can understand that when we talk about financial modeling and
+results We will see these numbers in limited way, so it has limited value So if
+I compare it with peers, company guidance, broader sector you feel the value of
+numbers will increase, you will see that. The context will increase for you.
+Because I am doing case studies with you and there cannot be any better case
+studies than this. You cannot learn better than this.
+
+[1:07:14]
+That is a definite way to learn. If you are an analyst, how many of you are
+aspiring to be an analyst over there over the equity industry, right? So, if you
+are learning from me, then you focus on how it can be done here. So, just over
+here, so here we do an industry-wide comparison that what is going on and what
+is not happening Because this is an industry I have been tracking since 2019
+almost. If we compare here, first we open RR cable and first we go to PPT. You
+should read the conference call of last two quarters.
+
+[1:07:50]
+Let's go to PPT and see what has happened in this quarter The highest ever
+revenue achieved in Q4FI25, strong demand in market leads to impressive revenue
+growth of 15% in wires and cables and 22% growth in FMBG segment. But now just
+going further forward, the company has put in its PNL and in PNL, the company
+has seen that the gross profit margin has increased and the company has
+increased the gross profit margin. The margin of EBITDA has increased by 8.8%.
+
+[1:08:21]
+If we compare it here, in the case of RR Cable, this 8.8% EBITDA margin is the
+highest ever reported over the last 12 quarters now If you look at the EBITDA
+margin line, 8.8% is the highest ever reported in the last 12 quarters now. Then
+if we go ahead, let's see. All right. Let's look at it one by one. So this is
+the vision that they've given in three years. Vision in 3 years company gave 10%
+of the career. Vision in 3 years company gave 18% Kaggle, FMEG 25%, EBITDA 2.5X
+of FI 25. 5x of f525.
+
+[1:09:02]
+Viren Cable Domestic Business to be at 1.6x, Export Business to be at 1.8x and
+Increase Capacity of Viren Cables by 1.7x. So this company has told us that this
+is the vision in 3 years. What did the company send in the last 3 years? It
+improved the margin through rebalancing sales, portfolio and wires and achieving
+better margins in cables through basically scale And the company talked about
+data centers, renewable energy, industrial, cabax, all these things is helping
+the particular business to scale. So this company said that this is the vision
+that the broadly company has given.
+
+[1:09:40]
+And is the financial track record of the company interesting in the last five
+years? See why I say that in a 1 or 2 year particular pocket the company was
+capacity needy but 2020 if you compare 2020 if you compare the last 5 years has
+the company grown well yes or no now if you talk about financial modelling these
+are the basic questions one ask themselves has the company grown well in the
+last five years. Yes or no. Means the sales of 25% is caggered. Profiters don't
+have 21% Return on equity is also decent. 16-17% is return on equity.
+
+[1:10:16]
+So this is the financial modeling that we are talking about, it is a very easy
+thing. I will clarify this with the example of Siddhant's Samosa. If you come to
+the recent quarter of the con call, you will check there, what does the company
+talk about margins? So, what the company is saying?
+
+[1:10:34]
+Looking to achieve double digit EBITDA margins in the coming years Right,
+because they are spending a lot on B2C, they are spending a lot on branding So
+business is being built Now here comes a question, which companies have already
+done double digit margins in this industry and is it possible to do a double
+digit margin in this industry or not Let me take an example of the polycap So
+one peer here Now this is how an analyst thinks This is how as an investor you
+should think I mean these are just case studies which I'm making you do so is
+polycap doing basically double digit margin yes or no and only polycap business
+make a difference, I will discuss that too is polycap doing double digit margins
+yes or no is doing right now similarly KIA is discussing so KIA is KIA doing
+double digit margins now barely, their guidance is 12.5% to take the E-bita
+margin.
+
+[1:11:25]
+Now, in the case of Havels, if we click on the product segments, In the case of
+Havels, is the cable and wire of their wires doing double digit margins? Yes or
+no? It's doing, right? No, I will also come to the entry of new players, but
+again, first, go to the simple thought process direction, how are you thinking
+about the business? Now, in this industry, where the margin is around 11-12%,
+like in the Trench industry, the margin was 18-22%, 23%.
+
+[1:11:56]
+But here in the industry, where the margin is between 9-11%, 12-13%, and 13-13%,
+and where the unformal sector is also 30% of the entire industry, there is
+another way to think about it. If new competition is coming in, putting in 1800
+crores of capital, right? So what does that mean? That in the additional
+industry, around 3% market share, there is a competition. There is a difference.
+Is there anyone from you who is on cable and wire trade here? Does anyone belong
+in the cable and wire industry? A question that arises Are these certifications
+required for cables?
+
+[1:12:30]
+Are these certifications required for cable? Are these certifications required
+for cable? Can someone plant overnight and sell them? Pre-qualification criteria
+is So, what is the thing here? What do you mean by this? Again, this is now the
+second, third, fourth order consequence of thinking Now we are modeling
+financially But before that, it is important to think about business. These are
+case studies which I have so many planned for you today. But the idea is that I
+have to make you think. Now if competition, yes, could come.
+
+[1:13:02]
+So here is the entry of Alta Tech, so you go to Alta Tech and read their entry I
+think this was a conference call, so company here, I think when they announced
+entry in cable and wires, they did this conference call When the company
+announced entry in cables and wires, the company called conference And the
+company's, which is now 1800 odd crores of Kpex This company can also be called
+the 25% Roci And today, the industry has done 80, 000 crores So this industry is
+also growing at a 13-14% K So in the next 5 years, the industry will double to
+go to 1, 60, 000 crores So if you look at the company's conference call, the
+company is investing in assets.
+
+[1:13:52]
+So that is like 3% of the industry they can cater to at that type of scale. So
+here if you sit comfortably, you will see that the company will go to the
+initial wires and it will take time in the cable and what is the
+commercialization timeline? Can read here what is the commercialization
+timeline?
+
+[1:14:15]
+In the comments, when you talk about the competition then the commercialization
+timeline is today in which particular year the company commercializes the plan
+then the certification of the cable will take a long time so genuinely we are
+looking at that the combination of the cables will come in the FI33 and the
+combination of the wires will come in the FI30, FI31 Now we will talk about the
+perception hit That is the best part Again perception hit could be for n number
+of reasons It could be income tax trade on the company It could be a near-term
+issue for the company, there can be a tariff announcement in the company But if
+the business grows, then what happens?
+
+[1:14:52]
+These things go out of the way because earnings eventually supersede the
+perception But this is how things look like There was an issue with the case of
+Asian Paints Recently, I met one of the pre-engineered building companies who
+planted grass. Do you know how many plants have been planted in the last 30
+years? Can anyone name how many plants have Asian Paints set up over the last 30
+years? This was in 2021. How many plants has Asian plants set up between last 30
+years? Big plants company has 5 A. 5 big plants has Asian plants. 5 big plants
+has Asian plants. Big plants company has 5 A.
+
+[1:15:30]
+Small plants have 5 A. Whereas, how big plants have started in the beginning? I
+think by next year end, they will have close to 5 to 6 plants there are 4 plants
+left and they have put up a capacity which is nearly 60 to 65% of Asian paints
+capacity in one go We don't know whether they succeed or not, right?
+
+[1:15:53]
+That only time will tell There actually, capital came into play and a big amount
+of capital came into play Now, here, I am discussing this with open-ended
+questions Because you will do financial modelling only when your theory part
+will be clear The company has given us guidance that we will do our e-beta twice
+And the margins of the company have finally reached 9% And the company says that
+the margins will be inflected They will go towards a 10-11% mark where the KEI
+margins are so we will do a simple experiment now let's make this company a
+financial model and let's also take the KBX plan of the company so the company
+announced capacity expansion of 1450 crores by 2028 to expand their cable
+manufacturing plant this capacity will come in 2028 so there is no problem of
+depreciation of any more In 2028, this capacity will go live Even before that,
+the capacity of the company is going live, if we look here So, roughly, this
+capacity will go live in a paced manner The first phase of capacity, I think, is
+the capacity of 36, 000 tons So, the capacity of 12, 000 tons will go live by
+March 2026 That is, today, if there is a 79% utilization, then March 2026 is
+basically I think if it is 36000 ton capacity, then 12000 ton capacity by March
+2026 life will go away means that is today 79% utilization is there, then March
+2026 is basically from here next 8 to 10 months another capacity will go away,
+so first phase will go live so here, the requirement will be around 400 crores
+so 400 crores for both the phases so the first phase, the life of 400 crores is
+going live in March 26 and the second phase, the life of 6000 tons is also 400
+crores the 6000 metric MT so there can be a dosy type of cables so that too is
+400 crores so in the next near term the company's KPEX is going live and on
+December 26th the company's KPEX is going live So we have all this information
+and how the company will fund it via internal accruals and debt So now you have
+KPEX number, now you have the cash flow number of the company So I am studying
+all the cases with you so that you can make a financial model yourself.
+
+[1:18:06]
+You have the cash flow number of the company. The cash flow number of the
+company is almost 500 crores of cash flow company. And 500 crores of cash flow
+company is running. And the company's Kpex requirement is Rs 1450 crores in the
+next 3 years broadly I think a lot of the Kpex will get funded via the accruals
+only but let's still take the worst case scenario that the company's cash flow
+last 3 years is Rs 400 crores so it can't be less than Rs 300 crores extra debt
+so again before I go forward, this is an important point.
+
+[1:18:38]
+The company has cash flow of 500 crores, and the company is doing the KPEX of
+1450 crores in the next three years.
+
+[1:18:45]
+So, are you able to understand that the company broadly Kpex will fund it from
+the actual I mean, it will fund it from the cash flow, broadly But we will take
+the worst scenario, that the company will take another 2.3 crores debt That will
+take another 2.3 crores debt So we will take the assumption there as well The
+company has 2.39 crores investments, so that too on the balance sheet 100 crores
+debt company will take over There too, I will show you the assumption Right The
+company has cash and investments 239 crores investments That too, on balance
+sheet Cash equivalent is 227 crores So actually, 400 crores of cash equivalent
+to all investments So balance sheet is very well-portrait I will take the worst
+case and say that the company will take the additional debt of 250 crores
+because when it comes to financial modelling, it is better to be conservative
+But the realistic view will be that the company can do the same with the Acruals
+We will take the worst case scenario and say that the debt is 200 crores and the
+extra is 250 crores now coming to another thought process so if the company
+takes 250 crores debt so how did I figure 250 crores now I am ignoring the cash
+equivalence and company investments and the company's last 3 years average cash
+loss will be 400 crores If we divide the company into 3 years, then roughly you
+will get 400 crores And the KPEX of the KPEX of the 1450 crores, the 250 crores
+company will take the debt Let's take an example And debt suppose that the worst
+case The company takes 10% interest cost The company takes 10% interest cost
+Debt And by 2028, the whole 14-15 crore GaveX will go live And every year we
+think From here Next year, like 400 crores 400 crores and such so the
+depreciation rate of the company, now the depreciation rate is 19 crores the
+depreciation rate of 19 crores is 769 crores so the depreciation rate of the
+company is as a percentage of sales?
+
+[1:20:38]
+Or if you suppose depreciation just to go there, the whole year's depreciation
+is 70 crores.
+
+[1:20:44]
+So, the depreciation is roughly the company's depreciation rate of 10% If the
+fixed asset is 769 crore, then the company has shown a depreciation of 70 crore
+So it is roughly 10 odd percentage of the company's depreciation rate You have
+to see this more precisely How you will do it, you will go to the company's
+annual report And here, you will go to the annual report You will search for a
+30T You will search for the names of life So you have the life of assets The
+depreciation schedule of the company Of course, there are life of assets I mean,
+again, this is a life case study If you do financial modeling So, we started
+from here Actually, I will go into many concepts now But the idea is that I will
+draw a Roughly a financial model The fees are in the name of life of assets what
+is life of assets you can see that the life of machinery is assumed the life of
+other plants is assumed just over there I will just open it and share the screen
+yeah just over there I am in the annual report of the company and here you will
+learn the life of the company The page of the company is 183.
+
+[1:21:56]
+So if you look at the depreciation of the company, then how much you can see
+here? The life of the 30 years of factory and building depreciation Worker
+quarters are 60 years but the plant and equipment of 3 to 15 years. Ideal
+electrical installations of 10 years, furniture and fixtures of 10 years. Major
+is the expense of this, this is a major expense and your factory building and
+worker quarters is also a expense. And still we will assume on the aggressive
+side. What will we do? We will give this middle path.
+
+[1:22:27]
+We think that within 10 years, the company will fully depreciate its plant and
+equipment. And the company is now doing a KPEX of 1450 crores.
+
+[1:22:35]
+You can ask the company's conference calls what depreciation rate we should
+assume that is a good financial modeling question also with some of the endless
+bookkeeping questions you can also ask the company an email what depreciation
+should we assume in this KPEX But we assume that the company's KPEX depreciates
+over 10 years So, we take this assumption and in the factory and building 30
+years, there will be substantial expenditure on the factory building so there
+too we will try to make a guesstimate right so we got to know about
+depreciation, we got to know about the give-ex we got to know about the debt,
+that's enough for the debt and finally we assume that the sales growth of the
+company in line with the industry growth of 15 odd percentage and then we saw
+that the company's guidance is that it can be around 11 odd percentage or 10 odd
+percentage which will be in line with what the company is trying to achieve so
+now we have the number, I took the assumption of sales growth, I took the
+assumption of 15% sales growth over the next 3 years And for reading margin, I
+have got the assumption that basically e-beta margin can be double digit That is
+why the company's guidance achievement is of 1200-1300 crores I will consider
+other income as similar to other income What I am doing in the scenario of other
+income is that The company has investment of 239 crores and the company has cash
+and equivalents Almost 460 to 500 crores The company has assets The company will
+earn 10% of the return in the maximum amount of 10% I will not take more
+aggression in other income I will keep other income around 50 odd crores in the
+last 3-4 years I will increase the interest cost to 20-25 crores if the company
+takes a debt of 250 crores and I will depreciate it at the end of the year when
+the entire 14-50 crore Kpx will be live so I will increase it to 145 crores but
+in Terrim when the company said that the next year the company will live for 800
+crores so I will increase it to 80 crores and then if the company will live for
+the next year then I will increase it to 40 crores So this will give me a number
+of depreciation When I do this with you, you will get an idea So is it possible
+to model this company yes or no with the information that we have now?
+
+[1:24:51]
+What do you think? Is it possible to model this company with the information
+that we have right now? We will make a model of cash flow Can I model this
+company? Sales growth, I assumed that you should invest in the industry level,
+the sales growth company will grow around 15% so here we come, I am doing
+modeling exercise in the 90s, I don't do DCF exercise, this is just an activity
+that we are doing together so I have made a rough model of it and put it here in
+this model I will have to show you the changes of my depreciation and all that
+right?
+
+[1:25:28]
+So first we saw there are different ways to model the sales growth assumption of
+the company is 15% the growth assumption of EBITDA is 2.5x that is 4.86 crores
+to 116 crores which means that EBITDA margin can be sponsored by 10.5% I kept
+the other income flat whereas I have increased the interest expenditure I have
+still grown the inline I will do one thing I had grown the interest expenditure
+from 25 crores So I think the peak interest cost will be 85 crores So here the
+number of the 85 crores peak interest cost will be in front of us So we took the
+85 crores peak interest cost because we assumed additional debt of 250 crores So
+the depreciation of the company is 1450 crores Kpex which is fully alive by FY28
+So depreciation is 1450 crores But if we estimate that the plant, building and
+all that will be there We estimate that the company will depreciate the
+company's 1450 crore Kpex Because they have given the building, the building
+will be depreciated in 30 years There are also worker quarters So the company's
+full depreciation of 97 crores will be depreciated when it is brought to Kpex I
+will add 97 crores in 70 crores so that I can understand the full impact of
+depreciation I added 97.0 crores in 70 crores when it goes to full depreciation
+so again, financial modelling is very simple I first caught sales if you see the
+sales number here what I did was I did it into 1.5 this company's sales will be
+15% then I basically dragged it from here so that it has the entire number the
+number came then the guidance of the EBITDA margin was that it can be around
+10.5% so we put it in I found my story that EBITDA margin will scale like this
+Then I kept the other income flat Then I grew interest cost of 25 crores at peak
+Then I accepted depreciation at full peak That in 15 years the plant will be
+fully depreciated I accepted 97 crores at full level of depreciation when the
+entire plant goes to 28 and then I have taken out the entire number Now here the
+number of the two depreciation in the middle they should also change something
+This is the Kpex of 800 crores in 26 So let's say if this Kpex of 800 crores is
+going to be going to 26, then it will be the additional depreciation of 53
+crores.
+
+[1:28:08]
+That is 77 plus 53 odd crores. And then next year, I said that this depreciation
+will grow by 10% If the company gives guidance that how much is going to go to
+27, I will be able to see it more in the final So when I put these three things
+in, I put depreciation, company's guidance I put the company's EBITDA margin,
+other income, and I put interest cost because it will cost 25 crores, that is
+250 crores additional debt, so it can cost interest on the peak.
+
+[1:28:43]
+So I have the company's PBT, what I will do in PBT is simple, I will do tax
+minus, then I will get a number of Pat So what I can see here, on which market
+cap is the company trading on which P ratio Is it something that is doable? I
+have made a very rough model, I mean I did not go in detail in Excel, did not
+take balance sheet, did not take cash but my idea of making a model is to be
+roughly right. Yeh bhooth rough model. I'll share this model with you. Interest
+cost ya simple liya ki 250 crores ka debt liya additional uspe 10% ka interest
+cost daal dea.
+
+[1:29:16]
+Full utilization beh jf full inka chayega. 26-27 mainin kya gara interest cost
+ka ke 2020% se grow kara just for my assumption. Ta ki main 85 crore ka interest
+cost pe pehle reach kar jaun. I have put 10% interest cost on it Full
+utilization What I did in 2627 was that I have grown from 20-20% just for my
+assumption so that I can reach on the interest cost of 85 crores Yes,
+capitalization of acid might not happen linearly This is why we will need more
+information as the company does a dust con call key. This is how much you are
+going to plant life. I bet I grow theory. I'm the area.
+
+[1:29:40]
+I'm your understanding. I can't do it. I sell 400 crores. I'll get right
+forward. Simple. I'll be calculating the forward. We did. You may current market
+cap. Yeah, which is 11, 587 crores And we divide it from the next year's patch
+and then divide it from the next year's patch We get to 15 times forward beat
+FY28 Right, so this is just a rough guesstimate to do Now here, you can take the
+peers So in the peers, you can do a simple activity If someone will come here,
+remove any brokerage report So what can you do in the KEEI? What is the multiple
+of the KEEI in FY28 and 2028?
+
+[1:30:24]
+You can remove the polycap And then you can do a peer-to-peer comparison If we
+talk about today's, if we talk about today's, what is the margin of today's KIA?
+10 odd percentage, it stays between 10 and 11 So maybe in RR cable, it can be
+out for 3 years So today's KIA, what is the price to sales that is being traded
+on multiple? Now again, this is we are looking at P-Horses Today's KEE is
+trading at P.2 times price to sales This point means that on a single rupee
+sale, the market is giving it a value of 3.2 rupees Whereas today, if we look at
+the PE ratio of KEE, then how much is it trading?
+
+[1:31:01]
+Around 43 times So we have two information And today, if we look at the margin
+of the PE ratio, then this is the amount of RR cable If you take their
+expectation and their guidance, then if you take it out of it So, if you want to
+make an exit mat, then by comparing it with peers, what you can do is that if
+you want to make a bull bear based scenario on this pad level, then you can
+create a bull scenario, you can create a bear scenario, you can create a bull
+scenario, you can create a bear scenario. In the bull scenario, you may be using
+reasonable estimate to get a P or a 37RKB P.
+
+[1:31:38]
+Generally, you should give it high but you can be conservative that the
+company's P is the one that sustains today.
+
+[1:31:44]
+So, take a 35RKB P, take a 30RKB P in the base scenario, take a 25RKB P in the
+base scenario and then you simply just multiply the bull scenario into the
+future pad that you have simply just do this activity just multiply this 35 into
+762 So this is one thing to do Then you can do a similar calculation Now we will
+multiply it with this So we will do a similar calculation When we will multiply
+it with this So this is your again I am a rough guesstimate because I need more
+numbers as in when and how much time the Kpex capitalizes at this time but in
+FY28, you will see something like this in 2026-2027, you know that I have
+guesstimates This is why this is the probabilistic based model, it is not exact
+numbers because real life and probabilities have a difference, so financial
+modeling is pros and cons but what is the benefit of doing it?
+
+[1:32:40]
+You will have an idea in your mind that these numbers can be in the company in
+the year 528 Is it helpful to do? At least if you are a company, you can have an
+idea. Is it helpful to do? How do you think? Depreciation based on annual life
+of assets, I did not do that. The company is appreciating 30 years of building,
+the plant and machinery are appreciating between 3 to 15 years. Although you
+will get this number better than IR, you can ask the company in investor
+relations what depreciation we should assume.
+
+[1:33:13]
+So they can answer this question to you because they answer this question to a
+lot of people. So, I assumed that the entire amount of the plant that is coming
+in Kpex is depreciated in 15 years because the value of the building and the
+equipment is also valuable. Similarly, the company's IR and CFO could answer
+this better. People also ask questions in Con call. I took an assumption of 15
+years So I divided 1450 crores from 15 years So in 2028, I added peak
+depreciation from existing depreciation run rates So you have got the number of
+166 crores Right?
+
+[1:33:47]
+In this, you have some confusion Again, this is a guesstimate This is a
+guesstimate Alright, so what should I do last time I think Some students are
+confused How to put formulas in Excel Should I make a whole model with scratch
+once I can make it with scratch so that you can see formulas, it will be easy
+for you or drop the idea with scratch it is totally okay okay, I will just make
+it very quickly from scratch I will make this model very quickly with scratch I
+think I I'll have this model also here beneath. Here, I'll put this model here
+once. Right? Here, this model is made from scratch.
+
+[1:34:27]
+So, I have taken the numbers of 2025 of the company.
+
+[1:34:32]
+Here, we delete the whole model and make it from scratch first rough assumption
+is that 7, 618 crores will give 15% revenue in the company it's going to 1.15
+crore and what to do, we have scaled the sales number sales will grow in the
+next 3 years then we saw that in EBITDA margin, I made a story that every year,
+EBITDA margin will scale and by F528, EBITDA margin can go at 10.5% I gave the
+assumption of 10.5% H because if the company's guidance is there Now again, just
+listen to this company, they said that we can get EBITDA 2.5 times in the next 3
+years, I have 486 crores into 2.5.
+
+[1:35:19]
+I have an answer, almost 1215 crores company's e-bit will come. So if I come to
+a simple division here, divide 1250 crores into 11, 586. Your margin number will
+come to 10.5 percentage, if you will break it down to a decimal level.
+
+[1:35:36]
+So level I have made an assumption here that the margin of the company can be 8%
+Because it has already been 8.8% in Q4 And the margin of the company can be 9%
+so these are my assumptions again after reading the business you can create
+these assumptions then what I did was I divided this EBITDA margin into company
+sales I divided this EBITDA margin into company sales I have an EBITDA number of
+the next three years of the company I keep the other income the same because the
+company has almost 500 crores of investment on the balance sheet and it also has
+some export incentive. So I kept it same.
+
+[1:36:16]
+I didn't do the same. You shouldn't assume it as an analyst whenever you are
+doing this activity. If you have a very good treasury income, then you can
+assume it in the income.
+
+[1:36:28]
+You should not assume more changes in the income because it is difficult to
+forecast that In interest cost, I thought that if the company has a average cash
+flow of Rs.400 crores for the next 3 years Now listen to this If the company has
+a average cash flow of Rs.400 crores The average cash flow for the next 3 years
+is Rs.400 crores If the company has a shortfall of 250 crores which is from debt
+the company will take the debt of 250 crores and what I assumed here is that the
+company will take the debt of 250 crores on full scale next year there is a KBX
+of 800 crores so how much will the company take on 800 crores?
+
+[1:37:06]
+If we assume KBX of 800 crores then you can assume that again if KBX of 800
+crores and cash flow of 400 crores then additional company will fund of 400
+crores so I think the end state of the company, what you can do is, you can add
+the interest cost to it, how much is the 10% of 250 crores, that is 25 crores.
+If you add 59 crores to 25, you will get a figure of 84 crores.
+
+[1:37:34]
+I took the figure of 84 crores in 2027, And next year I assumed that this
+assumption is Their interest cost will increase by 20% This is an aggressive
+assumption because the company is cash flow of 500 crores And I am doing 400
+crores Next year, 70.8 crores interest cost But my interest cost assumption of N
+state is correct It can be between the two, that it can be different from the
+other 5-6 crore Then there is depreciation Now I have said depreciation in two
+ways One way to do it is that you don't have to forecast that is very simple If
+you see here, that is depreciation upon sales Depreciation upon sales So how
+much is the depreciation of today's company?
+
+[1:38:20]
+70 crores Right, if you check here company's depreciation is again 70 crores
+That is this 70 crores divided by sales So almost company is depreciating 1 odd
+percentage Right?
+
+[1:38:35]
+The company is depreciating 1 odd percentage as a percentage of sales So one way
+I have done is that I simply do that I keep doing their sales into 1 percentage
+I keep doing their sales into 1 percentage To get the number of depreciation
+every year As the company's sales scale up, the depreciation of the company will
+be scaled up Dad will also keep scaling So this is the only way to do this This
+is a simpler way but this will not be the accurate way because there will be
+some discrepancy Another way is that I took a company's entire Kpex of Rs.1450
+crores and divided it into 15 years I took an average of depreciation of a
+company and put it in the building, plant and machinery and depreciated the
+asset in 15 years and it is the Kpex of 1450 odd crores If you do 1450, 1450
+divided by 15, the answer comes 97 crores The answer comes in the depreciation
+of 97 crores in 28 What will I do here?
+
+[1:39:35]
+In 28, again this is a guesstimate assumption This is my assumption, it is a
+little aggressive assumption I added 97 crores in 70 crores I have a number of
+depreciation Then I come to PBT What do I have to do to come to PBT?
+
+[1:39:53]
+Simple add I will add other income in EBITDA So that is I will add the cell in
+EBITDA With other income I will close this And I will subtract it from interest
+or depreciation Because interest is for cost I will subtract it from interest or
+depreciation because interest is cost for you I will subtract it from interest
+or depreciation I have come to PBT I want to do same thing next year You can do
+same thing next year That is simple Open the bracket Add it E-Bita has other
+income Close the bracket Then open the bracket Add interest cost you can see
+that is simple bracket open it add it to ebta with other income then bracket
+close then bracket open it add interest cost with depreciation and you will get
+the answer if we drop the track then we will get the answer So, we have the
+answer and when I calculated the rate here, I have 36% of the PBT CAGR which is
+coming in assumptions So, I got the tax and assumed that it will be 25% of the
+tax So, what will I do here?
+
+[1:40:48]
+It's simple That PBT into bracket open 1 minus tax rate Because tax, you will
+get 75% at the end of PBT I did this calculation Again we did this, drag and we
+have the number now we multiply forward B 11, 0587 crore market cap so forward B
+we see 11, 0587 let me just open this 11, 0587 divided by this number. So you
+get to this and you can do the same for this. And you can do the same for this.
+So you head to the same model, exact same 15 forward P Now if you see it in
+recording, then you will be very clear Is it clear?
+
+[1:41:39]
+Is it clear how we did it? If it is not clear, then watch it in recording again
+and again And also in the income statement, there is a class in SOIC level 2
+just watch that class in depth and it will also do a free YouTube video of also
+40-45 minutes next week. So, somewhat clear was, somewhat clarity I, if other
+income is close to zero, then the company's interest cost will also be close to
+zero on additional KPEX because of some 400 crores, the company is already
+accrual. So somewhere you will get a similar answer basically what I am saying.
+
+[1:42:11]
+Somewhere else the answer on FY28 will be similar only. If you want to take
+forward, then you have to take an example of the growth rate of the company
+Let's take an example of the growth rate of the company Let's calculate the peg
+ratio of the company Let's calculate the peg ratio And for the next three years,
+we have taken the growth rate of the company So, let's open the rate So, the
+number of periods is three years The payment is zero The present value is minus
+310 So, minus 310 The future value is 762 crores and 1 so how much is the
+company's PAD CAGR? What is the number here?
+
+[1:42:46]
+How much is the company's PAD KGAR? How much is the PAD KGAR? 35% now let's
+calculate the peg ratio Let's calculate the peg ratio How much is the P of the
+company today? How much is the P of the company today? So what is the peg ratio?
+Nitin, I assumed in FY28 because the whole Kpex FY28 will be in life so how much
+is the peg ratio today? 1 this is just an activity that we have done together
+it's not something that might be correct or wrong but this is just an activity
+Now coming to the webinar again and let me just go back to the presentation. Now
+your examples will get clearer.
+
+[1:43:29]
+Your clarity is a bit... This might be the other income, interest costs may be
+there.
+
+[1:43:39]
+Because that is there But the 28th roughly number will be similar to that This
+is just a rough guesstimate I have assumed that I would be conservative because
+I am making an aggressive model, I am making conservative model you understand
+that I am making conservative model but I had to juice the numbers for full I
+could have put the numbers in the exact end You can also take out the 28 number,
+skip 2627, that is also doable That is also doable, forecasting entry is done I
+think that debt won't be higher than 250 crores, I give its reason Okay, Dr.
+
+[1:44:14]
+Neeraj, tell me the company's Kpex is of 1, 450 crores Every year, this year,
+the company has generated 495 crores of cash flow So let's assume that in the
+next 3 years, I have taken the average of 400 crores Let's say that in the next
+3 years, the company makes 400 crores of cash flow every year I say that it
+doesn't even increase my assumption is wrong, they will have a full accrual KPEX
+I am still conservative, if you want to sell it, how can you do it? I will show
+you here, just over here, what can you do?
+
+[1:44:47]
+Once you come here, on the talk stands, you will see the company's, CFO 2 EBITDA
+conversion, which is going on in the last 2 years 73% and 141% This year, how
+much is the TFO to EBITDA conversion? 10 over here, let me open our cable This
+year, the cash flow of 494 crores is the company's E-Bita is 486 crores So,
+nearly 100% conversion is CFO to E-Bita Yes or no? Question The company is
+nearly converting E-Bita to cash flow Yes or no?
+
+[1:45:16]
+Similarly, it seems that the company will have a debt in debt Again, I made it
+to be a conservative because roughly right is better than precisely wrong so if
+you want to give an assumption here to make the company's cash flow table let's
+say cash flow FY25, FY86, FY27, FY27, FY28 CFO 2, Eibata, roughly company's, we
+saw that 100% convert to SL. In FY26, how much cash flow will come? Company's
+100% scenario. Right, though, if, by the way, it's reasonable, 75% is the case.
+
+[1:46:00]
+Because tax rates are also in the middle and B2C is the business so if we take
+75% in the worst case scenario then the cash flow of next year will be 525
+crores if we take 75% in FY 27 let me just multiply this into this 680 crores
+again worst case scenario let me take 1215 into 75% actually this is how the
+cash flows of the company will scale up This is the average B2B company's 70 to
+75% conversion.
+
+[1:46:38]
+So if the company's cash flow numbers are there, then how much cumulative cash
+flow is there, then let me just do equal to sum and sum of which we do, open the
+bracket and sum and sum of which we do. So how much cumulative cash flow
+generation is there in this company?
+
+[1:46:57]
+In the next 3 years by the way, you will need the red one 500 crore already has
+investment and cash balance we have to be left and right It's a probabilistic
+exercise Mostly no right So again, if you look at this I can't give you bias
+cell recommendation I am just discussing with you that generally below 1.5 times
+peg, if you read Peter Lynch's book, one-on-one wall sheet, it says that below 1
+times peg is interesting, below 1.5 times peg is also interesting. Now, you can
+read a book which gives you an idea.
+
+[1:47:30]
+Now, I think that is where the thing is, where we peg ratio 2, 3, 4 times, there
+the difficulty starts, if growth rates are low So I think we learned to make a
+bull wear based scenario, we went to different sectors and learned a lot
+Sectoral sheet I'll share with you, so in peer to peer analysis we did HCG and
+all that In peer to peer analysis, cables, wire, weld managers, depositories and
+bank depositories and brokers.
+
+[1:47:57]
+So, like you will get a lower valuation for brokers versus depositories because
+it is a very cyclical business model and you can do a lot of K studies in this
+which we are putting for you So make a bull bear based scenario and how do we
+roughly see the valuations Hopefully you got a lot of clarity When you came, do
+drop a L.S in the comment section you got a lot of pictures of how to think
+about the valuations of the companies we will, right now, S.O.I.C.
+
+[1:48:52]
+Watchlist is not in the 1 year long term research program but it is like the
+market breadth, actually We are already working on that feature, so maybe in a
+month or two, we'll do a webinar on that under long term research where we will
+maintain different different businesses that are in the industry But again, that
+will be from a perspective that these companies will be working on webinars in
+the future So we'll do that soon You can get an email from Flexicab for renewal
+skills in companies come future may start betkin be webinars coming out weekly
+will do the whole will do that soon the flexi cap cup to email a joker in your
+skills so I see membership in the capital markets car webinar current next week
+to this sector come and analyze current try members Pune the price I think
+they'll be a discount of 10-12% because it's a full day workshop folks so it's
+not recorded, it's a live thing only actually, in JW Marriott, our cost has been
+very high we were not getting any other hall, so our cost is around 4000 per
+person or 4500 rupees per person So actually we are just funding it and doing
+the event because we have to come to Pune So that's why we have made it full day
+workshop Actually the cost is more than the W Married because it's the most
+central location that there could be.
+
+[1:50:03]
+So, we will try to look at more discounts on it. But it's difficult to say. So,
+we have a full day workshop. So, we will have lunch much. Everything will be
+there. And we'll get to meet with each other for at least 6 and a half hours of
+session. This webinar will be available under the level 3 that is valuation when
+they are available. Aim is to identify companies where RU and RO is improving
+again but rough pun you will study. So, I have taken examples, you go and read
+AUG1, you see that if asset quality improves in the life, then what can be the
+ROE? If AU improves, then what can be the ROE?
+
+[1:50:42]
+So that's the idea. Annual depreciation, I think, we will share the RR cable XL
+model with you. Book value growth banks are only when earning C quality is good.
+If the asset quality is bad, then the book value growth will not be there. We
+are not doing online streaming in Pune, we are doing offline workshop on May
+25th.
+
+[1:51:02]
+SOIC Global Research is active, We are doing some microcaps and small caps It is
+interesting Business case studies are already in it Yes For non-members, I will
+just bifurcate the charge Actually, for full day event, we will keep 3000 for
+members For non-members, we will keep 3.5 thousand Full day event, actually,
+workshop type event So, our cost per person in JW Marriott is 500 we are trying
+to break even but it doesn't seem like it But we will come and meet because we
+have to do it because we love to meet you in person The cycle quality in the
+Arman finance is good, it grows in cycles because Arman's ROE is 25-30% in the
+peak of the cycle Because Arman's ROE is very high, the price is very high
+because of the arman's, yields are very high So in the case of arman, this is
+the case and the debt to equity is also low So the growth capital is very high
+for arman, if the cycle is done, it will be off the blocks again So it is a
+cyclical play See in the exclusive telegram group we discussed different
+results, all time businesses, tribe members, and experienced tribe members.
+
+[1:52:11]
+So dad if you want to join you can join. I think it's a good option if you've
+been with SYC for 3-4 years. Only then it makes sense. The management, AUG is
+also good Vishal, if you read it, Equitas is also good, Ujjivan is also good for
+new management, but the numbers actually, AUG numbers are much superior than
+both, Ujjivan and Equitas, there is no doubt because they are lesser risk
+lending business versus the other two. You can model the balance sheet, but I
+think it's a waste of time to model the balance sheet. You just have to model
+the cash flow, CFO to EBIT and PNL.
+
+[1:52:47]
+If you model the balance sheet, you will never be able to do precisely modeling
+what inventory assumption you have, how much working capital assumption you have
+it will be so complicated that I have seen all the models of analysts, balance
+sheet and all these things now, take two years and compare the balance sheet
+there will be a 50-60% difference because it is very difficult to model the
+balance sheet, you can model PNL PNL you can model but balance sheet model is
+tough Gujarat will come soon, I think after May 25th, I think probably I'll just
+take a week or two break for basically reading and researching more because from
+28th to 4th June, I'll be just travelling to meet companies Folks, let's keep
+meeting again, next Sunday we meet at the capital market event And if you are
+coming offline, I would love to meet you offline If you are streaming for SYC
+members, you can register for non-members So, I will see you there in person or
+we'll meet you online offline to recording.
+
+[1:53:48]
+We'll anyways upload for you. We'll keep doing the sessions Hyderabad, Chennai
+and all these things we'll do. So I think we'll keep meeting you over the next
+one or two years. Thank you everyone. Hopefully you have a great Sunday. I think
+I'll be back even as well. Actually, I'm super 7am so I hope to keep back to
+back meetings with you. And I was also researching on a couple of results that
+have come. Well see you soon guys next week I'll see you in the capital market
+session. Have a great Sunday. Jayant have a great Sunday everyone. Thank you so
+much. Thank you everyone.
+
+[1:54:21]
+I have a great Sunday. No, I don't want to teach derivatives in the future. I'm
+long term research. Okay. Derivatives need a new Pune session online possible.
+Thank you everyone. Thank you everyone. Bye.

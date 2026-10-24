@@ -1,0 +1,2463 @@
+﻿Class 3 | Finding Multibaggers! Fundamental Analysis
+Crash Course
+====================================================
+
+[0:00:11]
+I just open the comments hope everyone is doing well. Great. So today's class
+we'll just start in another one minute. Awesome. Wait. Just a second. Good
+afternoon everyone. Hope everyone is doing well and hopefully first two classes.
+And hopefully first two classes will be able to understand more things. So how
+did you like the second class on the modes? Great, great. Nice. Thankfully,
+everyone understood. Love.
+
+[0:00:57]
+Understanding. Today's presentation is going to be 7-8 days long. I will share
+the presentation and we will start and share the video. Let's start in the next
+2 minutes. So just give me like two minutes and then we'll start. Great. Right.
+Awesome. This is also here. Let's start in another two minutes. I'm just putting
+out the videos that we have to look at.
+
+[0:01:45]
+Screen path. Right. So that is that. And also this is awesome. Our screener,
+like before I start the session, so another suggestion, key up looks of screener
+pay, at least make sure that you're logged into Screener and that is something
+that you have to make sure. So just make sure that everyone is logged into
+Screener and I'll because I'll be sharing some of the custom watchlist that we
+have made. So that also I'll share today. So just a second. So just a second.
+All right. So custom watch lists are also ready. And now finally we can start
+the session.
+
+[0:02:33]
+All right, folks. Just a minute. Right, there's another homework activity which
+we have also created today. Now we can start. All right. Any presentation is
+there. So Let me know if the presentation becomes visible to you in another 50
+seconds. In another 50 seconds, just a second, alright. Is the presentation
+visible?
+
+[0:03:19]
+Awesome guys. Offline class in Delhi is happening on 22nd of October for the
+drive members. Great. So, I will just turn the comment section off and let's
+start. So just a minute. Yeah, I'll just do a formal introduction. You Awesome
+guys.
+
+[0:04:20]
+So let's start the session and today's session purpose is that all of us need to
+is you need to prepare yourself. What comes in preparation? In preparation, you
+have knowledge about accounting of a company, you have knowledge about
+industries, you have knowledge about different types of businesses that exist.
+So, all those things come in preparation. Why do those things come in
+preparation? Because suppose there is an auto industry today. So in the auto
+industry, he might or she might have read at least 10-15 businesses. So they get
+a complete understanding of it.
+
+[0:05:01]
+Even some of the entrepreneurs that we meet, they have like full idea about
+their competition, their full idea about the products that they're making and
+their full idea about the markets. So all of that is preparation. So that
+becomes very, very important. And second thing that is required is the ability
+to observe. So observation is a very important thing. So I'll give you a small
+case study. So if you think about it, so the dragonfly, so I think dragonfly has
+like a lot of lenses in its eyes. I mean almost 50 to 100 lenses. If you study
+wildlife and dragon fly is one of the best.
+
+[0:05:43]
+Like is one of the best predators. I mean, it catches its prey easily. So why is
+dragon fly able to do that? Simple reason is because dragon fly because of the
+number of lenses it has, it is able to pre-empt that. Similarly, if you look at
+the crocodile example, you will, a lot of times you will observe in NADGEO or
+Discovery channels and stuff, that the crocodile is basically lying extremely
+still in the lake and they're waiting for a deer to come to basically drink
+water and then they attack them.
+
+[0:06:25]
+A lot of times they fail, but you only have to be right once so that you're fed
+for the next 10 to 15 days. Similarly, Agrab Anaconda, scabby example, so
+basically they just need to feed themselves once in like 3 to 5 months. So you
+have to be right once. So that is the law of nature that we also learn from the
+idea of wildlife. Similarly, when we talk about this third class and the people
+who attend the first time and who are already in the crash course, what we do in
+the third class is that we learn how to find multibaggles using fundamental
+analysis.
+
+[0:06:59]
+And along with this, we also study what are the different resources or sources
+which are basically available to a retail investor. And also before I start the
+session, we'll start the session with one of the videos and those video go. I'm
+sad that they and video go. Take a while. All of you just pause for like 30
+seconds and drop your learnings in the comments. So I'll make you watch two
+videos. Just before I start, a standard disclaimer that nothing in this
+presentation is a buy or sell recommendation. Purely and purely meant for
+education purpose.
+
+[0:07:28]
+If you talk about any stock, then it's about education purpose. If you don't
+have buy or sell recommendation, then it's not a good idea. Because I won't be
+able to tell you the value of the stock again and again. So again, that is
+something that we are learning throughout this course. Valuation is also a part
+of this course. So what I will do is that first we will just start with small
+videos that we will watch and after watching these videos what else we will do
+is that first video we watched in the eight minute, right? So I'll just skip the
+question that has been asked to him.
+
+[0:08:01]
+So I'll just zoom. Like, I'll zoom. All right. I think you should be visible to
+everyone. This in the comments is the screen visible to all. The videos are
+visible to everyone. Awesome. So I'm playing this. And I'll just turn my camera
+off. I'm playing right. So simply just focus on what is being said over it and
+simply just try to learn from what they're saying right now. So I'll just start.
+So it's a question that was asked to him, how is he able to find different
+investment ideas? So let's look at the answer of Mr. One Gopit and Mr.
+
+[0:08:46]
+Charlie Mangan because both of them, I think a workshop has been meeting here.
+So I'll just turn my camera off and we'll listen to what he says. So first let's
+look at the question. Do you read any special newspapers or industry magazines
+or do you visit the headquarters or any subsidiaries of companies? And which
+sources of question of a company? And the second part, if you think that a
+company like the Washington Post, Gaco, or Gillette has a very competitive
+product edge of the product. Articles, we read annual reports, we read 10K.
+
+[0:09:33]
+So what I'm doing, I'm just skipping the question because the accent is very
+difficult to catch, but let's look at his answers. So he's been asked basically,
+how is he able to find investment ideas and stuff? Of the product and how
+important is the balance sheet and profit and loss account statement of the
+company. Thank you very much. Thank you. The answer to the first part is sort
+of, and maybe the second part is sort of all of the above. I mean, we read a lot
+and we read daily publications, we read weekly or monthly periodicals, we read
+annual reports, we read 10 Ks, we read 10 Qs.
+
+[0:10:15]
+And fortunately, the investment business is a business where knowledge
+accumulates. I mean, everything you learn when you're 20 or 30, you may tweak
+some as you go along. But it all kind of builds into a knowledge base that's
+useful forever. And we, at least I read, Charlie used to read, may still read a
+fair amount, but I read a lot of 10Ks, read a lot of annual reports. 40 or 50
+years ago, I did a lot of talking to management. I used to go out and take a
+trip every now and then and really drop in on maybe 15 or 20 companies.
+
+[0:11:01]
+I haven't done that for a long, long time. I find everything we do, pretty much,
+I find through public documents. When I made an offer for Clayton Homes, I'd
+never visited the business. I'd never met the people. I'd done it over the
+phone. I'd read Jim Clayton's book. I looked at the 10Ks. I knew every company
+in the industry. I look at competitors. And I try to understand the business and
+not have any preconceived notions. And there is adequate information out there
+to evaluate a great many businesses. We do not find it particularly helpful to
+talk to management.
+
+[0:11:44]
+Managements frequently want to come to Omaha and talk to me. And they usually
+have a variety of reasons that they say they want to talk to me. But what
+they're really hoping is we get interested in their stock. That never works.
+Managements are not the best reporting. Most case, the figures tell us more than
+a management does. So we do not spend any real amount of time talking to
+management. When we buy a business, we look at the record to determine what the
+management is like and then we want to size them up personally, as I said
+earlier, whether they will keep working.
+
+[0:12:27]
+But we don't give a hoot about anybody's projections. We don't even want to hear
+about them in terms of what they're going to do in the future. We've never found
+any value in anything like that. But just the general business knowledge, what
+we've seen work, what we've seen has not worked. There's a lot you absorb over
+time. Charlie? Yeah, the more basic knowledge you have, I think the less new
+knowledge you have to get. The game is a lot like that fellow that plays chess
+blindfolded.
+
+[0:13:10]
+He's got a memory of the board and everything that happened before, And that
+enables him to do the next move in a way he never could. If you just showed him
+the board mid game cold. And so they're in terms of what publications I don't
+know, Warren, I would hate to give up the Wall Street Journal. Oh, you'd also
+hate to give up the Buffalo News. But you could, well, you want to read lots of
+financial materials. And actually, the New York Times has a far better business
+section than they had 25 years ago.
+
+[0:13:56]
+But you want to read fortune. You want to read lots of annual reports. You
+really want to have a database in your mind so that you can tell what kind of a
+business you're looking at in general by looking at the figures. It's far over.
+We never look at any analyst reports. I mean, I don't think I've, you know, if I
+read one, it was because the funny papers weren't available, you know, it just
+doesn't, I mean, it, I don't understand why people do it. But there's a lot of
+data out there.
+
+[0:14:32]
+And the beauty of it is, it's what makes the investment game great, is you don't
+have to be right on everything. You don't have to be right on 20% of the
+companies in the world or 10% of the companies in the world or 5%. You only have
+to get one good idea every year or two. So it's, if that's something, you know,
+when I, when I, I used to be very interested in horse handicapping and the old
+story was it, and I hope Bob Dwyer is still here that, you know, you can beat a
+race, but you can't beat the races. And you can come up with a very profitable
+decision on a single company.
+
+[0:15:13]
+I would hate to be measured if somebody gave me all 500 stocks in the S&P, and I
+had to make some prediction about how they would behave relative to the market
+over the next couple of years. I don't know how I would do, but maybe I can find
+one in there where I think I'm nine in 10, 90% in being right. It's an enormous
+advantage in stocks. You only have to be right on a very, very few things in
+your lifetime as long as you never make any big mistakes. What's interesting is
+that at least 90% of the professional investment management operations don't
+think the way we do it all.
+
+[0:15:54]
+They just think if they hire enough people, they can be better at determining
+whether Pfizer or Merck is going to do better over the next 20 years and they
+can do that stock by stock all through the 500 and have wide diversification and
+at the end of 10 years they'll be way ahead of other people and of course They
+won't. Very few people have this idea of searching for just a few opportunities.
+Yeah, you wait for the fat pitch. Ted Williams wrote about that in a book called
+The Science of Hitting.
+
+[0:16:29]
+He said the most important thing in being a good hitter is to wait for the pitch
+in the sweet spot basically. I've always said that the way to get a reputation
+for being a good business man is to buy a good business. It's much easier than
+taking a lousy business and showing how wonderful you are at it because I
+haven't seen that done very often. Number two. All right.
+
+[0:16:56]
+So in the first video, just take like 20, 30 seconds, process your key learnings
+and then we'll start the video and I'll just open the chat section again just
+for your observations so first video just take 20-30 seconds out and process
+your learnings and what they were saying. If you don't understand it, wait for 5
+minutes. So maybe I will explain it once. So first video just take out 20
+seconds and process your learnings carefully. All right. Till then I'll open the
+second video.
+
+[0:17:47]
+Alright, so second video mate, I'm just playing one of the parts where it is
+very, very relevant to us versus the other ones. So I'll just start it over
+here. And so he was again asked a question. How do you think about different
+opportunities? So here was his answer. Just I'm just going to play it right now.
+You know, the game in our kind of life is being able to recognize a good idea
+when you rarely get it, and rarely is presented to you. And I think that's
+something you have to prepare for over a long period. What is the old saying,
+that opportunity comes to the prepared mind?
+
+[0:18:29]
+And I don't think you can teach people in two minutes how to have a prepared
+mind. But that's the game. Things we learned 40 years ago, though, will help and
+recognize the next thing I did. And on opportunity costs, going back to that,
+the current freshman economics text, which is sweeping the country, has right in
+practically the first page and it says all intelligent people should think
+primarily in terms of opportunity cost. And that's obviously correct, but it's
+very hard to teach business based on opportunity cost.
+
+[0:19:17]
+It's much easier to teach the capital assets pricing model, or you could just
+punch in numbers and outcome numbers. And therefore, people teach what is easy
+to teach instead of what is correct to teach. It reminds me of Einstein's famous
+saying he says everything should be made as simple as possible, but no more
+simple. Write that down. He asked an interesting question about franchises to
+mention. So now let's go back and let's look at the learnings that we had from
+this. So let's simply go back and let's look at some of the learnings that we
+had from this.
+
+[0:20:04]
+So I'll just open the comments and after opening the comments, I'll just ask all
+of you. Hey, what were your key learnings from the both videos? Opening the
+comments now. So all of you participate take your time 60 seconds sub-lelo or
+I'll say this mention your learnings because if more you participate, the better
+you will learn.
+
+[0:20:55]
+Awesome. A lot of answers are coming in. So Bharath has written a very good
+answer that you need you don't need to be correct 100% of the time. You just
+need one or two good ideas every year until you make a big mistake. Read lots of
+annual reports and don't focus on analyst reports. Don't get influenced who came
+to meet or who come to meet to invest in their businesses. Use information
+available in public domain. Great.
+
+[0:21:32]
+And some has also written a good answer read a lot magazine journals and reports
+numbers speak a lot no need to meet the promoters no need to like analysts
+supports the most of them information and target prices and models are to be
+ignored totally right read a lot Database will get created in your mind.
+Wonderful. Create your own summaries and reports that like does not help and can
+make you bias with target prices.
+
+[0:21:57]
+Talking to companies and reports, competitors, knowledge, tumulates, talking to
+management is not that helping because see if you go to any management,
+management will always be interested in sort of like painting good pictures
+about their company very few are very very honest basic knowledge you have less
+new knowledge you need like blind chess don't need to be 100% right. Think smart
+and simple. Right, great. Awesome. So let's look at the deeper meaning of what
+they are saying basically.
+
+[0:22:43]
+So basically what they are mentioning is that every year basically if you have
+one or two big ideas then more than enough. Second thing what they are saying is
+that they read a lot. I mean what happens in a period of time? So first I ask
+you a question. The one who played at their 25 or 30 age, will they be able to
+play at 45 or 50 or not? The one who played at 25 or 30 age. Yes or no? The
+answer is no because football is a sport where with age your game keeps
+declining. You have seen in football too, so the Christian Ronaldo and Lionel
+Messi played in the late 20s.
+
+[0:23:29]
+The footballers generally peak years are known between 26 to 29 or 26 to 30.
+That is a peak year of a footballer in terms of playing. But today Messi Ronaldo
+was still playing well, but now one has gone to the Saudi Arabian League, the
+other one has gone to the MLS League, and they still score a lot of goals, but
+the game between 23 to 29, maybe the game has declined from that level so that
+is the idea with different type of professions what do you think?
+
+[0:24:00]
+The investor who is investing at the age of 25 and he continuously keeps doing
+it by the age of 45 and if he is doing it well, then he should do it with
+discipline. Will he be better or worse off in the comments? Will he be better or
+worse off? The answer is that many times it will be better if you don't have
+biases in your mind. Because it's a simple thing. Investing is a profession. You
+will see in investing that the good investors in India, in the UH&I circles,
+will take examples.
+
+[0:24:44]
+If you take the example of Vijay Kedia, Mukul Mahavir Agarwal, If you take the
+example of Vijay Kedia and Mukul Mahavir Agarwal and if you take the example of
+other big investors like Ashish Kachalia and so on. So you will observe that,
+like it is visible on the trend line, so what we need to see is that their
+portfolios keep doing well over 5-5 years each. It's simply because all of those
+guys have seen multiple market cycles. All of them have seen multiple
+industries, right?
+
+[0:25:12]
+So a guy or a person with 20 to 25 years of experience in investing and if they
+have done this with discipline, I am pretty sure that as an investor, your
+improvement curve that is literally like the power of tiny gains, that if you
+become 1% better every day, right for the next 365 days, Then at the end of the
+day, for the throughout the year, you become 37 times better. So it's similar to
+what happens in the journey of an investor.
+
+[0:25:40]
+If you are sitting and working hard for 10 to 20 years and you are finding
+different businesses, you are finding different ideas, it's that sheer
+persistence will end up making you a better investor. And if you're doing it
+with some discipline, with some rules in place, at the end of the day, what you
+were like five years ago and what you compare to today will be drastically
+different. If you want to read this thing well, that is the idea that today's
+session, We will try to look at what are some of the patterns of fundamentally
+strong businesses and how to do like just fundamentals.
+
+[0:26:15]
+Those are some of the ratios and schemes that we will make. And also as Mr.
+Charlie Munger and one of it said, the opportunity comes to the prepared mind.
+So, opportunity coming to the prepared mind means the first thing we have to be
+prepared. First thing, our concepts like modes, competitive advantages, what are
+growth aspects, why does the business grow, all these things need to be clear.
+Second thing that we learn is that how to find those opportunities and how to
+observe them. So this is where we will learn today.
+
+[0:26:44]
+We will prepare ourselves for what opportunity And both things are going to
+learn from the session. So that is what we learned today. So also this is just a
+funny meme that we add key like story of a forced long term investor who is
+going to be in a bad business. So this is what ends up happening at the end of
+the day. So with this, let's start with the detailed dive or deep dive of the
+session. And first of all, I will ask you a very general question. I will ask
+you a very general question. You guys tell me the answer to this. Everyone of
+you should participate in this.
+
+[0:27:24]
+You should tell me in the comments. When does a business grow in a business?
+What are the reasons for growing a business? Once you think about it for 30-35
+seconds, then I will open the comments section. You have to answer all the
+questions with examples. Why does a business grow in a business? At the end of
+the day, a share or a stock is nothing but a piece of a business. So what we are
+analyzing at the end of the day is the business. If the business is doing well,
+the stock will do well. If the business is not doing well and the stock is doing
+well, eventually that balloon will collapse.
+
+[0:27:58]
+So you want both the things to do well, the business to do well and the stock to
+do well to make structural wealth in the markets. So, I'll just simply ask you a
+question, a simple basic question, nothing else. Why does a business grow and
+what are the reasons for the growth of a business? Growth means growth of a
+business. Simple question, I'll open the comments and simply just let me know
+what do you think, each and every one of you, why does the business grow? So
+Krishna has an answer, new products. Akshay has an answer demand in supply side
+domains. Venkat has an answer demand.
+
+[0:28:39]
+Sudhir Gandham has an answer demand operating margin management mindset. Anand
+Amitkarji has an answer tailwind. Uday Kumar has an answer demand of product.
+Avinash says demand. Sedo Kumar says value generation, sectoral growth, sales
+demand, earnings, increasing sales, new product introduction, Dr. Prasanna Suru
+says, unique idea someone is mentioning. New product launch, geographical
+expansion. If the market will grow, if the pro company has launched a new
+product, interesting, right?
+
+[0:29:11]
+Demand of a good product, interesting, diversifying the product portfolio,
+leveraging technology, interesting one, right? Debt deduction, interesting.
+Other answers like or answers. So Jay, when you provide solution to a problem,
+nice one. Government regulation, that is also a fantastic one. Government
+regulation, that's a great answer to write. Better capital allocation,
+interesting. Unique product, unique business, serving the demands of customers
+and especially scaling up. So, Shamsher has written a good answer.
+
+[0:29:45]
+Other some of the answers, cost cutting, growth sequels, company with modes,
+great changing macros, cheaper products, operating leverage playing out, new
+markets being entered, finding white spaces as we learned in the previous class,
+when a product makes a human lazy generally works right? Right, so I think we
+have received a lot of answers. So I'll just turn the comment section off up
+because most of the answers have been mentioned over it. Right, so basically a
+business goes due to n number of reasons. Someone wrote that demand should be in
+the market. That is for sure.
+
+[0:30:25]
+But that is also for sure that just demand itself doesn't mean that the company
+will grow because we have seen that in 1905 or 1911 when Henry Ford launched
+Ford and like horses were replaced by vehicles so what ended up happening they
+were more than 150 to 200 companies of like auto that were launched and barely a
+two or three of them ended up surviving. The demand for cars has gone up a lot
+in the last one century, but still there were very few companies with survived
+since then.
+
+[0:31:00]
+So That is the idea that there should be something special in the company that
+we have learnt in the class of Modes There should be something different in the
+company, there should be a better ROC company, there should be a switching cost,
+there should be a barrier to entry But generally if the supply side dominance of
+the market leadership is established in a company, What are the other reasons
+for the growth of a company? So here I will discuss some examples with you and
+some of these examples will be very interesting to look at. First, let's look at
+the business examples of Amazon.
+
+[0:31:28]
+So first thing we all know that if we look at Amazon, then the basic bread and
+butter business is online stores. If you look at the sales of online stores, it
+is $76.86 billion, almost $220 billion by 2022. But still, Amazon has been
+growing at a very fast pace. Then Amazon has launched another product, that is
+Amazon Web Services, cloud infrastructure. And over here, Amazon is another
+market leader.
+
+[0:32:04]
+So this business, you'll be shocked to know it has grown from 10 billion dollars
+to 80 billion dollars in last seven years right then they also launched the
+business of ads so ads we launch the Amazon pride we launch the physical stores
+we launch the and other services as well right So this is an example of
+launching new products to grow the business. The company has launched new
+products and services. And this Amazon web service is the highest margin
+business that they do today. So this is the highest margin business to start to
+as an experiment to other, but it's scaled up a lot. Right.
+
+[0:32:40]
+Similar example today. Right. So that is something that is very surprising to
+know the iPhone or Apple business model. But then. So only 50% of the revenues
+come from iPhone. Whereas remaining 50% of the revenues are coming from
+services, from wearables, home accessories, from iPad, and from Mac as well. So
+this is another example where you've diversified your products, right? So
+diversify your products and growth. Go across the world launch. All right.
+
+[0:33:11]
+So in India, you'll be surprised to know that iPhone like Apple has been gaining
+a lot of market share and premium mobile phones it has already become one of the
+number one players right now. Overall market mix maybe it is gaining a lot of
+market share.
+
+[0:33:25]
+So this is an idea of geographically expanding because the company was based out
+of US then they went to China and China is one of the largest consumer markets I
+think China where we watch early size iPhone ban ban now and now India is like
+perhaps like an emerging consumer market with a 1.4 billion people in India
+right so as in as in when everyone starts the coming richer so what will happen
+Our needs and our demands will go up. Roti kapda makan se zada sochne lagenge.
+So this is an example of geographical expansion. Or example aku detam. Kis kisne
+yeh drink dekiye?
+
+[0:33:59]
+Kis kisne yeh drink dekiye which drink did you see in the store? So we call this
+monster energy. If you go to 20.7, if you go to some other grocery store or
+stuff, you will find this drink over there. So, we see the example of white
+spaces. It seems that there are many things that are going to happen in the
+Indian context. So, what are white spaces? We live in a capitalist society where
+free market competition is the law of nature. There is a word in Sanskrit, I
+think my pronunciation is wrong, it is called Mutsun Yayaya.
+
+[0:34:41]
+Mutsun Yayaya means that it is the law of the ocean and the law of the jungle,
+that the bigger fish will eat the smaller fish. But Kabi Kabi Jungle Kender Aisi
+Bi Jaga Hotee Jaap Hai Kui Bigger Animal Raita Hai Nei Haan. Ocean Mai Aisi Bi
+Jaga Hotee Jaap Hai Bigger Fish Raiti Nei. So that is the place where the
+smaller fish is flourish like anything. So that is what I typically call a niche
+business. What is a niche business? Or what is a niche strategy? Where your
+dedicated strategy of your business is to find a white space. What is a white
+space?
+
+[0:35:13]
+White space is where suppose this is a wonderful case study to listen to. So,
+basically, I'm for a chair. Sorry screening businesses, you can only do it. I
+need to pay the case studies. I'm going to offer you a lot of cases. So what is
+the idea of white spaces and Let's look at the case study of monster beverages
+and all these drinks. This is one of my favorite case studies to tell. So what
+happened basically way back in I think 1990s or 2000s right? So There was a
+random taste test which was done. So one person was testing a new drink.
+
+[0:35:50]
+And when random taste testing was going on, the new drink, right? So I think,
+when random taste testing was going on, the new drink. So what people were
+saying, this is something that tastes worse than piss right so the founder of
+that company he has repeatedly tasted it from people started saying that the
+better taste can be the human of urine right because this this has such a bad
+taste right and so the person was also shocked right but the but the drink
+actually when he launched the other drink started doing extremely well and where
+were the users?
+
+[0:36:26]
+So it's a very interesting case study so nightclubs started using it as a
+mixture with vodka and stuff right. And anyone of you guess. So, in Austria and
+Germany, originally it started to be used in nightclubs as a mixture with some
+Jagger bombs and stuff and that is how the journey started.
+
+[0:36:59]
+Then you might have seen that Red Bull Waliya, who associate with extreme,
+parachute, some are running from 80, 000 feet, some are riding a bike, sometimes
+someone is riding a bike and someone is doing So, all of those associations are
+done to be with extreme and what extreme means that the drink is heavily
+caffeinated. Caffeinated drink means that whenever you drink it, you will get a
+high kick of caffeine.
+
+[0:37:30]
+And when caffeine gets very high, you will have a boost of energy for some
+period of time that is what red bull strategy was and red bull's age population
+is between 26 to 40 to 45 kHz Then we saw that this was a white space strategy
+because if they had launched Pepsi or Coca-Cola then at the end that product
+would have failed a lot. Now I ask you all, we have launched Campo-Cola in India
+How many people are ordering Campo-Cola at home? Tell me in the comments or if
+you have Coke Pepsi then how many people are ordering Campo-Cola today?
+
+[0:38:15]
+So again, that is, like, it's female, I think not even thought of trying it
+right. So that is a simple case study. The Kola industry is a graveyard
+industry. If you see any RC Kola or any 1% average Kola launch, you will see all
+of it flopped because it's a graveyard industry. Your taste tree has been called
+FFC, Thumbs Up or Coco Cola. So this is why this was a wide space strategy to
+target very highly caffeinated drinks. Then what happened? As the case of Red
+Bull was over, after Red Bull, the Monster Beverage saw, is Red Bull extreme? We
+will identify ourselves with extreme extreme, right?
+
+[0:39:01]
+We will identify ourselves that the college where the child is in the U.S. In
+fraternity he needs something extreme, he needs all the niters, so for that we
+will use monster beverage, the American football that rugby plays, So there is a
+lot of advertisement in rugby and there is a lot of advertisement in monster
+trucks and energy drinking. So that is an association with even more extreme
+sports, right? So that extreme association is with people who can be with drinks
+in India.
+
+[0:39:31]
+It is with people in the west, if they want to do like an all nighter, if they
+want to study for an exam for the night, right? So that is where Monster Energy
+comes in and that is where the age category they are targeting is between 80 to
+30 years. So target 18 to 30 years old people. Then he will give the monster
+energy to the third people. The third people will see that people go to the
+office. Now go to the office for lunch. Suppose if you are going to work and
+when you are going to lunch, then how much time do you get for lunch in the
+comments? How much time do you get for lunch?
+
+[0:40:07]
+If they are from SBI, they can get for 1.5 hours. Maximum anywhere between 30-45
+minutes. So 60 minutes is the leisure time. So 30-45 minutes are required if you
+open these drinks. So it takes a lot of time to like to take and consume them.
+So this is where of the drinks name is for our energy right so I think for your
+for our five hour energy which is like an energy shot. So I'll just showcase
+this to you. How do you see the product? If you all have an idea of what product
+we're talking about, just over here. 5R energy shot, right?
+
+[0:40:47]
+So all of this actually business case studies will tie back to our investing and
+screening process. 5 R energy short. So just a second. 5 R energy short. Yeah.
+So basically one of the Indian entrepreneurs in US who was living there, so he
+launched this 5R energy shot. Again, it's a caffeinated product and it's like a
+shot. Meaning you can finish 2-3 sips because if someone is having lunch, then
+Red Bull Red Bull will take a lot of time. So why not just condense caffeine
+into one simple 5 hour energy shot. So this is again the identification of white
+space within a white space.
+
+[0:41:29]
+So Monster and Red Bull tried to launch 5 hour energy short types, but they
+failed with the product because the main focus was over there. You will be
+surprised to know that in the last 23-25 years, the best performing stock in US
+is monster beverages. Simply because of identification of a wide space and
+simply because of a new category or a new product creation. So this is how
+businesses grow, this is how the idea comes. And then slowly, slowly,
+everywhere, the entire pan-USC distribution is done.
+
+[0:41:58]
+And now what they are doing, geographical expansion, going out from US to
+countries like India to countries like China to countries like Vietnam to
+countries like Philippines to countries like Indonesia. Right so US when growth
+is over, then the whole world will go. Pepsi and Coca Cola are also the
+invention of the US. Which is in the whole world. Whether it's McDonald's or
+KFC's example, all of these are widespread throughout the world. So that is
+geographical expansion when business grows. So this is the entire idea of wide
+space.
+
+[0:42:25]
+So was is a bulb one moment for you, like just with a case study of energy
+drink. Energy drink in the three categories is created. So This is how
+businesses work and this is how, If you also think about your business, You will
+identify some white space somewhere. There are many types of white space. I
+think some youngsters launched a product from below, Hangover shots. Great. I
+think I think I think I think So this is one of the other reasons why businesses
+grow.
+
+[0:43:11]
+Another reason why business grows. So this is one of the case studies which I
+saw entirely live throughout in front of my eyes is that how many of you have
+read about this business Borosil Renewals? So again this is a business which is
+not into solar panels but it is a business which is into solar glass. So solar
+panel cost can't attend to 15% cost you solar glass. So business solar glass
+can't attend. Right. Ab is business. The guy.
+
+[0:43:57]
+Indian government name Chinese imports pay anti-dumping duty. The guy. And then
+those are these many dumping duty. Those time there was a QIP which was being
+done and there was a fundraising which happened. There was a fundraising from
+Convergent Finance, LLP, and there was a structure in which QIP was issued to
+them. Fundraising helped them to expand their capacity from 450 tons to 950
+tons. Now, why am I telling you this case study? Because you need to know that
+some stocks become structural multibaggles. They keep on being structurally
+re-rated.
+
+[0:44:37]
+If the cost of production in China is lower than India, So again, solar panel
+manufacturers, the module manufacturers, they'll always have an option that they
+can just import it to India right? That they can always import it to India but
+you won't import it when you have anti-dumping duty right? So for 2 years do you
+think this business would have earned observed profits? For 2-2.5 years it would
+have made a lot of money now another question Now what do you think would have
+happened when the anti-dumping Right.
+
+[0:45:33]
+So import started and the margin spot disrupted right so exactly right now
+behind me a model like panel manufacturer plant in the in a Gujarat I asked him
+why don't you buy borosilka Why are you asking for this from China?
+
+[0:45:46]
+We will buy the one that is cheap We don't have any brand loyalty We want
+cheaper products Because at the end of the day, we want cheaper raw material So
+this is a similar example Like what happened in this industry So a lot of times
+you will find businesses which will become which will be interesting because
+it's a limited time opportunity of two to three years and within that period
+these talks do extremely well but why am I focusing on this because today we are
+talking about fundamentals or businesses to businesses and fundamentals can
+always remember is that when there's a limited time opportunity or when there's
+a vacuum of opportunity, right?
+
+[0:46:25]
+So once that vacuum goes away, then the reversion to mean happens. I mean, we go
+back to ablique. But we need to identify for 2-3 years. So how can we identify
+by searching words like anti-tumping duty? So I will tell you another case
+study. I think the people who are investing from 2010, This was one of the
+favorite stocks of institutions. If you have a case study, right? And this is
+not so long back. Just over there. So I mentioned that there's a business by the
+number of law, right?
+
+[0:47:00]
+So if you look at the business case study, so between this period, between 2012
+to 2016, can you see how well this basically stock did? 10 rupees stock almost
+came to where? Almost 316 rupees. Almost a 30 bagger in like what five year four
+or five year time frame right who are investing in the market from that time if
+today is in the comments what do you think would have happened at this point of
+time this is an idea of the industry right imports were banned idea. Right
+imports were banned.
+
+[0:47:45]
+Commodity dumping was reduced. Yeah, so this is one sub-moder time story
+actually, right? So why are these historical case studies important because you
+can only look at the future patterns by studying the past. So this is what even
+Steve Jobs used to say, you can never predict the future, but you recognize the
+past patterns.
+
+[0:48:15]
+It's a simple reason here, again, just look at this wonderful case study is that
+over here the company was setting up new capacities just look at the price
+volume action this is why it becomes interesting we will use technicals for
+filtration we will start next sunday So that is where it will become even more
+interesting combining the two to create powerful mental models, right? So over
+here you just study in 2010 Saudi Arabia, UAE, South Korea and China Bay in all
+four countries anti-dumping duty was applied or you can't import from here. So,
+Opalware plates are a type of plates.
+
+[0:48:53]
+So, fine and like it's a type of a glass which looks very very premium. Like
+when basically you eat in it and stuff and this company was one of the sole
+manufacturers of Opelware like Crocry and at that time the company had
+capacities which were coming like the huge expansion I am okay Kpex say big road
+that the other side time they would I took Kpex be a both interesting mental
+model Jesse huge capacities I company name that time pay basically anti-dumping
+duty lucky So KPEX is also a very interesting mental model.
+
+[0:49:24]
+As soon as huge capacity came, the company basically had anti-dumping duty and
+huge capacity came. The stock literally took off. And why was it so? Because the
+earnings grew rapidly. If you look here, the margins of the company are still
+good, but earnings went from 13 crores to almost 59 crores within this period of
+three to four years. Right. This was a period where the company did really well.
+Similarly, in today's context, yes, business has been doing well. But now,
+Borosil has also entered the industry with a brand by the name of Lara.
+
+[0:50:00]
+And that brand is actually growing even faster than Laughalai at the moment
+right. So that is something that was not a competition before but now it is a
+competition. And earnings growth, I think they have one more Kpex, we will see
+that. But now in 2010 to 2016, They were the only guys who were there. You know
+what similar case studies like very recent case studies. So if you are stainless
+steel, seamless tubes, this is another similar case study. So Indian government
+has put a ban on Chinese imports for this. And there are two major market
+manufacturers in this product.
+
+[0:50:36]
+I am telling you about regulation led growth. Regulation is sometimes so
+important. One is your Rathnami and the other is a small one called Venus Pipes.
+Right. So in this talk has also literally took off and over here capacity is
+expanding by two and a half X thing over here I think promoter also bought some
+recently 8-9 crore but yeah this is again another case study, if you see the
+past case study or future case study then capacity expansion is 20 crore, if the
+assets are 60 crore. If you don't have the courage to look at the balance sheet,
+then we will study that in the next two classes.
+
+[0:51:11]
+But just as an example of how capacity expansion coupled with favorable
+regulation can create a huge kicker for growth of companies. Right. So this is
+also one of the key studies. So yeah, I'm secret. You talk to him fundamentally.
+How do businesses make a lot of the same? Those are the things I'm a chisel. But
+by the way, this thing worked. And then when all of a sudden the basically duty
+was removed the margins cratered they acquired a company which wasn't doing so
+well and also this is why the margins also like didn't do so well and the stock
+also corrected a lot.
+
+[0:51:48]
+Now, what is the source of growth? Why do business grow? Why does growth come in
+businesses? Let me show you another example. It's similar to AGI Greenback. So
+this used to be a Hindiware class. It was called Hindiware class. We have
+discussed this business in the SOIC tribe before. And this is one of the
+businesses where at this time to be in the glass right and in the glass. This
+business come in the tribe. And this is another businesses where they are
+acquiring one of the companies just over here.
+
+[0:52:21]
+So as you know that our acquisition of hng is under consideration and the matter
+is in the court.
+
+[0:52:26]
+So probably once that is settled, there will be huge jump in the capacity and
+secondly, even after that, whether we want to expand so we will have a lot of
+land bank with us so basically India's top 3 largest player in last manufacture
+was HNG so that company has gone bankrupt that is under NCLT and now that
+company is being sold and AGI Greenback is acquiring that company so this is
+also one of the ways how businesses grow by doing cheaper acquisition if you do
+cheaper acquisition, if you do some cheap acquisition in your core line of
+business that is also how you end up growing that is also one of the fundamental
+ways to grow capital the company is not performing so well and you think as a
+management my business is strong enough I can go and complete the acquisition
+similar example of acquisition net growth right so because mental models are
+very important for you to make them.
+
+[0:53:33]
+Why do you grow in a business? Because once you learn these things, then I think
+screening will become a walk in the park. So just over here. So another
+business, steel strips, right? So just as an example, just if you look at this,
+they are acquiring a company from NCLT. In this company they will be doing 150
+crore Kpex and transaction will be almost 300 crore after doing 150 crore Kpex
+but to build similar capacity it will take 800 to 1000 crores for them right?
+
+[0:54:34]
+So if they want similar capacity then they will need 800 to 1000 crores to make
+such capacity so this is also another example of how you can acquire and end up
+growing similar example in acquisition led growth If you look at the example of
+radio game technologies, similar case study where they are acquiring, operating
+leverage is kicking in and again an example of operating leverage led and
+acquisition led growth. So these are our case studies when growth comes into
+businesses. So this is also a few case studies. Just ignore the businesses. Now
+focus on one thing. Why does a business grow?
+
+[0:55:13]
+That is the most important aspect. How do we find them? We will learn all these
+things in today's session. So let's move ahead. So at the end of the day, all of
+the reasons why our business growths are mentioned over here, and I will mention
+one more thing, favorable regulation. Favorable regulation. Favorable regulation
+is a big thing for growth. If you want to set up an infant industry setup in
+India. Like 2 wheeler EV setup in India. So 2 wheeler EV has fame 3 subsidy. But
+now fame 3 subsidy is facing a problem. If you see that fame 3 subsidy is facing
+a problem.
+
+[0:55:50]
+So will the 2 wheeler EVs be cheaper and more expensive for the customers? Let
+us now close the subsidy in the comments and if it becomes more expensive, will
+there be EV adoption of 2 wheeler EV adoption of rate of pace will slow down
+adoption of rate of pace will slow down regulation is favorable or regulation is
+unfavorable I will showing you a case study all right so we have read this
+business because supply side dominance all things are in business but government
+is not viewing favorably on this business.
+
+[0:56:35]
+It's so again. How many thousand crore on delta cop tax demand? Almost 16, 000
+crores. I will ask you a question.
+
+[0:57:46]
+It will take a lot of time and it will take a lot of time and it will take a lot
+of stability in regulations right? So investors start to doubt such business in
+such scenarios right? So I will show you here, so again this is a case study in
+regulations so you will see in the long term if there is such a wealth creation
+or business in long term regulations. After seeing it, there is a wealth
+creation in the business. What, if you suppose, again, a very marginal level of
+wealth creation. What? I don't know what will happen with the stock price. I
+think at 2010, it was 134.
+
+[0:58:32]
+Now the stock price is 180 something. Again inflation level. Here we will here
+in the middle. If we will give a profit to peak, it is almost double triple. But
+again, these are businesses where there will always be some other issue. So
+again, that becomes a problem. It's like too much fluctuating. It's like a
+cyclical stock in a monopoly business. Right? That's the problem of adverse
+regulation. Right? Right, so here we talk about a big business.
+
+[0:59:17]
+Nowadays, no one on the crystal website opens for some reason. I don't know what
+has happened. Right, so here we see the foreign energies.
+
+[0:59:25]
+Right, so when favorable regulation comes, the US has put a ban on the solar
+panel imports from China right and the favorable regulation agar aapka saara
+regulatory approval are agar what ends up happening is that in companies like
+again wadi ka example a day to just look at this the solar module order book of
+the company has improved significantly as reflected by an order book of 25, 000
+crores versus an order book of 9700 crores and this 25, 000 crores has actually
+gone to 40, 000 crores Right.
+
+[1:00:01]
+Most of the current export orders are from South, are from United States of
+America, as there are a lot of barriers for Chinese imports in USA. Right. So
+domestic shares sales has dipped to 35% and worry remains strongly placed on
+account of diversification of sales. So again, one of the case studies where
+there's a vacuum in the industry where Chinese exports have been, imports have
+been banned by US. So seemingly in a commoditized industry, the company starts
+doing higher margins.
+
+[1:00:33]
+The company starts supporting higher growth and profit after tax company, which
+is 81 crores, actually in 2023, 500 crores have gone into FY23. So again, these
+are creation of vacuums. This is how vacuums are created live in front of us.
+This is again one of the case studies. It can be commodity industry, sometimes
+topcon technology, sometimes monopark technology, then again after topcon,
+different technology comes into solar panels. But this is where if there is a
+business which benefits from such vacuum so that time growth is very strong
+businesses key. That bit is for sure.
+
+[1:01:11]
+I think I think crystal can't do credit rating credit rating. So basically the
+order gone somewhere close to 35 to 40, 000 crores at the moment. So this is
+another case study of favorable regulations driving the growth. Then what are
+the studies again? This is not the listed ones, these are unlisted ones. Then
+the corporate action is a different level case study to look at. Corporate
+actions can grow in companies. Corporate actions are demurgements. Good
+performing business gets separated out of bad performing ones. I will show you a
+very simple case study.
+
+[1:01:56]
+When D-merger is there, there is a separation. In separation, the bad business
+is removed from the good business. Here we see an example of NID learning
+systems. So again, this is a recent D-Mozard, which I think just listed where
+it's been a while, so here the SNS business, skills and sharing business that
+was separated out of the corporate learning group business where more money is
+made. Similarly, if you give the example of demurge, then again, like, so recent
+demurger is called red tape.
+
+[1:02:30]
+So I think post demurger, I think the share price has already doubled as the
+stock price of Mirza is 43. So combined value of demurged entities is 490 rupees
+and when the demurger started, it was closed on the market for 240-230 rupees.
+So almost doubled there because the consumer business was separated out of the
+B2B tanner A business. So these are power of demurge, like when we take the
+pharmaceutical example, we made a video on this at that time, so it was demurged
+here.
+
+[1:03:05]
+And at that time, if you look at the PE ratio, as the demurge was, so I think at
+this time on the screen, I think it's not, I think at that time what was visible
+was that you were on the business of 14th and what was interesting in the
+business except for the PE of 13-14th business. At this point. So I think the
+market cap was somewhere close to 3000 to 4000 crores and profit after tax was
+close to 362 crores. So 10x or 12x peak and demurge with some other life
+sciences which is a loss making discovery business.
+
+[1:03:46]
+So again there is a saying when the good, the bad and the ugly trade together,
+the valuations given that are of the ugly. But what happens if you separate out
+the ugly thing? So you get the valuations of good and the great things, right?
+So that is what happens at D-mergers. So corporate action gets a misco. So
+corporate action is also very common. D-mergers are very good in the business
+because of them. That is also a strong mental model to have. So, one of the
+other reasons is the industry cycle turn over.
+
+[1:04:35]
+So industry cycle turn over means that the industry all of a sudden started
+doing well together. So we have learned this in technical skills too. But 60% of
+your returns that you make depend literally upon how the sector is doing well.
+Right? If you look at the electronic manufacturing services sector today, just
+as a case study and we will see its components later, is the EMS space doing
+well? Yes or no in the Yes or no in the comics? Another question. Today is the
+steel tube sector doing well.
+
+[1:05:35]
+Then, then also you can look at this Why are they doing well? Simple answer in
+the comments. Simple answer in the comments. Why are all these stories going
+well? Elikon did a great job. We saw that Shanti Geh also has done really well.
+Simply because of what? There's a demand. There's an industry tailwind. There's
+a tailwind in the businesses. So listen to these words very carefully.
+
+[1:06:11]
+So a broken down horse will do well if he sticks with the tailwinds Whereas The
+best of the horses won't be able to do well if they are standing in front of
+headwinds or if they are trying to run against the headwinds. This is a small
+example. If you go from Delhi to Dubai, then your flight time is something.
+
+[1:06:56]
+If you come from Dubai, then your flight time is something. It's purely because
+of tailwinds and headwinds. So again tailwinds and headwinds, I give you a very
+simple case study. And my purpose is to put concepts in your mind stock names
+are commodities thinking is this visuality thinking you will use it somewhere
+and put it somewhere so I won't be happier as a teacher because that's the end
+goal of S.Y.C course. So similar example, let's see the example of SRF. So
+literally it's one of the best chemical companies in India, perhaps one of the
+better ones. Simply because. It's a company.
+
+[1:07:34]
+I'm chemical business. They last six, seven years may. Yeah, but carbon credits.
+You need to accept it. If it has gone from 190 crores to 2300 crores. Right? And
+again, it has done phenomenally well. But last two, three years, my wife is
+consolidating when it is best of the horses right Well, I'm literally best of
+the horses. Why is it consolidating? Almost three years. Why do you think so?
+There are multiple reasons.
+
+[1:08:20]
+Headwinds is the primary one. The packaging business margins went down, then
+chemical gas, China is dumping and refrigerant gases are in it. And then
+technical textile over profits are also gone. So best of the horses won't be
+able to run in an industry where headwinds are there. And there are multiple
+ways to identify when tailwinds start. But the idea is to study these companies,
+have some like in my case, irrespective of this business, I try to take token
+positions in some of the best companies in the sector which is going to advance
+because I know that sometimes it will come in time.
+
+[1:08:57]
+Right. That is the idea that is what looking into it because long term
+performance has been terrific. This is a simple case study. So, the best of the
+horses in headwinds, they suffer and broken down mags, like broken down horses
+do extremely well in industries where there are tailwinds. So, broken down
+horses, but actually it was a horse which was even like wasn't even there. So
+this is a company which went almost bankrupt. Actually it has been bankrupted.
+Then what happened? Lenders agreed to do a deal and what was this company doing?
+Let me explain you the company first.
+
+[1:09:37]
+What was this company doing? You are worried in this company. I will teach you
+the parent sheet in a few weeks. The crash course is just to learn the basics of
+thinking. The fixed asset of 65 crore was 65 crore. That means 65 crore company
+plus property plant and equipment. The big company made 566 crores in 2 years.
+To make this big KPEX, the company took a lot of loans. From 42 crores, the
+company took 610 crores. When you take such a heavy loan and your KPEX was not
+commercialized, then what is the company's losses? And losses are also in
+bankruptcy. Then you have to deal with lenders.
+
+[1:10:18]
+Here they have dealt with the debt of haircut. And today debt is of 182 crores.
+And there are tailwinds in the industry. The whole world is saying we will do
+Kpex. There will be Kpex in wind energy, Kpex in oil and gas, Kpex in mining.
+There will be Kpex in all these things. When it comes to all these things, at
+the end what happened? The company's deleveraging was almost done. And the stock
+literally took off like the industrial tailwinds came. I think it was Rs.90 and
+now it's Rs.240. Similar case study, I think I would have shown this case study
+so much.
+
+[1:10:51]
+I am showing it to you, it looks interesting. But how many of you have done this
+case study multiple times in the last two years? So, this is a case study of
+Usha Martin right and again this was relatively an undiscovered business It was
+lying at a market cap of 2500 to 2700 crores. You are almost 10, 000 crore
+market cap. Same here also. You will see it has done phenomenally well like
+Bharatwiles because same tailwinds have come here as well.
+
+[1:11:36]
+And simple what happened, you have seen interest cost. The interest of 564
+crores means how much the salary of the year is paid. If you understand in
+Hindi, how much the interest is paid.
+
+[1:11:47]
+Interest is something that you pay on the debt right here how much you are
+paying on your debt so debt if you look at it the debt has gone interest cost
+has gone from five sixty four crores literally fifty seven to forty two crores
+reason being because this company has put a lot of steel and steel is the cycle
+of the plant is bad companies are wire ropes make the company has sent the steel
+plant to Tata long steel products and their debt is completely gone due to the
+debt, the finance cost of the company is reduced and the profit of the company
+is very high it's very simple, it's a very common sense thing that I am teaching
+you it's very common sense thing that we are learning here in fundamentals it's
+a common sense that if the loan is done, then what will happen?
+
+[1:12:28]
+The interest will be done first if your interest expenses are falling, like what
+happens at the end of the day if your EMI is falling right so every month you
+will be able to have more salary or basically for your own self or your savings
+right so that is what happened over here so profitability here was other income,
+so profitability of the company was almost 152 crores, it was 370 crores in the
+last 2-3 years simply because of this fall in interest cost, loss making
+business turned around.
+
+[1:12:57]
+So this turnaround is mostly when the economy of India is also a good cycle, and
+the good cycle of the economy, today in India, after about 10 years, such a
+cycle has come. So many people say that the market is not expensive, I also want
+the market to be consolidated. But the way the Indian corporate profitability
+has been covered, there could be a probability that we are not just looking at a
+two-three-month bull market, there could be a probability that we are looking at
+next three to five years of a good run in the markets, right?
+
+[1:13:28]
+Because in the whole India level, I am going to digress a little bit from you,
+then I will come back to the topic. If the entire country's corporate's deal
+averaging is done, then the interest cost of the entire country's corporate is
+not going to be reduced in the comments. De-leveraging means paying off the
+debt. Negative for banks. Banks are giving working capital loans. They are
+starting to give retail loans.
+
+[1:14:13]
+Who is buying iPhone today? Who is giving loan? Just in the comments, who is
+taking iPhone? Who is giving loan? Bajaj ji is giving or banks are giving banks
+anyways find opportunities to grow but today the corporate India has
+deleveraged. If we look at Indian GDP today, I will teach you to look for
+stocks. I am telling you in the last one hour that I will show you the last one
+hour screens. Because if I have a saying in your mind that Abraham Lincoln said
+that if he wants to cut a tree, so first like almost 90-95% of the time in
+sharpening his axe.
+
+[1:14:55]
+If you are unable to understand these concepts, then I will give you screens.
+
+[1:14:59]
+First, understand the concepts, then come to the screens, then you will be so
+adaptable that you will put the things in your journey, means that is the beauty
+of this class, you will take these learnings with you for the next 5-10 years,
+not for next 5-10 days, means we are intraday trading and we are thinking about
+long term investing so first give me 2 to 1 hour first like just like the
+concept of mind with a hammer and a nail that is what we are trying to do in the
+first 2 to 2 and a half hours right so is it understandable Just drop a hell yes
+if the flow is good of the session today.
+
+[1:16:03]
+Awesome folks. So yeah, so that is how we'll take the flow today. So that is a
+simple idea again, deleveraging also leads to growth. We saw the corporate
+actions, we saw that the growth of corporate actions. Then when is growth? It is
+due to management change. Sometimes we see that the old management is so bad
+that new management changes to small lower hanging foods. So how do you see the
+reforms?
+
+[1:16:33]
+Management change also we will learn I will give you a small case study the
+business is really small again a standard disclaimer I am also studying business
+I don't recommend you to do anything but it is case study so business by the
+name of Kilburn Engineering. So, which family is this business? Khaitan
+families. So, Khaitans are the promoters. So, who are the Khaitans? Those who
+have lost Ever-ready, those who have lost Macleod Russell, those who have lost
+Kilburn Chemicals.
+
+[1:17:03]
+So, almost all the businesses in the families have basically been sunk but you
+have a interesting she's a make a nickname we key again there's a new promoter
+entity which has come in and I have a motor connect is first view trading
+private limited so if you are going to read con calls, then who is First-view
+trading is private limited So these guys have basically come in and taken a
+majority stake in the business So the rest of the Williamson, Magger and the
+rest of the Urge while promoters are getting their shareholding and I think
+probably they have sold more and these people are getting their shareholding.
+
+[1:17:57]
+This is a sign of management change. And management changes, see what happened.
+First thing management changes, if you see then you can see that the debt is
+being collected here. First thing you can see that the debt is being collected
+here there is a right issue in this. You can see that the debt is being
+collected here yes or no. Great. You can see the margin bird. Where did the
+margin go? Tell me. Now we look at the third thing, the return on capital
+employed.
+
+[1:18:46]
+When we did the mode class, what we learned? If you and I invest 100 rupees in
+business and we turn on the operating profit then operating profit upon capital
+employed gives me my ROC. So what do you think if the margins of the business
+are increasing, then why would ROC come? Where is ROC going? So, ROC has gone
+from 117% to 29% and company has come in and done its first ever conquer.
+
+[1:19:37]
+So again industry cycle is Kpex, pharma, specialty chemicals, carbon black, the
+export has grown at 19% for last 4 years and the largest capital good supplier
+to carbon black right. So again these are case studies that you find. Even today
+there are 17 B.E. It's not as if they are trapped in pricing but we always see
+valuation for pricing at that time. We devise ourselves.
+
+[1:20:04]
+So again these are ideas like this is how you end up looking at and finding
+businesses management change they are dealing with it they are not dealing with
+it they are dealing with it they will see you from their order book then they
+will see that there is de-labraging then they will see that there is corporate
+action management is not there, then they will see that there is margin
+expansion so these are ideas like operating leverage is also in operating
+leverage operating leverage means when your expenses stop after a stage and your
+sales increase, your expenses don't increase by speed.
+
+[1:20:38]
+I'll give you an example of operating leverage but these are case studies. This
+is where you have to focus on This is what the real fundamental investing is.
+Fundamental investing isn't that you become an accountant. That is the wrong way
+to do fundamental investing. Fundamental investing is that you become a business
+analyst and you study the business inside out and then you identify the key
+variables. Believe me, after focusing a lot on these variables at the end
+whenever you read the whole business, you will have 8-9 things in your mind.
+These are the 8-9 things that we have to focus on.
+
+[1:21:14]
+These are the 8-9 things that we have to take care of. There are 4-5 variables
+in every business. There are no more variables than that. And at the end it
+becomes a walk in the park if you do it for 3-4 years. I know that some people
+are not so horizon in the comments. Some people have 3-4 months of perspective.
+But if you truly want to stay in the game for 10, 20, 30 years, you will have to
+study the fundamentals of this business. And that is where all these mental
+models will be. We have studied all the mental models. I will read you more in
+two mental models.
+
+[1:21:50]
+Then we will go ahead and look at industries. And we will learn how to make
+screens. I will teach you one more mental model. How to do business. How in
+different businesses whenever a new product gets introduced or if there is a
+product mix cycle change that is playing out then what happens within
+businesses?
+
+[1:22:45]
+So Again one of the case studies were simple. The return of the stock is nothing
+but built on business man's hard work of identifying these variables. This is
+Pepsi's bottle. If you want to sell Pepsi's in India, you can sell it again and
+again. You can buy it in the fridge, truck, shop, etc. But this business is very
+much capital invested And you need to keep introducing new products. Let me show
+you an example. Blue current sting. Just look at this example.
+
+[1:23:23]
+So, a blue current sting has come and I think it has 3 new stings blue current
+and this is the I think 2-3 new stings have come, new flavors are also launching
+of the stings But this is an idea of how a Pepsi Vechana company sold an energy
+drink and made almost 2000 crore calls brand So this is another advertisement
+that I will showcase to you. This is the phase. This is a stage 2 that sustains.
+This is a stage 2 that sustains for multiple years. Because new product multiple
+J curves, different products, all geographies, South Africa, so all mental
+models are of product mix change.
+
+[1:24:18]
+Let me show you an ad. Funny things to do but these things remain with us. So,
+So, this is a recent ad which they had. So I'll just look. Oh, man. I think so.
+I don't know. Oh, man. Oh, man. I don't know. I don't know. I don't know. I
+don't know. I don't know. I don't know.
+
+[1:25:17]
+So these are like different examples right. So again this is the introduction of
+a new product which helped them to grow. But again this is a pattern. This is
+not a pattern which is new. This is a pattern which has repeated in the past.
+Let me show you an example. Here we see the example of Ayeshaar. We have
+discussed Ayeshaar a lot. I think Ayeshaar has a lot of bikes. I am not an
+official Nado. They had launched a classic 350 which was very big. A classic 350
+which did extremely well. I will show you a phase that came in Aishar's journey.
+
+[1:25:59]
+What you will see here is that if you look at the journey, this phase is from
+2013 to 2017, this phase was from 2011 to 2017 what happened in this phase, that
+the stock was 30 baggers, the adoption of new product increased you will be a 50
+bagger, simple new product, product's adaptation will increase, right? You will
+see data in volume growth, when growth will be slow, you will see data also I
+think you will get volume growth in FI22's annual report But again this is an
+idea of how you have to look at things like Anil Port has already done something
+better.
+
+[1:26:36]
+So just a minute, if it doesn't work, let's give the data of volume growth. It
+will take 1 minute, don't nervous. Right, just a second. Here we are at 21.
+Volume can answer. Let's just say 2020, let's go there and let's search for
+volume. Alright, so basically what ended up happening within this business is
+business they were selling 50, 000 bikes per annum in 2010 and guess what
+happened in the next 6 to 7 years that 50, 000 per annum bikes being sold went
+to 8, 000, 000 20, 000.
+
+[1:27:37]
+So again new product right so here 8, 000 20, 000 bikes per annum. And some
+people say this is the hindsight benefit. No, not at all. This is the same
+mental model that we used in other businesses. You people are in the same mental
+model, like we are in research services, or in your journey, we use all these
+mental models. Like someone had like multiple, almost after bike sale went from
+50, 000 to 150, 000. Someone had still three years to assess. Time always gets
+the assessment. It's not like time doesn't get it. Just think about what you
+have to do to do it.
+
+[1:28:16]
+Same example, you can see the AI and polycap. How much time did you get to
+think? You got it here too You got it here too You had to think from the last 25
+years So if you just learn this mental model you will get a lot of ideas from
+it. So this is the idea of new products. New products are so powerful. And
+changing products are mixed. The margins of the companies are expanded. So
+sometimes if a new product is introduced by a company, and the margins of the
+company are expanded, then That is also very powerful. Here we will take a small
+break. Till then you should also do revision.
+
+[1:28:52]
+Today's session will go to 4.30. So I will give you a lunch break. There are a
+lot of things that we have to learn in today's session. So actually what tools
+and research I will teach you. And in today's session, I will just give you an
+idea that there are multiple things that we will be learning together. And there
+are so many things that you can take away from this session and you can put it
+in your journey that Even I don't know how much use case it can be for you after
+4-5 years. So with this we will take a break of 20-30 minutes and let's meet
+back at 3pm. Are you enjoying the session?
+
+[1:29:27]
+Just drop a helios in the comments and we will learn how to make screens. Just
+drop a helios in the comments. Great. So let's meet back at 3pm and 3 to 4.30pm.
+Let's do the round 2. Awesome folks. Awesome. So 3 o'clock we'll be meeting up.
+I'll also go and grab some lunch. Your presentation will be shared folks. So
+here time is 2 30 p.m. So 30 minutes. 30 minutes stop watch. 30 minutes.
+
+[1:30:15]
+You you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you you you you you you you you you you you you you you you you you you you you
+you So, let's start great.
+
+[2:00:52]
+Alright folks, so let's start great. So we will start, yeah. So we will see the
+screening process how to find a variant perception and I will share all the
+screens with you so that you can also build them independently and that is what
+we will learn So just to recap what we have done so just a small recap So let's
+look at the recap, we learnt all these mental models for variant perception
+margin expansion C. Corporate action C car deleveraging C car product makes
+change C car KX C car operating level C car demodal C car management chain C car
+industry cycle C car and cost reduction C car.
+
+[2:01:32]
+Chain seeker industry cycle seeker and cost reduction seeker right and with this
+we will just say straight away go to how to build these screens and Joe like
+some other resources we will also teach you how to study the presentation is
+extremely detailed if you want to read through the we will also share the
+presentation with you as well. But your main pointers and that I will discuss
+right now. So how to build these screens, that is something that we learn and
+how to go about basically building these screens. So now we are coming to stock
+filtration.
+
+[2:02:04]
+So we have learned the main concepts of variant perception and we learned that
+how basically different frames, so basically what we have done is we have just
+worked on the framework and stopped picking. So we will work in the next to next
+class. But now we will come to the stock filtration. Now we have learnt the
+framework, so how to find the stock from this framework.
+
+[2:02:28]
+So that is what we will learn purely and purely on a fundamental basis, not on
+the basis of technical analysis as of now so how can we learn in fundamental
+basis and in technicals as well, the help we need to take is from the stage
+analysis so what is left in the stage analysis So basically every company has
+this cycle. One stage one is the basic area. There is a kind of cricket pitch. I
+will show you a stop chart. Then a stage 2 markup comes. Where positive surprise
+comes in earnings. Positive surprise model, estimate revised up. EPS has
+momentum. Growth stops.
+
+[2:03:09]
+Then EPS momentum loses, negative surprise, negative surprise models, estimate
+revised down and value stop. So I will discuss many examples with you which will
+give you a chart like this. So let's take a couple of these businesses because
+filtration exercise is an important mental model. So we see it in fundamental
+analysis. So let's see one business in the name of Lux Industries. Right, so
+again, here you see the CBI rate. But if you look at the same chart, what will
+you see? So, what can I say about this phase? What can I say about this phase?
+Is this stage 1, stage 2, stage 3 and stage 4?
+
+[2:03:52]
+Just in the comments. What do you see from the first stage? Stage 1, stage 2,
+stage 3, stage 4. So this is known as stage 1 right so where the basing area is,
+the stage 2 is the entire markup area, now we call it stage 2 which we will see
+as markup, then stage 3 comes, and then stage 4 starts. So the idea of stock
+filtration is that we filter stock in this stage, and even though stock will be
+filtered in stage 4, but we don't see the business for that time, we see it
+later.
+
+[2:04:38]
+So, I will show you one more example actually, multiple case studies and let's
+look at DVs if you look at DVs like this, then again, what you'll see same
+information, stage 1, stage 2 markup, then stage 3 drawdown, stage 4 and again
+stage 1 formation. Same example if you look at other businesses, you can read a
+book, secrets to profiting from bull and bear markets for get an idea so what
+are you seeing, it's very visible on stage 1, stage 2, stage 3, stage 4 chart is
+it visible?
+
+[2:05:11]
+Because the model of earnings is like this that your EPS keeps surprising it's
+very visible we will go into detail on it but it's very visible now on stage 1,
+stage 2, stage 3, stage 4 and it is much more common than you think it is right?
+It is much more common if you think about it right? You mean I am looking at the
+horizon of 3-4 years because that is how the businesses work. Same example. Are
+you able to see a stage 1, then a stage 2 rally which made it almost a
+10-magnet, stage 2 rally almost, and then stage 3 topping out and then finally
+stage 4. Is it visible?
+
+[2:05:55]
+Almost every business can see this trend in any mid and small cap. These are
+some of the well-known businesses, right? Same example, so now it can be that
+they have topped out for multiple years right? Same example. Same exact same
+Like, you will see the same example of the winners of 2021 because when the
+valuation rises, then these problem arises. Same example you are seeing.
+
+[2:06:25]
+Right, you have a huge win in the long term, but right, again, the stage is at
+level, then the stage is going to be in the information and valuation has to
+become reasonable first then similarly I think the famous business in retail
+investors again similar example stage 1 basing area then stage 2 markup stage 2
+markup then stage 3 and then finally stage 4 drawdown. So what we do to make it
+more prominent, so this is from the book only. There is an exponential moving
+average used for 30 weekly.
+
+[2:07:02]
+So the students of Crash Course, on Sunday 30 week, all types of moving average,
+I am going to show you all things along with basics of balance sheet, income
+statement and cash flows. Today, the class of filtering is in fundamentals, so I
+am giving you a brief idea before we go to building these screens. So, in the
+case of Lawyers, if you simply look at it, then just a minute, alright. So, we
+will also teach you the tool which is the SOIC stage analysis tool. The moment
+it turns red, the selling trigger is done. So, the members of SOIC have access
+to the tool.
+
+[2:07:37]
+And we will teach SOIC students this tool after 2-3 weeks. So, basically, if you
+see this, what this tool is also telling us When the background is red, it means
+that it is underperforming Nifty 50, right? Nifty 500 So background red means
+underperforming Nifty 500 If you look at the background red The moment stage 1
+ends Stage 2 means there will be very high volume buying If you look here, there
+are extremely high volumes which come to buy. This is the entry of smart money
+or institutions. Over air Warburg Pinkers Inc.
+
+[2:08:17]
+Exited and over air several mutual funds ended up buying then what happens to a
+30 weekly exponential moving average on weekly charts So this starts shaping
+upwards and stock price literally takes off along with higher relative strength
+I mean this green background is outperforming Nifty 500 So literally it took off
+And this is purely and purely, so again I will ask questions from you So what is
+the phase of this? Stage 1, Stage 2, Stage 3, Stage 4? In the comments, is this
+stage 1, stage 2, stage 3 or stage 4? Just in the comments.
+
+[2:09:06]
+So, this is the stage 2 markup phase, right, this entire phase, right. Then
+stage 3, the moment relative strength becomes negative. So, whether it will go
+up again or not whether the earnings will fire or not then stage 3 persisted and
+finally stage 3 turned into stage 4 over it right at a price of 515 rupees and
+stage 3 of the hindsight method clear but relative strength went negative at a
+price of 610 rupees. So these are the selling triggers which get created in if
+you use a mix of fundamental and technical analysis. Where is selling gets
+triggered. It's similar example.
+
+[2:09:43]
+We will see in the case of LECON. It's similar example. You can see it in the
+monthly charts. Again, stage 1 gets over everywhere. You can see the volume in
+stage 2. Can you look at the amount of volumes which are coming in? This
+signifies entry of smart money. This signifies entry of institutions. Again,
+markup phase. We'll have to keep assessing if this stage 2 turns into
+consolidation.
+
+[2:10:15]
+Because consolidation, again there has to be a green like like basically green
+volume bars But the SOIC students monthly chart that keep using the SOIC long
+term indicator And just take a look at it if a selling it's triggered or not But
+always the idea is that we should filter in stage 1 or stage 2 and all these
+businesses will have something other working out. Some product will be mixed,
+some new things will come, some will be something else. Let me take another
+example, like this is a business, recently transitioned like stage in that.
+
+[2:10:50]
+Okay, so again you will just see this right, recently like a lot of high volume
+buying came in and stage 2 started after stage 4 drawdown. So here the order
+book is increasing, I think 60-70 thousand crores have been done. But similar
+example, but how to filter these, that is the idea of today's session. And how
+we can fundamentally filter these things. So now we come to the filtration. And
+just give me a second, for filtration I'll just open the thing again.
+
+[2:11:21]
+But this is how it will look like up is going buddy I'll I'm say you can just
+look at this and you can look at the significance of volumes but don't worry I'm
+next Sunday session may technical scope be all detail may be that is that but if
+you use a mix of both the worlds then you can become very very potent when it
+comes to basically filtering stocks so in filtration we are going to use what
+kind of screen we are going to use we will use Kpex tracking screen so in stage
+2, stocks come generally they come when your EPS momentum and all that happens.
+
+[2:11:54]
+When Kpex comes, when margins improve, when debt starts falling, or where the
+margins are consistent in small companies. Some other fundamental screens that
+we will use, like a PID screen, that post earnings announcement drift, companies
+which have reported extremely good results, how can we filter them? And
+companies which are announcing Kpex, where management is changing, all these
+things are in this session, now we are in the seeking.
+
+[2:12:22]
+So let me just give me a second, I will just open the screener and also open
+the, basically also share the, just a moment and also I will share the
+customized screens with you just opening just over it just so screener can make
+sure that you have signed into your account. And there are these screens which
+we have made. So, the Crash Course students you will also get in the SOIC Tribe
+Members. So, I have shared this in the SOIC L5 course. But still, I will share
+it with all of you again.
+
+[2:13:07]
+So these are some of the screens and also I will highly suggest you if you don't
+know how to use screenet. So there's a free video which is basically available,
+screener S O I C. Yeah, there's a free video that is available on our channel on
+how to learn how to use screener, how to use screener, right?
+
+[2:13:27]
+So these are some of the custom ratios which are built sims like on the same
+process or same mental models how to find the variant perception in businesses
+so here we have made different screens so first screen is improvement in margins
+margins are improved when something is going good in the industry cycle or when
+something is getting interesting in the business so all these businesses you
+will start finding over there and here we have created these conditions the
+operating margins should be higher than operating margins last year return on
+capital employed should be greater than return of capital of last three years
+return on equity should be higher than 15% pledge zero on our market
+capitalization greater than 1000 crores and a condition order there best returns
+are made in businesses between 1 to 15, 000 crore market cap market cap should
+be more than 1000 crore but less than 15, 000 crores So you will start finding
+businesses where margins are improving or where the margin trajectory is going
+up.
+
+[2:14:27]
+So these are the businesses where you will find that. So here, there are many
+businesses like this. Now, in one of the big businesses, big times are at
+dynamic, this data matrix global, which is 17 PPM. Just looking at the stock
+chart, again I am sitting in my watchlist, Just looking at the stock chart.
+Recently, Smart money or large money is basically FII, DII, UH&I investors, all
+these types of people.
+
+[2:15:20]
+So again stage 2, after again it went into consolidation. So it went into an
+uptrend again. P ratio is 17 times and also for the business the margins have
+actually improved. So again, the purpose of the screen is to find companies
+where margins are improving. So you will see that margins are improving over a
+period of time. You will look at this, so the margin of 10-12% went up to
+16-17%. So basically it means that the screen is filtering out opportunities for
+us. Are you understanding it? Just give me a yes in the comments. The screen is
+working basically fundamentally.
+
+[2:15:56]
+I am sharing this screen with you in the comments. So you can use the ratios
+yourself, it is not paid, it is free to use, it is not a paid tool If you want
+to study business, you need to study con calls in the class of tools to research
+but if you look at the con call notes, they are saying that AI, capabilities,
+etc.
+
+[2:16:21]
+Are investing in them So again, IT is a business and they are optimistic about
+the future growth Added 14 new customers in Q1, mainly in US and Europe 58% YOY
+increase in the active pipeline so it just signals that there is new customer
+addition that is happening there is a new customer addition that is happening it
+just signals that so again here we will see I think the main promoters are still
+running the show. In the middle, I think a shareholder's rejig is here. These
+universal trustees, I think, have come here. So this is why promoter holding is
+here.
+
+[2:17:00]
+So this is also one of the important things to check the shareholding pattern.
+But this is one business that comes into improving operating margins. Let's see
+ROC. What was the condition in your screen that ROC should improve? Is the ROC
+improving here or not yes or no in the comments the info on the screener that
+you can't rely on because recently a lot of promoters who were in promoters,
+they started seeing in the public because they own in trusty so you have to see
+it in detail by opening it very little, right? So that is that FII holding has
+gone from 0% to almost 2.55.
+
+[2:17:47]
+So this is again an idea. So again as a disclaimer, I'll tell you I don't own
+the stock. I'm also studying the stock. I also have a filter. We are also
+working on these things. And I'm sharing with you how to see. So let's see in
+our query. So like data matrix came in, then the sanitary wave is coming from
+time. Now from another business, the one that is coming from time is Cable
+Kiran. How many of you have seen killer jeans? Who has seen killer jeans? You
+will have to work on the business because it is not a class-valuation. So this
+is not a class on valuations.
+
+[2:18:26]
+So that is something that you'll have to observe. So this is a simple example so
+again stage 2 is in vice-o because margins have been improving and margins have
+been improving vice-o because from here 6, 16, 19, 20 ROC company is going up,
+yes or no so 6, 19, 26% has been done reason being because they have started
+gaining market share again and they are opening stores here. I haven't even
+increased the business in depth but I am filtering you how do we filter people.
+I have been coming here for a long time, Gabriel Linia, some of the students
+wrote a report.
+
+[2:19:10]
+Another business that's coming here is called Lincoln Pharma. We saw Usha
+Martin. So this is a screen on improving margins similarly so again let's take
+one business for example then I'll share the screen so let's take Lincoln pharma
+for example similarly right so just over here alright so again the stage took
+off, a lot of volume is coming over here But the simple reason why we see this
+here is that we see ROC in the last 4-5 years. So ROC has improved but this year
+it is relatively down. Still 24-23% ROC is running.
+
+[2:19:54]
+Then, we saw in the share holding pattern, we are able to observe that the
+promoter holding has gone from 32.41 to 48.68.
+
+[2:20:03]
+And this is actually promoters are buying from open market So promoters are
+buying from open market So this is also visible over here And then I will teach
+you in tools to research but I will go and see the TV interview and learn about
+value picker So you will see that the growth target of this company is of 800
+crore by FI 26 and margins will be 18-20% So it will not be difficult to model
+this company, we will learn about modeling in valuation But a simple idea that
+the screen is actually working for us. The screen works for us. The technocrat
+industries also comes over here.
+
+[2:20:39]
+So just looking at the stock chart structure. Stage 1, stage 2, stage 3, stage
+4, where is it? We have a stock on the Solar Gb. But where is the stage 1, stage
+2, stage 3, stage 4, where do you think it is? So again, something that we
+should study because they are the market leaders in those drums closure. So
+again, this is an idea. So that is technographed industries. So again, margins
+have gone up margins from 15-16 have gone to 20-21% and they are the Indian
+market leader in scaffolding there are market leaders in scaffolding so what
+else do you want to read?
+
+[2:21:29]
+Today I am seeing this business in 2017 so why are you coming to this screen? So
+again I am doing rough filtration I am not doing it with predeterminates but
+again this is like as we see the business crudely, I am showing you that we also
+find such businesses like this. So this is the first screen of operating margin
+improvement. I will share these screens with you. This is the query we made.
+This is SOIC improving operating margins. Then what we learned from the screen,
+that is debt reduction and ROC expansion.
+
+[2:22:08]
+That the companies where the debt is also reduced and ROC is also expanding and
+what limit will we keep for the market cap? Between 1000 to 15, 000 crore. So I
+will run this and alright. And here is one more limit that P ratio should be
+less than 30 times. So once again, you understand the fund.
+
+[2:22:26]
+The fund is that debt 3 years back is basically, debt 3 years back was higher
+than the debt today so today's debt is lower than the 3 year debt then profit
+growth over last 3 years is more than 15% ROC is higher than ROC of last year
+and market cap is more than 1000 and market cap is less than 15000 here we have
+almost 88 stocks in this category and what type of stocks will come?
+
+[2:22:51]
+There are stillchart technologies then tgb is also coming and studying the
+business then business is like imagica entertainment is coming here stylem is
+coming, link is coming, mps is coming this company can be added because it is
+counting so wpil is coming here Adore welding is coming here, Oreo and Pro is
+coming here. So again, DataMatics is coming here and there too. Again in both
+the places, DataMatics is visible to us. Power is coming here and there too, so
+both cases are in power. In both cases, it was coming in power. Godfrey Phillips
+is coming. This is a business which owns 24-7.
+
+[2:23:34]
+We have a convenience store, they also own the Malgrove brand, right, the 90%
+business to Waco. But this business may be more volume growth recently. Just a
+second, yeah, so now we have 26% sales, so sales have grown, right, so from 700
+crore type quarterly run rate to almost 1000 crore quarterly run rate. So we
+have to study, we have to see what is happening over here. Borrowings have like
+again like three, four years back borrowings would have fallen idly. So again
+that is one of the businesses very kind of or I'm like so newland labs. So
+Newland Labs, let's see it in three years.
+
+[2:24:22]
+How much debt did you get? How much debt did you get today? How much is 128
+crore? The ratio of 21 times, right? And ROC is higher than ROC of last year, so
+ROC is 20% so ROC has ended up increasing versus last year then a tall gross
+auto comes in it so again looking at this business so just looking at the chart
+just for our understanding may be it is going on in consolidation stage 1, stage
+2, stage 3, stage 4 now it is retracement but here you can see the volumes
+outside. Are you able to observe them? That the volumes are coming out.
+
+[2:25:04]
+So I have chosen, again, this is my work, I am mentally, I I'm looking at
+companies below TPE because I find fishing a little easier, right? So I found
+multiple businesses from these screens. I met someone from GPIL here. So as a
+standard disclaimer, I used to own the stock, then I exited the stock, it went
+up like become a one-bagger very quickly. GPIL met with such screens, right? It
+was simple that the deal is averaging. You will see it in the balance sheet. So
+you will see that the company's borrowings are decreasing are you able to
+observe this? Are you able to observe?
+
+[2:25:49]
+So if the borrowings are decreasing then again your cash layer ROCO is the last
+3-4 years commodity business 15% of ROCO is 27% Right. So again, this is a
+screen that can help you to filter a lot of these companies. Like we discussed
+about Bharatwire, we read an annual report about it a year ago and we studied
+about it in a session that there is a deal averaging in Bharatwire.
+
+[2:26:14]
+Similarly, Sangvi Moals, AGI Green Pack, Paramount Communication, Gateway
+District Pucks, Vaskon Engineering, Sri Ram Properties, there are some other
+things happening in these businesses and debt is falling as a financials. But if
+the debt is falling then it becomes interesting. At least we need to read
+because the debt is falling. It is a NCC made the debt has fallen from 2100
+crores to 973 crores. So taking you back to the beginning of the session, the
+one Buffett, like he was saying that Mr. One Buffett was saying that numbers
+tell you a lot.
+
+[2:27:00]
+So this is again numbers on steroids because you are just looking for what
+matters right so similarly our improving operating margins on a screen one then
+we looked at the debt reduction and ROC expansion screen then let's look at a
+screen by the name of 50 growth in gross lock the companies jahab ek kpx origin
+ka fix assets have gone up by 50%. Just opening this screen, so here we can
+ignore IT businesses because in IT businesses, what is KPEX?
+
+[2:27:30]
+So here we put one more and market capitalization should be less than 15, 000
+and yeah I think more or less done so run this query yeah so we get 39 companies
+between 1 to 15, 000 crore market cap where the gross block has increased by
+more than 50% what is the gross block? Simple thing is that your basically fixed
+assets are right so the fixed assets are property plant and equipment They have
+expanded by more than 50% that is what cross-block relates to.
+
+[2:28:05]
+For example, Gujarat Themis Biosyn has a cross-block of 28 crore, and it is
+worth a little bit of thinking when we do a research class, we will go and see
+what they are telling us that they have a 200 crore KPEX plan so we will learn
+to read con calls so there is saying we have a 200 crore KPEX plan so that is
+the idea of cross block expansion similarly, There is an acquisition in Sonata
+software, so the gross block is growing. But it doesn't need to be a lot of
+gross in IT businesses. When it comes to manufacturing business, it's
+interesting.
+
+[2:28:39]
+For example, the gross block for the app code X is Rs. 228 crores, and the gross
+block for the app code X is Rs. 470 crores. So that is one of the case studies.
+Venus pipes, gross book, 27 crores, 69 crores. Venus pipes, we will call next
+Sunday, tools to research. When we learn to read the con call, we will call
+Venus pipes. So, I will give you homework. This is the homework that you have to
+do. Try to study the con call of Venus 5 independently. I will give you a
+framework to read the con call. This is just an example of how you can read the
+con call. Right, so let's remove this.
+
+[2:29:13]
+Right, so we come back to our screen. Then we see in the screen that like KPI,
+Green Energy, there is a lot of time, the gross block is Rs.530 crores, Rs.872
+crores The meaning of the gross block is that the expansion is happening only
+then will the growth come in the business If there is no expansion, then how
+will growth come? So it will tell you companies where the more than 50% the
+gross blocks have expanded. That there, total fixed asset base has gone up by
+50%. So this is also one of the screens worth using.
+
+[2:29:46]
+Then a mental model that is post earnings announcement drift so what post
+earnings announcement drift teaches us is that after the results of a company
+come to a company of results are there and if the company has reported very good
+results more than 15 to 20% earnings right.
+
+[2:30:03]
+So then what ends up happening is that for several months or for several
+basically several months the stock price just keeps going up because information
+that keeps getting absorbed into the market so here we have to do market
+capitalization less than 15, 000 and if we add a new side to this then we will
+add P ratio of less than 30 times this is price 2 per link and we will run this
+query right so between 1 to 15, 000 crore companies right so I have 55 companies
+where the earnings per share or the quarterly sales have grown by 20% year on
+year.
+
+[2:30:48]
+Means the growth of 20% is year on year in the profits. So here, a business will
+come by the name of marathon accident type. Then, an Arman finance will come.
+These are life's studies. I mean, I only look for stocks. I mean, I don't do
+anything completely different, but I enjoy it a lot. It's like finding hidden
+treasure. I mean, I get this feeling.
+
+[2:31:09]
+I always look for stocks that are not very different but I enjoy finding hidden
+treasure It's similar to that, DDEF plastic is coming here share India security
+is also coming similarly best agro I am not interested in cash flows gravity is
+coming from time I am looking at gravity from 8 quarters control print is coming
+here similarly data matics is coming here too so 4 screens have been sold so it
+means that we must do research on the business because every mental model is fit
+Shankara building is also coming it has also come in other businesses, Sanghi
+mover is also coming So again that's an idea that we study right Where in the
+company, more than 15-20% profit growth and sales growth Like we saw the example
+of data matrix So how much sales growth was it?
+
+[2:32:03]
+19% right? Profit growth was how much? It was around 55 crore profits in this
+quarter last year it was 43 crore again there is a jump of almost 22-25% let's
+see cashlows 185 crore cashlows in 2023 let's see balance sheet 22% 25% cash
+flows. 185 crore cash flow in 2023. So yes, like balance sheet. So borrowings
+have like literally been zero. So that's not more much of an issue. So 2022 my
+cash CFO to Pat was like almost 100% 2021 maybe 100% So again, so again, this is
+like actually I'm going to add it today.
+
+[2:32:43]
+In 2022, the CFO to PAT was almost 100% and in 2021, it was 100% so again, this
+is actually what I am going to add today these are examples where you can get
+ideas. I mean, there are two or three ideas in one of it. Or two or three ideas
+you need in life. And you will get two or three ideas using these screens. Oh,
+here we close the GPI, close Venus 5. I will give homework at the end of the
+crash course. So that's a must do. So this is a business. Again, you can see
+multiple basis, multiple breakouts, completely stage 2. N13, right? Again, I
+have an idea.
+
+[2:33:16]
+Alman Finance, we have done this study in the tribe many times. So this talk
+goes under contraction, then like basically goes into stage 2 again. But
+microfinance business 40 crore which is 16 crore in the same quarter. Similarly
+Shriram piston and rings is coming a lot of times it's coming in a lot of
+screens and there's less information available. This is why I'm not able to do
+the work but it's coming under a lot of screens. So this is also one of the
+ideas that gets filtered. DDEF plastic kake bhe ek dhanda jo iskender raha hai
+right.
+
+[2:33:51]
+So this is into providing these cable compounds to KEI and all these guys. So
+The company has been growing but it's a single-legit margin business. Top-line
+growth is around 18%. Fixed assets, it's a recent IPO so it's very difficult to
+tell but ROCE is at 32%. The motor holding is almost 75%. Control print is also
+in the IS case, here on your PID case, right? So here, sharehold, like buyback
+is also happening. We have seen data matrix, Shankara building products are in
+this. So this is another screen that can be used right. So this is a screen that
+you can use.
+
+[2:34:35]
+So we have learnt the screen, we have seen SOIC screen, we have seen debt
+reduction and ROC expansion screen. We learnt the 50% increase in gross block
+screen. We learnt the current quarterly growth rates accelerating screen. Then
+there are few screens which are built purely on share holding patterns. So, we
+will see this as well.
+
+[2:35:00]
+But before this, let's look at the earnings which is known by the name of toll
+for growth Companies which have reported 50% growth in their earnings And
+companies which are close to 52 weeks high So this is the ultimate screen In
+terms of if someone is getting a cheap business here, these businesses are in
+absolute tailwinds. Without tailwinds, this growth is not going to happen. Like
+you get Narayana Hospital. What was the growth rate? So, quarterly, pad growth.
+So, you can see the quarterly pad growth here. Like we open it.
+
+[2:35:37]
+So, the varun beverages are coming here, Ayeshaar is coming, PLA Polo is coming
+from time. So, one of the averages here is Aysher, I'm here at the time, right?
+If you want to do it here, you can simply go and basically put the PE ratio
+metric. But a lot of the like some of the best businesses in terms of growth,
+you will find in this screen, the recent quarters, their best to best growth in
+the Indian context, that is a total for growth screen. Like Nesco recently
+started coming here, after a long consolidation it has gone up.
+
+[2:36:07]
+But here again fundamentally when we will study business, we will learn tools to
+research. So what is happening in the company right now is that Kpex is coming
+in the company, ITPAK 4 and 5 which will come in FI 2728. Which can sort of more
+than double the earnings going forward. So that we have to study right. So this
+is a way to filter stocks right. So just looking at the stop chart, is it in
+stage one, stage two, stage three, stage four? Just if you can figure it out.
+I'll filter out the screens, which I think are quite good.
+
+[2:36:52]
+So currently it's in stage two, right? So it's going up a lot of times, so
+retracement to here which is interesting. It's interesting. These are screens
+that are built on the basis of fundamentals. I'll share these screens with all
+of you so that all of you can work on them and look at them and use them to
+mahal jo pehla 2 r kata klas mein wo isi pe spent aki hum baad wala aye sab
+cheezhe samaj main right So these are screens which are built on fundamentals.
+So I'll just share these screens with you. You have to be logged into Screener
+to use them.
+
+[2:37:22]
+I'm sharing all these screens with you in the comments just a second. I'm just
+sending the screen to you. Yeah. If you're going to see comments, you can see
+the screen in the comments You can see it in the comments I will also recommend
+this to the students of Crash Course. If you will watch this session, you can
+create independent screens. But some of these screens I have created for my own
+usage and nearly 60 to 70% of my stock ideas fundamentally get filtered from it.
+
+[2:38:07]
+People talk to me, but you have screens in the comments, just offer yes if you
+have received. Awesome guys, awesome. Yeah, I'll share it over the emails as
+well. I'll share it over the emails as well. So what you do is, as this is a S Y
+C screen, simply you do control C.
+
+[2:38:33]
+Control C here and go to screener, create new screen here and here you do
+control C and you can do it by simply pressing ctrl c and create new screen and
+here you can do ctrl c and ctrl c and paste it and run this query and save it
+after running this query and then you can rename this to anything which you like
+so I will highly suggest that all the screens are made here so all the screens
+we have shared with you you take these screens out like the score of Petrios is
+a ranking framework so you control it here and save it to your own So that is
+the use case.
+
+[2:39:12]
+If I were in your place, I would always look at stocks in the screens.
+Fundamentally filter. Improving margins, Petrioski, debt reduction in ROC
+expansion. Variant perception screen. 50% growth in gross block screen, a
+canceling screen or a torf for momentum screen and this incremental change in
+promoter and FII holding screen and Kpex screen and this 50% growth in cross
+block these are some of the screens which will very much help you right? So, we
+can use two or three more screens to see.
+
+[2:39:49]
+Then we'll open the round for question and answers because I just realized that
+the amount of content we have in the presentation today, we can sit till 7
+o'clock, it won't end yet, so I'll just basically divide it out. But The
+fundamental screening class will be here only. We will take it next Sunday for
+the students of Crash Course. And there will be a homework activity which I will
+also give you. But the students who came for the first time in the session,
+these are the screens that you must use. Let's see the CAPEX screen. This is a
+simple screen which is built on.
+
+[2:40:20]
+Capital work in progress is greater than net block. The CAPEX is now more than
+the property plant and equipment. So CWIP is greater than net block. Any term
+you want to understand in finance. So what can you do? You can use. Capital work
+in progress is higher than net block. You will have Artemis, then Masf and MCX.
+Associated alcohol. This is also a business that is coming in the same size
+screens. I will put it in my watch list. So over here, see just look at this.
+
+[2:41:10]
+Just up, you guys can observe this. This company has phone calls, you can get
+everything. We are filtering out almost rest of the noise in markets. Right? He
+quite, I mean, it's a different logo. It's not necessary if we get a screen
+idea. We can listen to good sources. But looking at the fixed assets and the
+CWIP, do you think it is worth studying at least once in the comments? So CWIP
+is Capital Works in Progress. Basically CWIP gets added to fixed assets.
+
+[2:41:57]
+In alcohol business, GST issues or tax issues will always be there. If you see
+in Radico Khaitan, there were issues. Similarly, if you look at some
+distilleries, in terms of promoter buying, the promoter has been buying.
+
+[2:42:19]
+I think promoter holding has gone from 24% to 35% Actually promoter was in jail
+in 2018 right so industry is the alcohol It's not that it's unique to the
+business it's it's the industry this is again example United Spirits color so
+United Spirits pay what's our attacks issues over again right so again I'm not
+saying that we have to study or ignore this but I'm saying it's nature of the
+industry, legal issues will be here in this industry. So it's up to you to read
+or study it or not. Like again, it's put you put totally up to you.
+
+[2:42:55]
+Right, so again, here we see new geographies, new products, all those things are
+happening over there trying to capture market share and all these things they
+are mentioning so again we have to study what they are doing, why are they doing
+so much Kpex I am also filtering these businesses with you only.
+
+[2:43:30]
+Then yeah so this KPEX screen can also help you a lot someone asked why not make
+all these things in one screen, I will tell you the reason because sometimes
+when KPEX is high in some company, then its ROC will be depressed because after
+KPEX, the utilization is not 100% then your company will skip then in a company,
+ROC will be bigger and KPEX will be higher then margins will not expand because
+margins can not expand then what will be the problem there, then your stock will
+miss So this is why putting all in one screen is a bad idea in my opinion. So
+this is why multiple screens we have made.
+
+[2:44:08]
+So let's see more screens. Here we have a current quarterly growth rate, third
+fold growth rate. Companies giving out profits is also a good screen that
+companies are sharing dividends so if you want to see a dividend type company
+then you can come here and see it and you can actually put a dividend yield here
+that dividend yield should be more than 3% But typically I don't go to dividend
+yielding companies because I just think they might not have avenues to grow.
+They might not have the resources to grow. But in dividend yield, I see a growth
+story here from time to time.
+
+[2:44:44]
+That is power of an ad squad. So this is another business that we have discussed
+with SOIC students a lot, I mean, the other telegram groupers. But just looking
+at the chart, is it in stage one, stage two, stage three, stage four? So,
+Harmeet again, your question is why do you leave paper stocks? Again, Harmeet
+doesn't understand paper stock. I mean, I don't understand deeply cyclical
+industry. You can see it. I'm telling you from the beginning that these classes
+are just for ideas, right?
+
+[2:45:31]
+Because Mary and your investing journey was very different. The same person,
+four people will buy the same stock, the outcome will be different because the
+time will rise and the understanding of the business will be different. So you
+can only learn from me, right? Or you can never clone, I can never clone your
+investing because the simple idea is that at the end of the day, everyone has an
+investing philosophy which is built uniquely to their own temperament. Shakeouts
+may not be. I'm going to give you an example. A business bank which has gone up
+almost 100% but now 10-20% has come down.
+
+[2:46:05]
+So many people have gone out of the shakeout. We have taken more for our
+understanding. So again, just in the comments, do you agree with me that no two
+people will have the Same investing philosophy, yes or no? Right, So that is the
+idea that you can't do cloning because my exit criteria can be stringent. In
+some stop, I can easily exit. So those ideas will also discuss with you. But
+these are the screens that you can make and these are the screens through which
+you can find out multiple stocks.
+
+[2:46:50]
+So when you send screens in comments and the crash for students, again this is
+an idea that is there. So next Sunday we will do another class. So These are the
+screens that we have totally learned. Once you have an idea, I will also give
+you a quiz with the variant perception. That will be the last activity which we
+will do. But when you look at industries, you can go through the entire
+presentation yourself when you get time. So, you will see some industries like
+this. Some will be in the presentation and some will be non-sick. We will
+discuss in the position sizing.
+
+[2:47:27]
+The idea will be in the position sizing. But this I have included in the
+presentation today so that at least you can get an idea. Which industries will
+be non-sickle? Which industries will be sickle? Some will be pure sickle like
+someone took an example of paper. So paper will be like sugar, it will be pure
+sickle. Steel sector is pure sickle, auto and series are pure sickle. Then
+businesses prone to economic cycles, then commodity businesses, right? Then
+we're businesses with sustainable competitive advantages, right?
+
+[2:47:59]
+So you will see some structural stories in the market some of them will be
+cyclical stories and some of them will be deeply cyclical stories and all of
+them are covered on this slide you can just check and mix and match so this
+slide is very visible I think this is shared by Mr Vivek on his twitter Vivek is
+an investor, he shares very good things which is taken from him So this is an
+idea that these are the type of businesses that you will see. Actually I am too
+used to research and we will learn this. But you will get this kind of business.
+
+[2:48:30]
+You can take a screenshot of it and retweet it on twitter and also there is a
+presentation that you will see some sectors that are deeply cyclical some
+sectors that are structural but this is an idea today so someone asked why is
+there no paper industry or paper industry so just as an idea so what happens is
+that there is always paper industry or paper industry, so just as an idea. So
+what happens is that we are always in the paper industry or not in the paper
+industry, so this is over.
+
+[2:48:59]
+So we always think that these are the things, the board folio, we always think
+that these are the satellite positions and the main positions. Right, so again,
+I have a funny question for you in the comments. So, can you have dinner with
+Paneer Tikka or chicken Tikka? If you went out for dinner. I mean if you go out
+with your family. If some people do it, then they are more healthy. But it's a
+starter. So what is the satellite position? I have come to the concept of
+portfolio sizing. But I would have explained it to you a little.
+
+[2:49:39]
+So satellite position I am a little bit of a portfolio I am in the concept of
+sizing I am a little bit of a portfolio So satellite positions which allocate
+2-4% don't allocate much Right? You see allocation of 2-4% because you feel that
+the theme is strong like the theme of an infra business is very strong so I
+understand that the growth is very strong here but I know that in the long run,
+the money doesn't come into the infra but I have to play for 1-2 years now that
+is the satellite position I took 4% allocation. Chicken tikka or paneer tikka.
+Then there is a main course.
+
+[2:50:11]
+Butter chicken or butter paneer. In the main course, you eat butter chicken and
+butter paneer. Yes or no versus chicken ticker or bunny ticker. I just think
+that I am hungry. Right? So this is a score position, we believe in score
+position where we take 6% allocation or 8% allocation right? So this is an idea,
+now I will not put any infrastructure in business and take 10% allocation
+Because I know that if the things get destroyed in itself, then neither will I
+enjoy chicken tikka nor butter chicken.
+
+[2:50:58]
+So that is the simple satellite and core position. So hopefully you remember
+this.
+
+[2:51:03]
+You guys think that the paper question on satellite and core will solve that it
+can be seen in the paper industry in the satellite like paneer tikka or chicken
+tikka not as the main course so similarly what happens is that I will also ask a
+question in a quiz which I will open for you because you will enjoy it and that
+will make it more interactive also for students who are attending for the first
+time so we are doing these basically we are doing all these crash course classes
+like so if you want to join the crash course of the membership so you can join
+you'll get access to previous classes as well and to the upcoming one as well so
+I'll also introduce you to that and also this.
+
+[2:51:51]
+So, before we do the quiz, we have learned the trigger of variant perception in
+all the things. So, there is a reverse of this. What is the reverse? If you look
+at the reverse of this, then just over here, just give me a moment, I'll show
+you. Just a second, I think presentation, I've lost it somewhere. Yeah, so the
+opposite of variant perception is when things are bad, fundamentally. When there
+are very high margins, like Alkal and mines had very high margins, then they
+went down. So if there are very high PE ratio, then the variance perception will
+be very high.
+
+[2:52:36]
+One of the earnings companies is like the revenue of the Malu Veera Veer in the
+DVs. The revenue of the Paxler wide in Lawyers. Lal did well because the revenue
+of Covid came. Then Covid ended and went away. Then management leaves in
+between.
+
+[2:52:51]
+There was good management but it left in between I think asian granito business
+where there was good management but it left after 2-3 days so that was a trigger
+for selling the stock I think 4-5 years ago then it has been very high leverage
+it has become very high debt to equity it is a poor industry cycle like today's
+chemical business is there so I am just observing I am not going to buy the
+stocks so the industry cycle is still poor I don't know it persists for 2-3
+years but I have my buying criteria. Then finally, there are margin contracts
+for companies.
+
+[2:53:23]
+So these are variant perception in selling. If you just invert what variant
+perception of buying is, then you will get the variant perception in selling
+right If you just invert the variant perception in buying then you will simply
+get the variant perception in selling That is how simple it is right that is the
+selling crime Firing framework that you can build fundamentally. So we have a
+quiz activity here which we will do together. We will write an activity equation
+which is match the following. And when we match the following, what we will do
+with it is that we will simply open the business.
+
+[2:54:09]
+So this will increase your appreciation for Fundamental Triggers. So DV is
+between 2021 to 2023. So let me just open DV's between 2021 to 2023. Let's open
+here. So what happened in 2021 to 2023? The stock has fallen by almost 50%. And
+if we look at the P&L statement of the company then what is seen in the profit
+and loss statement that from 2022, financially from 2022, margins are
+contracting right, so we will match the following here so first you just see, so
+the dv's lab between 2021 to 2023. Which phase was going through this phase? All
+the phases I've mentioned over here.
+
+[2:54:55]
+Which phase was going through this phase? Just look at all the options and then
+I'll open the comments for answers. I think I'll just open the comments. All
+right.
+
+[2:56:02]
+So basically it went through some of the above operating deleverage right a
+operating deleverage you give me sales growth coming then a car cheese guy
+margins key will be contraction double dust right right so operating deleverage
+we companies can margin contract over So these are two things which ended up
+laying out with the business of DV's tabs. Right? Or we think that and favorable
+regulation, we are safe to do new are too much leverage to new are demurge to
+new are merge to new are margin expansion to new margins contract. So these are
+the two things that happened.
+
+[2:56:37]
+So the people who had A and G answer, congrats to you, your answer is correct.
+Now we come to the second round, right? Let me ask. Ayeshaar between 2010 to
+2018 phase. So, what happened in 2010 to 2018? I share with you guys. I share
+with you guys. What happened between 2010 to 2018? New products were launching.
+And I think stock price did well. But financially, what happened? Classic 350
+got introduced at this point of time. And between 2010 to 2018, the profits
+expanded by 5X and the margins expanded from 10 to 31.
+
+[2:57:32]
+Everyone take 10 seconds, 20 seconds. So, let's look at the answer.
+
+[2:58:20]
+Alright, so let's see the answer. So, double digit volume growth, that is for
+sure. Margin expansion, that is for sure. Operating leverage, I have not played
+out somewhere, because the margins are expanding, but the main reason was this.
+But if someone is operating leverage, it is not incorrect. New products launch,
+management, that is for sure. So these were the four things, new management was
+also there. The main reason was that the new product was launched by management.
+So, this was the new management. When Siddharth Lal took over, that was new
+management. So that also actually played out.
+
+[2:58:51]
+So F with S, actually, that is for sure. And GB, the truck company, became a
+bike company. So These are some of the things which played out. We had seen the
+deal averaging once. There was no deal averaging. So, the ball wings were not in
+the company from the beginning. So, the ball wings is not the one. So, these are
+some of the answers which played out. So, these are the correct answers.
+
+[2:59:15]
+So, hats off to those who got the correct answers but I think his correct
+answers were with two people So third way is Titan So let's see the business of
+Titan I'll open Titan with you So in 10 years it has done wonderfully well,
+always kept performing.
+
+[2:59:41]
+In 10 years, the margins of the business are the same, there is not much
+expansion, sometimes it increases, sometimes it decreases but top line has gone
+from 10, 000 to 43, 000 crores and profits have grown at 16% the stock has done
+really well because of all these reasons so last 5 years profit growth will be
+higher but majorly it's led up in sales book. So sales up, sales 4, 5x So in the
+case of Titan, what is the thing which has led to such growth? If you can catch
+one or two main things, if the retail franchise concept is of a consumer, then
+why? Opening the comments, yeah.
+
+[3:00:45]
+Alright. It's got an interesting answer. So basically in the business of titan,
+what happened is that first thing simple, double digit volume growth and double
+digit volume growth, actually volume growth is 8-9% But the gold price
+depreciated by 10% because of sale growth, it became 20% That is one of the
+reasons Second reason is that new products and new concepts are launched.
+
+[3:01:35]
+Another reason is that there is no benching here, that is L. L is what?
+Geographical expansion. The company did a geographical expansion. This is why
+the company did well and kept on opening new stores in different states. Right,
+so L option that is geographical expansion, so this is out of the syllabus,
+right. The company did geographical expansion. So here we do this. Now we take a
+little bad example. APL let me leave the polo. It's a good example. But like so
+let me just go to an example. In the case of Sequence Scientific, right? What
+happened between 2021 to 2023?
+
+[3:02:14]
+So This is one of the businesses where I actually made a mistake of not selling
+at the right time. So all the gains evaporated. So again, selling here should
+have started in stage 4, but it has come to a close in the 1980s and 1990s, but
+still kept going down. But Looking at the recent quarters, like looking at the
+business, what happened? So, look at the margins, look at the sales, look at the
+sales, look at the margins, look at the sales, and look at the borrowings. What
+is going on in the borrowings? Especially debt to equity. Equity is the same and
+debt is increasing.
+
+[3:02:52]
+So after looking at this simply, now match the following, what you have to do in
+this business is to lay out the anti thesis point. Why am I doing this with you?
+Because at the end these are the 8-9 variables, nothing more is happening. What
+do you think played out? Think about it.
+
+[3:03:53]
+So, similarly what played out in this case was that operating deleverage, margin
+contraction, And also they took too much leverage, like these three things went
+wrong in the business. And also there was a new management, right? So all these
+things went wrong in the business. So it is these are some of the ways to look
+at it. So for students who have any questions, you can ask us those questions.
+So you can ask at SIC Continuous Classes, I think we have solved more than 5
+lakh questions. So like, it's been 3 years since we have solved more than 5 lakh
+questions. Like we have been solving them.
+
+[3:04:37]
+But if you're not asking on the right space, because emails because there are a
+lot of admin queries on the side of emails, so I and the research team are not
+able to focus on emails. So we are mostly focused on solving questions under SIC
+continuous classes. And not over emails due to too many admin questions over
+there. So if you can just look and you can actually check some of the questions
+that are like solved over the last three years. You can filter it. I think it's
+over 1000 pages. It's over. So that is with this. So last question, a business
+example in this man.
+
+[3:05:13]
+That is the business of borosil renewables. Between 2020 to 2021. What ended up
+playing out out of all these triggers? Simple. What end up playing out amongst
+all these struggles? Great, great.
+
+[3:06:16]
+Right, So what end up playing out over it? First thing is that company had an
+expanded capacity. So operating leverage played out. Costs were your picks. A
+video is also on operating leverage next week. You can watch it. And if you
+understand in detail, we made a video of the Lawyers Labs in 2020. We have
+explained the operating leverage in the first 5 minutes. Double digit volume
+growth is more obvious. Margin expansion also played out. But the main thing was
+favorable regulations. The government has put anti-dumping duty. Due to
+anti-dumping duty, the business did really well.
+
+[3:06:56]
+Similarly, what you can try to do is that whatever business we have seen, it is
+as simple like I open the BoroSyl in your books. So simply what can you do? You
+can see their balance sheet, along with this you can see PNL statement for
+margins and you can see the credit rating of the time that was being played in
+this business and complete this entire activity on all the businesses. So that
+will be a fun thing to do. So this is this week's crash course Humbug. So within
+the presentation you will get it uploaded separately. So one is for you, this is
+the Humbug.
+
+[3:07:32]
+The other is for you because we will come with tools to research and all these
+things. You simply open the screen of Venus Pipe and simply come here on the
+transcript in this conference hall. And what we discussed about variant
+perception, you simply see what are the variant perceptions, why is this
+business growing. Now simply do this experiment. Again, business is an example.
+As a disclaimer, I don't own the stock. I want to study a simple case with you
+because when we read con call, it will be more fun for you to get involved in
+the activity.
+
+[3:08:04]
+So how to save the screens and scans, I will just show you in one second. So how
+to save the screens, the screens and scans. Just over here. So how can you save
+these screens and scans? Like there are SOIC screens, you don't have to do
+anything. You have to control the screens here. Then you have to create a query
+on your screens. You will create a query here. Run this query. Then you will
+save this query and get an option here. Save this query. You can give it any
+name you want. You can save the description.
+
+[3:08:41]
+And then you can simply save the query this is all that you have to do, that's
+it so with this I think I will conclude today's class we'll have a round of
+question and answers and also I'll just post the links if anyone wants to
+register for the SOIC membership and like so they'll be an offer you as well and
+your cash go students if you want to become a full-time S.Y.C member so that we
+will also post the link. So that we do but any questions that you have so I will
+open the comments for questions. Right.
+
+[3:09:26]
+Please share the screener links again to x-ray and I'll just share the screener
+links so just give me a moment all right So these will be also be shared over
+your email. So email baby after that share right here. Don't worry, but just to
+worry. Just open the comments. May you just check. So comments have already
+shared. Right. How to enroll for the second telegram group? I'll just send you
+the link for enrollment if you want to enroll. So we'll just share the link.
+Just give me a moment. So for our tribe members who want to renew, we'll also
+share the link.
+
+[3:10:11]
+Just give me a second. Yeah. So I will make email be dropped. And for those who
+want to basically become members, so in KLAB, I will just share the link. Just
+basically give me a second. For those who want to become SOIC tribe members, I'm
+just sharing the link for you first. So this is at a discounted price of 15%. So
+you can just check the link in the comments, right? And Screener Wali link, we
+have already shared. Joe tribe member could Telegram group join again. If you
+are not a SOIC tribe member, so then don't use this one.
+
+[3:10:56]
+But this one I have also shared the link for that in the comments. You can check
+it. Another question. Can you please study one company along with us? Yes Divya,
+I will do that in the crash course. So that is that. Like, see by a cell related
+question I won't be able to answer so please understand my limitation. But, a
+question on today's session is please feel free to ask. Learning on valuation
+after 3 weeks whipping.
+
+[3:11:35]
+Can you guide if the portfolio is under, I can't give you allocations, but
+position sizing we will definitely discuss, but generally smaller PFs have more
+concentration to get non-linear jumps, but again you can also blow up so you
+have to have a good idea about the business. So Shubham, please go to the
+continuous classes and explore the membership. You will see the discussion forum
+there. So please, I will ask you to at least slow yourself down. System one.
+System to use. Patiently you can ask questions under continuous classes.
+
+[3:12:13]
+You've actually solved a lot of questions, But if you're not slowing yourself
+down to look at them, then there's just no point actually that you're going to
+have a lack of patience. So please slow yourself to at least explore the
+membership page. Other questions? So Delhi Mead do SOIC. So again, it will be
+just a participation fee, there will be nothing else, which will be 900 or 600
+rupees. It will be only that. Operating leverage and de-leverage, can you make
+us understand in detail please? So, Dineesh, that's a good question.
+
+[3:12:50]
+So, in the first five minutes of the Lora Slabs video, which is available on
+YouTube, you will understand the meaning of operating leverage. And you will
+understand a lot of the meaning of operating de-leveraged. So, we are making a
+video on this, a 30-40 minutes video. Next Sunday actually operating leverage
+concept video are. Right so. No one will be the team manager or a little vice so
+well management businesses generally get a higher valuation so we'll have to
+see. Right so that is something that we'll check.
+
+[3:13:22]
+Stage analysis Rajesh there is a so if you are in the crash course then stage
+analysis we are going to teach you but if you are not in the crash course then
+our video is on YouTube technical analysis simplified so you can see the stage
+analysis from that, so that will give you an idea. ROC versus ROE, so there is a
+class in S Y C membership that is ROE versus ROC versus ROIC, So you can check
+that out as well. Do I move follow? Can say. Oh, right. Oh, S O I C research
+desk.
+
+[3:14:00]
+So you can just simply search for I think S O I C research karke there is this
+website jo maria jishnaab search kar satne right so s o I C research dot in pey
+you can just find whatever details you want about the research service so it's
+mentioned over there right so there is detail so here we are taking questions of
+education research service you will get everything there right right so other
+great other questions How do you decide buying and selling price once a share
+meets your criteria? So with buying time, I typically like to buy stage two
+stories and reasonable valuation stories.
+
+[3:14:44]
+Selling pay, I use my indicator, which I have made LTI and I also use this like
+30 weekly exponential moving average can be used on weekly charts and you can
+see fundamental antithesis points but simple, stick to a setup, If you are using
+30 weekly moving average, then stick to it. But I will suggest that you watch
+these two videos, then you will get a setup of selling. I will just share these
+two videos. I will share them with you. Over here. These two videos can help you
+to find a setup at least for yourself so you can see this video right?
+
+[3:15:27]
+You can see this video then you can see reverse dcf videos of syc so you will
+get a selling setup then you can see the can swim video right so this is over
+here how to make money in stocks, yeah this one. So this will also give you a
+selling strategy over here. But again, there are multiple ways to sell a stock,
+but these are some of the ways that you can learn how to basically learn
+selling. Right, the things, just a second.
+
+[3:16:09]
+So what all key metrics to watch out for screener for any company is a default
+view but one to add so because if you want to see all key metrics then if you
+want to see more details, then you can see the video of your own. Look at 2x,
+open the screener, it is an hour's investment but it is full of lifetime. Can we
+filter out volume growth? Unfortunately not. You can't filter out volume growth.
+But you can see the volume growth in the investor presentation. You can see the
+see volume growth in investor presentation.
+
+[3:17:04]
+Some companies give it in con call, some companies give it in investor
+presentation. There is no offer for S.Y.C. Research because it is a very well
+understood tribe members so very close end thing, we don't even publicize it
+publicly. So Manoj you say that let's apply the screen, run up is here, so let's
+take one example where we saw it here. So again I am also reading it, okay, run
+up is here but if it is 17 times PE, it has stopped and if it is really 20%
+earnings growth, it keeps coming up, 23-20%.
+
+[3:17:41]
+So I see a peg ratio, I don't see the stock price at this time because I have
+seen it many times, like KEEI, I would have missed it. If I think that the stock
+is 100 rupees, the stock is 800 rupees, then I won't see it anymore. But the 800
+is 24-25 rupees, right? So that is not the right way. You are anchored at a
+share price. So if you have joined Crash Course, then you should see Class 1
+again for Behavioural Finance.
+
+[3:18:03]
+Because you are anchored to the share price which is the wrong thing to do
+because you won't get any opportunity in this market Then you will get
+opportunity in those sectors which are beaten out so you have to wait for 4, 5
+years So that is a different type of investing if you understand that, you can
+do that too need one video to how to use value picker so you are you've asked a
+good suggestion so how to use value picker is already video is on youtube so
+there is no sense in webinar on any of these on the screen tools because again
+here you can find the video on how to use value picker.
+
+[3:18:40]
+You can watch the second video here. Any other question? Is it worth to study
+small and mid-caps if the space has become like overreated? Just a second. I
+think I'll just put the laptop on charging. So, so again, if you're finding
+something reasonable bottoms up to not like It's also worth studying basically.
+I think we are still studying. We are doing agnostic business.
+
+[3:19:26]
+I still get cheap businesses. I don't get cheap businesses. So I am getting
+cheap businesses. PPT will share it over the dashboard, which you can access.
+What is the name of the book? Secrets to profit from bull and bear markets.
+Secrets to profit from bull and bear markets. So this is the book. You can check
+this book. Yeah, this is the book. I mean, it's a good read, a must read book in
+my opinion. As your number of stocks in a portfolio, we say that 15 to 25 should
+not be more than, ideally, 30 maximum.
+
+[3:20:13]
+If we do more than that, then it's difficult to track. A premium telegram group
+is different because we have a lot more efforts involved and that is why it is
+different. So that is that. How often to use screener to filter businesses since
+if I use cleaner daily it will be the same I use once in a month in Chamsher
+once in a month more than enough better to use it post every quarterly result.
+Right. Other question What is the number of stocks that you prefer owning
+currently? I am 15 to 25 for us.
+
+[3:20:58]
+Like in the family BF, 15 to 25, I think less than 10 in the dog BF. Now 10 is
+done, so you can add 2-3 more. How do you find 100 baggers? 100 baggers don't
+become 100 baggers on day one. It takes 15-20-25 years for them to become 100
+beggars. So you need to sit on them. You need to practice it on your asset
+investing and businesses should be strong. Businesses should have modes. And
+sometimes even the promoters don't know that our stock is going to be 100
+beggars. So think about next two, three years. If the thing arises, it's up to
+you. I am already a member of S.O.I.C.M.
+
+[3:21:38]
+In the last 3 months. Can I enroll in a career extension? Probably yes, we don't
+have any issues. But I will suggest that you should do a full membership and
+then you can extend it. It will be better for you. At least experience the
+journey. Like we are thinking of webinars on alcohol industry, we are thinking
+of webinars on green energy by the time, we will talk about the crash course. We
+are getting the crash course done so that the course of 60-70 hours ends in
+20-30 hours. Right, any other question? How to find sectoral headwinds and
+tailwinds sources to identify them?
+
+[3:22:12]
+So, Mayank, that's a good way. Relative strength is one of the ways you can
+find, then looking at quarterly results of few sectors together is another way
+to find. Then third way is that looking at market Smith growth 50 like sector
+groups. I will suggest you how to make money using in stocks. So watch the video
+of the video of the cancelling for 1-1.5 hours on youtube the question of the
+idea has been answered What is the importance of EBITDA? In the next Sunday's
+session, we will do an income statement and tour to research.
+
+[3:22:57]
+We will do both and do the same. Link for SOIC research membership. Nothing
+special, just go to SOICresearch.in and you can just check the website and you
+can just explore it yourself. SOICresearch.in, we can explore it, but again that
+is not an education service, that's something else. Right. Access to SOIC LTI,
+so what can you do as a SOIC fan? Right. So, I'll just put it on If you want to
+subscribe to it, then you can do it. So, there is a lifetime subscription, LTI
+will come. And if you have, I will highly suggest, you should definitely watch
+the L4 course.
+
+[3:23:39]
+It is at a very miniscule cost, because the developers who made it, they also
+have to pay the cost. So, it's at a very miniscule thing. But I think that these
+tools can help you a lot. Like, 1, 000, 1, 500 can help you save maximum tons of
+pain going forward. Right. More details on 22nd October webinar session. So just
+deep session on Indian Habitat Center May 22nd of October, starting from 9 am
+till 6pm, we will have the hall. And we will be doing the offline Sunday leave.
+So the details of the session will be in the next one or two days. This is
+purely meant for SOIC students.
+
+[3:24:22]
+And I think this time I think 450 to 500 students will meet each other. And even
+the next day, If you want to spend time in Delhi, we can meet around and
+probably somewhere. We will have a session for 1-2 days but Sunday session is
+from 9pm to 6pm. I will be there till 8 or 9pm only. It will be good to interact
+and meet. I will highly suggest you be S.O.I.C. Tribe members you should
+definitely come because what we'll do is that we will be followed by a 2-3 hour
+session from my side as well. So 15 to 20 tribe members will be participating in
+that like discussing different businesses.
+
+[3:25:09]
+Great. Any books to understand sectors? 5 rules for successful stock investing.
+Maybe actually I'm also writing a similar book in the Indian context, but I am
+writing it in a story form, so this is why this is taking a lot of time. So I'm
+trying to explain the insurance sector, FMCG sector, every sector in a story
+form. But till then, I think this is one of the books that you can definitely
+read must treat books. Books on special situation. You can read Joel
+Greenblatt's book. Joel Greenblatt. Yeah, You can be a stock market genius.
+
+[3:25:55]
+This is a great book on special situations. On telegram, I will share a SBIR
+report which is on all the demurgers since 2000 and what happened with them.
+Thank you. So I think this is more or less setting a lot of questions related to
+this has been answered. And so management of Usha Martin is buying or selling
+one promoter who is the main promoter, who is buying and selling, who is the non
+promoter, who has two brothers, who has been fighting and who is selling at this
+time and who is running the business, who is buying at this time. So that's why
+it's going on like this.
+
+[3:26:45]
+So, as such, I told you that most of the businesses are for educational purpose
+only discussed. As such I didn't do any buying and selling in this way. So this
+is why I am giving you a disclaimer first. So recorded videos of Vishabh's,
+ma'am please check your spam, you will get 100% I think just in the comments,
+which recorded video you have got, just drop a yes. You can check your spam. We
+have sent email like 15-20 times almost.
+
+[3:27:30]
+Please check in spam. Now please check in spam. S.O.I.C crash course is also
+available in membership. And the crash course students have also gone to spam.
+That class 1 is not different, everything is recorded in it. So we will send it
+again today. We will send it like 10 times, 15 times again today. But please
+make sure that you are also checking your spam. Great. So awesome guys. Let's
+meet next Sunday again at 1pm and let's discuss tools to research and more
+fundamental analysis on income income statement balance sheet and cash flows.
+
+[3:28:15]
+So let's meet again next Sunday. We'll make sure that you get the recording.
+Thank you everyone. Hopefully you loved the class. If you loved it, just drop a
+loved it in the comments. And let's meet next Sunday again. Have a great Sunday.
+Have a great week ahead. Hopefully all of you have an epic week ahead. And do
+the homework that is written in it. You can do homework and I think almost 60-70
+questions are also in the dashboard of Crash Course. I think many people have
+got the recording, who didn't get it. We will just make sure that you all of you
+get it. Thank you everyone.
+
+[3:28:46]
+You can go to SOIC book, it may be available in 4-5 months. But we are trying to
+make it the best investing book in Indian context. So this is why it is taking
+some time. Thank you. Thank you everyone. Hopefully you learned a lot today.
+Thank you. Have a great Sunday. Thank you everyone. Thank you folks have a great
+Sunday. Thank you. Anyone who wants to join the SOIC membership will send a link
+to you in the comments and you can just check. We will also send that in your
+links. Thank you. Don't don't worry. Thank you. Bye. Bye.

@@ -1,0 +1,1901 @@
+﻿Class 8 Read Management Like A Fund Manager
+Crash Course
+===========================================
+
+[0:00:06]
+So welcome back to the session and today we will be doing is a management
+analysis class. Management analysis class which is the promoter part is a
+broader part of TVGP course in which we see theme, growth, promoter and
+valuation. Our theme, growth and valuation is done. We are doing the promoter
+class now and eventually we will do the valuation class and the growth class
+too.
+
+[0:00:27]
+So let's take a look at the management class here. What are the things that one
+can look out for in a promoter, right? Just to do that. As I read through annual
+reports and financial statements, what do you suggest I focus on to help me to
+determine the quality and integrity of management? Well, we spent many, many
+years and we bought many things. I mean, without meeting managements at all,
+having any entree to them, the stocks, the 5 billion of stocks that we may have
+bought in the first quarter, most of those were companies I'd never met the
+management, never talked to them.
+
+[0:01:11]
+We read a lot and we read annual reports, we read about competitors, we read
+about the industries they're in. In terms of sizing up managements, obviously if
+we're gonna buy the whole business, that's a different question than you,
+because we're gonna buy it, be in bed with them, and they're gonna run them. And
+we care very much about whether they're going to behave in the future as they
+have in the past, once we own the business. I mean, that very good buck on that.
+
+[0:01:33]
+But in terms of marketable securities, we read the reports. Now, Charlie and I
+were just talking about one the other day where we read an annual report of a
+large oil company. And the company, you know, 100 pages, public relations
+people, lots of pictures, spent a fortune on it. And you can't find in that
+report what their finding cost per MCF or per barrel of oil was last year.
+That's the most important figure.
+
+[0:02:00]
+in an oil and gas company over a period of years, but every year it counts. The
+fact that it wouldn't even be discussed, the reason it wasn't discussed, it was
+absolutely terrible, but the fact that it wouldn't even be discussed and to the
+extent it was touched on, it was done in a dishonest manner. When we read things
+where we basically are getting dishonest messages from the management, it makes
+a difference to us. Like I said, marketable securities, we can solve that by
+selling the stock and it's not the same thing as buying the entire business. But
+I think you can learn a lot
+
+[0:02:28]
+reading the annual letters i mean for one thing it's clearly that the product of
+some investor relations department or or uh uh outside consultant or something
+of the sort you know that tells you something about the individual if he's not
+willing to talk once a year through a few pages to the people who gave him their
+money to invest i mean that uh everybody got i've got some questions about uh
+people like that so i like that feeling
+
+[0:02:49]
+that i'm hearing directly from somebody who regards me as a partner and and you
+may not get it all the way but i get it zero percent of the way uh i don't like
+it i still bought we still bought into some in marketable securities we bought
+into some extremely good businesses where we thought they were run by people we
+didn't really like very well uh we didn't feel like it screw them up then
+darling yeah i think that's exactly right but but there are two things the
+quality of the business and the quality of the management and the business is
+good enough it will carry a lot of your manager
+
+[0:03:19]
+This is a very important thing. If the business is good enough, it will carry a
+lousy manager. Right? How many of you remember that MCX almost got destroyed as
+a business in 2021-22? How many of you remember that? When software glitches
+were solved. When the software glitches were solved, what happened to MCX? I
+think it stopped almost 10-15 times.
+
+[0:03:39]
+IEX has an epic management, but now there's an issue in the business. Can the
+management do anything against coupling? Can the management do anything against
+coupling now? So this is a fine balance. Some businesses will make the
+management epic because the situation will be like this. In some businesses,
+even if it's beyond epic management, nothing can happen because the business
+itself is bad. This is a very important point that Charlie Munger has said here.
+Let's see the whole thing. The commerce tastes. If a really good manager gets in
+a really lousy business, he'll ordinarily have a very perfect record.
+
+[0:04:10]
+In other words, it's a rare person that could take over a textile business,
+totally doomed, which is what Warren did in his youthful folly, right? And turn
+it into what's happened here. You should not be looking for other Warrens on the
+theory there under every bush. I figured it out in 20 years though, I'll have to
+say that for myself. 20 years and I finally figured out I was in the wrong
+business. But if you gave me first graph pic,
+
+[0:04:32]
+of all the CEOs in America and said it's your job to run Ford Motor now or pick
+a company that's in a terribly tough business, I wouldn't do it. I mean, it's
+just too tough. They may get it solved. They get cooperation from unions and a
+whole bunch of things, but it will not be solely in the control of the CEO of
+that job. He is dependent on too many good things happening outside to say that
+he alone can get the job, even if he's the best in the world.
+
+[0:04:56]
+So what was a very important point here? I think there are two interviews which
+I'll show you. First important point was that see, inevitably the quality of the
+business matters. And then we look at the quality of management. First he
+mentioned quality of business and then he mentioned quality of management. This
+is a very important part because I've seen over the years, there are exceptional
+managements too. I mean people who are educated in IIT, IIM. But if the business
+is not that epic, then it's very difficult to have a very good outcome.
+
+[0:05:24]
+But very rarely you find an exceptional business run by an exceptional
+management. That is rare to see. So there is a chance of an epic outcome. But
+what is the first leg before we come to management analysis? As you have seen, I
+talk about TVGP but actually I talk about theme, growth, promoter and valuation.
+We also do TGP in practice. So theme and growth takes care of an epic business
+and then only we come to the promoter part to see that at least promoter won't
+take away money from us.
+
+[0:05:52]
+Now how to evaluate managers is another interesting one. Where he mentions what
+are the 2-3 things he is looking for in a management. Right now we are only
+looking at the management part.
+
+[0:06:04]
+And some of your managers were entrepreneurs who started their businesses from
+scratch when the business models were unproven. And some of them took over
+businesses that were already performing well when they took charge. What are the
+qualities of a great entrepreneur that might be different from those of a
+manager who can be great at running a company that's established but may not be
+able to start a business from scratch and think around with a business model and
+figure out how to make it successful? This is the idea of skin in the game
+versus a professional run company
+
+[0:06:48]
+themselves as making a profit in a few years on reselling a business and
+leaving. You'll find exceptions in both camps. But we've had terrific luck with
+the entrepreneurs. Basically, we love their businesses the way I love Berkshire.
+I mean, they are not going to let anything happen to their businesses. They'll
+call me the butt out if I'm going to screw up something in their operations. And
+they don't regard them, I mean, in a certain sense, I mean, they know they're
+part of Berkshire, but they regard them in a certain jealousy almost of being
+their businesses. And we love it that way.
+
+[0:07:14]
+You know, we didn't spot it when we see it. And we also didn't avoid it. We have
+never, I just got one in the other day. I'm an investment banker on somebody
+that wants to resell a business they bought a few years ago. Well, you know, the
+chances that they haven't doctored up the figures in some way or trying to sell,
+I mean, you know, it's a piece of meat to them. And if it's a piece of meat to
+them, you know, what am I going to do with it?
+
+[0:07:33]
+we if we make the proper judgment about the passion they have for their business
+uh they're going to keep running they may have a lot of money in the bank but
+they're going to keep running the business of course because they love those
+businesses and they they really are motivated the same way i am you know it
+wouldn't make any difference what i get paid you know i i'm identified in my own
+mind without berkshire does i really don't care how the rest of the world thinks
+about how berkshire's doing i mean in other words
+
+[0:07:55]
+When we looked like we were out of stuff a few years ago, that really doesn't
+make any difference to me as long as I feel okay about what Berkshire is doing.
+But I do, you know, that's how I measure what I'm doing every day, not by the
+price of the stock, but by what's going on in the business. And that's what, we
+have a group of managers like that. And I don't think there's, well, there can't
+be a company in the country, in my view, that if you could figure out some way
+to measure the passion involved in terms of running a business, I don't think
+anybody could come close to matching the quantity that we have managed to
+marshal together at Berkshire. It's been accidental over time, but it's really
+almost unique. I think it is unique, Charlie.
+
+[0:08:25]
+well it's very interesting to think about what matters most the passion or the
+competence that was born in uh certainly berkshire is full of people who have a
+peculiar amount of passion in their love of their own business and uh i would
+argue that probably the passion is more important than the brain power
+
+[0:08:45]
+by the time they get to us if they were passionate but incompetent well they
+don't get to us i mean we you know they're not going to be there unless they're
+competent but the question is whether they have a passion for money or passion
+for their business to some degree and like they all like money i mean and and
+the reason and they like it partly because it enables them to build the business
+they love uh uh but they don't we're not going to see an incompetent the
+passionate manager by the time we start playing out a lot of money for business
+they got weeded out a long time ago so i don't have to read those out but i do
+have to weed out the ones
+
+[0:09:11]
+who want to cash a big paycheck and go off and do something else at some time.
+And like I said, we've had great luck with that. But we have literally, I mean,
+we see lots and lots of businesses owned by, usually owned by financial operator
+types, where it's absolutely clear that, you know, they've come in, they've
+rubberaged it up, they play games with the accounting, that is about run out,
+you know, and they want to sell it. And interestingly enough, very often those
+are bought by other financial operators who think they're going to play the game
+a second time.
+
+[0:09:38]
+Right. So I think this is the generally the game of private equity people.
+Right. So that's the interesting part. So I think why is it important to sort of
+sort of basically measure the management is because business is good. Growth is
+inflecting. Everything is going well.
+
+[0:09:57]
+But then the management decides to sort of hive off the company into a
+subsidiary. This has happened in the past. But then a new management ends up
+coming in, right? So these are things which happen. But there are four things
+generally to look at a management. I think there are three things here, but
+there are four things. The first thing is, how is the company's capital
+allocation discipline? Because the thing is, if a company retains 10% of its net
+worth over the next 8 to 10 years,
+
+[0:10:22]
+So the manager gets 60% of the overall capital employed. If the company retains
+10% of the earnings for 10 years, then 60% of the overall capital employment
+decision is in the hands of the management.
+
+[0:10:37]
+So, capital allocation is something that matters. How was the business health in
+the down cycle? This is also a very important thing. If the company over
+leveraged in the down cycle, expanded, we will see examples here too. Then,
+treatment of minorities is an important thing. Whether you are treating minority
+investors properly or not. Along with that, in treatment of minorities, cash
+flow also comes. Accounting also comes, all those things come. And finally, walk
+the talk. These are generally four things to look out for in a management.
+
+[0:11:04]
+So what we will do here is first we will study the theory part and then case
+studies. So let's see what is capital allocation in the theory part.
+
+[0:11:13]
+See, first thing is first. Do you agree with me that when we do business, in
+business we are always competing with someone or the other. In capitalist
+society. Do you agree with me on this? Do you agree with me on this part?
+Suppose there is a manufacturing company that makes a product very well. Now
+while doing that, the company has 90% market share in that product. And now the
+company has an option to climb the value chain or stay as it is. Right? If it is
+a listed company, then what is the responsibility of a listed company? To climb
+the value chain or to stay as it is?
+
+[0:11:43]
+What do you think? You have to climb the value chain because shareholder of
+today makes money on the growth of tomorrow, not on the growth of yesterday.
+There is no other option. So sometimes when growth in businesses ends and those
+managements don't pivot themselves, for me that becomes a poor managerial
+decision.
+
+[0:11:59]
+Because you didn't take any risk. I'll give you an example. How many of you have
+heard about the businesses of Judge Zahil and Indiamart? Who has heard about the
+business of Judge Zahil and Indiamart? Both of them had growth. The rest ended
+here. Great businesses at one time. Very high return ratios. No growth. But both
+the companies made so much cash flow in so many years.
+
+[0:12:18]
+Companies tried to pivot something. India Mart tried that in the accounting
+software. Just as I'll pass, I think there is a cash of 4500-5000 crores on the
+balance sheet. And they have not done anything. They haven't done share buyback
+or return. What do you think? Is that good capital allocation or bad capital
+allocation? That is, I mean, that's a manageable decision. We are sticking to
+this. But even after having so much cash, they haven't done anything. So that is
+one more example. I think Kiri's example is also an example.
+
+[0:12:48]
+but if a company is not allocating capital well then eventually the growth will
+stop something to always remember that if a company is not allocating capital
+well then eventually there will be a point of time the growth will come to a
+halt or the growth will end up stopping wonderful example of the same Ambika
+cotton exceptional management but no growth mindset what do you think happens in
+such a scenario they make supima cotton
+
+[0:13:11]
+which is very rare, very fine and premium cotton. They never expanded it. It's
+been almost 5, 6, 7 years. I've been watching stagnancy for 10 years. It's been
+10 years since I've been watching stagnancy. But had the management been hungry,
+they would have done something different. Another example, large-cap IT services
+companies. Large-cap IT services companies. Like, one buy-back after the other.
+Let's take the example of Wipro. Wipro has growth. Wipro is the biggest example.
+26 years ago, Wipro peaked.
+
+[0:13:41]
+In the middle it was crossing for a year and then again it's down versus the 26
+year ago peak Because the promoters are happy, management mindset is not there,
+management is not involved in the company So there is no value chain climbing,
+it's a professionalized management setup There is no adjacency they are entering
+into, sometimes the company goes into non-co-diversification
+
+[0:14:00]
+That also becomes a risk. For example, in 2020-2021, which companies announced
+ethanol plants? Even manufacturing companies were announcing ethanol plants. How
+many of you remember? In the last 2-3 years, how many companies announced solar
+panel plants? I will give you a best example in this. There is a very good
+capital good company which hasn't moved even 1 inch in the entire capital good
+cycle. Because they did non-core diversification.
+
+[0:14:25]
+Right? So if non-code diversification becomes a big part of capital employment,
+then that too is a risk. It is a capital allocation problem. Then it is seen in
+return ratios. And finally, things reflect in short-term versus long-term
+orientation. So this is your capital allocation and this is why capital
+allocation matters. We will look at it further. Then there is another ultimate
+test of management. What did the management say and what did it do? Let me do a
+quiz. In the last one or two years, do you remember some of the management who
+kept coming on TV to give interviews?
+
+[0:14:54]
+Everyone will remember, 2-3 managements are very common. They can write their
+names. Both are Zed. Right? One is a defense company and one is a payments
+company. Even though defense company is a good business, but the type of over,
+like it just becomes too much beyond a point. Even the, like one of the solar
+groups,
+
+[0:15:12]
+Has been non-stop coming on TV to give interviews. Yeah, Tapas, you mentioned
+the right name. Another EMS company says that every quarter cash flow will come,
+but it doesn't come. Today, 8 quarters have come. Cash flow has come in this
+company. Right? So, these are examples. Right? So, again, this is the ultimate
+test. Whether the company is walking the talk or not.
+
+[0:15:33]
+Whether the company, whatever they have said, they are doing it or not. Like, I
+agree that business is a dynamic thing. But if you are saying 5 things, the
+direction is a little bit, if I say 30% growth will come, but I26-27, then also
+it is fine. But if I say 30% growth and bring 10% growth, then that is not
+correct, right? So how much degree of variance is there in misses, that is also
+a big thing. With media appearance, I think,
+
+[0:15:55]
+It's a big red flag. I think there is a company which is a travel and tourism
+company. Non-stop promoter kept on coming that we won't book Maldives for
+people, won't let people go to Maldives etc etc. So how has that stock done now?
+I think we did that first forensic case study 3 years ago. I think it has become
+an easy to tell stock.
+
+[0:16:20]
+See what has happened. I think the market cap has also lost almost 70-80% of the
+value. So too much media visibility is a problem. Another problem is, again,
+it's not that the management is bad in the media, but you should think about
+what is the need to come so much.
+
+[0:16:38]
+And one more thing is that I have seen one thing, this is a very stupid way to
+think. If any management is sponsoring a lot of news anchors, financial news
+anchors. You have seen that on the laptop they put their logo, they put their
+logo in front of the stock ticker. Do you think that is something that is a
+kosher practice or a non-kosher practice?
+
+[0:16:59]
+And why will a company do that? Right? I mean, again, it's a pinch of salt. Yes,
+again, if a company runs a mutual fund, then it is possible that you are
+marketing a mutual fund to a financial investor. But if a company is from a
+non-financial services industry, is doing non-stop marketing, right? What does
+it indicate? There was a pipes company which kept doing this, right? There was a
+wind energy company which kept doing this. Deepak mentioned the correct thing.
+Right? So, again, we have to at least look out for these things. There are
+small, small things, right?
+
+[0:17:29]
+And the thing is that true operators always let the numbers speak for
+themselves. I posted a tweet a while back. I'll show you the tweet. I think
+people at the bottom of the tweet were crying about the valuation. But again,
+you can see how some of the businesses have done since then. Right? Actually,
+just a second. I'll just show you the tweet. Right? Just over here.
+
+[0:17:50]
+So now I will give you the answer to that tweet. Just wait, this is the tweet.
+So let's read the tweet. First, you can read the tweet, then I'll just like come
+towards this. Something is common amongst these manufacturing companies, whether
+it's Anacuda, Sunsera, TDPS, Manorama, Lumax, Otto, Scilife, Naveen, Florin.
+From today, I think, after putting the tweet 6-7 months ago, I think that's been
+it. And these were 8 companies I mentioned intentionally. Now I'll just
+
+[0:18:18]
+you've gone through. So what do you think is common amongst these companies? In
+terms of their management. There is some commonality in business. Climbing the
+value chain. Innovating. New products. I think their promoters are very rare on
+TV. But one very important thing that was common amongst all these was they
+spoke less and delivered more. There was guidance of the companies. There was
+guidance of the company. Always they mentioned 10-15% and how much growth did
+they get in the end? 20-25-30%. Right? They always...
+
+[0:18:46]
+Intentionally sandbagged the guidance and delivered more. If you look at TD
+Power's management. TD Power's management started last year with a guidance of
+13-1400 crores. In the end, it ended at 1700-1800 crores. This year's guidance
+used to give 2100 crores. Then it did 2300 and now it has done 2700.
+
+[0:19:02]
+And you're able to correlate that it's something that is inbuilt into the
+management. It's something inbuilt into a management. Someone mentioned a
+defense company that is totally correct because they have to sell promoters'
+shares because they're politically exposed person. So they have to give over
+guidance. So look, there's an industry cycle. First, we have a business. First,
+we do theme, growth, promoter and valuation. Theme and growth. But markets end
+up falling in love with managements who can surprise them.
+
+[0:19:29]
+A management which is coming on TV and saying I'll grow 50% and ends up growing
+40%. Or a management who's coming on TV who says we'll grow 15% and ends up
+growing 40%. Which one do you think market will value more? The former or the
+latter? It's the latter, right? And actually I'll urge you to read the comments
+on this tweet. Everyone will be like, it's an expensive valuation, this and
+that. Like people don't think beyond valuation. Valuation is the tool to become
+lax in terms of avoiding business analysis. I've always thought of it that way.
+
+[0:19:56]
+If you talk to an investor that I am reading this business, even if it is a
+little expensive, it will look like an expensive stock. That's the usual. That
+is why we say you keep theme growth promoter and valuation, not valuation first.
+Right? So that's the important thing to remember. I think you will see very
+common tweets here that valuation is expensive, this and that. Then that will be
+an interesting thing to see. And you can see what has happened in the businesses
+in terms of growth rates since then.
+
+[0:20:24]
+So one thing is good about these type of management is that the true operators
+will let the numbers speak for themselves. They will say less and they will end
+up delivering more. And extreme financial precision is usually out of control.
+Let me give you one more example. This was a FOMO and MOMO stock of 2024-2025.
+It's an EPC company that was talking in the data center. But what I thought was
+the biggest problem of these people was that they used to give precise EPS
+guidance that I will get an EPS of 50 rupees.
+
+[0:20:57]
+30% missed. Then I will get this much EPS in FY27. The whole guidance changed.
+FY28, FY29, I will ask you something. What is the business of management to do
+financial forecasting? That I am going to get this much in EPS level. Can anyone
+guess which company was this? People have guessed it completely correct in the
+comments. But the precise EPS guidance, does it make sense?
+
+[0:21:19]
+for an EVC, B2G company to give. These are just softer aspects. No, Manish,
+there has been a change. There, the industry tailwind has changed after 2-3
+years. So first, I am always saying business. Management comes second, first
+comes the business. If there is a business or rate of change, then I come to the
+management analysis, the third part. So you understand, theme, growth, promoter
+and valuation. Theme and growth matters first. I am saying it again and again,
+theme and growth. Right?
+
+[0:21:43]
+I am ranking as the 3rd promoter, do you understand this? Right? So, important
+thing to, because we say in hindsight, this was obvious, giving precise EPS
+guidance. I could never invest in this company because of this. Right? So, that
+is there. Another thing is that frequent fund raises and tall claims, if a
+company does knowledge of fund raise after IPO,
+
+[0:22:03]
+that also becomes a risk factor something to consider for frequent fundraisers
+right that is there a core you point the softer aspect that before i go towards
+a lot of case studies pay close attention to those who leave the theater mid
+performance other frequent resignations right insiders know the exact size of
+the footprints high turnover in key executive roles or unexpected auditory
+changes obviously blowing events are ultimate indicators
+
+[0:22:28]
+Can anyone mention, can anyone tell me that in the last 5 years in HDFC Bank vs
+last 5 years, in the previous 5 years, what was the increase in whistleblowing
+events? What was the percentage increase? This is from News 23-24. The answer is
+almost 81%. That's the right answer. There was more than an 80% increase in
+whistleblowing events happening in HDFC Bank. This is the problem here, this is
+the problem here. First it started with the ATR1 bond issue. Right, in 22,
+22-23. And then it started happening in small incidents.
+
+[0:22:58]
+So these are small, I am a true believer that if there is any bad news on the
+banking side like financials, that there is something hidden in NPA or there are
+whistle blowing events, then you should pay attention. Those are things to look
+out for. So these are things to measure the footprint, not the shadow. Media
+appearances
+
+[0:23:20]
+Too many. Management relies on overpromotion. Actions fail to match the stated
+words. EPS guidance is especially precise. I don't know how people can give
+precise EPS guidance. There are 3-4 such instances in the last 4-5 years. Tall
+claims precede frequent fundraisers and insiders resign or blow the whistle. So
+these are some of the softer red flags that one has to look out for.
+
+[0:23:39]
+So this is in our softer red flags. Now what I will do is, I will leave a few
+parts and come straight here. And we will do this, there are three types of
+decisions, then we will study the case and then move on to the theory. So you
+have to judge management in three types of lenses. The first lens is red light.
+That the company did something that led to complete value destruction. This is
+called red light. It has signal of potential fraud and decisions that secretly
+move assets away from shareholders.
+
+[0:24:08]
+For example, the travel company where the promoter dumped his entire stock, he
+sold the majority of his holding. So that becomes a red light decision, value
+destruction. Similarly, yellow light, ambiguous decisions. Actions require
+scrutiny such as aggressive guidance and diversification into unrelated
+industries. If the core business is doing very well, but there is no shortage,
+let's suppose that a company announced an expansion of 300 crores, out of which
+10-15 crores were given for a non-core business.
+
+[0:24:36]
+Now that 10-15 crores is not a bad decision, it is a yellow light decision. I am
+not saying it is a red light decision. There you should observe why you are
+doing this, is the company going to invest more money? That's a yellow light
+decision. The third is a green light decision that represents reinvestment into
+core business, logical adjacencies and healthy capital growth. Right?
+
+[0:24:54]
+So these are the three ways in which you can assess any management decision. Now
+suppose there is a listed company and there is a problem in the unlisted arm. So
+that becomes a yellow light decision to see if the problem doesn't spill over on
+the listed arm.
+
+[0:25:09]
+But at the same time, if there is a big legal issue on the wholly owned
+subsidiary of the listed company, then that's a red light decision. These are
+small distinctions that you will be able to create over a period of time. Now
+let's take an example. If the company says that it has a 20% patent, then 18%
+comes. That's a yellow light. That's not a complete red light. But if it says
+20% and 10% comes, then that ends up becoming a red light.
+
+[0:25:33]
+So any management or managerial decision can be viewed with a couple of lenses.
+First is, how is the company's capital allocation? Is the company going into new
+projects with a higher margin or lower margin? For example, Vinati Organics. We
+will do a lot of case studies. In the case of Vinati, suppose the ATBS business
+did well for them. They didn't have any other trump card up their sleeve. So
+they started entering lower margin products. So the margin of 40% came down to
+27-28%.
+
+[0:26:01]
+So for medium term to long term, it was a red light decision because they were
+entering 14-15% EBITDA margin products. I made a video of Vinit in 2020, you
+will see that I have mentioned exactly this risk that these people are going
+into low margin products. So that was the red light decision. Red light is a
+value destruction. Stock has been stagnant over the last 5-6 years now.
+
+[0:26:21]
+What will be the yellow light? For example, let's take an example. There is a
+cable company that also does EPC business. They are doing EPC so that they can
+install the cables. Even though EPC is not a good decision business, but it's a
+yellow light decision. Because you will have to do that business to provide a
+complete book of services to the client.
+
+[0:26:40]
+What will be the green light? Will the cable company run on this conductor and
+wires, but purely focused on cables and wires? That's a green light honest
+capital allocation. But these are three ways in which you can analyze a
+promoter's decision making. Now let me ask you some questions here.
+
+[0:26:55]
+so that I can adapt to it. There is a management whose core business was doing
+well. What did the company do? Because the core business is doing well, like the
+company gives switchgear in data centers, let's take an example. What did the
+company do? Same business, the second model of switchgear, opened a private
+limited company and started the same business in it.
+
+[0:27:15]
+Is this a green light, red light or a yellow light? What do you think? I'll
+create these situations for you. Is it a green light, red light or a yellow
+light? In my view, it ends up becoming a red light. Because you took your
+business from your district company and put it in a private company. You are
+giving away business, giving away futures. This red light case happened in my
+view.
+
+[0:27:36]
+Let me give you more examples. There is a company, they manufacture tyres but
+their suppliers are blackmailing them for carbon black because the pricing of
+carbon black has increased. So they start doing backward integration even though
+carbon black has a ROC of 14-15% and their core business has a ROC of 25%.
+
+[0:27:54]
+Is it a red light, yellow light or a green light? These are fun questions to ask
+because these are real life case studies. It is a necessity and need of business
+but I will still consider it between yellow light and green light. Because the
+return ratio is low but a business can't exist without it. So it will be between
+green and yellow light because yellow light is not a deal breaker for us. It can
+also be green because it is needed for the business. But now the same business
+which was making off the highway tyres is now going into two wheeler tyres.
+
+[0:28:18]
+In which there is a bloodbath of the competition Is that a red light, yellow
+light or a green light when it comes to capital allocation decision making? I
+will simplify the management analysis a lot for you after this Just look at the
+examples Read the stock name story from the examples It's a complete red light,
+right? Diversification happened Exactly Now let's take an example Let's take an
+example of two listed companies What does one of the listed companies do?
+
+[0:28:45]
+that they float a defense subsidiary and in the defense subsidiary, the company
+does a fundraise by which the non-promoter, like the minority investor, the
+promoter or suppose there is a company whose name is, let's take an example of a
+company whose name is X, right, X Artillery Shells. They do tube and pipes and
+then they start a defense company which they make in a subsidiary, which is a
+wholly owned subsidiary of a listed company.
+
+[0:29:15]
+Now they fundraise in that company, in which they bring private investors, which
+the shareholders of the listed company will not get. Then in that company,
+earlier it was only around 5-7% of those investors, which is okay. But then they
+announce a bigger fundraise. Then the company also starts a third entity, right?
+The first entity, which is your defense entity, right? In that, at the end, the
+company owns 60-70% of the public limited shareholders and the private investors
+own 30%.
+
+[0:29:42]
+So is it red light, yellow light or green light? Things will be interesting here
+now. Maybe if yellow light wants money in the business. I mean, facts evolve.
+We'll see. Maybe if yellow light wants money in the business. But now let's see
+how this yellow light converts into red light. Now this same company 1-1.5 years
+ago, a green hydrogen subsidiary was floating in which there were private
+investors, it was not a part of a limited company. Now I don't know what
+business is going on in that, but that company is going to merge into a listed
+company, maybe there is some business in it or not.
+
+[0:30:12]
+Now what does this become? This becomes a green light, red light or a yellow
+light with the previous action in mind. With the previous action in mind, now it
+ends up becoming a red light, right? That is, you saw an old action, then you
+saw a new action, then it converts into a red light. Now are you able to
+understand that it's easier to sort of think about businesses, management
+actions in these three decisions?
+
+[0:30:34]
+It's an easier decision to think about. Nitinji, I think that will be a yellow
+light case because it's a complete private entity. But still, I'll track that
+closely now. Let's take another example. There's a company, let's take an
+example, JB Chemicals. They sold their Russian business in 2011-12. They got
+around 600 crores in cash.
+
+[0:30:53]
+They distributed 60% of the cash for dividends and kept the rest for capex. Is
+it a green light, red light or yellow light? It's a hugely green light. You
+agree with me? I will give you a lot of examples so that you can divide
+management actions into three things. It's a huge green light. There is a
+company called JB Chemicals. In 2010-2011, they sold their Russian subsidiary of
+600 crores.
+
+[0:31:18]
+60% dividend and 40% reinvested in capex. 60% divided the dividend of 360
+crores. Bumper dividend. That's a green light, red light or a yellow light?
+That's a green light. Now let's take another example. There is a small pharma
+company. First of all, small companies don't share buy back in India. In this
+business, there was an ESOP issue. The company's P&L got depressed due to ESOP
+issue. But to counter the P&L depression, ESOP is given so that employees stay.
+Let's take an example. There is a small pharma company.
+
+[0:31:47]
+They issued ESOPs and the P&L got depressed But to counter the P&L being
+depressed because their employees were poaching To counter attrition, promoters
+did a share buyback In which the promoters did not participate So that minority
+investors get maximum ratio of buyback
+
+[0:32:06]
+Is this a green light, red light or a yellow light? This is a green light, red
+light or yellow light? Or how many small companies were giving so much money
+back without the promoter participating? How many small companies buy back?
+First tell me this. Hardly. This is an example of Windlass Biotech, right? That
+they didn't buy back and the promoters didn't even participate. Buy back is good
+that the company's EPS increases for the existing shareholder. Not necessarily
+Utsav, I'll come to that.
+
+[0:32:32]
+So this is just an example, you will have to look at it in context. Now let's go
+towards another example. There is a company that has already warned that our Q1
+numbers won't be that good because there was a one-off issue which is solvable
+and the Q2 numbers will be good but the shareholders were warned in advance in
+the earnings call of Q4 and said that the entire guidance of the year is
+maintained but the earnings of Q1 won't be good because of so and so issue
+
+[0:33:08]
+Is this a green light, red light or a yellow light in terms of transparency of
+sharing? Is this a green light, yellow light or red light? This is honesty? This
+is green light? Or at least inform people beforehand. Because what happens
+later, then the management pushes you that look, this happened. So always read
+businesses with this lens. Sometimes management changes. Management changes in
+the sense that management didn't come.
+
+[0:33:34]
+So things will start changing. But hopefully with this activity, you will be
+able to judge management in green light, yellow light, red light. Drop a hell
+yes in the comments. It makes it easier for you to decide. Think about capital
+allocation of companies. If there is any confusion, you will think that green
+light, red light or yellow light. I think like this. I don't become an
+accountant.
+
+[0:33:56]
+Because if I become an accountant, I will start scrutinizing the 2003 decisions
+as well. But do you think it matters to look at the 2003 decision? It doesn't.
+Like in investing, it doesn't matter. Let's look at some more examples. Another
+example, there is a pharma CDMO company that did a KPEX of 600 crores. After
+doing a KPEX, in the last 5 years, the company's asset turns were cut. There was
+a USFDA issue. An employee did an overbilling of 82 crores. They took the full
+write-off. Right? And the company didn't deliver even once in the guidance.
+
+[0:34:25]
+Is it green light, yellow light or red light? This is a red light. And what is
+the name of the company? Everyone has the information. Haikal for example. So
+red light for example. These are examples. So see names are like commoditized in
+nature. What you have to take is my framework. You can take a framework and
+apply it. Whatever company you study, you can study that is it green light, red
+light or yellow light?
+
+[0:34:49]
+Now coming towards another example, again because it is evolving, governance is
+evolving, managements are always evolving. There is a company which has not
+shared any information with shareholders for the last 6 years. But now the
+company started doing con calls, the company got a big contract, and the company
+started doing investor presentations. Right? And it seems that growth can be
+sustainable in the company. And the company also started sharing more and more
+information. Is it an evolving green light?
+
+[0:35:17]
+Yellow light or a red light? What do you think? Because managements change.
+Someone correctly mentioned that at one point, the industry went bad and the
+company went bad. Sir, I am telling you. Business, rate of change, then
+management. Governance improves in such things. Green. Let's take another
+example. There is a company.
+
+[0:35:33]
+They used to mess up their stock a lot 26 years ago. There was a promoter family
+there and they did a lot of messing up. Now that particular promoter family left
+the business. Today they are getting lifetime best orders ever. And they have
+hired ENY to do restructuring of business. To make sure that the business
+becomes more minority friendly and more transparent in terms of giving
+information. Now this is an evolving green line.
+
+[0:35:59]
+Yellow light or a red light. Maybe yellow or green or who knows. But just an
+example. Evolving green or maybe yellow. Evolving yellow or things getting
+clear. It can be a mixture of green and yellow. So these are things to
+understand more. Let me take one more example. There was a company which was
+very shady but its asset was very good.
+
+[0:36:20]
+But then a corporate group came, which was very epic, which earned wealth
+everywhere And the corporate group came and bought the company, took out the old
+management What do you think happens to the management quality? It becomes a
+green light quality, yellow light quality or a red light quality If the actions
+of the management in all the three places have been green Is it now becoming
+simpler to think about management? I only think about green light, yellow light,
+red light from the last 4-5 years because it makes it easier
+
+[0:36:47]
+to distill things down into three things. It would have been easier, in traffic
+signals. It wouldn't have been easier. Muru Kapoor's example is, if there is CG
+power, then where will the company take money from people? Like now they
+acquired and completely changed the company, right? Recent example, Mahindra,
+SML Mahindra, right? If Mahindra has taken SML, then why did they take it? They
+won't keep a separate company, they will merge it. Right? So that's also an
+example. Mahindra's corporate governance across other group's companies has been
+epic.
+
+[0:37:14]
+So these are things that are very commonsensical in nature when we look back at
+it. Right? But yeah, this gives a good idea. So all your management quality
+decisions, whether it is integrity, energy, capital allocation, honesty or not,
+
+[0:37:30]
+You can filter the company in these three decisions. For example, Indian CDMO
+companies don't make money when they plant in Europe. Generally, 9 out of 10
+Indian companies fail when they plant in Europe. If I have these base rates,
+then what will I think? Is it red light, green light or yellow light? If a
+company goes to Europe for acquisition. If a company is doing acquisition in
+Europe for capability, suppose it is doing acquisition of 50 crores and the
+company has a PAT of 1000 crores.
+
+[0:38:00]
+might make sense, but if the company pats 1000 crores and makes an acquisition
+of 1000 crores in Europe then that becomes a yellow to red flag for me depending
+upon how the situation of the plant is. There is a very interesting example in
+today's case, right? Has anyone heard of Thirumalai Chemical Company? I have put
+such examples ahead, but I will still show you how to think. Now that company is
+doing almost a 2000 crore capex. Right? And they are doing fumaric acid. And the
+company is applying another acid because you get butane in the US.
+
+[0:38:35]
+Now the project is earning in cost overrun. The money involved in the project
+has gone up substantially post-inflation. The company raised one fund, raised
+another fund. Now the company is selling shares of Ultramarine. And the
+promoters have to sell landmines. And the company's projected ROC, if we look at
+it with new numbers, is now 6-7% from 15%. Now this is a green light, yellow
+light, or a red light decision. What do you think? See, management analysis is
+not just accounting.
+
+[0:39:05]
+It's also about what? It's also about looking at their capital allocation
+decisions. What is the company doing? So Dinesh ji, he was wrong. He would have
+changed his mind. Doesn't matter, no? We have to see. Business evolves. We have
+to track. Any business. Let me tell you what is the biggest problem with
+investing, I think. We feel that investing is like our school books.
+
+[0:39:27]
+If we answer 10 questions correctly, we will get 10 on 10. But do you think
+investing is like that? Companies evolve, new information comes in. There is
+always new information. So take new information and then set the odds. Then
+think about it. Then think about it. But it didn't turn out to be good. Now you
+have information at hand. You got the information, right? So, that's the simple
+thing to remember. Always think about this, that investing is a probabilistic
+field. If you think that you have seen the stock scans,
+
+[0:39:59]
+If you look at the screener, these were the things, then it will be like this.
+But you are in for a rude shock of your life. Because this is not investing.
+Information changes, incremental information comes. Let me give you one example.
+Again, we are giving in decision making. There is a pharmacy distribution
+company, which is saying in last year's Q1 FY26 that our cash flow will be
+positive. I think I covered that company on last IAS. I think on 2025 IAS.
+
+[0:40:24]
+The company's cash flow was not positive in H1, so in my mind, it was a yellow
+light. Then the company's cash flow became positive at the end of FY26. But the
+minority interest came in the PAT. Then there was no minority interest in Q1.
+And because the cash flow in FY26 became completely positive, then the markets
+also started taking notice. Now my question to you is, if the company's cash
+flow was negative in FY26,
+
+[0:40:50]
+regardless of the stock name, but the promoter was the guidance. So does that
+become a red light or a green light from yellow light? Because this is an
+evolving field. I want to tell you this because no one knows anything beyond a
+point. You judge information. You judge information as it comes. Is it clear
+now?
+
+[0:41:09]
+We can't have information prior hand because that is illegal things to do. But
+you judge information as it comes. This is a right investor mindset to have.
+Right? That's why we think of allocations. Businesses take good quality. Right?
+But now they reported almost a good cash flow. I think they got the cash flow of
+95-96 crores.
+
+[0:41:27]
+And then the business turned around. Now it has become a darling of the markets.
+But did you see that happening right in front of your eyes? It was a yellow
+light, now it has turned into a green light. Did you see that happening? These
+are examples. These are things that you have to remember. Why am I stressing
+this again and again? I think
+
+[0:41:46]
+Because our education field, the education system in India or the worldwide
+education system, it doesn't expose us to uncertainty. Whenever you sit on a
+promoter or business, you can never have complete information at that time. You
+can never. Because information evolves.
+
+[0:42:07]
+So this is our mindset in the investing community Like we have done maths and
+physics Like if we look at electricity If I switch it on, it will always switch
+on In investing, it's a probabilistic thing That whether the switch is on or not
+Because the new information The electricity has to reach the light Sometimes it
+will reach on time Sometimes it will get delayed while reaching So by doing
+yellow light, red light, green light You can read the decisions of the
+management
+
+[0:42:36]
+But is it clearer now that it's not a certain field. It's a probabilistic field.
+That's why 60-70% of the times if you are right, then you are doing well. If you
+are 100% right, then it can happen that you are taking less risk. You are going
+towards safer stocks also. So that's also the flip side of being right always.
+Right?
+
+[0:42:55]
+So you can take as much risk as possible. Because without risk, not taking risk
+is also a risk. But hopefully this clarifies that the promoter's judgement also
+evolves as new information comes. If it's correct, just drop a halyas in the
+comments. Because this is very important to cover.
+
+[0:43:14]
+Perfect. Great. So, let's move ahead. Now, we will go towards case studies. We
+will do case studies and that will track carefully. So, I think these are things
+that we studied. We have put them on the deck. I think all those things are
+there. But now, let's straight away go towards case studies. That will make our
+life easier. Now, like a tale of two cities, right? How many of you agree with
+me that there have been massive tailwinds in the CDMO sector in the last 5
+years? Who all agrees? Who all has attended SOIC sessions in CDMO? I think you
+all have taken the framework to see CDMOs.
+
+[0:43:51]
+It's not that they won't do it, it was obvious in hindsight. Can we say that?
+There were multiple such companies that did well, right? So let's see the growth
+in the last 5 years. Now these are just 3 CDMOs examples. So if you see, growth
+of companies is accelerating. And these companies have done well. In the case of
+Loras, I think. Now in the case of Loras, at one time, management was in the red
+light signal. Does anyone remember?
+
+[0:44:19]
+How many of you remember the $1 billion guidance? There was a red light signal
+at one time. But, managements learn. It's not a static field. This is what I
+want you to realize. But where did the company allocate the capital? Towards
+CDMO? By taking it out from the formulation? Now when the growth of CDMO is
+coming, has it re-rated? People were trolling it on social media. If you don't
+understand the business, then don't do it. But don't troll any business.
+Similarly, Accutas Chemicals is a good example. Since the last 3-4 years, the
+company has completely transformed.
+
+[0:44:47]
+Deez has been non-stop a good example. Yet the management has also changed with
+the business execution, so always remember this. But at the same time, there are
+3 CDMOs from CDMO and Tailrange who haven't done anything. Right? I mean, is it
+because... Let me talk about business and tailwinds. Right? But is it because of
+the decision of the management where these companies couldn't deliver? And we
+will also find out how.
+
+[0:45:14]
+Are you now able to correlate that same business, same tailwinds, everything
+same, same industry, but different outcomes. But different outcomes. Are you
+able to realize? Why does management matter? That 6-7 companies grabbed the
+opportunity by the neck and did everything well.
+
+[0:45:32]
+But now there were 4-5 companies in the same industry which couldn't grab the
+opportunity with both hands. Is it because of the promoter? Theme growth
+promoter. Now do you understand? Theme growth promoter. Why is the third part
+important? And when we evaluate the promoter, always look at the differential
+growth rates. In the case of Syngene, quarterly growth rates were like, in
+December 2023, it was a top line of 8.54 crores. It is still 7.36 crores. So,
+the quarterly growth rate didn't increase much. Actually, if we look at the
+operating profit, the peak of 232 crores, is now 91 crores.
+
+[0:46:05]
+Same if you see in HYKL, the top line of HYKL was 448 crores and degrowth is at
+403 crores. There is an active degrowth happening. In the case of Syngene, I
+don't think I can name even a single quarter over the last 12-16 quarters where
+they grew by 20-25%. In the case of Decal, there were some good quarters in
+between. In Decal, there may be a transformation, there is a dishman-cargo
+chain. But there are problems here too. There are industry-specific problems
+here.
+
+[0:46:32]
+I will share something with you that you all should read when you are analyzing
+management in India. A research team posted a thread from a SOIC research. A
+research team posted a thread that Indian companies over the years have gone on
+a buying spree in Europe. Those Indian companies who have bought a company in
+Europe What is their outcome? It will give you a good idea that Tata Steel,
+Apollo Tyres, Bharat Forge, Mothersan, Qumi, Unominda, Gland Pharma, Suprajit,
+Endurance, Sona, Navin Fluorine is also a small asset. Sterlite is also a small
+asset. So Darshan is getting integrated now.
+
+[0:47:12]
+But if you check this out, this thread out, then you will get an idea that if an
+Indian company is putting more money in European assets outside the core
+geography, until or unless it's an absolute necessity, generally it has led to
+capital misallocation in the past. So in the case of Dishman or Piramal Pharma,
+what is true for Dishman and Carbogen but not true for Dewey's and Loris or
+Anacutas? Do these companies have manufacturing plants in Europe? Again, same
+industry but different managerial outcomes.
+
+[0:47:42]
+I'm asking you, same industries but different managerial outcomes because below
+the line cost is a lot, now here you can judge the promoter here you can judge
+the action of the management because somewhere you have to make a judgment call
+on the actions of the management that's why investing is about getting sound
+judgment over a period of time there will be a mistake but in hindsight, by
+doing these case studies, a lot of clarity of thought comes
+
+[0:48:05]
+So here is Syngene, Decal and Hyacal. Let me take the example of Hyacal. The
+forensic findings have made it very easy for you. We have put forensic analysis
+in the stock scans so that you can do it for any company. Let me show you an
+example when we do analysis of management.
+
+[0:48:25]
+Let me show you an example here For example, like ICLE Now you can do stock
+scans into reports of ICLE and you can see the forensic report Now there are
+critical findings in the forensic report It is 1.1 and it has only started
+negative from the last 2 years Because Employee document alteration forced an 81
+crore reversal ICLE disclosed on 26th December that certain employees altered
+documents relating to revenue recognition and company reversed 81 crores of Q2
+FY26 revenue
+
+[0:48:52]
+External review found irregularities were limited to preponement of genuine
+sales with no impact on current or previous quarter. But the auditor filed two
+forms with central government under section 143 and Karo explicitly accepted
+this as fraud.
+
+[0:49:08]
+Then USFDA issue came in pharma company and then they did impairment of around
+48 crores so they were putting an agrochemical plant, the whole plant was write
+down so plant had a write down value of 250 crores and was not in commercial use
+management said that 300 crores of agrochemical plant was part impaired in Q4
+and is now being retooled then 26 crores of environmental compensation demand is
+there
+
+[0:49:35]
+Then seven clean opinions sit alongside a four-year audit trail, exception and
+fraud finding. I mean, it's just too much, right? But now just asking you a
+question. Green light, red light, yellow light. What light? There are mixed
+cases here too. I will discuss that with you. Sometimes the company's management
+transforms. I will give you examples of management transformation. I mean,
+again, small issues are fine but non-compliance is a...
+
+[0:50:00]
+Huge red flag. Let me take an example. If I look at Usha Martin in 2021, when he
+was doing deleveraging, when he was refinancing his cost of debt, when he was
+removing the pledge. So at that time, this forensic finding would be the right
+metric to look at or the wrong metric to look at. When in Usha Martin, the
+changes were deleveraging. Again, you have to take things in context.
+
+[0:50:22]
+Do you understand whether it was a wrong metric or a right metric at that time?
+Because again, there is a probability. In probability, you have to think in
+context. At that time, forensic finding was a wrong metric because the company's
+pledge was about to come down.
+
+[0:50:36]
+After the sledge, the company will have a big re-rate. When companies are
+turning around, that is true, you have to focus on the theme and growth first.
+Deepak will be yellow, but again, it can be yellow according to me, it can be
+red according to some people. Again, the idea is that you take a thought from
+me, you can put the names of the companies in this. If you have learned this
+framework from me, then the company name is not a matter.
+
+[0:51:03]
+But now same company again in Heichel's case, so we have made another tool
+called Guidance Tracker from here. That we can see the guidance report, what is
+on track and what is missed. The red one should always be read.
+
+[0:51:20]
+So here we will see the missed guidances, so first we will talk about the
+recovery of CDMO business, it never recovered Then we will talk about the
+revenue of 3000 crores by FY25 Let's see how much was the revenue in FY25, the
+revenue of FY25 was 1860 crores, so missed by a huge mile One is a 5-10% miss,
+if it is such a big miss, then green light, yellow light, red light what do you
+think it becomes?
+
+[0:51:46]
+You will only tell. Green light, yellow light, red light. If there is such a big
+mistake in the guidance, it ends up becoming a red light of thought. Right? This
+is just one case study. I mean, a guidance tracker can read the past. What
+management says and does. Right? This is a good way to look at things. Another
+example, in the case of Syngene, see the capex amounts. Let's see the fixed
+asset purchase from 2018 till 2026. 357 crores, 582 crores.
+
+[0:52:21]
+That's almost 930 crores, 630 crores, that's almost 1560 crores, 2000 crores,
+2500 crores, 3000 crores, 3500 crores, and then almost 4300 crores, and almost
+46-4700 crores from KPEX in 2018. right huge capex spent but according to that
+sales growth never came of the company now if a company is doing capex it's a
+good thing to look out for basically management is doing a good job doing capex
+
+[0:52:55]
+But if the execution is not coming, then here I introduce a concept of time stop
+loss. If you have a fundamental thesis in a company, no matter whatever
+fundamental thesis you have on a company, sometimes there are things which are
+unknown to us and which we might end up missing. Put a time stop loss on
+companies. This is just regardless of examples. So you can be saved from this a
+lot of times. Every 6 months, closely evaluate what the company has guided and
+what happened.
+
+[0:53:23]
+In the end, Jonathan Hunt ended up resigning. At one time, Syngene was the only
+listed CRDMO. Now, so many have been listed, that when you look at Syngene, you
+feel that there has never been any growth in it. In some, there was a growth of
+50%. In some, the business grew by 60%. But the true blue-eyed boy of the
+industry never ended up growing. There will be some problem in the management
+itself. So now the whole team has changed, the whole board has changed. I am not
+saying that the asset is bad. If you talk about Syngene in the pharma industry,
+it is one of the best assets.
+
+[0:53:53]
+But somewhere or the other, the management lost the plot. So this is why it
+ended up becoming a red light because the growth was poor. Especially when the
+growth of others were epic. Just like the management of Biocon admitted that
+Syngene lost its way, lost momentum. They lost momentum and it led to
+complacency. With a single large biologics customer. Now they have overhauled
+the leadership as it is good. See remember this, as it is very good.
+
+[0:54:20]
+Any regulatory track record, everything is clean. Cash flows, ash flows are also
+made. But management was not growth hungry, which was professionalized
+management. Now, someone from Biocon has went there, who is the CEO of Syngene
+now. So FY27 is a transitory year. Let's talk about strong growth from FY28.
+That's why I am closely tracking this company. Because the admission of red
+light here is that we made a mistake. Now I am closely tracking this company.
+
+[0:54:47]
+I am tracking whether execution will come back here or not because asset is
+good. Standard disclaimer, I don't own the stock. I am just tracking it out of
+curiosity. Because it has been a good asset in the past. So, transition year is
+FI28. They are talking about double digit growth. So, let's see if they walk the
+talk or not. That's the beauty of investing. You can never write off anything
+forever. And nothing is too good. Like good times don't last forever. Bad times
+don't last forever. Things evolve.
+
+[0:55:15]
+But are you able to correlate and understand that the old management was a red
+light in this company? Almost 8-10 years lost in spite of having an epic asset,
+right? They failed to capitalize, Yashu. I think from my understanding, again, I
+can be wrong. I've spoken to people in the CDMO sector. Again, take it with a
+pinch of salt because it's all scuttlebutt feedback. In the CDMO sector, the
+upper management has to be very involved with the customer.
+
+[0:55:41]
+The upper management has to be very involved with the customer because the
+customer is literally giving you 10-15 years of hard work. If the customer does
+not see that involvement that is in the upper management business, then you will
+not get contracts. This is why Murli Devi, if you read Forbes interview, even
+today he sits on the shop floor in his manufacturing plant. That shows you the
+level of involvement that guy has, right?
+
+[0:56:05]
+So after reading these softer stories, you get an idea that this industry is
+execution heavy. No one can make a CDMO business like this. It takes 10-15
+years. It's a relationship based business. One-off contract can be given to any
+company. But if you want to make a sustainable CDMO business, then it's a 10-15
+year gestation period business.
+
+[0:56:22]
+PI Industries is finding that out in Pharma, CDMO. You can see that they are
+finding it out. It was easy to make in agro. In pharma, it's been 5-6 years.
+Nothing to show for. Now, I think if the company gets more molecules in one or
+two places, then hopefully they do or they might do or not. But again, these are
+things to remember. So, that is there. Now, coming to another example. Now,
+quality of growth happens.
+
+[0:56:44]
+Why does quality of growth come? So let's take an example, there are three
+companies in one industry. One company manufactures smart mobile, makes a low
+margin but makes a lot of cash flow. The other company makes boxes for
+electrical appliances and manufactures tags.
+
+[0:57:02]
+PCV is going to components, but it is earning good cash flows in medical
+devices. The revenue of the third company is not that much from all these
+verticals, but to show revenue growth, the third company goes and buys the
+company in the smart meter. Quality of growth wise, the first two companies are
+getting cash flow, the third company is not getting cash flow. Even though the
+third company's growth is better. Which companies will have better quality of
+growth? Company A and Company C.
+
+[0:57:24]
+Now somewhere or the other, the quality of growth is the decision of the
+promoter, right? There is so much growth in the EMS industry, so in which
+segment am I entering? Somewhere or the other, it is the decision of the
+promoter, right? Do you agree with me? Yes or no? Somewhere or the other, it is
+the decision of the promoter on the business, right? The first two companies are
+Dixon and Sirma. The third company is the example of Keynes, right? Sirma
+actively de-grows the smart meter business. Keynes acquired companies by doing
+Iskra and Mecco. Around 43 crores. Then the smart meter business became 40% of
+the sales.
+
+[0:57:53]
+And this is their guidance thing. I don't know how many times I've seen in their
+phone call where they have missed the guidance. They have spoken about cash
+flows improving. How many times they have come on TV to say that cash flows will
+improve. I think we did this case study in our previous session. Have you seen
+the company reporting positive OCF? I think Q1 itself had a cash flow of minus
+600 crores.
+
+[0:58:16]
+What do analysts also ask in their corn call? What are analysts also asking?
+Receivable, inventory, cash flows, working capital. These are the 4 questions
+nowadays. Yes, when will Karan Arjun's cash flow come? So let's see what's going
+on in the company now. Again, these are things to remember. I mean, case studies
+to look at. So in the first quarter of FY26, the company's guidance is that
+there will be significantly positive cash flow in FY26, reiterated in Q2, Q3.
+
+[0:58:39]
+FI26 was a negative 600 crore cash flow Those standalone EMS cash flow they say
+was positive 250 crores FI26 networking capital sub 70 days But they ended at
+122 to 125 days And Q1 FI27 went 163 days, networking capital days How much
+money is stuck in working capital? Okay, margin expansion was also delivered In
+FI26, the revenue was said to be a minimum of 4500 crores
+
+[0:58:59]
+But in the end, I think what they achieved was 3626 crores. So that is, again,
+starting from 4500 crores, but simultaneously under-delivered. These are the 1-2
+things that were missed in the guidance. But even more missed, this is the
+important part. Now you read this particular thing. Because until you read these
+things yourself through case study, you will not be able to understand green
+light, yellow light, red light framework. Just to give you a context, in FY26,
+the sales of smart meter was around 900 crores. If I am not mistaken, the sales
+of smart meter was around 900 crores.
+
+[0:59:42]
+Now you just read this entire paragraph and tell me what's the meaning of this.
+Take 30 seconds. If your sale is of 900 crores in FY26 and your receivable is
+1300 crores in Q1 of FY27. Does it mean that the company is not getting money
+from that time? are you able to correlate like dear tribe members are you able
+to correlate now see there's never one cockroach in the kitchen there will be
+multiple such cockroaches to always remember this right who knows who knows
+that's the issue right there's no receipt sale is there that is true
+
+[1:00:20]
+So again, the beauty of this is that there are no case studies. You can
+understand. Like in the case of SGFC Bank, this news is old news. 80% increase
+in whistleblower complaints. I also saw the resignation of Chairman Atanu
+Chakraborty. I will ask you a very simple question. In a leveraged business like
+a bank, if resignations start increasing, whistleblowing starts coming, is it a
+red sign, green sign or yellow sign? What do you think about the management?
+
+[1:00:50]
+Banks are leverage entities, it's the most dangerous thing. If something like
+this happens. Is it green light, red light or yellow light? Someone rightly
+mentioned that we play squid games in promoter analysis. Now management is
+changing, so again we'll see how it goes with press late. Dinesh ji, that's the
+thought process. As soon as cash flow came, green light came. That is how we
+track companies, right? Yes, it's definitely red light, Gaurav ji. If NPA
+doesn't disclose details,
+
+[1:01:17]
+So always think in terms of evolution. Managements, either the business will
+grow in stature every year or will degrow in stature. So you have to see what
+the management is doing, whether it is green light, red light or yellow light,
+beyond the business obvious tailwinds. This is an example of EPS guidance. I am
+not making it up. There was literally an EPS guidance all the way till FY28-29.
+
+[1:01:40]
+right just think about this the fy26 eps of no less than 50 rupees right eps
+came at 46.6 rupees like uh then uh like fy26 order intake to be same level as
+fy25 right ended up missing this now again this from stock scans data center the
+venue 100 crores and 350 crores in 27 again ended up missing this right so
+disclosing
+
+[1:02:10]
+FY27, Minimum EPS Guidance of Rs. 75. Right? And EPS for Q1 was Rs. 8. So in the
+next 3 quarters, we'll have to do EPS of Rs. 62. I'm saying nothing against the
+company, but do you think one can forecast EPS to a decimal point level? No
+analyst can do it. You look at the reports of the last 3 years and then look at
+the future. Financial numbers will always be different. Right? These are things
+to remember. If there are too many guidances, right? So...
+
+[1:02:39]
+So that's the challenge, right? So this is a challenge. So let's look ahead. I
+think that is there. With too many interviews, another one. I don't think there
+are too many interviews which are required. Let me take an example. Zentech has
+revised down its guidance so many times. The first guidance was that they will
+do sales of 6,000 crores cumulatively. In FY27, it was of 2,000 crores. FI 26 is
+1000 crore, FI 27 is 2000 crore, FI 28 is 3000 crore So when you add all these 3
+years together, you get a sale of 6000 crore So the guidance is the only thing
+that changes
+
+[1:03:23]
+Then in FY25, the guidance for order and flow was missed. In FY24, the guidance
+for revenue was missed. And then, I don't know, myself would have seen some, at
+least every week or month there is another interview. How many of you have
+observed this also? One has to track as long as these companies deliver, but if
+they are not delivering,
+
+[1:03:44]
+Right, so it's a crazy thing. Now I think I didn't reduce the value of 4000
+crores by reducing it to 6000 crores. See, I also agree, managements are
+aspirational in nature. But as long as numbers are coming, you walk the talk,
+right? It's possible that the orders might change. Then we'll also change our
+mind. What's lacking in that?
+
+[1:04:00]
+Are you able to understand now why the yellow light, red light, green light
+framework is so strong? Are you able to understand, right? Another example in
+this, I think there was, let's not name the company, promoter is very active.
+There is a company where the promoter came on TV and said that my shares look
+very lucrative. I'll end up buying my stocks. My shares look very lucrative.
+Then he bought a stock of 10 lakh rupees.
+
+[1:04:21]
+I mean, nothing in terms of percentage of overall companies. But do you think
+that makes sense? I mean, why do you have to first come on TV every week? Then
+say these things, right? I mean, it's a simple management check. This is over
+promotional management, right? The moment he said that I'll buy my own stock
+because it looks very lucrative.
+
+[1:04:40]
+That moment it went from yellow to red in my books. Right? Yes, I mean, there is
+no sense. I remember Vakrangi and PC Jewelers at one time in 2018. When their
+stock price broke 60-70%, they announced the share buyback. And the day of the
+share buyback meeting,
+
+[1:04:55]
+That day, the company cancelled the meeting. There was no buyback. How many of
+you remember that? It was a terrible thing in Vakrangi. Yeah, actually, they did
+a share buyback meeting and they cancelled the meeting on the day. Right? Fun
+things to remember, fun things to learn from. No, this is 2018. I'm not talking
+about 2021. Right? Let's move forward and see. So this was the thought process I
+was talking about. How many of you run companies over here?
+
+[1:05:21]
+And this is also, it's a very important slide. How many of you run companies
+over here? In the comments. Does anyone run a business? Right? This is a very
+interesting data that you all should see. And this will tell you what is the
+power of a promoter? What is the power of a promoter? Like how it changes the
+aspect of companies, right? After 10 years in the job, a CEO's company retains
+earnings equal to 10% of net worth, will have to be responsible for deployment
+of 60% of capital at work in the business.
+
+[1:05:48]
+If you retain 10% of the company's net retained earnings, then eventually you
+have to redeploy 40% of the entire capital in 10 years. If you retain 10%, then
+61.4% is the correct answer. If you retain 15%, then over 10 years you have to
+redeploy 75.3% of the total deployed capital.
+
+[1:06:12]
+So as someone who runs a business, what's your most important job? Do you think
+about capital allocation? Will you at least stop and think about it? You have to
+become a better promoter. But is it a good thing to understand? Good thing to
+understand? Basically, I'll just show it to you in a better way. Just a second.
+
+[1:06:32]
+Because if you want to run a business, you are also a promoter, right? Just to
+worry. I think I had solved this mathematically as well, so I understood it like
+this. Look here. If the company's net worth, which the CEO inherits on day 1,
+each year the company retains 10% of the earnings. So equity compounds, net
+worth is compounding. Suppose I earned 100 rupees today, I retained 10 rupees,
+right? So I went into the net worth. Next year, I earned Rs. 120. So I retained
+10% of that. I retained Rs. 12. So while doing this, I retained 10% for 10
+years.
+
+[1:07:12]
+So when I plug in 10 years, what will happen? 1 minus 1 upon 1.1 raised to the
+power of 10. So the answer will be that over 10 years, I will be responsible for
+allocating 61% of the incremental capital base if I retain 10% equity earnings
+every year. So what happens? If this is a 15% number, then it will be 75. If it
+is 10, then it will be 61. And if it is 5%, then it will be 40. This is just a
+mathematical representation of the consequences of the decision-making that a
+management takes. I mean, it went into that, but the people who do business,
+
+[1:07:50]
+Will you be able to understand this? It's the same with your savings. Will you
+be able to understand this now? That why? Wherever we invest, will we think
+before investing? Will we think before investing? I mean, we will think at least
+once. I mean, it's a very small thing, right? Actually, it's a well-born
+movement because we don't think about capital allocation in this way. We have to
+use it somewhere, sir. Decision-making gets better by understanding small
+things, right? So, just going forward, yeah.
+
+[1:08:16]
+So, this is why I think there are only Thirumalai chemicals, Malic Acid, Fumaric
+Acid and Malic Anhydride KPEX announced. Now, this is a huge capital allocation
+decision because they are doing a clear 2000 crore KPEX. I think what is the
+company's market cap today? Again, let's see. This is for Thirumalai. The
+company's market cap is running today. It is a market cap of 1900 crores. It is
+a KPEX of 2000 crores. The enterprise value is of 3800 crores.
+
+[1:08:44]
+If the company has an enterprise value of 3800 crores and a market cap of 1900
+crores, what do you think? The rest of it is debt. The company already has a
+debt of 1800-1900 crores. The company already has debt. Right? The company
+already has debt. And the capex of 2000 crores. Now the capex has spilled over.
+Now they have to sell their assets of Ultramarine and stuff. They are selling
+shares of Ultramarine.
+
+[1:09:04]
+The overhang on Ultramarine is actually made up of Thirumalai's poor execution
+Because the promoter family is the same, right? This is where the problem of the
+sister company is spilling on this Yes, I mean the problem will spill Because
+now they are selling the stocks of Ultramarine also, that also creates pressure
+And now they are also selling their land Then another fundraise they are doing,
+planning, I don't know what they are planning So what happened to them here,
+their credit rating has also been downgraded by the way
+
+[1:09:29]
+Cost has overrun, right, so more than expected, now the commercial has escalated
+to 340 million dollars. Actually, the capex of 2000 crores, now that has gone to
+almost 3000 crores. Commercial operation is delayed, so now targeting at
+December 26th. Construction delay has also increased, right, so it has stretched
+the company's balance sheet, resulted in current liabilities exceeding current
+assets.
+
+[1:09:52]
+When current liabilities exceed current assets, then there is a liquidity issue
+in the company. Yes or no? Because my short term liabilities are more than my
+short term assets. What do you think? Does it lead to an issue in the liquidity
+of the company? Sir, this is an example, Rupanji. This is a derived example.
+What else can be an example, sir? Right? There is a working cap issue. Right?
+Again, there are small small issues. These are the issues of KPEX.
+
+[1:10:18]
+Now they are, I think they just, I think on 30th August, like, approved sale of
+Ultramarine's shares. I think they've approved a sale. Ultramarine, even though
+as a business, is doing really well. Now they are doing what they're doing. And
+financial strains have come through Mulai. So, we'll have to check.
+
+[1:10:35]
+One more example, I think I'll rush through case studies because we have studied
+the entire framework well, that gives you an idea. Another example, in 5 years,
+you agree with me that the auto cycle has given a huge upcycle in the last 5
+years, especially in the auto industry. Now see, the capital allocation that
+Warren Buffett was explaining to us, this is what eventually spills over to
+stock price, right? There are some companies like Sandar, their plant is in
+Romania, Varac is in Europe. Prickall is India focused, Gabriel is India
+focused, SJS is India focused, Lumax is India focused.
+
+[1:11:12]
+Even though the entire industry has been through a huge run-through, but are you
+able to see the difference in the outcome between the 5 companies? Even though
+Sandar and Veracruz have market leadership in some segments, are you able to
+correlate that this is a capital allocation decision that will impact the stock
+price returns in the end? Are you able to correlate that this is a promoter
+decision that when the return ratios are impacted,
+
+[1:11:38]
+There's huge return difference, right? We think like this in the long term. If
+you put Rosy's edge track, it ends. So the promoter part is equally important
+when you see where the promoter is putting incremental money.
+
+[1:11:52]
+If the increment, like suppose today we are doing high tech management. Today
+they say that we are going to Bop and Bupet. In Bop and Bupet, the margin
+becomes 6-8%. Do you think that will be a red light, green light and yellow
+light on decision making? I think that will be a huge red flag. I mean it will
+be a red light. But the company is going to TPU. The company is going to TPU. In
+TPU, the company's margin will also increase. So are you able to think how to
+think in green light, red light and yellow light? I mean these company names are
+all commodities. But you are able to put a framework, right?
+
+[1:12:22]
+that by doing backward integration from TPU, the margin of the company will
+increase. There is a guidance of 100 to 200 BIPs. Right? We are going to
+value-added products. So this is a thought process to take. Right? You can apply
+this thought process regardless of companies. I think this is an example.
+Another one. Very good example.
+
+[1:12:40]
+Have you seen the difference between the performance of Schneider, Hitachi and
+Siemens? Especially Hitachi versus Schneider. Schneider's business is very good.
+Schneider's data center is full of monopolies on Schneider's products.
+Schneider's data center is full of monopolies on Schneider's products. By the
+way, I have collected data from Stockscans Research ASA.
+
+[1:12:57]
+What is the problem with Schneider? You can catch the problem with Concall
+because investors ask in Concall that in which entity is your data center
+business? So Misha management replies that it is in private limited entity. So I
+did a simple search on Stockscans that how many private limited entities of
+Schneider Electric are there.
+
+[1:13:13]
+The answer is 8. These entities are private limited. All of them are in the
+business of DC. All of them are in the IT business, the data center secure power
+business. And the major export of Schneider's company is in the unlisted
+entities. Just let me show you one thing. It's also easier now because by using
+AI, you can get these things out.
+
+[1:13:40]
+So let me just showcase this to you. Just a second. I was just reading the
+management call and this question was very evident. And then I just did a
+search. You see eight such entities which are in private limited entity. So the
+data center business is completely private. This is not with the listed company.
+This business doesn't come under a listed company. See, all these are private
+limited. So these are promoters' own entities.
+
+[1:14:11]
+If we do the same thing in Inglesore Rand, then it will be seen there too. But
+in the case of Schneider and Hitachi, there will be a lot of difference in
+returns. Hitachi has become a company of almost 1.5 lakh crores, which is doing
+a lot of business in listed entities. Here it is happening in unlisted entities.
+But are you able to relate? It's a promoter decision. It's an MNC decision,
+which has led to this dichotomy of returns. Are you able to correlate now? This
+is the power of management analysis, right? So when we
+
+[1:14:38]
+Let's talk about TVGP. That is Theme, Valuation, Growth and Promoter. Right?
+Sometimes if the theme or business gets spoiled, like if the theme or growth
+gets spoiled, then no matter how good the management is, it takes time for the
+cycle to come back. I'll just take this as a last case study. Has anyone seen
+this meme of Pravesh Ravel? I'll show you an example. Just read this company's
+commentary.
+
+[1:15:07]
+So this company did a heavy engineering business but they added an Ethanol
+Asset. And Ethanol Asset has losses in it. Now read the answer once. What does
+this company say? I will just disclose the company's name with you. Just take
+15-20 seconds and go through it. Have you read it? Can anyone guess the name of
+the company? The company's name is Izzec. There is such a big bull market in the
+capital market, like in capital goods. Izzec has been such an epic company in
+the past. But the incremental capital allocation, by adding ethanol to ethanol,
+I think they have added ethanol to every plant.
+
+[1:15:50]
+Right, so that's the problem. They're doing losses, non-stop losses. What's a
+capital good company doing in an ethanol plant? I don't understand, personally.
+Maybe for me it doesn't make sense. Right, for, again, these are like your, I
+mean, this tells you a lot about the management, that when the money is good,
+what is the company doing with that money? Right, let me just go through this
+once. Right, so Philippines has an ethanol plant, which is almost consolidated
+in PBT, it has a drag of 83 crores.
+
+[1:16:20]
+Because of loss from the Philippines ethanol plant. First question first. What
+is a capital good company doing in ethanol business? This question irritates me.
+The second question is out of all the places in Philippines. Right. Been 5
+years, epic asset, but markets doubt, markets will always doubt, right? The
+markets will end up doubting always, right? So, these are things to remember,
+these are things to learn from, right? So, again, we are seeing these things
+because the more life case study we do, the better it is.
+
+[1:16:52]
+So the answer is that if we close it like this, then it is still an asset in
+loss. We have put so much money, what can we do about it? You think this is a
+green light, yellow light or a red light answer? Does this answer inspire
+confidence that the company will do the right thing? Yeah. It is an example. It
+is very unnecessary diversification. Right? So in the promoter part, these are
+things to remember. Now there is one more example. Now promoters learn.
+
+[1:17:15]
+Now, I think it's been a year since Physicswala got listed, right? After a year,
+Physicswala announced in the first quarter that they are entering a school. That
+they will build a school and invest 400 crores. The company has a cash of 4-5000
+crores.
+
+[1:17:30]
+What do you think? Green light, yellow light, red light. Especially looking at
+the EdTech industry. Asset heavy business, platform business is going on asset
+heavy business. It can be business sense, right? But the market won't get much
+confidence. Yellow too, right? Then who is the second one? Stopped the Q1 one.
+In Q1, I said, in Q2, I said that no, we won't do it. School won't do it. Right?
+Because we got feedback from the market, so we didn't do it.
+
+[1:17:54]
+Then 2nd Concord also announced that we are making NBFC, through which we will
+finance the admission of our students. And what do you think the market's
+reaction would have been? Green light, yellow light or red light? By the way, it
+was stuck that's why it was red light. After 4 days, it closed that we will not
+do NBFC. Then in the next quarter, NBFC divested. Announced that we are
+divesting NBFC, we don't want to do it, we will tie up Bajaj Finance and HGFC
+Bank. Because they are already providing finance.
+
+[1:18:24]
+In this corn call, he said, as we said, we are not doing any new capital
+allocation. No new surprises are going to come from here. Now, are you able to
+understand that managements also learn from these experiences? I mean, in my
+eyes, it's still yellow. The jury is out because he has so much cash. I don't
+know what he'll do with this cash. I think a company worth 1000 crores will take
+free cash flow in 2 years.
+
+[1:18:44]
+But companies also learn. This is a learning thing also. Right? Promoters learn.
+So this green light, yellow light, red light. It's like, before marriage have
+your eyes full open. After marriage, half shut. Half shut is said so that you
+still assess things. Right? These are things to understand. Right? It's
+important to look at. Like Saurabh said, NH has an insurance strategy. Yeah, you
+assess closely. Q1 has a loss of 50 crores. Let's see for the remaining year.
+I'm also assessing closely.
+
+[1:19:13]
+In my mind, this green light, yellow light, red light, things are not static,
+they evolve. If the insurance losses do not come down throughout the year, I
+will see that they have goofed up somewhere. There is no growth at the PAT
+level, there is 50-60% growth at the EBITDA level. So I will think about it that
+way. But sometimes it is an accounting jugglery also, that for the whole year, I
+mean jugglery not in a bad sense, but for the whole year, you took your
+insurance loss in the first quarter.
+
+[1:19:40]
+That is also conservativeness in accounting. But in the next 2-3 quarters, we
+will get our answer. Evolving. Nothing is static. Evolving. I have been tracking
+that company for now 5 years. And again, I always think out from this lens that
+how is it evolving?
+
+[1:19:55]
+So you will get a lot of clarity. I think there are one or two more case studies
+here. I think there is a difference in execution. Like Surya Roshni was once the
+market leader in steel tubes. It used to sell more than APL Apollo in 2014.
+Today APL Apollo has become almost three times of Surya Roshni. In steel tubes,
+it is nearly four and a half times of Surya Roshni. Right? Isn't it? Because
+Surya Roshni, promoter in fighting, politically exposed person became a
+promoter.
+
+[1:20:24]
+Earth's very promoter who ran the show is nowhere to be seen now. I think he has
+some health issues sadly. So they say that there is no one left in the company.
+As in there is the skin in the game. Whereas APL Apollo has had management
+continuity. So this is just an example. Even after seeing the execution, if you
+see it like this, it will seem that even if we see the sun and the light for the
+last 3-4 years, there is no growth.
+
+[1:20:50]
+But it's important to look at the management continuity also for a green light,
+yellow light, red light filter. For example, there are PI Industries. According
+to me, there is no red light in a company like PI Industries.
+
+[1:21:01]
+The business situation of the PI industry has deteriorated because pyroxasulfone
+is half of the sales. This happens a lot in CDMO companies. For example, half of
+the sales in Accutas is darlutamide. If darlutamide is finished by tomorrow,
+then how will it replace half of the sales in Accutas? So that is a challenge,
+which is a 5-6-7 year challenge. To solve this challenge, PI acquired pharma
+companies, started electronic chemicals, did innovation in actam molecules, and
+basically entered biobesticides.
+
+[1:21:26]
+Now they have sowed seeds. Now they don't know from where things will start
+erupting. But yes, absolute green light, it is in yellow light stage for me. In
+the next 2-3 years, I will assess whether the growth comes back or not. Because
+my assessment has to be absolute in nature. I have to judge management in these
+lenses. Because the more I think in these frameworks, the more my decision
+making improves. So this was the P class about the promoter in TVGP.
+
+[1:21:53]
+Before we just go towards questions, I'll just do a recap. These are the things
+that we learned. There are 5-6 indicators to look at. I think there are 5
+indicators. First is signal versus noise. How often is there media presence on
+TV? Now there is a lot of presence. You should think a little about the need for
+media presence. Is there any fundraising coming?
+
+[1:22:16]
+Indicator 2 is that whether the management is walking the talk or not. If it is
+giving a precise financial forecast, then you should be a little careful.
+Approximate guidances are okay. Like I have told you about the example of
+companies that talk about 15% growth and deliver 40%.
+
+[1:22:32]
+Indicator 3 is frequent fundraisers and tall claims. These are things to
+remember. If there is a lot of fundraising, then there is an indicator. The
+biggest red flag in SME was that every SME had to fundraise. So it was very easy
+to avoid there. Indicator 4 is that there is a tone in the con calls of the
+management. As I show you an example. Now again, this is a good learning for me
+also, right? Because, right?
+
+[1:22:59]
+means I assess this company very closely then because the growth wasn't coming
+then it was very easy to take decisions right now this is a company which listed
+and here again I will make you read now you read this once I will read it or you
+will read it yourself once I will tell you in crux, perfect then here
+
+[1:23:16]
+Bajaj Shah asked a question in his first ever con call. Is there a 27-28%
+margin? There is no working capital issue and you are talking about 30% growth.
+If there is such a golden picture, is there any risk if anything can go wrong?
+So the promoter answers. You have raised a very beautiful good question. I am at
+your pace. I am assuming so much beautiful lucrative everything is happening. It
+seems like a big dream project.
+
+[1:23:37]
+it is working out according to a dream that's such a big dream I think it even
+while sleeping at night when we sit together what negative factors could come
+definitely think business meh kuch negative ho sakta hai but abhi kuch negative
+dikhne hi rag raha generally I am not able to understand what I am able to think
+negatively so it's a big mystery for me as well So he then again asked, you are
+a successful businessman, do you have skepticism or will this be a beautiful and
+wonderful dream? So again, he talked about neutrality, but if you listen to the
+answer in Hindi, the answer was that
+
+[1:24:10]
+The way he sounded was that nothing could go wrong in this. And he kept guiding
+for higher growth. So this was his first answer. If you see, I am not able to
+understand that there is no risk in his business. And he also mentioned that
+Oswal market share is also very very big. And company is achieving big heights.
+These are the things that he mentioned. But now let's see what has happened. Now
+this is a margin of the company post that particular quarter.
+
+[1:24:36]
+actually surprisingly that quarter also also peaked close to the peak 27
+percentage went to 23 went to 25 went to 23 has now come down to 15 percentage
+right though even though yoy growth but sequential growth started flattening now
+in such scenarios
+
+[1:24:51]
+Once you analyze for a quarter or two, in this scenario, I think the industry
+got spoiled because the tender rate got cut. The solar industry got spoiled. But
+whenever such an answer is given, right, and also when the numbers are not
+backing it up, at least should I go from green light to yellow light or red
+light or not? And everyone has learned exit pointers in SOIC classes. But are
+you able to correlate? Right? Yeah, these are things to understand. Like
+Supriya's management is in yellow light for me.
+
+[1:25:19]
+Now they are saying that we will recover in Q2. If we recover in Q2 then it will
+come in green light. Right? That's the thing. I don't have much opinion in
+conglomerates because I think they have so much money. They have so much money
+in conglomerates. They have a problem of plenty. So they will enter every low
+margin business. So that's why I don't buy conglomerate owned stocks that much.
+That's my own thing because I am not able to ever analyze the management.
+
+[1:25:46]
+Let's say or do ratio, walk the talk or not and finally that there are no
+frequent resignations, companies are not whistle blowing and all of these things
+we can convert it into one thing that is the traffic light framework. Red light,
+yellow light, green light and this framework also evolves.
+
+[1:26:03]
+So this was our class of the promoter part of TVGP course In which we see theme,
+growth, promoter and valuation In theme we see whether the theme is good or not
+from the perspective of 3-4 years Like very difficult to find winners in a
+cement stock Very difficult to find winners Maybe a private sector bank
+Difficult to find winners Especially large private sector banks But easier to
+find winners in precision engineering, auto ancillaries, pharmaceuticals, CDMO
+Because there were no fertile to find winners
+
+[1:26:35]
+Similarly, rate of change. Any business's rate of change towards a negative
+growth, that is inferior versus any business's rate of change towards a positive
+growth. So those are things we look out for. Then we see the promoter, like we
+saw the difference between Sandar and Varrock versus a Lumax or a Bricol or a
+SJS. That how the outlook got different for 5 years. Because one promoter's
+plant was in Europe, some promoters' plant and some were purely India focused.
+
+[1:26:59]
+And then finally we come towards the valuation part because valuation frankly,
+theme or growth, a lot of times valuation decides whether the company will be
+able to grow into the valuations or not. For example, not so long back, these
+fiber optic companies were at 700p. But now all of a sudden it seems that they
+are at 20p this year. That's the difference of valuations, right? Not so long
+back, the gas genset generator company looks to be at 50p. Now the company has
+gone to 90p. Because rate of growth kept improving. So these are decisions to
+understand.
+
+[1:27:28]
+Valuation depends upon team growth and the promoter actions. Only then we come
+towards the valuation. So don't be biased by looking at the PE ratio. But just
+drop a green light, red light, yellow light framework if you understand. Just
+drop a hell yes in the comment section. And it's something that you will always
+use going forward whenever you want to analyze a company. See, stock names are
+commodity over here. Idea is for me to give you a framework so that you can use
+it for your own decision making. Just drop a hell yes folks. Perfect. It's a
+very easy framework.
+
+[1:27:58]
+It's not that I find it very difficult. Beyond financial ratios, standard
+financial ratios hold. The cash flows. Whether the cash flows are high or low,
+those things hold. CFO to EBITDA, CFO to PAT. Standard financial ratios hold.
+But these are things to remember. Perfect. I think hopefully you'll take this
+framework and... I can give you a book suggestion but it will confuse you. I
+think you have to live through investing to experience these things.
+
+[1:28:23]
+You can read financial shenanigans, but that book is now of 600-700 pages. I
+will say that the forensic class of SOIC in level 2 course, you can see that.
+The forensic class we updated in level 6, if you see that, you will get a better
+understanding of it. What to see in ratios.
+
+[1:28:40]
+This session will be a part of the SOIC course. This SOIC will go to crash
+course under TVGP. There will be a P class. In theme growth valuation, is there
+any new class that you want me to do? Should I do the growth class again of rate
+of change with a lot of updated examples? You want me to do any other class? In
+theme growth promoter valuation. If you want me to do any part in theme growth
+or valuation.
+
+[1:29:01]
+Should I do the theme, rate of change or valuation? You can do theme and growth,
+take it in one. We'll take next Sunday, we'll take the theme and growth class,
+rate of change class. Perfect. The portfolio allocation class is in level 3 of
+the course. We made the latest class on that. You can read it from there. Sir,
+again, the idea is that you can apply this framework yourself. Stock names are
+commodity, you can ask me how the stock looks. I have taught you the framework,
+green light, yellow light, red light, you can use it.
+
+[1:29:29]
+Someone asked, what do you think about Wari? I'll just show you one thing. I
+think the third part is epic, the promoter is epic, but the first part is bad.
+If you look at Wari, their margin is 18.1. Vikram's margin is 8.1. It's a
+superior margin in the same sector. But theme and growth. Is the rate of change
+of the company bad or is the improvement of the solar space? What do you think?
+
+[1:29:52]
+has the rate of change improved or has it gone bad? rate of change has gone bad
+in the company right? has the industry gone bad or has the company gone bad? so
+this is the thought process TGPV team or growth has gone bad promoter is epic
+too but what will he do?
+
+[1:30:06]
+When T and G are bad, then what will P do? Right? So that's why 4 things should
+match. The first 3 things should match. That is TGP. In valuation, it can be a
+bit up and down, but don't overpay too much when the fancy of the market is
+there. But we have to follow TGP too. Someone's question is, when we buy a stock
+for investing, should we place a stop loss on it? Arunabh, as a beginner, I'll
+say that if you are doing long term investing then stop loss is never a bad idea
+
+[1:30:38]
+On weekly charts, you can put 30 weekly EMA or 40 weekly EMA because sometimes
+when you are learning the trade, what happens is that you don't go down the
+average in the wrong business. Then what will happen? Let me tell you what the
+problem is with retail investors. I get this experience because there is a lot
+of talk. So many people have taken so many advisories, small cases, research
+desk.
+
+[1:31:02]
+All the good advisory and research desks will have a 6-7 hit rate out of 10.
+There will be 2-3 stocks that will not run out of 10. But the beginner retail
+investor, what do you think he will do? Will he stay more in the stocks that are
+running or will he buy more in the ones that are falling? What do you think is
+the problem that arises? Right? I will say never do this. My framework has
+changed a lot over the years. You should not do this at all. Make a bigger
+allocation while doing this. And sell the stocks that are going on. Never cut
+your winners to average down on your losers.
+
+[1:31:33]
+So that's why if you are using stop loss in a long term investing, 30 weekly EMA
+or 40 weekly EMA, then use it well. Stick to the framework then. If you are
+using 30 weekly EMA, then use it. If there is a blow of 30 weekly EMA, then I
+will sell it. If you like the company, then you can take it up again. It's just
+one framework. It's possible that you don't do this in 2-3 out of 10 companies
+and leave them for 4-5 years.
+
+[1:31:58]
+That is also doable. Here the theme is so strong. For example, a company is
+like, I really like that company. But the theme was so good, the entry barriers
+were so good that I sat for 6 months even though it was below 30 weekly MA. Now
+it has gone above 30 weekly MA and stock is up like a rocket.
+
+[1:32:14]
+Because I had a lot of belief in theme and growth. I thought because the market
+environment is bad, there is pressure on the stock. But if you are doing
+something and you don't have that level of understanding, then you can even use
+30 weekly MA and 40 weekly MA as your stop loss in long term investing also.
+That's not a bad idea. Again, depends upon where you are in your investing
+journey, what makes you comfortable.
+
+[1:32:38]
+Probabilistic. Nothing is certain. What works for you might not work for you.
+Perfect. How do we analyze promoters where there are no gone calls? Sir, what we
+can do here is that AGMs of these companies are detailed. For example, if AGMs
+of these companies are not detailed and if annual reports are not detailed
+
+[1:32:56]
+then a person like me will not invest in such companies. I mean, I don't invest
+in such companies. If you don't want to do AGMs, if you don't want to meet
+investors or communicate with them, and very rarely I invest in such companies,
+then usually what happens is that I go out of these companies. Because first of
+all, I am investing money in someone else's company, I don't have a company.
+It's just a matter of saying that I am the owner of that company. But do you
+think that the promoter even knows that you own shares? Just asking. You have to
+go to a company where there is no information.
+
+[1:33:29]
+I am literally asking, is it necessary to go? Yes, I don't do 70% SMEs because
+someone knows something, someone has met a promoter, someone has sat with him,
+someone has seen his plant, someone has done something, he will always have
+superior information edge from me. There, Mr. Rohit, there is a lot of
+information in AGM and Annual Report, right? So for me to have that edge in some
+of the other companies is not that much.
+
+[1:33:54]
+Sir, I have not tracked Kiri Industries, but you have been asking for a long
+time. I think the audience tracks it. Dear tribe members, what is Kiri
+Industries? Has anyone seen it? Kiri Industries, I don't track it. Right. Yes,
+we are bringing one or two new things in the stock scans. If anyone wants to
+renew for the SOIC membership, I will share the renewal code with you. And what
+we are doing in the stock scans, I will also share that with you.
+
+[1:34:17]
+First of all, we are taking interview scans from the stock scans. Then we are
+introducing deep dive reports. And along with this, what we are doing, just a
+second folks. Then apart from this, what we will be doing is that along with
+interview scans, we have also taken IPO scans.
+
+[1:34:34]
+A lot of times when there is a doubt, when a company is getting an IPO, you have
+to understand the red flag, so you can easily see here. Right now we are looking
+at the GMP, VMP data, so let's see if we can find it somewhere to include it.
+That we'll do. But just coming to stock scans, just to show you what else we
+have done.
+
+[1:34:51]
+If you renew the SOIC membership, you will see the stock scans in renewals. If
+anyone wants to subscribe for stock scans, you can use a unique code to
+subscribe. We have introduced IPO scans now. It is very good for gathering
+information. For example, the IPO of Deepa Jewelers is coming now. Now sometimes
+people don't read DRHPs because they are too detailed. So you can read a simple
+business overview of the company. You can read the growth catalyst. And you can
+read forensic issues if there are any.
+
+[1:35:19]
+So these things you can read. You can also read DRHP directly from the stock
+scan if you want to read. So this is one thing that has come. Another thing that
+we are working on, which you will also see here in the third time, is the
+Carborundum Universal. Now here you will see a deep dive report. You will see
+this coming soon from 2-3 months.
+
+[1:35:39]
+So already some of these reports have started like I mean actually in reports we
+are using the highest production model. So I think 50-60 reports will go live
+shortly in next 1-2 weeks. And close to 700 reports will go live on Stockscans
+platform over the next 3 months, right. So if you want to read any business, you
+will be able to easily understand. How many of you are excited for this feature
+in Stockscans, folks? I think now you will get a good understanding. We will
+cover the entire TVGP here.
+
+[1:36:08]
+The theme, valuation, growth and promoter, we are going to bring the whole
+framework and put the stock scans. We are not stopping, we are introducing new
+and new features. Sir, I have not tracked the merger of HBS Mind ITC, Mr.
+Dharaminder. I have not tracked it personally. What happens in the case of
+warrants? Warrants can be yellow and green light. In the case of Sudeep Pharma,
+Manish, you can watch our video.
+
+[1:36:31]
+I was covering this business when it was recently listed. It's a video which I
+did on 24th May, so you can read about this company, you can check this video
+out. It's quite detailed, I think it was done 3-4 months ago. You can see what
+were the thesis pointers, what is going on, what is not going on, you can track
+it there.
+
+[1:36:53]
+Right, SYC crash course is a part of main membership. So, in crash course, in
+TVGP course, the promoter part will come. So, the completion of crash course
+will be done. So, TVGP, all three or four will be there. In this, when we will
+do a class on rate of change, growth and valuation, I will introduce a new class
+in it. How to enter a stock and like stage analysis and power of earnings
+upgrade. I will introduce this in rate of change.
+
+[1:37:22]
+So probably next Sunday we will do the rate of change or growth class. If you
+are excited for this, drop a alias, folks. I think I will take your leave
+because our market signals are also done for 1 hour. And our promoter class is
+also done for almost 2 hours. Hopefully you love these classes. Hopefully we
+will meet again. If anyone wants to become an SOIC tribe member, you can go to
+learn.soic.in.
+
+[1:37:43]
+That is where you can join the SYC membership. For SYC research long term
+members, we will be doing a session soon on Wednesday or Thursday. And for
+persistence AIF members, on 15th November we are doing our second ever EGM. So
+hopefully I'll see you there. Thank you everyone for joining us folks. Jai Hind.
+Have a great Sunday. Thank you everyone. Thank you.

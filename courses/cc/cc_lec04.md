@@ -6,6 +6,13 @@
 > **Key Companies Covered:** Astral Ltd, Supreme Industries, Relaxo  
 > <a class="sanchay-pill" href="https://portfolio-tracker-frontend-iota.vercel.app">📈 Sanchay: Sector Building Materials</a>
 
+
+<!-- SOIC_AUDIO_BANNER_START -->
+::: tip 🎧 Interactive Audio Transcript & Reader
+Listen to this lecture in audio mode with synchronized text highlighting, keyword search & citations:  
+👉 **[Open Interactive Transcript & Audio Player (2:10:31) →](/transcripts/cc/CC_Lec04)**
+:::
+<!-- SOIC_AUDIO_BANNER_END -->
 ---
 
 ## Part A: 3-Minute Summary Reference Card (D2)

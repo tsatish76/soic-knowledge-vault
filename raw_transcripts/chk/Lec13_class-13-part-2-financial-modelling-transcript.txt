@@ -1,0 +1,1173 @@
+﻿Class 13 Part 2 Financial Modelling
+Crash Course
+===================================
+
+[0:00:06]
+Welcome back to the session and now we will start creating bull bear and base
+scenarios for different companies. So here I will share this Excel sheet with
+you so that all of you can see it. This is how the sheet is. There we are doing
+it on Google Spreadsheets. First, I'll show you roughly. And before making it,
+I'll just also go through this. What are the key things to look out for in an
+income statement? What is the first thing in an income statement? Like, so the
+first top line item is called sales. Sales is also known as top line. Top line,
+what do we subtract?
+
+[0:00:39]
+We subtract something known as Cox, which is also the raw material cost. So we
+subtract raw material from the top line and after that, I will write terms which
+is known as gross profit so suppose if you have a samosa shop and if you just
+subtract your sales suppose if you sell a samosa for 5 rupees, samosa means you
+remove the cost of the flour and the cost of frying oil, that will give you your
+gross profit.
+
+[0:01:12]
+Suppose your raw material cost per samosa is 2 rupees and today your samosa
+sells for 5 rupees so your gross profit will be 3 rupees then to sell the samosa
+what do you also need so here we are in the third item that is SG&A SG&A that is
+your selling general and administrative cost this is your wages employee will
+also be salaried then up my Joe like electricity will also be giving money so
+all that is known as selling general and administrative costs so from gross
+profit the moment you subtract sdna you get to another term which is known as
+EBITDA that is earnings before interest, taxes, depreciation and amortization
+Now let me ask you a question over here from a modelling perspective If a
+company gives me a guidance that next year 15% sales rate will again be 20% and
+today's sales is 100 rupees Will you be able to calculate the forward ebit for
+the company?
+
+[0:02:06]
+Can we calculate the forward ebit for the company? Actually, I'll slow down.
+When I get you to do 6-7 case studies, you will understand. A company's sales,
+suppose, costs 5 rupees per samosa and they have a cost of good souls like there
+is a per samosa, Mehta and aloo. Potatoes and the flour, the cost was close to
+let's say 2 rupees. So if you subtract per unit of samosa sold that is 5 rupees
+minus 2 rupees, you get to gross profit of 3 rupees. Now to sell that Samosa
+they have an employee and they also have to pay electricity cost and they also
+have to pay a rent.
+
+[0:02:41]
+Let's take per Samosa the rent employee cost and everything else was 1 rupee
+right. So your SGNA is 1 rupee over here cost of goods sold is 2 rupee their
+EBITDA will be 2 rupees. So in business car that 2 rupees EBITDA BANTAI per
+Samosa and the selling price per Samosa is 5 rupees What do you think is the
+EBITDA margin for this company? If the EBITDA is 2 rupees and the sale per
+Samosa has 5 rupees, what is the EBITDA margin? Is it 40%? Is it that easy? Now
+let's move on. And now what the company does is that we have a expenditure
+called depreciation and amortization.
+
+[0:03:15]
+The author of depreciation in simple terms is whatever basically if you have a
+chair of 10 rupees in the office you will depreciate the straight line for 10
+years so you will get 1 rupee per year from the income statement because this
+chair will benefit you for the next 10 years So this is why the concept of
+depreciation comes otherwise you will put 10 rupees and profit will evaporate in
+the income statement So this is the concept of depreciation, non-cash expense So
+depreciation comes, if we subtract depreciation from EBIT then you are left with
+EBIT Ebit is known as earnings before interest and taxes.
+
+[0:03:51]
+So this is EBIT. If you have taken a debt of 100 rupees, you will give interest
+cost. So you will minus the interest cost or finance cost from income statement.
+So as you will minus interest from EBIT, just over here, this is our quarter, as
+you will minus interest from EBIT, you will be left with profit before tax We
+will come to PBT From PBT, you will subtract taxes and you come to profit after
+tax Right? Now, see any profit and loss statement, whether we see it on the
+stock scans, or on the screen, just over here, this is what the crux of an
+income statement is. Right, just over here.
+
+[0:04:31]
+So this is your revenue. Revenue means expenses minus. Then EBITDA margin,
+operating margin. If there is an added income, other income is non core income.
+Suppose a mutual business has cash on its balance sheet. That our company gets
+incentive income from the government. It is classified into other income. Right?
+So, from EBITDA margin, now other income add, interest subtract, or depreciation
+subtract, you'll get to PBT. If I have to come from EBITDA, I'll just subtract
+depreciation.
+
+[0:05:02]
+By the moment you subtract all these things and add back other income You get to
+profit before tax, which means that taxes minus, then you get to profit after
+tax Right Now a company, let's say is at March 23 and they say that for the next
+2 years we will grow at 15% My EBITDA margin will be this and this My KPEX
+expenditure will be this much and my borrowings will be this much Will I be able
+to make a profit and loss statement company on a forward basis? Can I estimate
+the profits of the company 2 years down line? Will it be doable for me? Is it
+doable? Is it something that I can do?
+
+[0:05:33]
+So now let's take an example of a company. We will study the case of three
+companies, Gravita, SJS and Manurama Industries. We will do three companies
+together. So in Screener Operating Profit is EBITDA ONLY NICL.
+
+[0:05:45]
+In screener operating profit is EBITDA only nickel right perfect other income or
+expenses with a little tedious so there would be a assumptions one day as a
+percentage of sales that is why I am saying it's an assumption it is not 100%
+correct it is roughly right roughly right on a finance is more important than be
+100% right so what I'll do is that we'll read some of these conference calls
+together and let me just open, let me just log in and let me just open some of
+these con calls and what we'll do is that we'll read them just together just a
+second I'll just open these con calls so actually it's a live con call let me
+open it let me open the conference call of SJS let me open the conference call
+of SJS and let me open the conference call of Gravita Gravita, SJS and Manorama
+Let me also open Manorama Alright Let's open the first conference call That is
+of SGS Indeprises So this is a tool which can give you life con call transcript
+and what we will do in this con call is that we will read this con call together
+and we will try to create assumptions out of this business right, so let's read
+so thank you and good morning so 25th consecutive quarter of growth about
+performance recording a robust year on year growth of 46% in automotive business
+at the 46% age revenue growth company.
+
+[0:07:04]
+So, yeah, make cheese ball again.
+
+[0:07:05]
+And then Q3, FI 26 company continued its consistent growth trajectory supported
+by discipline, execution and accelerating export growth and highest ever revenue
+growth representing like as just standalone by 26% growth automotive business,
+46% growth, which is is 3x the industry performance industry growth was 15% but
+SGS growth was 3x SGS clock did the highest ever quarterly profit margins EBITDA
+margin is 30.5% and PAD margin is 18.5% notably I am pleased to share SJS has
+surpassed its full year FI25 Pat in the first 9 months of FI26 during the
+quarter added a new customer 2 wheeler may Rappie and Urban company which is
+launching its own range of water purifiers continue to expand business with key
+customers like Mahindra, Hero, Vlpoo, Samsung, Hyundai, Sparkminda, Wave and
+John Derry so this company has said that this is also going on there are growth
+rates now let's see here just to rate, one question comes to mind in a company
+like SJS, whenever we are reading that company is that on margins like key
+company margins as company may cut 30.5% Asia but nearby 29.3% the current why
+do you think there's a discrepancy in what the company is been saying and what
+is reported over there?
+
+[0:08:17]
+Why do you think? First, I will ask you this question. Why do you think? Folks
+in the comments. Is there was a was there a labor law one of code impact in
+banks in all the manufacturing companies and all the companies in the listed
+space? A labor code impact. Labor one of labor code impact, right? So adjusted
+margin is 30.5 because it is a provision on the gratuity. Basically, the Indian
+government has issued a labor code for which all companies have to do gratuity
+provisions. This is one-off, it is one-time one-off. This won't be repeated in
+the future.
+
+[0:08:50]
+So should I look at 30% as EBITDA margin for my calculation or should I take
+29.3? What do you think is the right metric? If the company says 30% is
+sustainable. So I should work with, again, I'll see their guidance. So I should
+work with what the company is saying. So we will make two in this and see. So
+just over here. So as part of this ESE agenda, etc., etc., So we come forward
+and come down and see on the margin front. So the highest ever margins and the
+company has given the Pat margin that the Pat margin is 19.5%.
+
+[0:09:23]
+By the way, you can calculate it in a very simple way but let me just go towards
+the commentary on margin front just to worry, let me just go down There will be
+a question here and right, just to worry So someone asked him, what is your
+thought about the margins and industry growth? They said that earlier I guided
+that you would outperform the industry by 2.5x. We maintain that we focus
+heavily on what online to create value. Our EBITDA margin is now close to 30%,
+which is healthy and we hope to continue that forward. So 2020, 60 guidance was
+2.5 times out of like industry outperforming.
+
+[0:09:57]
+Traction for premium products and new high value product wins remains strong. I
+will continue to see us outperforming the market. We are finalizing next year's
+plans, but we are bullish on growth trajectory. If we look at the business of
+SJS, then it is one of the simplest business to understand in the market today.
+
+[0:10:12]
+If we look at the business of SJS, then it is one of the simplest business to
+understand because what they do at the end of the day, they make stickers,
+decals, right, these decals if you check now, the chrome plating for
+premiumization these logos that they make these decals, right, which they do
+back and forth with the customer and then manufacture them. So this is what the
+business is at the crux. We have a simple business to understand them. Now they
+are saying that we keep outperforming the industry. We grow by 2.5 types.
+
+[0:10:44]
+If we look at the historical profit and loss statement of the company, I am
+showing you all this because it is important for us to look at it. Looking at
+the historical profit and loss statement has the company, even in the worst of
+the auto cycle has grown at 17%. Yes or no. Minimum growth rate at 17% is right.
+The company is not past. Even in worst of the 23 was a bad year for auto has a
+company grown at 17% minimum. Actually, this company is growing because
+value-added growth is increasing because every sticker or every decal is getting
+premiumized.
+
+[0:11:15]
+So next generation of vehicles has more premiumization of content per vehicle
+and this is where this company operates If you read the business, you will
+understand that if auto industry grows 2-3% then its growth is better because
+they are operating in that niche of premiumization where feel good factor of a
+vehicle looks better because of the products that they supply. Right and that is
+what the company is doing. So company again this year's K-Bags is 100 crores and
+next year's 40 crores so almost 100 crore K-Bags is next year. Now I will stop
+you here once and actually we will go down here.
+
+[0:11:52]
+So just over here, you previously gave guidance on 26 to 27% margins. We are now
+at 30% margins. Do you see further upside to the guidance?
+
+[0:12:00]
+He says if you track our profiles in this listing, we have steadily improved
+from 24.7 to 30 we believe we can look forward to maintaining 28 to 29% EBITDA
+margins now I also got to know margins, I also got to know this industry
+outperforms the auto growth by 2.5 to 3 times I got to know 100 crore Kpex
+company Next year company's new contract wins And the company's cash balance of
+220 crore So I have an idea of other income if I put 6-7% on it To calculate The
+profit and loss statement of this company over next one year or two years, can I
+take some assumptions and make it from here?
+
+[0:12:37]
+I mean, there is depreciation number, other income number, margin number, sales
+growth number, like everything I have. What I was doing with you is to plug in
+those numbers and calculate. So I'll calculate via two ways. One way via
+spreadsheet, I'll make it with you. Second way what we'll do is that we'll make
+a bullware based scenario analysis and see. Let's calculate it once.
+
+[0:13:00]
+So historical growth rate was 17% So before calculating here, I will do one more
+thing One of the brokers, like a Monarch network broker Which covers this stop
+like interestingly So first we will see their profit and loss statement, how
+they made it. Let me just open it, I am just logging into my email. First, we
+will see the assumptions of brokerage and then make it by ourselves. So that we
+get a good idea. Now this is how their brokerage post-issue updates look like
+this. Now, let's see what the management has told us and what assumptions they
+have made.
+
+[0:13:38]
+So, first, we learn from their assumptions. Right, so I think I'll just go
+towards the profit and loss statement assumptions. Now, alright, these are their
+assumptions. If you just check it up, so here we are there, assumptions, and
+we'll actually we can do this too on the spreadsheet as well. So management now
+be 28 to 29% margin guidance. So they have been conservative in on it 27.5,
+right? And 27.6. Now they have grown their sales from 9.59 crores, 9.60 crores,
+FI 26 kind of a sale number, and next year 11.26 crore correct.
+
+[0:14:11]
+So if we do minus, then how many assumptions they have in their sales growth?
+Let me just do it, 11.26 minus 9.59 divided by 9.59. So they have assumed that
+company will grow its sales by 17% next year. How many assumptions did they take
+next year? 1329 crores of sales, 1329 crores of sales minus 1126 divided by
+1126. So next year they've assumed So, the next year, they have assumed 17-18%
+growth rate in sales of the company. They have assumed 27.27.6 EBITDA margin and
+depreciation.
+
+[0:14:47]
+So, historically, depreciation as a percentage of sales if we check here in FY25
+the depreciation of 44.7 crore was 44.7 and the sales was of 760 crore so
+historically depreciation as a percentage of sales close to 5.8% which if we see
+this year that is in FI 26 so depreciation is 53 crores sales is 959 crores so
+divide 53 from 959 so even this year the depreciation number is at 5.5% of
+sales. Next year, Kpex is 100 crores, not one of Kpex, it's like 80 to 100
+crores company is doing Kpex.
+
+[0:15:25]
+So now if I know the company is doing 80 to 100 crores of Kpex per year, Can I
+roughly assume, I am not saying this number will be precisely right? Can I
+roughly assume that forward is a future where sales growth is that company's
+depreciation will be 5.5% of the sales unless or until they announce a big Kpex
+plan? Can I assume that folks? Can I assume that? Deperation as a percentage of
+sales will be 5.5% which is historically a number between 5.3 to 5.5% Can I
+assume that at least? Perfect. Again, I am first going to deconstruct the income
+model.
+
+[0:15:59]
+Depreciation as a percentage of fixed assets can also be done but here I have
+taken out a percentage of sales and seen how much it is doing. You can take out
+fixed assets from balance sheets but I am trying to simplify it further because
+you want to be roughly right Interest expenses company because it is debt free
+Actually, FI 26 has interest expenses of 4 crore rupees Net debt free company
+has other income company of 15 odd crores because balance sheet pay 220 to 230
+crore plus cash paid on this time. So there was you know other income doubles
+effectively next two years. Right.
+
+[0:16:29]
+So Now let's deconstruct their thought process when it comes to this, then we'll
+do it ourselves. They have shown effective tax risk 24.5% data which the company
+has given in their conference call and they think the PAD will go from 171
+crores to 242 crores, this is this and in total, the company can earn 242 crores
+profit after tax on FY28. So if the company can earn 242 crores profit after tax
+on FY28, What is the market cap of the company today? A question that arises,
+what is the market cap of the company today?
+
+[0:17:00]
+Let's just check this market cap of the company market cap of SJS the market cap
+of the company today is 5192 crores so if it is a 240 crore and 5218 crore
+market cap then what will be the P ratio of FY28 of this company folks 21.6
+times is it 21.6 times today the company gets a P of 33. Why did you get a PE of
+33? Because it's outperforming the industry. What if the company gets a 32.33 PE
+again? Can I calculate what future market cap could be assuming no re-rating
+happens? Can I calculate? Can I calculate? Now, we get 33 in today's P ratio, so
+today's P ratio is 3233 times, right?
+
+[0:17:40]
+33 into 240. So what's the market cap I could get? But P ratio will be very tied
+to the growth rate. I'll get almost close to 8000 crore market cap rate. Then I
+can calculate the IRR rate and rate of return and stuff. But now we'll make this
+model ourselves over it. So let me just come towards the screen and let's just
+come over here all right now. So we'll take an example of SJS. Now let me just
+take the sales of SGS and now we will make some assumptions of ourselves. So,
+let's take the sales number and this is for 2026, then 2027 and just a second
+2027 and 2028.
+
+[0:18:16]
+We will come straight to EBITDA margin.
+
+[0:18:18]
+So, I will just come towards EBITDA margin because gross profit margin
+calculation is a bit tricky Then we will come towards EBITDA, after EBITDA we
+will add the real subtract from the debt We will add the other income over it
+then depreciation as a percentage of sales lunga past ko deke depreciation lunga
+aise to 80 100 crore ka Kpex company kar rahi hai agar if the company increases
+the Kpex then the depreciation amount will also go up but I will just teach you
+how to do look at it then am log interest expense k line item deyngi right and
+then we will look at the tax rate of the company and then we will go towards the
+PBT and finally I will go towards the PACT right so this is how we go about
+things let me insert one more row and here we will put a number of 2020, we will
+pick up sales first so we see the SGS, in 2025 the sales was of Rs 760 crores
+just a second, 7, see the sales of Rs 760 crores.
+
+[0:19:19]
+EBITDA margin was 25.7 crores, 25.7% of EBITDA margin. EBITDA of the company was
+effectively this into this. So, EBITDA of the company was around 195 crores. So,
+195 crores. Then other income was 8 crores, 8 crores other income, right? So let
+me just put it over here, 8 crores other income, the depreciation of the company
+as we are taking now is 45 crores, the depreciation of the 45 crores, which was
+again, depreciation as a percentage of sales, If we come down, let me just
+insert one row above. But depreciation as a percentage of sales, percentage of
+sales.
+
+[0:20:00]
+By the way, the number of depreciation, Kpex should be seen and then I will show
+you how to see. But I am simplifying for you. So, depreciation as a percentage
+of sales, right? So, it is a number which comes to 5.92% Interest expense for
+SJS was barely 6 crores which has fallen to 4 crores now. It was 6 crores into 6
+pens. Tax rate for the company was 24.5% because it taxed holiday and go in a
+subsidiary. I think that is tax percentage. That was 22.3% the way it is 24.5%
+is what they've given in the con call Well, at 22.3% tax rate, right?
+
+[0:20:40]
+And then your PBT number comes over here, PBT number, right? So, just over here,
+PBT number for SJCIN 2025 was 153 crores So actually, I'm making a model like
+this for you so that it will be easy. And what we do is that, see 153 crores,
+the company that is around the company, we give you 1 minus the tax rate. So
+this is 153 crores into 1 minus the tax rate. You get 218.8 crore pet of the
+company. 819 crore pet is almost, so this we can just go towards this 119 crore
+pet of the company.
+
+[0:21:18]
+Now sales in 2026, now because we are making this model again so sales in 2026
+just check the growth rates it has been accelerated. So here we are making
+assumption now just Stay with me because this is very important to do. The first
+quarter has 11% growth, the second quarter has 25% growth, the third quarter has
+almost 36% growth. And Q4 is typically better than Q3. Right? If you check in
+the SDS case historically, similarly, this is why GST cuts, Q4 has been better
+than Q3.
+
+[0:21:52]
+Q4 has been better than Q3 Q4 has been better than Q3 by nearly 10 percentage
+points So if Q3's sales is of 244 crores, let's assume that around 10 percentage
+can be better than Q4 Right, Because Q4 is typically the best for them when it
+comes to their export business and stuff. Can I take 10% sales growth on Q3
+base? Even now, the January data is also good. Can I take 10% growth rate on the
+Q3 base?
+
+[0:22:18]
+The Q4 will be a quarter of 270 crore Again I am trying to be roughly right, you
+cannot be right in this So first I ask you a question, if the number of 270
+crore comes here Last year this number was 201 How much sales growth will be
+there year on year folks? Year on year, what will be the sales growth? From 200
+to 270. 200 to 35% is approximately right. Almost 35% sales growth will be year
+on year. Last year Q4 was 201 crores. Guys, you can see the screen right? I'm
+sharing the screen. Now the stock is in the hands, you can see it right. All
+right. So what do we do here?
+
+[0:22:51]
+Because I'm getting some details in the calculations with you. The company's 30%
+EBITDA margin will maintain a place in the carry-on. We still take 29% of the
+H2. If the company's sales number of 270 crores comes, and let's assume that 29%
+EBITDA margin comes, what do you think is the Q4 operating profit for the
+company? 27% sale and 29% EBITDA margin. Do it with me and it's 270 into 0.29.
+
+[0:23:18]
+Almost 78 crores EBITDA company can come in quarter 4 itself in quarter 4 the 78
+crore's company can do EBITDA it's 78 crore's EBITDA assuming other income is 4
+crores interest expense is 1 crore depreciation is 14 crores can I get to a PBT?
+Right 78 plus 4 crores, 82 crores minus interest expense 81 crores minus 14
+crores of depreciation right, so can I get to almost a 67 crore of PBT in
+quarter 4? Do you agree with me? Yes or no? Did you understand this step? What
+did I do? Did you understand? Do you agree with me on this? Easy till now?
+Sounds good.
+
+[0:24:00]
+Sales assumption, we assumed that there was a 10% growth in Q4 from Q3.
+
+[0:24:04]
+Means every time we will see in the past Q3 to Q4 10% minimum growth rate is
+coming every time you will see in the past Q3 to Q4 10% sales growth is coming
+so I have estimated that from 244 crores 10% sales growth can come see this is
+my assumption you understand why I did this Q3 to Q4 10% growth because it is
+always like this in the past now we will go towards the model further if we look
+at the tax rate of the company in Q3 the tax rate for the company was 25.3% I
+think this year full year tax guidance is 24.5 Right, so even now we will put
+the tax rate of 25% in this Q4 25.3% will be there as Q3 25.3% and then we will
+get to a PAT number that is 67 crores, right?
+
+[0:24:54]
+So just over here, right? So we multiply 67 crores into 0.75. So our PAT for Q4
+can be 50 crores So we can get a PAT of 50 crores If we get a PAT of 50 crores
+So add 45 crores to it 95 crores add 43 crores to it 98-138 crores add 35 crores
+to it So the PAT of 181 crores is estimated for the year of FY26 So 181 crore
+estimated PATH for the year of FY26 Did you get this? Did you get this roughly
+181 crore PATH? Roughly did you get this? Decimal 1-2 crore can be there I don't
+know 95-95 actually my calculation is wrong actually somewhere.
+
+[0:25:35]
+So, 78, 78, 82, 1, 72 crore pad, 173 crore pad bed for FY26. 173 crore is the
+right number, not 183, 173 is the right number. So, 173 crore pad bed is it
+right? Now, let me ask you one thing, let's take a one thing, Let's do one more
+thing over here Here, I got a 173 crore pad number Right? In the 173 crore pad,
+today, the market cap is 5262 crores What's the FY26 estimated P ratio? What's
+the FY26 estimated P ratio? What's the FY26 estimated P ratio? Does divide
+market cap by 173. What's the number? Is it 30 times? Is it 30 times?
+
+[0:26:16]
+Almost 30 times the answer is here Tax calculation 25% standard corporate tax
+credit Lala Chan Ji Simple Means here I can be a little above or below in
+decimals But I will do the same in tax calculation So what should we do here?
+
+[0:26:29]
+In 2026, we first made an assumption here that we have the data of the first
+three quarters and we have the growth of 270 crores in the last quarter We will
+return 270 crores because we saw growth of 10% in the last couple of years Q4 is
+10% higher than Q3 in the last couple of years So what we did is we did a simple
+thing We did 270 crore plus 244 crore plus 242 crore plus 210 crore So we have
+got a revenue number of 966 crore Again I am making this manually so that you
+can get an easy ride.
+
+[0:27:02]
+Then we calculated EBITDA margin for I think full year, if we calculate it, we
+saw EBITDA margin for the full year for the company. If it is higher in H2, it
+is around 29% higher, then we made an assumption that our EBITDA margin for this
+particular year could be 29% Let's take an example We calculated that EBITDA was
+almost Rs. 280 crore Other income was already Rs. 4 crore per quarter We paid
+Rs.
+
+[0:27:30]
+16 crore for other income Depreciation as a percentage of sales we paid the same
+amount of 5.92% We wrote the depreciation amount here that is depreciation into
+sales So I have the depreciation of 57.18 crores here, the number has come and I
+am working with you broadly interest expense every quarter is barely 1 crore
+rupees so I have written the interest expense of the full year for 4 crore
+rupees here is the other income number now if I have to calculate the PPD of
+this company then what will I do Is that I will just use this that in EBITDA,
+this is the EBITDA plus other income I will add minus what will I do?
+
+[0:28:10]
+Depreciation and interest expenses that is depreciation plus interest expenses.
+The moment I do this, I get a Pivity of 235 crore, 25% tax rate. Let me just
+calculate this. What will be the Pat of this company that is in to open the
+bracket to 1 minus 25% interest.
+
+[0:28:31]
+So I will roughly get to 173 to 176 crore Pat Again, this will be December or
+December So the answer can change But 176 crore Pat Now coming to my assumptions
+Now I look at this company and I say Next year, I was reading the TBS con call
+So TBS said that the industry will grow at 8-9% Maruti said at 8-9% Noonday also
+said at 8-9% Company has been growing at what rate? So now let's go towards
+their documents And let's check the documents So the company historically has
+been growing 3x the industry growth rate and this is not just one quarter 26
+quarters in a row.
+
+[0:29:08]
+So I am here sales assumption if 8% H industry grow then I will make 2.5 times.
+I will be conservative and not give 3x growth. So what will I do over here If
+the industry 8% So what is my assumptions Assumptions Always remember your
+assumptions in the bull bearer scenario 8% industry growth And 2.5x is the
+growth rate for SJS This is my assumption My assumption says that SJS next year
+will grow its sales by 20% SJS's sales growth will be 20% This is now my
+assumption So what will I do? I'll come to the sales number and I'll just take
+it and multiply by 1.2, I'll get to the simple sales growth.
+
+[0:29:50]
+Conference call said we got to know that the company is going to maintain a 29%
+margin, right? If I have a sale number of 1160 crores, 29% EBITDA margin number,
+can I easily get to EBITDA for this company for 2027? Yes or no? Yes or no? By
+the way, I do this whole thing in a notebook. I do this on these sheets. SGNA,
+Pintu Ji came in that, EBITDA margin guidance company. Everything came in SGNA
+in that. Means EBITDA margin is after SGNA, right? Cogs are after SGNA. 28 to
+29% company has said in the phone call, just over there.
+
+[0:30:22]
+Imagine have improved, we are looking forward to maintain a profile of 28-29%
+earlier we said 30 but we will go between 29-30 so what we will do here is
+simply sales growth assumption I have taken that the industry growth is 1.5% and
+the SJS growth is 2.5 times the industry growth rate so 20% here we have done
+simply we have multiplied sales from EBITDA so I get to the EBITDA number of
+336.16 crores let's collapse this a little bit more this is my EBITDA growth
+number now, a question of other income this is a very important question right,
+so if we look at the presentation of SJS Just over here and just a second cash
+right to company give us pre cash low to firm 98 crore to generate where and net
+cash company give us 203 crore rupees gap company next year KPEX guidance 100
+crores key and company converts majority of its EBIT agar if we look at the
+financials here, if we look at the CFOP on EBITDA, then company is converting
+80% of EBITDA into cash flow from operations, listen to this question carefully
+If the company's operating profit is 195 crores, then the company can convert it
+to 83% cash flows.
+
+[0:31:44]
+So just over here. Just again, I'll just tell you about my assumption that if
+this company makes a company of 280 crores, right? So the company is a company
+of 280 crores and we are saying that the company converts almost 80% to cash
+flow So This year's cash flow will be Rs. 224 crores. What is the cash flow of
+the company next year? That is 80% of EBITDA. EBITDA is converting this number
+to cash flow. This number will be a point date for next year. So the cash flow
+of the company in two years will be Rs. 224 to 268 crores.
+
+[0:32:16]
+And the company is talking about 100 crores of KPEX in their conference call
+right? So actually if I have to calculate the free cash flow of this company
+right? Again till now they have talked about 2 years of KPEX, 100 crores a year
+so if I have to calculate the free cash flow to firm then why will this year's
+free cash flow come? It's simple. We will subtract the TFO from KPEX. So what
+number do you have? This year's free cash flow to firm was the number for these
+two particular, like 2026 should come. 114, like 124, easy. That is subtract
+this by this and also subtract this by this.
+
+[0:32:52]
+So did I get to almost this cash flow number? I am not giving free cash flow to
+equity, I am giving free cash flow to firm. 124 crores and 168 crores because we
+have to understand the concept of free cash flow to equity. But easier, like
+assumptions are easy, like is it difficult to understand that free cash flow
+growth company is going to be good right so assuming that if the company is
+growing in free cash flow, then what will I do? I'll just do a simple assumption
+here. This company is earning other income from 16 crores and is earning a cash
+flow of 203 crores. They have cash filed.
+
+[0:33:28]
+So I think because this is free cash flow, in the next year, the number of 203
+crores, if I just subtract the KPEX, some company will get the cash of 320 to
+330 crores. If it's cash of 320 to 330 crores, let's assume it's cash of 320
+crores. And we put a yield on this, that the company is earning almost 7-8%
+today, we will take 7% yield i.e. The company makes 7% on this, right? This is
+coming in to 0.07 So almost the other income of the company will be around 22.4
+We will put it around 22 crores, let's go conservatively Because the company is
+growing in the free cash flow.
+
+[0:34:06]
+Actually interest expense. You can see per quarter, 1 crore interest expense.
+So, the company is going to be debt free. Is it fair to say that inter-6-pence
+will not increase in this company? Will it be 4 crores only because it is 1
+crore or quarter? Money should also go towards zero but 1 crore or quarter is
+still going on. Is it fair to say that the company is debt-free? Is it fair to
+say? Let's take 4 crores but still let's write 4 crores instead of zero. Again,
+this always becomes a PNL on assumptions. How did this 320 crore number come
+from?
+
+[0:34:34]
+I'll tell you, Sunil Ji, that we'll have to take it in a high-debt company. So
+again, the question that arises is how did this 320 crore number come from? I'm
+just saying that in the number of 320 crores, the company which is the cash pile
+today, I think is 203 crores as of 9 months of FY26 Right? And I assumed that
+the next year the company will make a free cash flow to firm of 169 crores So I
+have cut a little bit in that, I think if the company of 203 crores is just the
+cash pile then the free cash flow will be added at the end of next year, that
+will be close to 169 crores.
+
+[0:35:12]
+The annual income will also be added, but this is 9 month FI 26 data, Let me
+just show it to you over here. Today's company is just adding cash for 203
+crores. 3 cash flow to firm 98 crores. This is cash as of 9 month FI 26. Right?
+Now next year if this adds 160 crores, then a cash file should go for 360
+crores. But we still took 10% discount to make it reasonable and make it a
+reasonable amount.
+
+[0:35:36]
+We have a big number of 320 crores, if we want to put it in the cash file if we
+put it in the cash file, then you will get more clarity this number should be of
+360 crores because 169 crores company will add cash flow here So if I just take
+this number and divide it by a yield of 7% to the company owns So this will be
+equal to 25.2 crores The other income next year should be ideally this number.
+Depreciation, if I keep the same, 5.92% of sales. I believe depreciation will be
+this. Interest expense has come. Can I come to PBT, tax and Pat now?
+
+[0:36:16]
+And I agree that somewhere in this model, in a few line items, there will be a
+decimal point. But can I get to the PBT tax and Pat now? Yes or no? If tax is
+25% then it is 25% and if tax is 25% then it is PBT. Today, the company has a
+cash balance of 203 crores Next year company will generate 162-170 crores free
+cash flow So you will add cash right?
+
+[0:36:42]
+Again it's an assumption that we are taking When you see it in the recording, it
+will come to reality I did it in CFO minus CAPEX and then in 169 Already
+actually in 9 month FI26, the company has already given us a cash equivalent
+statement in the balance sheet. That is 203 crores. So this is 9 months FI 26.
+
+[0:37:00]
+In this, Q4 can also add 30 to 40 crore cash flow generation But I am trying to
+be conservative with my assumptions I don't want to show the high of other
+income in this company's case Basically, this is my thought process If we look
+at PBT, many people show the same to other income So that other income comes
+into their core assumptions If I want to calculate PBT, then what I will do is
+that I will just open the brackets, I will just take the EBITDA, I will just add
+other income to it, I will just minus the depreciation plus interest expense.
+
+[0:37:32]
+So I will get to 289 crores and now if I want to get to your like PAT, I will
+just, if I just want to get to PAT, Now, this is our sales growth assumption
+which was 20%.
+
+[0:37:53]
+Now I say that next year the sales growth of the industry is 6% and SJC industry
+is growing 2.5% because historically 3X is growing but we believe 2.5 so
+according to me, 15% is the assumption for FI28 this is the FI27 assumption of
+my sales growth what I will do next year I will just do this into 1.15% so it is
+a sale of Rs.1333 crore I will take the margin of 29% I will do this into this I
+will get to a number of EBITDA other income either you can grow it by 20%
+because the cash flows are growing at that range I can just take an assumption
+like basically the assumption can be that 20-30% of the other income is growing
+but here before going into the specifics I'll just take an assumption that this
+other income number will go up by 15% because company is not a very capex
+oriented business as I calculate the number as 30-40% growth in income but I
+don't want to be precisely right.
+
+[0:38:56]
+I'm just taking an assumption to finalize my work and 5.92% depreciation then
+what we'll do is that we'll just multiply this into this, I get 278.9 crores of
+depreciation, 4 crores of interest expense, then I will get to PBT, PBT will be
+this, EBITDA plus other income minus depreciation and interest expenses. So, if
+PBT number is tax rate then what I do? Again 350 into 1 minus 25% is what I get
+to a 255 crore Pat number over it. Now we have done the graph modelling of the
+company. We have modelled that the company's bottom line is 176 crore to 255
+crore.
+
+[0:39:43]
+Now let's see the assumption of the Monarch capital. The assumption of the
+Monarch capital is that the bottom line of the company will go from 171 crores
+to 242 crores. So, our assumption is more than 3-4% because we assume a bit
+higher sales growth in the next one year and we are margin assumption is higher.
+Now, we will see the margin of 27.5% which is 29%. But so far, did you
+understand each and every step involved? Did you understand the steps involved?
+Again, this is being roughly right. This is not being precisely right. We have
+to be roughly right.
+
+[0:40:18]
+The company's guidance is 2.5 times the industry growth rate. We are getting
+growth rate 3 times but we have put 2.5 times industry growth rate to be
+conservative. I think PBT calculation is correct only. EBITDA plus other income
+minus interest expenses and depreciation. I think the calculation is correct
+only folks.
+
+[0:40:38]
+E4 plus E5 it is E4 plus E5 right so just a second I'll just do it again for you
+plus other income minus open depreciation plus interest expense like 332.7
+crores I think here number is done we have our Pat number around 249 crores
+again folks while I am doing this because I am showing you live because I also
+make it like this so you will appreciate it more that this is how your modeling
+is done right I have just taken a random company and I am making it for you I
+did not pre-mediate it so that you can see how it's going to be roughly right.
+But are you able to appreciate it folks?
+
+[0:41:21]
+How I'm trying to make it live in front of you so that you can do it yourself.
+So this is how we do it. The company 3X out performance to the industry. The
+company's company got 2.5 times. Now the first question arises, what is the
+Fy28p ratio? The company's performance is 2.5 times higher than the company's
+performance now the first question that arises is what is the Fy28 PE ratio?
+Today the market cap of the company is 5200 crores so the PAD in Fy28 is what?
+Fy28 PAD is 249 crores so Fy28 PE for the company will be 5200 divided by 250.
+So almost 20.88 times. So one year we have gone.
+
+[0:41:57]
+If anyone asks me, what is the multiple of SJS? I will tell you who you want,
+last 12 months, FI 26, FI 27, 28. So, I will make a model for all my companies.
+Like I have created this model for all my businesses that we own, like whether
+it's a commodity exchange, gold lender. So, we have forwarded it and made it a
+model because anyone asks. So, it stays in mind that on 28, the company can grow
+its pet by 30-40% and trade it on this.
+
+[0:42:22]
+Now the second question that comes, I think there is another question here, so
+let's take the rate, right, so just a second, just a moment, so here is another
+question that comes in the company's case, the absolute pet growth of the
+company if it is 176 crores has gone to 249 crores type pet if we look here, it
+is 119 crores, almost 249 crores then it is 176 crores it has become 249 crores
+is the company roughly growing its pet at a KG of 22% h? Is the pet growing at a
+KG of 22% h? 22-23% h, what is there in the pet? 22% h, what is there in the
+pet?
+
+[0:43:01]
+The forward P, sir, Surat ji did this, that today's market cap, which is
+Rs.50-100 crore, divided it into f528's pet. So this is how we got the forward
+P, that is 249, I will just quickly use the financial calculator, which is what
+we are using, and here, I will use this calculator, it's a very simple thing to
+do just over here the company's starting market like starting the company's
+starting market is 176 crores just over here 176 crores the ending is 249 crores
+in a span of like 2 years so almost a cagger of 20.74% right. With 20.74% we are
+growing the pat.
+
+[0:43:45]
+Now a question comes, if the company Pad Growth is 20.8% and P Ratio of today is
+33 times, so what is the 2 year forward peg of the company? 2 year forward peg,
+what is the 2 year forward peg of this company folks 2 year forward peg is what?
+That is 33 upon 20.8% so almost if we divide it here that is 33 divide by 20.8
+so just a moment that is 33.20 okay 20.8 so the company's peg ratio if we put a
+2 year growth rate of the company's peg ratio, then there is a peg ratio of 1.58
+times. So, this is how the company is looking at.
+
+[0:44:31]
+If the peg ratio is 5-10% higher than the stock price, then the peg ratio can go
+below 1.5 times actually, I have a lot of habit of doing it that what we have
+done on stock scans is that we have created the same calculator and it is just
+over here so this is like an, like just over here earnings valuation calculator,
+we call it I am using this a lot these days, so this is the same thing that you
+do here, right? So here exit growth if you put two years, right?
+
+[0:44:59]
+And let's take the bull case, Pat grows let's say 25% base case, let's say like
+18% growth, let's say bear case 15% Let's say in bull case, Pat grows 25%, in
+base case, 18% growth, in bear case, 15% growth. 11 new growth, 25% growth, 18%
+growth, because there is less operating leverage in the business. In P ratio,
+bull case, 40%, in base case, 30%, in bear case, 25%.
+
+[0:45:21]
+So if we do this activity, if we check the stock scans, then on 2028, if we get
+the stock of bull case, that is 40 times and I am taking it 40 times because
+historically the company once had a P-Rexio in the past So at one time it was
+getting 44 but we took it 40 times in the bull case If we take this scenario,
+the profit after tax in the company in 2028 will be 244 crores that is assuming
+your pack growth of 25% base case, company's profit after tax will be somewhere
+close to 218 crores and in bear case, profit after tax of the company will be
+207 crores and if I take the exit of 2-2 years, P-Race of 40, 30 and 25, then in
+the bull case, 36% Kaggle return can be made in the base case, 11.52 can be made
+and in the bear case, 0.79% return can be made So this is also one of the ways
+that you can use this calculator.
+
+[0:46:18]
+This will reduce your assumptions. For example, I have shown you one by opening
+the assumptions. So the idea was that I should open the assumptions and show
+you. If we have made a Patrodot 20.8% here, we have opened the assumptions and
+shown you.
+
+[0:46:33]
+Here we are doing very quickly, we are getting to the numbers fast we are very
+quickly getting to the numbers same but I want to do let's take an inter-arge
+company let's just put it over in the case of inter-arge, I take bull case P, 35
+times base case, 25 times base case P, 20 times base case P In Avenue growth,
+bull case, 30% comes in base case, 20% comes in base case, 15% comes in base
+case Pat growth, I say, needs a little operating level in the company, again
+it's a very roughly right. In the base case, suppose it's 20, in the bear case,
+it's 15.
+
+[0:47:10]
+So if I do this quick activity, there's 35p, 25 base case, Again, the idea is
+that after reading the story, you have to write roughly. So this gives you then
+odds. What kind of odds do you trade? In the last year, bottom line growth, 35%
+is high. So what can be the P multiple, right? So if the bottom line growth
+comes at like 20% what can be the base case scanner and if the bottom line
+growth is 15% with P multiple compressing, what can happen over there?
+
+[0:47:41]
+This is a way that you can do it quickly and very fast to get an idea but I am
+been using this a lot lately just to get odds right and operating margin also
+you can do it like we did the whole thing there here I can do it by debt or cash
+play it's a similar thing that we can do it over there but earnings valuation
+you can get to a number very fast after reading the company Right, so how many
+of you will use this post this session?
+
+[0:48:06]
+If you will use it, first make it on Excel sheet, I will give you homeworks Make
+it on Excel sheet, then come to this And it will give you a very fast activity
+and very fast estimate How much it trades on multiple Cagger is the stop price
+cagger, what could happen? First, you can do Excel, I will say that you do
+Excel, which I did with you Then you do this, I will give you a homework So let
+me just give you an homework over here. Actually, I have just given you a
+company called Gravita. So in Gravita, it's easier to do. Because the company
+has given us sales guidance and stuff.
+
+[0:48:40]
+So here I give you a homework. You can use it as a coupon code for stock scans.
+Here I give you a homework.
+
+[0:48:48]
+Folks' Gravita India and for this company Manorama Industries, like if you have
+seen recent results in Manorama then how do you give a hint about the company's
+because I have shown you the SGS In the case of Manorama Industries, Manorama
+has guided for a 1300 crore sales this year and on top of that 30% growth next
+year and their Kpexs are going live So in FY 27, put 30% growth in FY 28 You can
+also give 25-30% growth in FY 28 Put 27% in EBRA margin Then come to a
+calculation on FY 28 See what the peg ratio is See what the forward growth rate
+is calculate a bull bear based scenario on the basis of 35, 30 and 25p and get
+to an answer and put in your assumptions right same case do it with gravita so
+gravita over here again I'll give you the hints of the homework the homework you
+do is as good as you can so if we look at gravita in ppt then this is what
+gravita is guiding for the stop area, the company is guiding for capacity to go
+from 333, 000 to 733, 000, go through the conference call, see the Kpex
+guidance, see when the Kpex goes live, see what the volume guidance is.
+
+[0:49:59]
+The volume guidance is more than 25 percentage per annum, right? If 25
+percentage volume guidance is 11% EBITDA margin, if guidance is calculated,
+calculate the EBITDA, calculate the PAT, Do a bull bear based scenario on the
+basis of 20p, 25p and 35p on bull, base and bear scenarios Now why do you take P
+ratios like this? Because if we look at past PE ratios, like in the case of
+Interarch, what is the highest PE ratio in the past? In the past, the highest PE
+ratio was around 34, but I took 30 in my calculation.
+
+[0:50:28]
+Similarly, in the case of Graviton, if we look at the past, we got a very high
+PE ratio at a time. At a time, we were getting almost 67 PE, But if you make a
+model of 35, 25 or 20, then you can get a good idea of how to make a model.
+
+[0:50:44]
+Now I'll just hand it over to Naman to teach you about clod then I'll go towards
+reverse DCF and then we'll call it a session I think hopefully you'll get a bull
+bear based scenario easily done and then we'll go towards the QNN but so far if
+you see the recording, it's understandable just drop a hell yes, it's
+understandable because I believe that the calculations are high But when you do
+it yourself, you will be able to learn in the homework. Omkadi company, again
+you have to take historical valuation. I'll just come towards Claude and it will
+help you to sort of easily do it.
+
+[0:51:19]
+I don't have any guidance for this company, so I can take out growth rates from
+credit ratings. Right? So I'll just give it to Naman, he'll teach you over
+Claude. And before he goes, I'll just close a lot of links because there are so
+many links open that you get confused just a second actually I have made a
+sequence scenario like this. So this I was just playing around with it. So I'll
+just forward this model to you. So like but it's a little bit more detailed than
+what I did a week ago. I did a class for a week and a half.
+
+[0:51:50]
+So I'll just forward this to you so that you can easily use this and it can also
+serve as a standard template I am teaching you from Eibda Margin because it is
+easier because you have used the Ebda margin assumption but I have made a graph
+of it so I will forward these two to you so you can utilize them Sequent and VR
+scientific module that you have read so far I had talked in the first valuation
+class about the Sequent and VR Scientifically I had created a model, I think you
+can check that later No worries, you can do your homework yourself, but I will
+share the model with you There are more details, but there are more assumptions
+There are more assumptions, but there are more chances of the model being wrong
+But there are more details, so I will forward the assumptions.
+
+[0:52:37]
+But over to number. And it comes to Claude. Right, it's open. So we have created
+a custom prompt. So actually we have tried this prompt. You know, if you can do
+the financial modeling yourself. So but then problem with chat, GPT or Gemini is
+that it is not formula linked. So your model would often, you know, not be
+customizable and there are usually not so much consistency. So we have created
+this prompt and you have to just take the latest financial numbers of any
+company with providing it with a new con call. The latest con call. So for
+example, I'm taking Interarch the latest transcript.
+
+[0:53:17]
+So what we have done is you have to put two things here. Your latest financial
+results of the latest financial year and you know screenshot is also fine if you
+can put a file then that is better and you know who called transcript and year
+zero year one year two so we are like here you can customize it for two years or
+three years so that is customizable. Depending upon the company and industry, 2
+or 3 years, if something is extremely cyclical, I wouldn't recommend to do it
+more than two years.
+
+[0:53:48]
+So then this input is that intelligent assumptions, it makes on itself, so con
+call inside summary and we are also saying whatever assumptions you are taking,
+explain it, why are you taking this assumption. So it provides you a summary
+also. And then next you can toggle the best part about this. Prompt is you can
+toggle around the assumption. So the fire and it is connected.
+
+[0:54:09]
+So if you think that your assumptions are more better, so suppose here in the
+gives the guidance of 20%, but if you feel it can, you know, do more than it or
+less than it, then you can customize it and it will automatically get updated.
+And then we can give beer, beer gas, beer, bull gas, beer and base gas, beer.
+And that is also customizable.
+
+[0:54:29]
+Upon doing all that, then it will give you the latest pack numbers also and you
+have given mention the deliverables whatever you want to deliverable like plug
+and play should be my screenshot should be and intelligence assumptions from the
+con call and then we have also made it for something for financial education you
+can do this tree too, let's see that later. So now we'll copy this. You're just
+copying the prompt as we learned in the master class using AI. So control C and
+we just do a control V over it. The prompt has been copied. I'll just add
+results also. Results of Interac.
+
+[0:55:05]
+So now I'm taking the financials car screenshot it's done just to add a wave
+yeah to basically income statement car screenshot latest concoct latest model
+that's it right and the prompt yeah actually we can do it without it if we, you
+know, tell it to, you know, take it directly from the internet. But the problem,
+yogi-kirtle, there are chances of hallucination or it might take standalone or
+not consolidated.
+
+[0:55:27]
+So that is to clarity, go, you know, or precise, it is better that if you
+provide it so that even the assumption is realistic that's why we provide the
+concon yeah so now it is thinking about it and it will directly give you an in
+the output in the excel format and we have made this prompt for even you know
+with the free tool only so claud free version may be come karega Till the answer
+is getting synthesized. I think, Keren ji, you can see it in every LLM. Great.
+Shake I can't answer, buy, sell questions in education webinar. We will add the
+prompt with the presentation.
+
+[0:56:01]
+Early statement, you have added the results in Q2. You just have to click plus
+for upload. You just check Plus sign. It is just like any other LLM, like the
+interface. AI teaching course, Amritpal ji is there in the SOIC course. It's
+below L6. Masterclass in using AI. So that's a 6R course just on LLM. Discount
+code for stock scans is as a TV GP 10 great how is this a sheet I'll share and
+actually it is just thinking to it is taking some time folks it's just creating
+the model shall I will be reverse DCF I'll just come till the time this one is
+done.
+
+[0:56:41]
+To calculate IRR, IRR function is a great function. You can see it. So, I will
+just include it in the recordings. I have a tool in the stock scan, but it is
+equal to RKK function on this red sheet. And it is equal to IRRK. We have also
+made a video on YouTube. So you can even check from there. But we can use the
+complexity finance. I think mcx is ctd not sptk was asking. Great just
+calculating folks we'll just share the prompt with you. I'll just share this
+prompt just over here and if anyone wants to actually my spreadsheet me
+dalwagunga aaptele.
+
+[0:57:19]
+Right it'll be easier is still creating though I think it'll take some time.
+Brown folks I can't paste it over here because it is big. So it is just crossing
+the limit of the like message that I can post. Here are two prompts over here.
+So you can take them and post. Technically we can do AI and show the course. We
+have already shown the masterclass of using AI. So we have already shown the
+course. Actually I don't have the screen with the sheet access. Let me just see
+if I am the admin. No one you'll have to share still I can't share. Yeah, so we
+have shared the sheet with you.
+
+[0:57:52]
+You can use these two prompts. Perfect. It's still going through it. It'll take
+time. So it's just moving the model and now it has created the financial model
+now here is what it looks like this is a beauty of it actually which I have
+worked with you in detail so here is how the spreadsheet looks like so like this
+created the entire model and this is the overall of Interaj so just coming to
+this this is how the model looks like folks. Actually, it's very close to my own
+assumptions. My own assumptions are 210 to 20 crore plus pad. It's got to 191
+crore pad almost.
+
+[0:58:31]
+Now this is, we can even reason with it. But is it something? Given the reasons.
+It has also given the reasons. But is it something that is going to make your
+life easy folks? If you do this one, is it something that is epic? Look, I have
+made the whole model in front of you. Okay, so these are the assumptions. Got
+it. So I mean, here, I was just using a slide. Right. So whatever blue may have,
+if I just turn this, I suppose 25% tax rate. I would have to say I can do
+different types of PE. So whatever I can editable in blue, right? And whatever
+answer is in front of you, it will be ready made.
+
+[0:59:14]
+Now this is fantastic where I am also seeing it for the first time, no one has
+been using it. But fantastic prompt to use actually, I just need to edit things
+in this blue. So if I suppose revenue growth is 25%, I think 25% goes, then 20%
+goes. So I can clearly create these scenarios out of this. That is something
+that you can do. Actually, something that you can do. So you have the prompts.
+You can use clod and yeah, it's actually a useful tool actually not class we've
+been asked to master classes using a M.A. And you can even check the another
+prompt is therefore R.O.A.
+
+[0:59:46]
+So banks kill a B we have done it. So why don't you do it now? Yeah. So folks,
+we have one more class for ROA tree also. So that we'll just, I'll just assist
+Naman on this because I think he's not used to Macbook. I'll just do this.
+Perfect. So Naman, what we'll do is that I think now I'll just assist him with
+this. Tell me on which one should I do the next? The second prompt, I think.
+I'll just do a new chart, right? So, this is the second prompt that we have now.
+First one is on the thing. Now second one is on Specifically on banks, banks and
+NBFC. Banks and NBFCs.
+
+[1:00:24]
+So you have put credit access Grameen in this. Yeah, I tested it with credit
+access Grameen. So in this latest financial like it will be better you put the
+full result PDF yourself with the con call, not just the snapshot So name of the
+company is given here, credit access, gram in right? Yeah, which can be changed
+Which can be changed, perfect So what do you want me to do? Create access gram
+in that should I download some data?
+
+[1:00:49]
+Yeah, the latest con call and latest results pdf Latest con call This is the
+transcript and this is the ppt So results pdf will download folks, so I'll just
+download it So you download results pdf, download Kaggle's ppt name Q3 and then
+we'll download the conference call as well. Kagle Q3FI26, con call, perfect. So
+we have actually downloaded both the conference call and the results PDF for
+create access Grameen. I will go to Claude. We have taken this prompt of ROA
+tree and we'll just add these files that is create access Grameen Kaggle's name
+is PBT.
+
+[1:01:32]
+This is the conference call both are Different. We'll just add it and then we'll
+just give the enter command. So it will create an ROAT tree with the Excel
+model. Yeah. Got it. Folks, it will like help KC Gawker banks or NBFCs like
+evaluate it, book value by model. So it will give you with the assumptions
+Balance sheet assumptions will also be there We can check it Folks I will just
+give this command, it will take like 4-5 minutes So let's do it together Let's
+just give this a command So the command has been given and it will take some 4-5
+minutes. Content size exceeds the limit.
+
+[1:02:05]
+Reducing the number of files will let me know which snapshot we will all all we
+always take the consolidated data because it also includes the subsidies this
+right yeah and actually may from the investor presentation should I take the
+bar? No, actually we don't need. Okay, we don't need only? Yeah. So I'll just
+now get the enter. I mean if you add more information, if you add, if you add,
+if you add, if you add, if you add more information, if there's a BPD, then the
+output can be better. But it will work on this too. So now it will just folks
+come up with an answer.
+
+[1:02:37]
+So it will give you the Excel and you can just change the assumptions and it
+will come up with a complete spreadsheet. The RO80. And to actually have been
+seeing the entire office has been using clod only I haven't been using because I
+do rough models using like my notes Right, so but yeah, it can something that
+can really help you right?
+
+[1:02:57]
+So it's a it's too good of a tool Just saw the XL model actually was as if an
+analyst has made it Prompt share with you, I am not here Prompt is there in this
+sheet Actually in my presentation we will just remake this section and put this
+up for you See you can't come to this step without reading the company I'll say
+Right, so I will put this in master class with AI and in this evaluation I will
+just put it again In AI section Amritpalji I will just put it again Right, And
+today we have spent almost three or 20 minutes in the class still going strong.
+Perfect. Both problems are different.
+
+[1:03:33]
+One is for ROAT tree, one is for banks, specifically for banks and one is for
+the other thing. Question that folks are asking, why not on chat GPT? My usual
+experience with chat GPT for Excel is not good. Answers are incorrect. You won't
+get formulated, you know formulated interconnected and sometimes it you know you
+know blanks out when you give ask outputs in excel worried for it this was a
+three-year financial model suni ji right roa prompt calling kangar Actually, the
+one I shared with you, the second page, this is the third page, this is the ROA
+car link. ROA Prompt Curlink you can check.
+
+[1:04:15]
+Is just there. Right. Is there in the sheet only which I've shared with you? I
+think DCF clay we can also make something like this, right? I already have a
+ready made excel sheet made for you but if I can turn it into a prompt, we can
+do it. But I think stock scans DCF tool is much more user friendly to use.
+Because I think DCF I will have to put it in the recording of the class because
+it's just gotten too much because it almost 3 hours 30 minutes into the class
+works.
+
+[1:04:45]
+So that here by the way reverse DCF tool seeking in stock scans I just uploaded
+in the recording for all of you So this is something that will give you an idea
+of how much implied growth rate is in the company If you want to earn 12% return
+of return So how much implied growth rate is in the stock price That the company
+should have so much pad growth So that is what will give you an idea about So we
+will include this in the recording Right? And then we can next Sunday I think
+Q&A session So I think it is getting uploaded Just post, I just want you to see
+the ROA tree.
+
+[1:05:17]
+So it's just getting there. DCF reverse DCF. I think I'm, up, yeah, they're
+recording me or the next Sunday, whatever you want folks. I got them next
+Sunday, then we'll also create a prompt in Claude and we'll see, teach you how
+the spreadsheet can be made. Hello, I'm recording, which I think we're recording
+maybe Dalsep. So Whatever works for you. But this cloud thing, I think we can
+put it in a DCF model. Next Sunday, we can have another class books, 30-40
+minute class followed by the detailed Q&A. We can even cover one sector roughly.
+
+[1:05:48]
+Then we can do a live bull where where the scenario of that entire sector any
+sector that you want any group of companies that you want we can do it life for
+you so that you can take it yourself we can take some companies from Aerospace
+if you want me to 1-2 gold lenders can be raised 1-2 CV companies can be raised
+CV gold lenders and Aerospace What do you suggest folks? CV Aerospace and Gold
+lenders will do Sansehra Engineering in Aerospace A home work given by a Gravita
+in a Recycler Right?
+
+[1:06:17]
+Because there's been too many earnings these days So I've been going through
+like 8-8 earnings calls a day these days My working hours have gone haywire
+right now Right? CSB Bank liling, Ankur Ji, you tell me, can you take TD power
+as well? Man, it's not a matter of getting more than one-two days of market I
+think it's okay, I mean, there have been worse days in the market Intellect
+design also can be taken It's a lumpy business, So it will be fun to make.
+Transil example. Why not? See the power. I'm a little business. I mean, it's
+easy to forecast actually. Me. He can't host the new man.
+
+[1:06:49]
+I think they'll go to 600 crores or quarter soon in FY 27. If I can find out.
+600 to 650 crores or quarter soon. Tax laws harvesting, take a decision in
+March. I'll say, March, if you sell your property, Take a decision in March
+about tax law, a law service. There is no capital gain actually. This is why
+capital gains haven't been reduced. You don't need to pay again Varun. We'll
+include it in this session only. You don't need to pay. Right. GM finance will a
+sec. CDMO may acute as chemicals. I'll we'll do bunch of these models, 10 to 12
+models I'll do in front of you.
+
+[1:07:26]
+So that it gives you confidence. Yeah, we're trying to create these rough
+models. You can buy the PryColl earnings. So, it's pretty strong actually. It
+was one of the best results in the... I'm just waiting for this model to get
+done, Mangal. The moment this model is done, I'll just show it to you and then
+we'll take a pause over it. 20 second Fabca Ayan.
+
+[1:07:46]
+I'm trying but the halls that we are getting in Chinnai, the pricing is super
+expensive Like it's just wedding days are there Because of the wedding days, the
+price is like 6000 per person, 5000 per person Very little alibrities and
+availability is also a constraint so we can't charge you that high, it's like
+not even good for us. So we are seeing that if we have to China, we will do
+China, otherwise we will go to Bangalore. We can do it in Delhi too, but I will
+do the meet in a few months, I will do 2-3 meets.
+
+[1:08:15]
+Because I think that we are going to the bottom formation now, so I can discuss
+a lot of things with you. I will discuss a lot of things with you when we meet.
+Actually, I am coming to Mumbai on 28th, so why not just do a Mumbai meet? It's
+a good option, right? Actually, I will be in Mumbai in 28th, so I will just, We
+can just do meet in Mumbai. Right? I think this will take some time. Actually in
+free version it took much lesser time. I don't know why is it taking time.
+Because the net is on, zoom is also on. So it's... First when I tried it, it
+took... It was done in 2 minutes. Right.
+
+[1:08:45]
+Post results, I will keep 3-4 sessions. One in Bangalore, one in Delhi, one in
+Mumbai Chennai, if we get a hall, the gold but Chennai pricing is like stupidly
+high, for 200 people we are getting hall for 12 lakh rupees. I know how to
+justify it, this is without taxes. Like, it's too high basically at the moment.
+I was there in Bangalore for two weeks almost. Angad Ji, the promoter will
+announce it. Right. Usually it does not take this much time but maybe due to
+internet connectivity. Prasanna Ji, I'll just announce it. I'll just check with
+the team.
+
+[1:09:19]
+When I start writing a book, the bear market is very dangerous. People start
+asking me what's going on in the market. Then, what's left is that the
+equilibrium gets disturbed. Then, results come up, then other things take
+precedence. But, I'm writing a book, I'm trying to finish it. Right. Really
+sorry, folks. I think once this is done, we will just do a detailed session on
+this, how to use AI for valuations. And I think that is there. So I have a great
+Sunday, hopefully you love this session, We try to make it as detailed as
+possible. We are doing these life case studies.
+
+[1:09:54]
+So you are making life businesses in front of you. Next Sunday we meet again.
+Next Sunday we will definitely conclude valuations and I'll just do a DCF
+reverse DCF in front of you. Reverse DCF, I'm going to teach you from the stock
+scan. I won't go to spreadsheets from the laboratory. Like because it is far
+easier to do it this way. And that is there.
+
+[1:10:13]
+Hopefully, real money is made in a bear market only only later we realize that
+bear market fear is very high I think I have identified so many businesses in
+bear market and bull market I was thinking why I didn't take it I just wanted to
+sit people get scared but you don't have to be scared at this time keep EQ solid
+beat this book little book of basically behavioral finance a James Montaner beat
+this book 150 to 100 page book It will help you to tide over the bear market for
+sure. Great. Idea, I think there is a big incentive in the payments company. You
+can read it today.
+
+[1:10:48]
+That is interesting. So I think that's an obvious beneficiary of the budget
+because almost the incentive for them has gone up by 2 and a half times even
+after the PIDF scheme great thank you everyone Jai Hind have a great Sunday.
+Have a great week ahead. Thank you. Thank you everyone. Bye.

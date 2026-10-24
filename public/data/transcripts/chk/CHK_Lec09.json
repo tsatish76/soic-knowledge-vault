@@ -1,0 +1,726 @@
+{
+  "lectureId": "CHK_Lec09",
+  "subcourse": "chk",
+  "rawFilename": "Lec09_class-9-part-1-valuations-transcript.txt",
+  "lectureTitle": "Class 9 Part 1 Valuations",
+  "courseTitle": "Crash Course",
+  "totalDurationSeconds": 3676,
+  "totalDurationFormatted": "1:01:16",
+  "totalCues": 119,
+  "cues": [
+    {
+      "id": "cue-6",
+      "timestamp": "0:00:06",
+      "seconds": 6,
+      "text": "So now let's start with the valuation webinar. So see a warm welcome to each and every one of you on how to find valuation of a stock and idea of this webinar is that we'll do it over two Sundays. And today we have an introductory class where we'll like try to explain why valuation is important and why you have to learn about it. And by the end of it, I'm going to give you a company's homework. Actually, I'm going to give you two companies homework where you can at least grow triggers, decode and what is the valuation of those companies if you can just think about it."
+    },
+    {
+      "id": "cue-38",
+      "timestamp": "0:00:38",
+      "seconds": 38,
+      "text": "So standard disclaimer, nothing in this presentation is a bio-sell recommendation. My pure idea is to teach you about these concepts because the more informed you are, the better judgments you'll be able to take and that's the purpose of SYC Right, so again, this is Professor Aswad Damodaran, you can see his free case studies, his YouTube channel His valuation is not what you want it to be, It's about what others believe it to be. Sometimes he says and he also says valuations partly on art and partly a science. Right."
+    },
+    {
+      "id": "cue-68",
+      "timestamp": "0:01:08",
+      "seconds": 68,
+      "text": "So, because sometimes what happens is that the evaluation case study that they say, I give my example, that I was sitting in 2021, like Dixon, I think I was in 2019 IPO, Then I read the plant visits of Ambar Dixon. And as it happened in 2020-2021, I liked the companies. I liked that these companies had earnings. But I never imagined that P18-190 would go around the 100. Right? So that zone of danger also happens. But what is the part of the science and part of the art? Whenever you look at stock market investing, whenever you look at an asset or whenever you look at a stock, what happens?"
+    },
+    {
+      "id": "cue-106",
+      "timestamp": "0:01:46",
+      "seconds": 106,
+      "text": "Is that the science part of it is the study of earnings and the growth triggers whereas the art part of it is to think about what again it's tough to say but generally sometimes what happens is that what others end up paying for this particular stock. So if you have made a science part where valuation, earning stricter, DCF, you have taken an intrinsic value. But sometimes what will happen is that if earning stricter are coming and if the company goes into a very strong type of a business momentum or earnings momentum, then the art part comes into play."
+    },
+    {
+      "id": "cue-139",
+      "timestamp": "0:02:19",
+      "seconds": 139,
+      "text": "You will end up seeing P ratios for stocks in hot teams. If you pick them at reasonable valuation that you didn't even imagine in the first place. As it happened with you in the past, who invest in. As it happened with you in the past, you have reasonably valued stock in a good theme and the theme goes to a level where the P ratio goes to a level which you didn't even imagine will ever happen. As it happened with you, which stock was it? Just name that stock. Tita Girl Wagons. Someone mentioned Tita Girl Wagons. Someone mentioned Newland Labs. Interesting. Amines can be with someone."
+    },
+    {
+      "id": "cue-168",
+      "timestamp": "0:02:48",
+      "seconds": 168,
+      "text": "Interesting. Tita Girl Radhiko Kaidaan. A Radhiko Kaidaan is a wonderful example. Who imagined the P ratio will go to 90 times. IEX, Vadek Babak, Balaji Amines, Trailt, Graphite India, interesting, persistent systems. Tata Alexi, what logos are there? Oriana Power, interesting."
+    },
+    {
+      "id": "cue-186",
+      "timestamp": "0:03:06",
+      "seconds": 186,
+      "text": "SGS, Ritika Narangma mentioned MCX interesting example right then PG Electroblast, Force Motors interesting T2E Networks another interesting example right so generally again if the growth ends up blasting, then what happens is that these, sometimes the stocks also end up going through the roof because the valuation keeps re-read. But generally the books which I suggest that all of you could read for to understand valuation. A book of value Anurag Sharma. This is a very good book to read because see every business will have previous of valuation."
+    },
+    {
+      "id": "cue-220",
+      "timestamp": "0:03:40",
+      "seconds": 220,
+      "text": "So I'll just discuss what this book discuss in a nutshell like a both simple question let's say This is Shop A and this is Shop B I will make scenarios with you and you will only tell me what happens Now Shop A currently Shop A does 100 rupees of sales and Shop A does 10 rupees of profit Let's keep it very simple Shop A does 100 rupees of sale and 10 rupees of profit. Shop B does 100 rupees of sales. It does profits of 2 rupees. It does profits of 2 rupees."
+    },
+    {
+      "id": "cue-253",
+      "timestamp": "0:04:13",
+      "seconds": 253,
+      "text": "Because shop they are selling the same product shop is more efficient shop become efficient shop in a Zada labor and manpower a key or shop in a again what efficiently come to the board a nut shell may up to my question push down at work basic may which company generally will have the higher valuation Shop A or Shop B which company will get a better valuation from Mr. Market Which one will it be? Shop A or Egi right? Everyone agrees on that?"
+    },
+    {
+      "id": "cue-277",
+      "timestamp": "0:04:37",
+      "seconds": 277,
+      "text": "Now let me try to make this more interesting Now Shop B guy does what he starts focusing on efficiencies He starts focusing on efficiencies and he starts focusing on increasing his sales and better products he tries to bring into his business. Better products bring in and he is trying to focus on his efficiencies."
+    },
+    {
+      "id": "cue-300",
+      "timestamp": "0:05:00",
+      "seconds": 300,
+      "text": "The business of Shop A is going on as it is going on and the profit of Shop A is Rs 10 only Next year also, the profit of Shop A is Rs 10 only The sale of Rs 100 comes and the profit of Rs 10 comes Shop B does product mix change, focuses on efficiencies and this profit metric also increases the shop. So let's say that the profit of 2 rupees is of 8 rupees but the sale is of 100 rupees today."
+    },
+    {
+      "id": "cue-332",
+      "timestamp": "0:05:32",
+      "seconds": 332,
+      "text": "Now a question that arises which I will ask you is that rate of change shop A is better or shop B is better rate of change means faster growth in which it is coming, delta of change in which it is going, interesting someone gave the example of gravita vs pondi oxides that exactly was the example I was thinking about. Right, so rate of change, the company's better."
+    },
+    {
+      "id": "cue-354",
+      "timestamp": "0:05:54",
+      "seconds": 354,
+      "text": "Right, see the funny part about stock markets is, is that if you are able to do research, and if you are able to figure out what is the shop B which I have done in the TV GP valuation TV GP course or the theme of the classes or the growth triggers classes."
+    },
+    {
+      "id": "cue-370",
+      "timestamp": "0:06:10",
+      "seconds": 370,
+      "text": "If you are able to figure out what is the profit of the 2 ruby, even a seemingly Inefficient business might end up doing better than the more efficient business if played well in the stock markets That's the beauty about investing I will give you a recent example of this but just focus on these examples Let's change this example theoretically Let's just focus on this. How do we create delta in investing? Then we take a shopping example. Then we take a shopping example. And now we say that this is also a 100 rupees sale."
+    },
+    {
+      "id": "cue-405",
+      "timestamp": "0:06:45",
+      "seconds": 405,
+      "text": "This is a profit of 10 rupees We also say that this is a sale of 100 rupees and this is a profit of 10 rupees Now again, the thing is Now this company SHOPB is growing its business via organic growth rate They are going towards an organic growth rate Right and next year they expect to increase their sales profit by 20% from 20% they want to bring their profit growth now what shop does is that shop goes for an acquisition they acquire small shops but it is very margin accretive so their organic growth will be 20% pat growth then 20% growth will be 20% growth because of the acquisition that they have done."
+    },
+    {
+      "id": "cue-446",
+      "timestamp": "0:07:26",
+      "seconds": 446,
+      "text": "And acquisition is EPS accretive. But their earnings per share will increase. So my question arises in this scenario when you think about rate of change. When you visualize the profit and loss statement for the next year, which company do you think in this scenario will get a better valuation? Assuming there is no equity dilution, then the balance sheet is correct. Which company do you think will get a better valuation in the two scenarios? This company or this company? I think you think absolute market cap will be bigger than this company."
+    },
+    {
+      "id": "cue-475",
+      "timestamp": "0:07:55",
+      "seconds": 475,
+      "text": "I think in this example what happens is that I haven't come to the balance sheet on the 10th length yet but in this scenario absolute market cap of company A could be bigger because the acquisition that they've done is EPA secretive and their balance sheet is still in shape. I mean they didn't do any dilution valuation. I mean they changed the topic. By the way, an interesting example of acquisition is the Sequent and Merger of Vishas, they have bought it by scientific."
+    },
+    {
+      "id": "cue-503",
+      "timestamp": "0:08:23",
+      "seconds": 503,
+      "text": "What I will do is that I will give you a homework that you can see something on the screen or on the stock scans like P, ratio, EV upon EBITDA, etc. But actually, how much is EV upon EBITDA that you have to tell me post doing that valuation exercise. So we will take that as a work because in the next session, we will go to the calculation element because through these studies, I can teach you the valuation. Right."
+    },
+    {
+      "id": "cue-526",
+      "timestamp": "0:08:46",
+      "seconds": 526,
+      "text": "Now let's take another study that this is a company, if you have a lot of research on the value of money, this is a company whose debt is Rs.300 and today's company's EBITDA is Rs.100, So debt upon EBITDA is 3 times whereas a company whose debt is 0 and company's EBITDA is 100 rupees means debt is not a debt, there is no debt, the company is debt free Now this company what the company A is doing versus the company B right so peddler if we think logically company B's valuation is not much because balance sheet is superior but what happens is that the company A says that now I'll repay the debt and in two years time I'll become debt free in two years time I'll become debt free right I'll start repaying debt I feel three years time because the 100 rupees debt I will repay in debt."
+    },
+    {
+      "id": "cue-581",
+      "timestamp": "0:09:41",
+      "seconds": 581,
+      "text": "And in between there is a normal cycle and this is 150 from 100. So instead of repaying the debt in 3 years, they end up repaying the debt in 2 years. And after 2 years, the company becomes debt free. Now, I have a question from you. How do you look at this company? How do you look at this company? Again, this stock market is funny. Right? How do you look at company or company B? And how do you invest it in company B or company A? They belong to the same sector, similar market positioning."
+    },
+    {
+      "id": "cue-610",
+      "timestamp": "0:10:10",
+      "seconds": 610,
+      "text": "And company A goes through a delevaging cycle in your holding period whereas company B and company A stay the same. My question to you is in which of these assets you would have made more money? Where does the rate of change go? This is the fun part of investing. What happens when the company delevages? Interest cost will fall. If the interest cost will fall, will the PAD go up more? Right now, someone asked a very good question. Again, because we are talking about valuation."
+    },
+    {
+      "id": "cue-635",
+      "timestamp": "0:10:35",
+      "seconds": 635,
+      "text": "Now someone asked a very good question that yes sir you said the company is the one to own in this scenario but how to see the thesis is playing out. The best part is that the company announces 4 results in a year, that is Q1, Q2, Q3 and Q4 and once these results are announced, what you do is that after every result or after every 6 months of results you start to go and check if the thesis is playing out or not, right? The thesis is playing out in this company and it is not happening, right?"
+    },
+    {
+      "id": "cue-662",
+      "timestamp": "0:11:02",
+      "seconds": 662,
+      "text": "Like if you see the recent results, I think the Jaiswal has gone, so the debt of 2300 crores has gone to 1800 crores. That is almost 500 crore deduction. That is how you start seeing that you can track the thesis playing out or not. That's a fun part about investing. But this is how what happens is that the valuation which is multiple, to understand the valuation you need to understand the company's growth drivers, company's narrative, company's story."
+    },
+    {
+      "id": "cue-694",
+      "timestamp": "0:11:34",
+      "seconds": 694,
+      "text": "And then you start assigning P multiple Z way upon a bit and also the key variable if you belong to that sector for example let me say there is a hotel sector, a mining sector, a mining sector and internet sector these three sectors have different variables like hotel, ref bar, that is the basic revenue per occupied room. Mining sector, there will be commodity pricing, right? Commodity pricing and expansions. Internet business, there will be operating leverage element, right? Operating leverage, your monthly average user, all three and number of users who are coming to you will belong."
+    },
+    {
+      "id": "cue-732",
+      "timestamp": "0:12:12",
+      "seconds": 732,
+      "text": "Like I am going to give you another case study."
+    },
+    {
+      "id": "cue-734",
+      "timestamp": "0:12:14",
+      "seconds": 734,
+      "text": "Because to learn your best ways through case studies, let me just show you one more thing let me just take you to the screens and this is a very interesting K-Study because on Twitter there is a lot of talk about stock so let me go towards the stock let me open the stock's hands and we will go to a stock which is India Mart India Mart as a stock care of the and India Mart we look at the year Patroat to be very good 78% 37% 94% 47% 81% 35% Patroat is very good right so almost the profit after tax has gone from 284 crores to 551 crores Yet the over the last 3 years, if we check, the stock was peaked at a like a If we look at the peak of the stock price, it peaked out at 4700 And last year, it fell to as low as 1900 rupees So almost a drawdown of how much almost a more than 50-60% drawdown."
+    },
+    {
+      "id": "cue-787",
+      "timestamp": "0:13:07",
+      "seconds": 787,
+      "text": "Yet the stock hasn't done anything. What could be the reasons? Like, so every business has variables. I'm explaining to you that in the basics of valuation, why variables matter and the way I will teach you the variations is all case study oriented because that is how I have learnt valuation over the years and that is how I think you should also think about learning valuation every year One other simple reason is that in the Indian art business, the paying suppliers, i.e."
+    },
+    {
+      "id": "cue-813",
+      "timestamp": "0:13:33",
+      "seconds": 813,
+      "text": "How many suppliers are coming to your platform So I think I will just open this all right If you attend any conference call in the Indian market, then what the street is asking about again and again, is that the paying suppliers, why are your suppliers not increasing? Now it only grows by 2%. Why the number is only 2%?"
+    },
+    {
+      "id": "cue-832",
+      "timestamp": "0:13:52",
+      "seconds": 832,
+      "text": "This number used to grow it at 20-25% to 15-17% can anyone think of a reason why the market is not valuing the results of India what in spite of showing very good pad growth why do you think market is very concerned on this paying suppliers number to serve 2% growth it's less than GDP growth rate then real GDP 6-8% growth rate of change is missing just tell me because I work future growth slow that's a very good answer internet business So that's the variable to look at. I think also sometimes the business environment also changes."
+    },
+    {
+      "id": "cue-865",
+      "timestamp": "0:14:25",
+      "seconds": 865,
+      "text": "I think a lot of people might have found other ways to connect with their customers versus India. What all the means of advertisement? People are Google ID directly. India what get through in a day. As any one of you use India, what as a silver customer? How was your experience? You know, you used it as a silver customer Not gold or platinum And YouTube ads can also be used Not so good Interesting So generally see guys what happens is that every business will have a metric. Like how it is that all Jebra always focus on something in the market. So every business will have a metric."
+    },
+    {
+      "id": "cue-897",
+      "timestamp": "0:14:57",
+      "seconds": 897,
+      "text": "Right and market will disproportionately focus on that metric. So as you can see in this case, if you look at it, then the metric that market is very much focused on. If you look at paying suppliers, then the platinum gold suppliers have a lot of arboo but the silver monthly, these suppliers are getting churned out of the system because they are not getting the value because the buyers are getting fake calls etc. Etc. But this number is not increasing, this number is decreasing because those who took membership are not renewing, so churn is increasing."
+    },
+    {
+      "id": "cue-933",
+      "timestamp": "0:15:33",
+      "seconds": 933,
+      "text": "If churn is increasing, then revenue of the future can be reduced. So the market is disproportionately focusing on this number. So the headline path you see is not driving the valuation, What is driving the valuation is the turn that is picking up. What is market? Again, in every business, it is focused on variables. These are the case studies which I think only as a practitioner, I can teach you, right? Because I've practiced this business very well for the last four years."
+    },
+    {
+      "id": "cue-959",
+      "timestamp": "0:15:59",
+      "seconds": 959,
+      "text": "It seemed in the middle that the turn problem will be over, but the turn problem is not over The office is continuing You will see who is calling this company Churn problem is not getting over If you look here, again paying suppliers The increase of the RPU paying suppliers are not going up the way it was in a period of time that's a bigger problem that is happening in this company at the churn problem, existing customers are not renewing so every business will have that one variable which will decide how to think about this company. So every business has these type of variables, right?"
+    },
+    {
+      "id": "cue-997",
+      "timestamp": "0:16:37",
+      "seconds": 997,
+      "text": "But generally what overall drives the market cap of a business or market cap of a company, actually there are these four videos which I think, because the internet access near PDFs, so I'll just post these videos for you separately these four videos you can watch before we start with the next session because next session will be very intensive and I think next session will be around 4-4.5 hours so these four videos I'll just post it in the description box and you can watch them."
+    },
+    {
+      "id": "cue-1023",
+      "timestamp": "0:17:03",
+      "seconds": 1023,
+      "text": "But generally this is what happens and this is how companies usually end up doing well and my starting market cap is also going to discuss an interesting thing with you. So if you check here, maybe just over here, FI 11, let's see here, let's see a number. This is data between 2011 to 2019. Sage one letter was given, now I just wanted to focus on how many company's P ratios are more than 50 which were the best 20 winners in the stock market in the Indian stock markets between FI 11 to FI 19. How many companies had a P ratio more than 50 times over here?"
+    },
+    {
+      "id": "cue-1059",
+      "timestamp": "0:17:39",
+      "seconds": 1059,
+      "text": "How many companies can you name which had a P ratio more than 50 times over here? I think valuation 12-18 months doesn't matter. It matters a lot in 3-4-5 years. In 12-18 months, valuation doesn't matter as much as it matters in 3-4 years because high growth doesn't sustain So that's the thought process If we look at it from FI11 This is again why study from history and why valuations are important, this becomes very important to look at is that not many companies had a high B ratio to start with when these companies became huge, right?"
+    },
+    {
+      "id": "cue-1092",
+      "timestamp": "0:18:12",
+      "seconds": 1092,
+      "text": "But one thing which these companies had common in was the earnings per share bro Now because we have done growth triggers in our TVGP class, you will know why growth rates come in the company. So, can everyone repeat that growth rates come in the company? You can think about it. And if you check here, industrial, Bajaj finance almost compounded its pet for 34% between years. As for polytechnic, almost 24% is Pat compounding a Janta pharma 29% is Arthi industries 23. So, the midline industry is 25% is relax. So 26. Winner, the 23. It's so and so."
+    },
+    {
+      "id": "cue-1125",
+      "timestamp": "0:18:45",
+      "seconds": 1125,
+      "text": "But all these companies had two combinations, reasonable to OKPE ratios to start with plus solid EPS growth rate Plus solid EPS growth rate and then these companies over the 10 years or 9 years horizon were big winners because of that none of these companies were starting P of 50 60 70 times so my Peter Lynch's who was reading the book from the back one upon Wall Street so he mentioned that if I avoid accidents in the market then do two things avoid growth trap and avoid value trap so what is value trap? Value trap businesses are there whose future is not there."
+    },
+    {
+      "id": "cue-1159",
+      "timestamp": "0:19:19",
+      "seconds": 1159,
+      "text": "Like India wards market is a value trap or just dials market is a value trap. If growth comes back in this, then value trap will be removed. But business market thinks. Let me ask you a question. Newspaper businesses, how many people read newspapers physically and how many people online? I think there will be a lot of consumption on the internet. They will consume on YouTube. But 15 years ago, I had a quiz. How many of you would have been reading newspapers physically? A lot of us, right? Almost 80-90% of us. So do you think in this type of a business, PE, RERATE or D-rate?"
+    },
+    {
+      "id": "cue-1195",
+      "timestamp": "0:19:55",
+      "seconds": 1195,
+      "text": "In this type of a business, will PE, RERATE or D-rate? So it's a very simple example. In Berkshire, you can see all the newspaper stocks in the news paper. In earlier 20 years of their career, when they owned it, they made a lot of wealth. In the last 20 years, they've destroyed a lot of wealth by owning those stocks or the owning those businesses. It's a simple reason because there is no terminal value. There is no terminal value because at the end, you don't see the market as a future. It's a common, sensible question. Let's ask one more question. PVR Inox."
+    },
+    {
+      "id": "cue-1222",
+      "timestamp": "0:20:22",
+      "seconds": 1222,
+      "text": "As a stock, has it been good over the last 10 years or bad? What do you think? I think the stock has done nothing over last 8-9 years if someone comes in the middle of the movie, I will go to the hall to see how many of you watch movies. So let me just do a poll because these polls will help you to think that valuation is a common sense thing. Because the more you get scared of valuation because people get very scared thinking about valuations."
+    },
+    {
+      "id": "cue-1246",
+      "timestamp": "0:20:46",
+      "seconds": 1246,
+      "text": "It's a way of thinking right it's like sometimes even more than a spreadsheet what I'll say that if you are able to think well about valuations then that is more than enough right. So let me do this poll. Let's do this poll. Let me create this poll. How any of you watch more movies on OTT versus PVR now here OTT is your Netflix and like your example yes or OTT yes or PVR right so let me just publish this poll. Alright, my answer is very clear. I know who I am going to watch the movie. Usually, I don't know much about my year of movies."
+    },
+    {
+      "id": "cue-1288",
+      "timestamp": "0:21:28",
+      "seconds": 1288,
+      "text": "Until there is an epic movie, I won't be going out of time. Right, so I think, alright. Let's end the poll and let's share the results. Yes for OTT, 92% said yes. And 8% only said yes for PBR again this is the changing pattern of consumption. Whenever the pattern of consumption changes, the existing leader, if they reinvent it, they end up losing. I will ask you another example. Blink it out, Zepto or Insta-art, how many people use it in comments because it is a common sense. I mean, we will make the valuation very easy for you first. How many people use it? I use it, I'll just love Lincoln."
+    },
+    {
+      "id": "cue-1326",
+      "timestamp": "0:22:06",
+      "seconds": 1326,
+      "text": "I think it's a normal thing. Sometimes I order protein bar, sometimes I order food. That's all. Right? In this scenario where the changing patterns of consumption is happening, people are using more and more online groceries or online things. What do you think happens to the valuation of grocery or retail companies? Do they go up or the valuations de-rate? The valuation is de-rate or de-rate? Today, you understand that I am just teaching you about de-rating and de-rating."
+    },
+    {
+      "id": "cue-1350",
+      "timestamp": "0:22:30",
+      "seconds": 1350,
+      "text": "I am not showing you any of the things that I am showing you by finding a value I am first showing you common sense whether it is a dereit or not that is where the value is moving from offline to online that is how the value is moving because humans are preferring to purchase more over online versus off-time so growth rate will also slow in this scenario PE will also be derating so you understand that PE derates and PE derates we will do classes about that and we will understand many examples That's the idea I think just going forward."
+    },
+    {
+      "id": "cue-1384",
+      "timestamp": "0:23:04",
+      "seconds": 1384,
+      "text": "So the thought process builds up and things around it builds up. I think and also to make sure that it's important to have some sense of valuation also. I have put a video here for you, you can watch that video because I will discuss the PE ratio in detail with you I didn't discuss it much because we have already done many videos on PE ratio But let me give you an example here Whenever you pay a very high looking PE multiple, what is the thing is that we live in a capitalist society, right? So again, why valuations are important is that we live in a capitalist society."
+    },
+    {
+      "id": "cue-1419",
+      "timestamp": "0:23:39",
+      "seconds": 1419,
+      "text": "We are living in a capitalist society where new patterns of consumption, new competition and frankly things just work on obsolete in no time right what is the narrative of IT companies folks let me ask you a question what is the narrative of IT companies will they get decepted by AI and will they be the ones benefiting from AI today's narrative is deceptive so P multiple D rate or R rate in this scenario narrative is deceptive by AI like dividend stocks now I am telling you about the narrative, but at one time, it's just looking at the starting P multiples. Why is it important?"
+    },
+    {
+      "id": "cue-1456",
+      "timestamp": "0:24:16",
+      "seconds": 1456,
+      "text": "Because this is a wonderful case study which I keep showing over and over again, I will show you near term case studies too. When you give excessive P multiple for stocks, excessive P multiple is more than 50X, any stock of P will be taken. Again, we will go on to P definition by definition. The moment you start paying more than 50 times earnings Meaning, you are ready to pay 50 rupees for a rupee earnings So, if anything is wrong, then what happens is that Multi-year correction and time correction can come So, either the growth rate should be high or you should wait for multi-year correction."
+    },
+    {
+      "id": "cue-1492",
+      "timestamp": "0:24:52",
+      "seconds": 1492,
+      "text": "If anyone was buying in year 2000, so if you look at the earnings rate of infosys, in 2000, there was 115, in 2001, there was 117%. So If you calculate the peg ratio in 2000 year how would you calculate this? Then the peg ratio is an interesting metric the peg ratio is that if there is a P-E ratio of 200 times and there are earnings of 100 times then the peg ratio comes with 2 times it is a 2x peg ratio scenario but such phenomenal earnings growth rate is so difficult to sustain because the re-rating also tends to happen when P goes through the moon."
+    },
+    {
+      "id": "cue-1531",
+      "timestamp": "0:25:31",
+      "seconds": 1531,
+      "text": "Like you will see that there was a 115-117 pad growth and then the pad growth started slowing down. When absolute terms of emphasis were still a fast growing company between 2000 and 2003 but had one invested in year 2000 they would have made negative returns minus 5%. Whenever you buy assets at 150 to 100 B, then what will happen is that your returns will be very tough to make. There are many recent examples of this. Let's look at recent case studies. Page Industries is a very good example of the companies that have heard of Jockey under government Right?"
+    },
+    {
+      "id": "cue-1567",
+      "timestamp": "0:26:07",
+      "seconds": 1567,
+      "text": "Everyone must have heard of it at the end How many of you have observed the stock of Jockey? In 2018, it was P ratio 75 In 2018 From 2018, the same price of Jockey has been taken from the company 8 years of no movement Because competition increased Vanuzen also took out the price on Innerwear Today, there are many companies in Innerwear Like, there are a lot of companies. Same example is given, there is a very interesting example. Here we will see the example of trend, right?"
+    },
+    {
+      "id": "cue-1597",
+      "timestamp": "0:26:37",
+      "seconds": 1597,
+      "text": "The P-E ratio of trend was always high, what I am trying to tell you is that the moment you see, you will not have to get used to two things P-E is the only way to re-rate, if any company had P-E10 and the earnings per share is of 2 rupees, then the market cap of this company is 20 if the company's earnings per share is 3 rupees and if the PE 20 is of 60 then the market cap of this company is 60 because PE into earnings is market cap right, PE re-rate is a very simple example of this P e-re-rate is because your rate of change of earnings growth improves your rate of change of e-ps growth improves your earnings profile or company longevity improves So these are the reasons for re-rating Why is PdRate because your rate of change is negative So rate of change is what this webinar is about that first we learn this then we go about valuation Like why is PdRate and re-rate?"
+    },
+    {
+      "id": "cue-1651",
+      "timestamp": "0:27:31",
+      "seconds": 1651,
+      "text": "For re-rating, rate of change has to improve For PdRating, Rate of change has to go down. Another example, because we are talking about variables, these variables are company specific. Like footballer, like Manchester United, Manchester City. If we look at the stats, the match shots on target were also more and expected goals were also more. So that's a variable for that particular game."
+    },
+    {
+      "id": "cue-1675",
+      "timestamp": "0:27:55",
+      "seconds": 1675,
+      "text": "If Virat Kohli over his career ends up becoming a better batsman than Sachin Dendulkar, will be because the average hit rate of his or strike rate was better than such in the rule and his innings played were much higher. I don't know if that is true or not, but every sector has that key variable. The retail sector has a key variable, a new stores and same store sales growth. So, if you finally when you grow trend example, till high growth, till then, multiple sustained growth till high growth, till then, multiple sustained growth. But the day the growth of Now, finally, the revenue growth."
+    },
+    {
+      "id": "cue-1705",
+      "timestamp": "0:28:25",
+      "seconds": 1705,
+      "text": "Let's look at the example of trend. But the day the high growth was coming, the Pistlet was reduced from 3 quarters. Multiple has also tanked from 230 to 97 P. The recent trend has been studied. Now, people are fishing at the bottom, they are fishing at the value, I don't know why. Because until the rate of growth is not improved, until then, it is difficult to get the old P multiple. And that is why, valuation should not be looked at in terms of P multiples. It should be looked at in terms of the growth rate of the earnings per share."
+    },
+    {
+      "id": "cue-1731",
+      "timestamp": "0:28:51",
+      "seconds": 1731,
+      "text": "What will happen to the rate of growth, what is happening to the rate of change, because rate of change is what matters. If the rate of change is accelerating, your P multiple could read it, right?"
+    },
+    {
+      "id": "cue-1741",
+      "timestamp": "0:29:01",
+      "seconds": 1741,
+      "text": "Because partly science, earnings per share will increase and we have seen that 7 sentiment improve, some story is being made because usually earnings per share are accelerating in the top down sector something is happening like the PSU banks earnings growth is accelerating because your asset quality cleanup has been done and what is happening is that bottoms up your like these companies are giving out loans faster now. So what will you see? The PSU bank index will be outperforming the markets and you will see that 10 11 companies will they will start standing out."
+    },
+    {
+      "id": "cue-1771",
+      "timestamp": "0:29:31",
+      "seconds": 1771,
+      "text": "So that is one of the reasons. So always there are bottoms up or earnings per share accelerator narrative. But trend key case study is one last one year can the closely take saturation on the case video. So again, that's the thought process to remember folks key."
+    },
+    {
+      "id": "cue-1786",
+      "timestamp": "0:29:46",
+      "seconds": 1786,
+      "text": "That's the thought process to remember folkski That's the thought process to remember folkski Rate of change Valuation is very important thing if the rate of change becomes negative Valuations matter whenever the rate of change goes for the negative valuations might not matter when the rate of change becomes positive that's as per my limited experience of investing in the markets for last 11 to 12 years now that is what I've observed that is what I've seen I've seen companies like Astral Polytechnic re-rating to the moon and now getting going through a derating phase."
+    },
+    {
+      "id": "cue-1818",
+      "timestamp": "0:30:18",
+      "seconds": 1818,
+      "text": "I've seen companies like PI industry is going to be a 4-5 bagger when the profit growth was very high but then one product concentration played out. This is the case of the trend. If you see that at one time the 30-40% revenue growth was just 18% it's extremely important for us to understand this because fundamental investor account name fundamental investor is only doing one thing if a fundamental investor is good at his job, he will be able to figure out what is happening to the rate of change. That is completely what fundamental analysis is."
+    },
+    {
+      "id": "cue-1851",
+      "timestamp": "0:30:51",
+      "seconds": 1851,
+      "text": "Rate of change and a good company is not looking for fundamental analysis. That is what fundamental analysis is and valuation is a part of fundamental analysis."
+    },
+    {
+      "id": "cue-1859",
+      "timestamp": "0:30:59",
+      "seconds": 1859,
+      "text": "Valuation doesn't mean that we make spreadsheets and spreadsheets and spreadsheets of target prices of intrinsic valuation complete idea of valuation is to find out where the rate of change is positive what valuation is being traded in the peerless sector and what can be the cause of intrinsic value of business we have to take a rough idea that is what valuation is completely about right so yeah but what the example is I don't have the trend to be normalized or yeah like the same example of PI industries car it so I was invested in this business at one point of time right now we are going to check the PI industries key revenue growth it was accelerating to 3245 percentage plus but PI industries case make other 60% of revenue came from one molecule that is Pyroxa cell phone Now let me take an example, there is a shop A Shop A which is the best shop in the world that sales of 1000 rupees and profit of 200 rupees."
+    },
+    {
+      "id": "cue-1910",
+      "timestamp": "0:31:50",
+      "seconds": 1910,
+      "text": "The product shop a bitch, the way innovator product, which is patented, right? This is why it is able to make 20% Pat margin in spite of being a retail business. But patent on this product expires and a lot of Chinese players start entering and next 5 years China will have a lot of competition What do you think happens to the PE multiple of this shop and what do you think happens to the growth rates of this shop eventually? What do you think happens to the shop in that scenario? Will the PE multiple re-rate or de-rate? Will the PE multiple de-rate or de-rate? This is happening with PI."
+    },
+    {
+      "id": "cue-1940",
+      "timestamp": "0:32:20",
+      "seconds": 1940,
+      "text": "Rishabh Ji is saying the same thing. Right? There is no doubt in the best companies, like AgroGarumical, CDMO. In India, in top 2, 3, PI comes and Deccan chemicals comes. Right? Until the new molecule is not found in the PI industries, till then, de-rating will be there. Because 60% of sale comes from one particular molecule and that is how the reading has happened. Let me show you the rating. How you see and why this not valuation in isolation, valuation viewed in conjunction with the growth rates of a company matter, write it down somewhere."
+    },
+    {
+      "id": "cue-1972",
+      "timestamp": "0:32:52",
+      "seconds": 1972,
+      "text": "The valuation is just not looking at the P multiple, valuation also should be looked at with the growth rates of the company. So, valuation is equal to multiples plus growth rate. That is what true valuation of a company is. I think I will show you an example of PI industries. So let's see the case of PI industries, if you see price to earnings, so PE ratio was 67 times peak, today PE ratio is around 32 times. In the middle, PE ratio was around 27. Because the earnings have peaked out and now the earnings have started falling. Why is the earnings falling?"
+    },
+    {
+      "id": "cue-2009",
+      "timestamp": "0:33:29",
+      "seconds": 2009,
+      "text": "We discussed the reason because in your best shop in the world, 60% of your sales comes from one molecule and your molecule has gone out of favour. That is the reason why this type of scenario is happening. So, re-rating, re-rating care, numerous reasons why these scenarios take place. So, in the case of PI, it happened."
+    },
+    {
+      "id": "cue-2029",
+      "timestamp": "0:33:49",
+      "seconds": 2029,
+      "text": "Always important to remember that yes, valuations matter but it has to be looked at in conjunction with growth rates and what we will be learning over next two classes, I think second class will be very intensive is that how to avoid extreme scenarios that we don't take value track, growth traps because valuation is a tool of avoiding versus a tool of filtration if that makes sense because If we avoid growth traps and value traps, then what will we eventually give? Companies which are at reasonable prices or reasonable valuations. That is what our entire thought process is."
+    },
+    {
+      "id": "cue-2064",
+      "timestamp": "0:34:24",
+      "seconds": 2064,
+      "text": "That is what our entire philosophy is. It's same here, for example, we will give you long term winners in Indian stock markets. These are companies which started at a reasonable P multiple. Maybe 3M India will leave because float was cornered in MNC. But generally these are companies which have always started at a reasonable P multiple and eventually ending P multiple looks high because earnings per share is at a very high it grows at a very high rate."
+    },
+    {
+      "id": "cue-2091",
+      "timestamp": "0:34:51",
+      "seconds": 2091,
+      "text": "So one thing you should be clear from this class that if you are giving a very high P multiple for any stock then your time horizon cannot be more than 12 to 18 months until or unless EPS growth rate is absurdly high right, if you look at the example of BSE so the EPS growth rate of BSE was 2 to 300% for 2 to 3 years because in the option trading volume it was gaining market share over NSE Similarly, if you are giving a very high P multiple, then if you think that your EPS growth rate after one year won't be high, then again it's a challenge because derating can happen as it is happening in the trend."
+    },
+    {
+      "id": "cue-2127",
+      "timestamp": "0:35:27",
+      "seconds": 2127,
+      "text": "Trends are saying that there is a value, but I just said that the rate of change is in the business. It is not just true for these companies, it's true for almost all the companies in the world Valuation is just a tool of avoidance, right? So I think we will keep the first class short and precise today I can give you all your questions now. You can ask any questions for the next 20-30 minutes. Then what we will do is that in the second class we will go towards the growth triggers, growth drivers, what drives the growth in the businesses. I will share this deck with you."
+    },
+    {
+      "id": "cue-2158",
+      "timestamp": "0:35:58",
+      "seconds": 2158,
+      "text": "You can learn from the reverse DCFs and DCFs. We will also learn from the multiples. What should be the multiple in the hotel sector, what should be seen in multiple ways What should be seen in hospital, what should be seen in internet And you can do homework too In one homework, I give you a company Now there is a merger of Sequence Scientific So again, if you don't have homework, then that's fine, I'll do it with you."
+    },
+    {
+      "id": "cue-2178",
+      "timestamp": "0:36:18",
+      "seconds": 2178,
+      "text": "So, the merger of Sequence Scientific with another company, on a consolidated basis, what is the market cap upon a bit of that company, what is the P ratio of that company on a consolidated basis, you'll get the answer by reading the con calls that's the homework that all of you can do companies name is sequence scientific so you can do homework there right, so I'll just take all your questions any questions that you have folks feel free to ask part 2 is included in the part 1 only second part we will do a 4 hour session with all of you."
+    },
+    {
+      "id": "cue-2208",
+      "timestamp": "0:36:48",
+      "seconds": 2208,
+      "text": "Any questions folks, you have, we can please ask all right. Even if product dependency is there, if the company is a monopoly, does it matter? Assuming barriers to entry are there, Ashwin has a very good question. Example, he asked a question about Stylinix. Ashwin ji, the first thing is, in the case of Stylinix, there are 3-4 companies. Again, I share the answer with you because you have asked a question about TyrianX How do I think about it?"
+    },
+    {
+      "id": "cue-2230",
+      "timestamp": "0:37:10",
+      "seconds": 2230,
+      "text": "Because it's a commodity chemical business in my opinion So, we make a product by styling and styling When we talk about ABS, this product is also going on a cycle. So when you talk about ABS, right, so this styling is the product of ABS, which is going on a cycle at a time where there are multiple players in the world. You know, there are multiple players in the world who are into ABS, right, in ABS and in styling."
+    },
+    {
+      "id": "cue-2257",
+      "timestamp": "0:37:37",
+      "seconds": 2257,
+      "text": "In India, three to four companies are expanding which is their peers and globally in Southeast Asia auto demand is not so good so they keep dumping in India so if we apply Michael Porter's 5 forces analysis so I will teach you that Michael Porter's analysis is that will there be more bargaining power of customers or more of suppliers? Will there be more bargaining power of customers or will we buy from someone else? What do you think happens to the pricing power? Will the pricing power in such an industry go up or go down? What do you think?"
+    },
+    {
+      "id": "cue-2290",
+      "timestamp": "0:38:10",
+      "seconds": 2290,
+      "text": "Either if the excess supply of the world is commodity, will the pricing power be more or less? If the pricing power is less, if the pricing power is less in the industry, then what do you think? Margin will be stable and margin will be very volatile. There will be a cyclicality. So, as a cyclical stock, I will view it as a structural growth story. So, the PE ratio market gives such a stock high or low. Now, its valuation multiples will fluctuate because the market is afraid. So, when you are studying the business, Ashwini, you will have to track this one by one."
+    },
+    {
+      "id": "cue-2321",
+      "timestamp": "0:38:41",
+      "seconds": 2321,
+      "text": "If the end product is a commodity product. So that can lead to problems at the end because then what happens is that you are like just here I give you an example here that the margins are not in your hands and markets typically hate volatility in profits. So here I show you this is also an interesting line that markets hate volatility in profits just to show you an example. Right, so if you look at the last year in the middle, this is the example of Tylenix. In the middle last year, in the same quarter, 15% operating margin was done, which is 10%."
+    },
+    {
+      "id": "cue-2356",
+      "timestamp": "0:39:16",
+      "seconds": 2356,
+      "text": "So in spite of the top line growing by 22%, you'll see the path has fallen by 36%. Now in this scenario where margin breaks, P is re-rate and P is de-rate. What do you think happens? It is a very important idea to understand. P is derate or re-rate. P derates or re-rates in this type of scenario. Yeah, P and it could be a cycle that is correct. So, again, in cyclical stock, you have to pay a lot of attention to the margins. Because P-derating can be very swift."
+    },
+    {
+      "id": "cue-2387",
+      "timestamp": "0:39:47",
+      "seconds": 2387,
+      "text": "I think in this case, if we look at P in the last one year, it has sort of derated from 25 times to almost 16-17 times so today market is agreeing that today I think the company is like a cyclical business because it's getting a lower P multiple sometimes the earnings evaporate in a business like this I think its peer is a peer and its again fundamental investing is about understanding all these pointers so if you see the peer of this company by investing in the business then the earnings of the company is also falling from 60-60% because margins are reduced from 33-34% drastically So that is their commodity chemical Commodity chemicals will have their cycles If you take it at the lower end of the cycle and sell it on the peak end of the cycle, that's one of the ways to make money in these companies."
+    },
+    {
+      "id": "cue-2437",
+      "timestamp": "0:40:37",
+      "seconds": 2437,
+      "text": "But Mircos makes pretty small because I think it needs 3-4-5 years of time and rising. But if you can avoid the peak end of the cycle, then it's okay to take the lower end. But if you avoid the peak end, it's easier to take. I'll take one more question. This is an interesting question. So I think this will be valid for everyone who watches the recording also this is a question where it comes to banks how do you know that in banks P is going to be re-rating or P is going to be re-rating Let me give you an example of a recent South Indian bank, and here you see the price-to-book ratio."
+    },
+    {
+      "id": "cue-2471",
+      "timestamp": "0:41:11",
+      "seconds": 2471,
+      "text": "It's an okay bank, that's why they trade at price-to-book ratio, they trade at price-to-book ratio once a day. The market basically says that your net worth your net worth valuation because you are earning as much as your cost of capital that is what the market says indirectly when a stock trades at a price to book but the company's income is going on a 15% trajectory if we look at recent results then what will happen in the bank's results? That will make it even more interesting for you to see that the key ratios in fundamentals move the valuations."
+    },
+    {
+      "id": "cue-2504",
+      "timestamp": "0:41:44",
+      "seconds": 2504,
+      "text": "Let's see here, recently the bank's 13.5% ROU was there. It was 65-70%. Let's see another example in the bank's case. That Just over here, this is our data to look at Now let me open and ask you in the comments If bank's bad loans are falling at speed, then the bad loans are being reduced very quickly. If you check here, the bad loans of this bank. The bad loans of the bank were 7% of GNPA, today 2.6% of GNPA came forward, and from NNPA 4.71% to 0.45% came forward. Are these signs that PB RERATING could happen in this business or PB DERATING could happen?"
+    },
+    {
+      "id": "cue-2544",
+      "timestamp": "0:42:24",
+      "seconds": 2544,
+      "text": "Because we are taking the key variables of the stock. RERATING or DERATING? PB DERATES or RERATES? ROE also matters. ROE will be ADNIENT function and the asset quality of the credit. If the cost increases, ROE will go down. Right?"
+    },
+    {
+      "id": "cue-2555",
+      "timestamp": "0:42:35",
+      "seconds": 2555,
+      "text": "Again, this is just one of the metrics When we were looking at the banks, there was a question Give you an example of how markets work because their markets are focusing on these variables well So this is a variable that market is looking at Like, to do derating or re-rating how do markets focus on things because overall story bank is improving whether the loan book is growing bank's asset quality is improving averages are consistently growing the advances of the bank are growing and still your asset quality is improving then that gives a signal that yes, maybe bank might do better another example retail advances means the growth of retail loans is bank mortgage loans is 29% growth, home loans with 3a, gold 26% auto loans with 23% retail loans more profitable for banks versus corporate loans?"
+    },
+    {
+      "id": "cue-2605",
+      "timestamp": "0:43:25",
+      "seconds": 2605,
+      "text": "Yes or no? The answer is yes, retail loans are more profitable, more safe, highly profitable. So the growth of the bank is 23% like in retail loans. So if you check here, this is the overall growth rates of the book. The growth rate of the 11% was the whole growth rate. But the growth of the 23% in retail loans is also signaling that the product mix shift is in the bank. The bank is focusing more towards a higher profitable segments. Investing complicated things. We look with complicated brother the investing go coffee buddy, but fundamental."
+    },
+    {
+      "id": "cue-2637",
+      "timestamp": "0:43:57",
+      "seconds": 2637,
+      "text": "If you ratio, some JKR a business may come at a time again up to your ears, spend it, and investing up seek Jangya, my idea can be a bit of a stimulus journey. I'll cut short, but if you just check all these things out, then as the corporate loan book is growing 10% each, whereas personal loan book is growing 23% each. So these are the internal metrics of the bank which are changing. So it means that if the business performs, there could be a chance to be a price-to-book ratio of this business starts re-rating."
+    },
+    {
+      "id": "cue-2665",
+      "timestamp": "0:44:25",
+      "seconds": 2665,
+      "text": "Because price-to-book ratio trades at one times whereas any decently run OKH bank also trades at 1.5 to 2 types. But this is just a case study or an example. Someone asked me about these examples. So I'm just telling you that there are such Peeb, De-rate or Re-rate of banks. Right? So we did two examples. One was of the question style and the other was of the South Union bank."
+    },
+    {
+      "id": "cue-2686",
+      "timestamp": "0:44:46",
+      "seconds": 2686,
+      "text": "Now these are examples of case studies on valuation that your business variable will be and you will have to turn the business variable in a good way to re-rate the valuations to re-rate the valuation you will have to turn the business variable in a bad way so That is something that you should take away from this class. And also take away from this class is that valuation is a tool of avoidance rather than a tool of filtering stocks. How many times you will filter stocks less than 10p? Waste of time. How will you filter stocks? Packaging companies."
+    },
+    {
+      "id": "cue-2715",
+      "timestamp": "0:45:15",
+      "seconds": 2715,
+      "text": "Sometimes someone filters these stocks and the packaging or the paper companies come in. Someone filters these stocks and then comes in. Who has also been an intelligent investor in Benjamin Graham. All the cyclical companies come It's not a parameter that one can use to sort of... Yes, solar next is true So, like solar, margins are 2 So, dad can be there as talking to someone in the solar industry they are saying that the margins are down a lot. It will be interesting. The business to go and the B2G sectors and the rest will be derating. I'll take two, three more questions. Yes, folks."
+    },
+    {
+      "id": "cue-2754",
+      "timestamp": "0:45:54",
+      "seconds": 2754,
+      "text": "I'll just pause the comment section now because both questions are a perfect. 4 videos Joe head. Thank you. I'll just put it in the links, link in the description box below so you can watch those videos. How does increase FII holding in defence sector good or bad? As you mentioned inflation is going to run hot, interest rates are increased to control inflation then how will this impact equities as it generally underperformed. I think Rajesh K.G. You understood the opposite. If then this is a time where inflation is being intensely being run hot."
+    },
+    {
+      "id": "cue-2787",
+      "timestamp": "0:46:27",
+      "seconds": 2787,
+      "text": "So, interest rates will be low so that inflation is high and your normal GDP increases. The beginning part of the webinar was there, you can think of ramifications again. If interest rates are artificially low and inflation increases, then the normal GDP growth rate comes, so asset owners will do well. Those who are holding cash or bonds, It will be assets of confiscation. It will basically confiscate your money. That's the thing to think about. Again, this is true for the developed world. How much time do you think we should spend on value, growth, promoter, quality and scanning?"
+    },
+    {
+      "id": "cue-2819",
+      "timestamp": "0:46:59",
+      "seconds": 2819,
+      "text": "I think I will come towards this in the final class, but I think majority of your part should be spent upon theme and growth. When I teach you valuation, you don't have to spend too much time. Valuation, 5-10 minutes in your investing journey, maybe 20 minutes max. Major, you spend time on the theme and growth. Like, if I do 3 hours research on a stock, then 2.5 hours has to be on theme and growth last 50 like 20 minutes 30 minutes because valuation with in a whether it does it make sense from here or not, when it comes to risk reward. I will also give you a live case study of a stock."
+    },
+    {
+      "id": "cue-2856",
+      "timestamp": "0:47:36",
+      "seconds": 2856,
+      "text": "How can you think of a hypothetical case study and we will do a live case study in terms of risk reward. Right. Veeresh has a question. Hello, Paji, your view on solar oversupply was spot on. What is your view on microns, $100 billion capex? Will it lead to oversupply in this industry? Look at the village, every industry has oversupply and there is supply. Maybe after three years, memory chips won't be a problem. So oversupply can be created because the SKINnings are doing big KPEX, Samsung is also doing and the micron is also doing. So all three are doing big KPEX."
+    },
+    {
+      "id": "cue-2884",
+      "timestamp": "0:48:04",
+      "seconds": 2884,
+      "text": "But near term, one or two years may not be a problem but yes, it can be in long term because memory chips have had many cycles in the past you have to track the pricing of memory it publishes very brokerages and it publishes on twitter so there is a key variable in that great, Utsav has a question does PE Rating typically happen before earnings would accelerate?"
+    },
+    {
+      "id": "cue-2906",
+      "timestamp": "0:48:26",
+      "seconds": 2906,
+      "text": "If you want to enter early should be rely more on technical signals and market narratives PE Rating see a lot of times you have to form a view on the earnings of a company right, like for example, sometimes there are these early signals that the earnings are going to accelerate for example, there were gold financiers and I think in the last 8-9 months, I haven't talked much about the gold financiers I haven't talked about it after a stage But because the gold price is higher than the number one variable in the business, you have gold So what do you think?"
+    },
+    {
+      "id": "cue-2938",
+      "timestamp": "0:48:58",
+      "seconds": 2938,
+      "text": "Had someone looked at that one's variable, earnings acceleration would have been easy to spot yes or no. Again, this is the case study we talked about in the sector. So, in such scenarios, if you check that growth rate is going to be 50-55% and So that is the thing. Then what happens in that scenario is that if you are able to spot it well, then many earnings are made. Sometimes you think that again because valuation is partly a sign and not, someone just asked how a company comes to be drugged. Now it has come to be 14-15% I think the company has done Kpex as established capacities."
+    },
+    {
+      "id": "cue-2979",
+      "timestamp": "0:49:39",
+      "seconds": 2979,
+      "text": "And I think their commodity cycle is also turning. And they are also doing anti-dumping duty on their products. But because the small cap index is also 15-20% broken, sometimes because it's just a part of the underlying index the stocks will fall right there is no news for as such why the business has not done so well why the, why any small cap has not done so well because overall market cap is a part of it. You have to make a view on earnings over 2-3 years because valuations generally don't matter in 12-15 months or 12-18 months horizon. They matter a lot more over 2-3 year framework."
+    },
+    {
+      "id": "cue-3014",
+      "timestamp": "0:50:14",
+      "seconds": 3014,
+      "text": "Now I will give you homework for different businesses. One of them is you can do homework on the merger of sequence scientific. How will the merger match? That's the homework that you can do. Then you can do a homework. Why PBR, INOX ended up becoming a value trap? That's an interesting homework that you can do. How their sales growth decline or what has happened is that the sales growth are very very lumpy nature. That's homework you can do."
+    },
+    {
+      "id": "cue-3038",
+      "timestamp": "0:50:38",
+      "seconds": 3038,
+      "text": "Other homework that you can do is that you can look at what has happened in the last four years of the valuation between HDFC Bank and State Bank of India. Now stocks can be used here. Then HDFC Bank can be used here. If you look at the price to book ratio of these banks and ROE, ROA and growth rates and also JNP and NNP will compare. So how like state bank of India over the last four years has done better versus like HDFC bank on these metrics. So you will see a clear line how price to book SBI and HDFC bank is re-rated because of that."
+    },
+    {
+      "id": "cue-3076",
+      "timestamp": "0:51:16",
+      "seconds": 3076,
+      "text": "So that's the homework that you can do then you will start appreciating more about the business variables. So business variables basically Ritish Ji, you have a appreciation for this. So these are the four questions that you can take for homework. Awesome. Again, I think there are companies which is there. So, I will attach all the resources for you. You should watch a YouTube video. I will show you here. It's a must watch video if you want to attend the second session of this. So this is P ratio by SOIC. So P ratio decoded. There is a video, right? So here I will show you."
+    },
+    {
+      "id": "cue-3114",
+      "timestamp": "0:51:54",
+      "seconds": 3114,
+      "text": "So this one year ago video is of 2 hours 11 minutes. So you can see it on 2X speed because generally I usually speak slow in YouTube videos. In 50-60 minutes this video will be uploaded and it will give you a wonderful example on how things are happening so interesting video to watch now you can watch this whole video and this is like a must watch video because it will supplement your learnings in the webinar. Night. Night. I just sent a message to Humbug that he will also send you a sheet of homework. Pankaj, the market environment is that breakouts will be again, just a second."
+    },
+    {
+      "id": "cue-3147",
+      "timestamp": "0:52:27",
+      "seconds": 3147,
+      "text": "I'll just type in the homework again. So, the homework is that you can work with a sequence scientific that is a merger with a company So, that is just over here, sequence scientific Similarly, if you look at the sequence scientific, if you look at EBITDA, it is 189 crore EBITDA But actually, EBITDA's number is much higher because they have done a merger with the company. So, if you open the PPT with the merged entity, you will get all the answers. The first homework is, what is the merged entity's EBITDA and overall profit versus what we see on the likes of screener and stock scans."
+    },
+    {
+      "id": "cue-3184",
+      "timestamp": "0:53:04",
+      "seconds": 3184,
+      "text": "So that's the first question. Second question is HDFC bank or state bank of India go for comparison. Okay. The key ratios. The bank matter like RUE, RWA, GNPA and NNPA. And after doing this comparison, you have to check. We compare the two. Okay. This bank to book ratio. This bank to book ratio. Okay. So that's the second homework to do and which bank's earnings are better which bank's earnings are less that's the second part of the question that you can take. So these two homeworks, if you do it well, you will get a good idea. I think first do these two. I'll tell you the third homework."
+    },
+    {
+      "id": "cue-3219",
+      "timestamp": "0:53:39",
+      "seconds": 3219,
+      "text": "I think I'm repeating it. But here I give you an additional point."
+    },
+    {
+      "id": "cue-3224",
+      "timestamp": "0:53:44",
+      "seconds": 3224,
+      "text": "Trend, which is a stock, you can see the long term P ratio of trend, whether you can see it on the screen, if you see the long term P ratio of trend, just over here, if you see the long term P ratio of trend, and what you have to do on the P ratio of trend, if you see the last 4-5 years, then after every quarter, if you see this quarter on the P ratio, then what you have to do is, the growth of the trend comes up with business updates, what you have to add in this update, how the company's growth rate and P ratio goes, as you will see, when the growth rate is increasing, then it goes to the P ratio, when the growth rate is decreasing, then the P ratio is going down, So that's a homework that you can do."
+    },
+    {
+      "id": "cue-3263",
+      "timestamp": "0:54:23",
+      "seconds": 3263,
+      "text": "If you do this homework, you will get a wonderful idea. And the last homework is our PVR I know of its growth rate historically. And in the last 10 years, what is the sales growth and pad growth? So you can do four homeworks. I will also provide you with free resources. This is a homework that you can do yourself. Perfect. This is a homework you will take. Perfect. I think Fed FINA, if you understand business, then Fed FINA, your business loans, unsecured loans If you understand the business of FINA, in FETFINA, the unsecured loans, they closed the loans in Q4, Fi26, Q4, Fi25, Q1, Fi26."
+    },
+    {
+      "id": "cue-3298",
+      "timestamp": "0:54:58",
+      "seconds": 3298,
+      "text": "The GNPA that is big, that is because of the past loans. So I think 2027 can then go repeat. No, because now the company has become a secure lending book. So I think they mentioned in the last con call. So FI 27 could be here where operating leverage plays out and also this issue is no longer there. But This is a business transition story like Aarti Farmer Labs. Where time and time are needed. But at the end, the growth of the Gold Loan book is 51%. So the key variable is that you have to track the growth of the book in a secure loan and the operating level when the business will play out."
+    },
+    {
+      "id": "cue-3330",
+      "timestamp": "0:55:30",
+      "seconds": 3330,
+      "text": "Perfect. Next Sunday, there will be a session of the valuation. If anyone wants to register for the SOIC membership, you can check learn.soc.in and you can register from here. You can also use the SOIC 2026 coupon code. It is valid for the first month of January. And we keep teaching. We keep doing these webinars like every Sunday once a week. We do it with students once a week or once in alternate weeks. The idea is that we will keep classes of 60 minutes to 90 minutes. Right? So that I think because sometimes 2-3 hours of classes get more, we will keep classes of 60-90 minutes. Right?"
+    },
+    {
+      "id": "cue-3371",
+      "timestamp": "0:56:11",
+      "seconds": 3371,
+      "text": "The cycle of PSU banks will start to peak out when their asset quality will get bad. So again, you can see the PSU banks by holding the overall index. When you start to see stage 4, if you are doing a SOIC course, you will be told about stage 1, stage 2, stage 3, stage 4. You will start looking at the top of the chart. For the metal and mining sector, what you can do is, there is a video on our channel and mining. We have done a workshop for 4 hours on metals and mining. But we did it when no one was talking about it. This was 18 months back. So we have done it with Mr. Digan Darya."
+    },
+    {
+      "id": "cue-3407",
+      "timestamp": "0:56:47",
+      "seconds": 3407,
+      "text": "So just over here, spotting winners in metals and mining sector. This is one year ago. He will give you a very good idea of what sector we should look at. The way he explains is just next level fantastic. Even see, which we did 3 months ago with banks in NBFC. So actually when they said that the cycle is coming, now everyone talks about the cycle. So are you able to correlate that sometimes how good these industry experts could be?"
+    },
+    {
+      "id": "cue-3430",
+      "timestamp": "0:57:10",
+      "seconds": 3430,
+      "text": "Under investing would be interesting in IT if you have a view, I think that in IT sector again, your companies, in the long term, in AI implementation, these companies are going to work. So again, near term, it can be your disruption. But in the long term, these companies could be there. But again, long term means a three year view, not a six month view."
+    },
+    {
+      "id": "cue-3450",
+      "timestamp": "0:57:30",
+      "seconds": 3450,
+      "text": "If you don't say index, people will start coming here, nothing happened in 3 months Again, I am telling you that valuations matter over a 2-3 year period of time Not in 12-18 months as per my limited experience Like, 3 million chemicals are not tracking at the moment Right? URRG will do that soon We will have to see you there, again, as your question is Let's say, you have a question from Sansehra So, what is the market looking at in Sansehra?"
+    },
+    {
+      "id": "cue-3472",
+      "timestamp": "0:57:52",
+      "seconds": 3472,
+      "text": "Let me just check Sansehra and Jai What the market is now looking at is that the area of the business is that is close to 4000 crores in order book and this business Joe a time they 100 crore the sale that now this business will be doing sales of 550 crores to market is clearly getting excited about this business because see if you check companies like a cousin stuff that though in guy just appear a because Karaki my just get out so good key aerospace defense key sale a because cut the cool them right this guy are so good companies like Acus and stuff like Acus Karke which has a sale of 800 crore Euro Space Defense which has a sale of 800 crore Euro Space Defense Business that business trades at a market cap of 9000 crore So in the world where the CV cycle is also benefiting, that is currently trading at a market cap of 11400 crores."
+    },
+    {
+      "id": "cue-3518",
+      "timestamp": "0:58:38",
+      "seconds": 3518,
+      "text": "So that is how the market is viewing it. If this growth rate turns out to be true, if a massive growth rate comes in the ADS business Then it will start looking very interesting. MCX type business will have to track the value for the value and the growth rate of the FNO every day published in the evening. So the volumes of their future and options, how many contracts are traded, that is what you have to track. If you go to value picker of MCX, you will know that people make a daily PNL. So again this is something that you can track. Just over the MCX, traded contracts."
+    },
+    {
+      "id": "cue-3555",
+      "timestamp": "0:59:15",
+      "seconds": 3555,
+      "text": "So this number is actually far higher than what was happening in October also like so it's just accelerating So someone has already made Q3 PNL as a whole just by putting some assumptions And again you can see their estimates, these are their assumptions And they think that 6 to 10 crore type revenue could have been there last year 266 crore revenue because MCX first was a company of crude oil derivatives now there is a big chunk of gold silver contract. Now, on the NCEX website, Traded contracts and data comes which can track."
+    },
+    {
+      "id": "cue-3593",
+      "timestamp": "0:59:53",
+      "seconds": 3593,
+      "text": "Again, I am telling you that You will ask me about any thing, I will not tell you this. Until I know, you have not studied business. If you study business, you will be able to think Forward P multiple, what will happen to the company. Right? Again, in the shipping sector, you will have to see the order book. Again, if the order book is so big of 8-9 years, then the future of the company will be very less. So, the TTM will be more, but the future of the companies will be less. Like, you can study the case of J.M."
+    },
+    {
+      "id": "cue-3621",
+      "timestamp": "1:00:21",
+      "seconds": 3621,
+      "text": "Finance, where the book value is around 1.2-1.3 times, moment the business transition takes place, whether this type of stock trades at this close to book value, peers like Nuvama 361's example, they can see where they trade. But again, business transition stories take time, but I've seen people sometimes they lose patience and then they go to something else. But it's there, it's the nature of these businesses."
+    },
+    {
+      "id": "cue-3646",
+      "timestamp": "1:00:46",
+      "seconds": 3646,
+      "text": "Right stocks can's coupon code again again I think up TV GP 10 use because that's why if you TV GP 10 your stocks can's the coupon code stocks can's 2026 we use because that they will be there on the stock scans YouTube channel itself you can check on chapki wo again apkir prospect kyo paray ki again app stage analysis follow kare to follow the system to the core. Again, you have to follow the process is exactly correct. It may be reentry later. Part two of the webinar is that it will be included for you, so you don't have to pay for that."
+    },
+    {
+      "id": "cue-3676",
+      "timestamp": "1:01:16",
+      "seconds": 3676,
+      "text": "If you want to take the whole TVGP course, then I think you can go with the whole team and get in touch. Later, we'll just upload it. I think it's better to be a part of the SOIC membership because you have all the courses and webinars here. All of it is included only. But again, that is up to you. So the companies I just mentioned, the theme webinar that we did the strategy of the peak out I feel that margins have been peak out in a major way right"
+    }
+  ]
+}

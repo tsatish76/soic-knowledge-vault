@@ -37,6 +37,7 @@ export default defineConfig({
       { text: 'CC (Crash Course)', link: '/courses/cc/' },
       { text: 'FA (Fundamentals)', link: '/courses/fa/' },
       { text: 'L3 (Valuation)', link: '/courses/l3/' },
+      { text: '🎙️ Transcripts & Audio', link: '/transcripts/' },
       { text: '🛡️ Verification Queue', link: '/verification-queue/' },
       { text: '📈 Sanchay App', link: 'https://portfolio-tracker-frontend-iota.vercel.app' }
     ],

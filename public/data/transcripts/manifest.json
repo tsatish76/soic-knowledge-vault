@@ -1,0 +1,282 @@
+{
+  "chk": [
+    {
+      "lectureId": "CHK_Lec01",
+      "lectureTitle": "Class 1 Theme Part 1",
+      "duration": "1:09:24",
+      "totalCues": 130,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec01.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec01"
+    },
+    {
+      "lectureId": "CHK_Lec02",
+      "lectureTitle": "Class 2 Theme Part 2",
+      "duration": "1:23:36",
+      "totalCues": 150,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec02.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec02"
+    },
+    {
+      "lectureId": "CHK_Lec03",
+      "lectureTitle": "Class 3 Theme Part 3",
+      "duration": "1:17:08",
+      "totalCues": 140,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec03.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec03"
+    },
+    {
+      "lectureId": "CHK_Lec04",
+      "lectureTitle": "Class 4 Spotting Growth Businesses Part 1",
+      "duration": "1:25:24",
+      "totalCues": 172,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec04.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec04"
+    },
+    {
+      "lectureId": "CHK_Lec05",
+      "lectureTitle": "Class 5 Spotting Growth Businesses Part 2",
+      "duration": "1:24:22",
+      "totalCues": 162,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec05.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec05"
+    },
+    {
+      "lectureId": "CHK_Lec06",
+      "lectureTitle": "Class 6 Bonus: Spotting \"J Curves\"",
+      "duration": "1:23:04",
+      "totalCues": 210,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec06.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec06"
+    },
+    {
+      "lectureId": "CHK_Lec07",
+      "lectureTitle": "Class 7 Screening Non-Linear Businesses",
+      "duration": "1:38:43",
+      "totalCues": 241,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec07.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec07"
+    },
+    {
+      "lectureId": "CHK_Lec08",
+      "lectureTitle": "Class 8 Read Management Like A Fund Manager",
+      "duration": "1:37:43",
+      "totalCues": 238,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec08.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec08"
+    },
+    {
+      "lectureId": "CHK_Lec09",
+      "lectureTitle": "Class 9 Part 1 Valuations",
+      "duration": "1:01:16",
+      "totalCues": 119,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec09.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec09"
+    },
+    {
+      "lectureId": "CHK_Lec10",
+      "lectureTitle": "Class 10 Part 2 Valuation",
+      "duration": "1:14:36",
+      "totalCues": 136,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec10.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec10"
+    },
+    {
+      "lectureId": "CHK_Lec11",
+      "lectureTitle": "Class 11 Part 3 Valuation",
+      "duration": "1:04:07",
+      "totalCues": 117,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec11.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec11"
+    },
+    {
+      "lectureId": "CHK_Lec12",
+      "lectureTitle": "Class 12 Part 1 Financial Modelling",
+      "duration": "1:08:27",
+      "totalCues": 137,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec12.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec12"
+    },
+    {
+      "lectureId": "CHK_Lec13",
+      "lectureTitle": "Class 13 Part 2 Financial Modelling",
+      "duration": "1:10:48",
+      "totalCues": 127,
+      "jsonUrl": "/data/transcripts/chk/CHK_Lec13.json",
+      "pageUrl": "/transcripts/chk/CHK_Lec13"
+    }
+  ],
+  "cc": [
+    {
+      "lectureId": "CC_Lec01",
+      "lectureTitle": "Class 3 | Finding Multibaggers! Fundamental Analysis",
+      "duration": "3:28:46",
+      "totalCues": 277,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec01.json",
+      "pageUrl": "/transcripts/cc/CC_Lec01"
+    },
+    {
+      "lectureId": "CC_Lec02",
+      "lectureTitle": "Class 4 | Tools To Find Multibaggers",
+      "duration": "3:25:49",
+      "totalCues": 295,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec02.json",
+      "pageUrl": "/transcripts/cc/CC_Lec02"
+    },
+    {
+      "lectureId": "CC_Lec03",
+      "lectureTitle": "Class 5 | SOIC Exit Strategies",
+      "duration": "3:50:47",
+      "totalCues": 311,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec03.json",
+      "pageUrl": "/transcripts/cc/CC_Lec03"
+    },
+    {
+      "lectureId": "CC_Lec04",
+      "lectureTitle": "Class 6 | Joining the Financial Statements",
+      "duration": "2:10:31",
+      "totalCues": 216,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec04.json",
+      "pageUrl": "/transcripts/cc/CC_Lec04"
+    },
+    {
+      "lectureId": "CC_Lec05",
+      "lectureTitle": "Class 7 | SOIC Method Explained : Valuation Part 1",
+      "duration": "3:11:48",
+      "totalCues": 272,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec05.json",
+      "pageUrl": "/transcripts/cc/CC_Lec05"
+    },
+    {
+      "lectureId": "CC_Lec06",
+      "lectureTitle": "Class 8 | SOIC Method Explained | Valuation Part 2",
+      "duration": "3:02:01",
+      "totalCues": 256,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec06.json",
+      "pageUrl": "/transcripts/cc/CC_Lec06"
+    },
+    {
+      "lectureId": "CC_Lec07",
+      "lectureTitle": "Class 9 | Valuations Decoded (Valuations Part 3)",
+      "duration": "3:32:05",
+      "totalCues": 312,
+      "jsonUrl": "/data/transcripts/cc/CC_Lec07.json",
+      "pageUrl": "/transcripts/cc/CC_Lec07"
+    }
+  ],
+  "fa": [
+    {
+      "lectureId": "FA_Lec01",
+      "lectureTitle": "Class 1 Fundamental Analysis",
+      "duration": "1:51:31",
+      "totalCues": 212,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec01.json",
+      "pageUrl": "/transcripts/fa/FA_Lec01"
+    },
+    {
+      "lectureId": "FA_Lec02",
+      "lectureTitle": "Class 2 Financial Statements",
+      "duration": "2:47:22",
+      "totalCues": 257,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec02.json",
+      "pageUrl": "/transcripts/fa/FA_Lec02"
+    },
+    {
+      "lectureId": "FA_Lec03",
+      "lectureTitle": "Class 3 Cash Flow Statement",
+      "duration": "2:10:31",
+      "totalCues": 216,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec03.json",
+      "pageUrl": "/transcripts/fa/FA_Lec03"
+    },
+    {
+      "lectureId": "FA_Lec04",
+      "lectureTitle": "Class 4 How to Filter Epic Stocks",
+      "duration": "2:10:24",
+      "totalCues": 226,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec04.json",
+      "pageUrl": "/transcripts/fa/FA_Lec04"
+    },
+    {
+      "lectureId": "FA_Lec05",
+      "lectureTitle": "Class 5 Research a Stock from Scratch",
+      "duration": "3:21:58",
+      "totalCues": 294,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec05.json",
+      "pageUrl": "/transcripts/fa/FA_Lec05"
+    },
+    {
+      "lectureId": "FA_Lec06",
+      "lectureTitle": "Q&A Session",
+      "duration": "1:57:10",
+      "totalCues": 184,
+      "jsonUrl": "/data/transcripts/fa/FA_Lec06.json",
+      "pageUrl": "/transcripts/fa/FA_Lec06"
+    }
+  ],
+  "l3": [
+    {
+      "lectureId": "L3_Lec02",
+      "lectureTitle": "Why Valuation Matters + Odd Meter!",
+      "duration": "2:02:49",
+      "totalCues": 201,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec02.json",
+      "pageUrl": "/transcripts/l3/L3_Lec02"
+    },
+    {
+      "lectureId": "L3_Lec03",
+      "lectureTitle": "Art of Business Valuation-Different Methods",
+      "duration": "2:17:08",
+      "totalCues": 240,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec03.json",
+      "pageUrl": "/transcripts/l3/L3_Lec03"
+    },
+    {
+      "lectureId": "L3_Lec04",
+      "lectureTitle": "How Buffett Actually Invests? Valuation Methods",
+      "duration": "2:30:01",
+      "totalCues": 258,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec04.json",
+      "pageUrl": "/transcripts/l3/L3_Lec04"
+    },
+    {
+      "lectureId": "L3_Lec05",
+      "lectureTitle": "Portfolio Allocation Approach",
+      "duration": "2:09:25",
+      "totalCues": 281,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec05.json",
+      "pageUrl": "/transcripts/l3/L3_Lec05"
+    },
+    {
+      "lectureId": "L3_Lec06",
+      "lectureTitle": "Part 1 Valuation Across Industries",
+      "duration": "2:31:21",
+      "totalCues": 233,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec06.json",
+      "pageUrl": "/transcripts/l3/L3_Lec06"
+    },
+    {
+      "lectureId": "L3_Lec07",
+      "lectureTitle": "Part 2 Finding Intrinsic Value Across Sectors",
+      "duration": "2:08:30",
+      "totalCues": 203,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec07.json",
+      "pageUrl": "/transcripts/l3/L3_Lec07"
+    },
+    {
+      "lectureId": "L3_Lec08",
+      "lectureTitle": "Part 1 Financial Modelling",
+      "duration": "1:16:01",
+      "totalCues": 123,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec08.json",
+      "pageUrl": "/transcripts/l3/L3_Lec08"
+    },
+    {
+      "lectureId": "L3_Lec09",
+      "lectureTitle": "Part 2 Financial Modelling",
+      "duration": "1:54:21",
+      "totalCues": 195,
+      "jsonUrl": "/data/transcripts/l3/L3_Lec09.json",
+      "pageUrl": "/transcripts/l3/L3_Lec09"
+    }
+  ]
+}

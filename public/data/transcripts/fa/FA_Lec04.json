@@ -1,0 +1,1368 @@
+{
+  "lectureId": "FA_Lec04",
+  "subcourse": "fa",
+  "rawFilename": "FA_Lec04_how-to-filter-epic-stocks-transcript.txt",
+  "lectureTitle": "Class 4 How to Filter Epic Stocks",
+  "courseTitle": "Crash Course",
+  "totalDurationSeconds": 7824,
+  "totalDurationFormatted": "2:10:24",
+  "totalCues": 226,
+  "cues": [
+    {
+      "id": "cue-10",
+      "timestamp": "0:00:10",
+      "seconds": 10,
+      "text": "Hi dear tribe members, welcome to an Epic session on how to find Epic stock ideas."
+    },
+    {
+      "id": "cue-15",
+      "timestamp": "0:00:15",
+      "seconds": 15,
+      "text": "And purpose of this session is that we will learn how to screen stocks We will learn the entire philosophy We will learn how to rotate the sector And we will also learn how to go about scanning stocks individually And why stock filtration is important And we will look at how to screen ideas in today's market as well right because these are sessions which we've been doing non-stop over the last couple of years so through these sessions I think we have multiple times we have screened a business of cable and wires we have screened a pet recycler multiple times right we have skin We have screened our company which is into bottling multiple times."
+    },
+    {
+      "id": "cue-49",
+      "timestamp": "0:00:49",
+      "seconds": 49,
+      "text": "We have screened a lot of companies into power sector multiple times. So idea of these sessions is so that you can understand how to screen yourself. This is the idea of this session. I will teach you a tool which you can leverage. How will you screen your stocks independently? Just before we start, a standard disclaimer that nothing in this presentation is a biocell recommendation. Any stock which I name or anything which we cover over it, the idea is that you just have to teach a mental model of screening. The idea is not that it has a target price or a bio-zell recommendation."
+    },
+    {
+      "id": "cue-83",
+      "timestamp": "0:01:23",
+      "seconds": 83,
+      "text": "The idea is that you have to make it self-sufficient when it comes to the process of screening. So with this disclaimer out of the way, let's go ahead. So the first thing that is important is why is stock filtration important, right? So how I'll keep this session is that for next 90 to 100 minutes I'll just go straight into the session Then we'll take a break and then we'll come back for a Q&A So today I'll try a different format So why stock filtration in the first place? So the first thing is stock filtration."
+    },
+    {
+      "id": "cue-110",
+      "timestamp": "0:01:50",
+      "seconds": 110,
+      "text": "So the thing is that there are 5000 stocks and because there are more than 5000 stocks, so what happens is that there is a lot of noise in the market. Noise in the market is that sometimes you get a WhatsApp message saying, look at this stock. Sometimes you get on Twitter that you should look at this stock. Sometimes you feel like you should look at this stock somewhere. But what happens, it leads to the process of noise."
+    },
+    {
+      "id": "cue-136",
+      "timestamp": "0:02:16",
+      "seconds": 136,
+      "text": "So if you have a criteria for filtration and mental models and how to filter stocks basically if you know what you are looking for out of the 5000 needles right so then you will atleast know that in these stocks your probability of winnings is more. Like let's take a couple of examples. Name of few companies and you tell me what is common amongst them. There is a business by the name of Shelley Engineering. Let's take an example of that. Then there is a business by the name of PDS Limited. Let's take an example of that. Then there is a business by the name of HBL Engineering. Name change."
+    },
+    {
+      "id": "cue-173",
+      "timestamp": "0:02:53",
+      "seconds": 173,
+      "text": "There is also business by the name of Karnex. Then there is a business by the name of Keynes Technologies, then there is a business by the name of Garware High Tech, and then there is a business by the name of Garware Technical Fibers, or then there is a business by the name of PG Electroplast, or there could be a business by the name of Danish Power, or there could be a business, let's take an example, there could be a business by the name of Danish power, right? Or there could be a business, let's take an example, there could be a business by the name of Wellesman Corp, right?"
+    },
+    {
+      "id": "cue-204",
+      "timestamp": "0:03:24",
+      "seconds": 204,
+      "text": "So, idea is, if you are tracking markets carefully or closely, I will tell you later What do you think are some of the common patterns or some of the common things which are there in between these businesses in the comments? What do you think what is common? So, Bunker answered Tailwinds, Stage 2, earnings growth. I'm just looking for that one word. What is common amongst them? What is that common amongst them? That will be interesting to see. Market leaders finally someone mentioned they are doing something new."
+    },
+    {
+      "id": "cue-251",
+      "timestamp": "0:04:11",
+      "seconds": 251,
+      "text": "This is just an example of companies doing something new. So word care new. They are doing that which is interesting. There is some catalyst in place. Very interesting, they are not doing anything right now example like we took an example of Shell Engineering, so again they are doing what? They are doing new EpiPens for healthcare just as an example for GLP-1 drugs. Similarly, when we talk about new, we took the name of HBL Engineering. So after 2021, they started commercializing coverage and now they are basically implementing the locomotive orders for coverage."
+    },
+    {
+      "id": "cue-292",
+      "timestamp": "0:04:52",
+      "seconds": 292,
+      "text": "Keynes, for example, they are doing something new for semiconductors and also EMS, again valuations, anything can happen. Then you have the example of Garware high tech. So PPR films they launched three years ago, so the paid protection films they are doing something new. PDS limited is an example, so They have entered a new geography, US They are winning New orders from where? A new geography which is US. So are you understanding the basic principle of filtration?"
+    },
+    {
+      "id": "cue-326",
+      "timestamp": "0:05:26",
+      "seconds": 326,
+      "text": "Now if a company is doing something new, and if that thing clicks, so in the stock market, fundamental analysis is nothing but the study of rate of change. To get to the rate of change, what you have to study? What is the company doing? What is that new thing that the company is doing? So, that is what fundamental analysis is. Fundamental analysis, accounting is a part of it. That doesn't mean that fundamental analysis is forensic analysis. How many of you are understanding this? New and rate of change is what matters in filtration."
+    },
+    {
+      "id": "cue-357",
+      "timestamp": "0:05:57",
+      "seconds": 357,
+      "text": "If we are getting new things, the rate of change is sometimes trend lasts for multiple years. 3, 4 years, 5 years, trends last. Let me take an example."
+    },
+    {
+      "id": "cue-366",
+      "timestamp": "0:06:06",
+      "seconds": 366,
+      "text": "So from 2012 to 2021, just to give you an idea of how powerful some of the trends can be so from 2012 to 2021 the chemical sector did well Because in China, the shut down of chemicals was happening So what these companies are doing, they were putting up new Kpex They were putting up new products So everything that they were doing was new And it lasted for 9 years That is how powerful some of the trends could be When we talk about pharma, people started to know about the CDMO wordy 2016-2017. After 2021-2022, it became a bit popular and now it has become popular. But again, what is it?"
+    },
+    {
+      "id": "cue-404",
+      "timestamp": "0:06:44",
+      "seconds": 404,
+      "text": "It's a new segment within pharma. So whenever you filter stops, it should be filtered on the basis of what is the rate of change that is happening in that particular business? What is the rate of change which is happening in that particular industry? What are the new things that this industry is doing? If we do good in the solar industry in India, then there are some new regulations. If today the anti-dumping duty solar glass is on the Borosil renewable, then what they are doing? They are doing a new Kpex. New Kpex and basically new regulation."
+    },
+    {
+      "id": "cue-439",
+      "timestamp": "0:07:19",
+      "seconds": 439,
+      "text": "So always remember that new is a very powerful word when it comes to filtration You can write this down somewhere You always remember that new is a very powerful word when it comes to filtration Whether it is a canceling model Whether it is your earnings growth or your growth at reasonable prices At the end of the day, valuations matter in India, but valuations matter in the long term. But if we think about the near-term investing in the next 1, 2, 3 years. So you need to get the catalyst right. What is that catalyst? Every catalyst starts with the word new."
+    },
+    {
+      "id": "cue-473",
+      "timestamp": "0:07:53",
+      "seconds": 473,
+      "text": "So a new Kpexo, new product, a company's new geography, new clients. So everything starts with the word new. That is something that you must remember. Like, whether it is coming back to the companies, tailwinds, but that is something that you must remember that in filtration that is our basic right area. Framework and stock picking is something which is not our part of this webinar because we are just focusing on filtration. But framework and stock picking come later. But stock picking is the last thing."
+    },
+    {
+      "id": "cue-508",
+      "timestamp": "0:08:28",
+      "seconds": 508,
+      "text": "When you do your portfolio allocation, you should put 4% in stock, 6% should put 8% in stock. So that is very dependent upon you. But first thing is stock filtration. Now here we will introduce a canceling model. It is a very simple model. And what we will do is that we will cover this and we will go to a lot of new businesses. We'll cover some of the businesses where something is interesting and we'll try to filter a lot of businesses with you and we'll teach you how these tools work so how you can learn from these tools. So what does cancelling mean? It's very simple."
+    },
+    {
+      "id": "cue-539",
+      "timestamp": "0:08:59",
+      "seconds": 539,
+      "text": "So there's a book called How to make marine stocks by William O'Neill. I think it's somewhere in the back. You'll have to look for it. So How to make marine stocks by William O'Neill. And in this book he says that if you put the framework of the cancelling, C stands for Current Bigger Accelerating Quarterly Earnings and Sales Growth. It should show an increasing growth rates. Growth rates should increase, sales growth should increase and profits should be increasing."
+    },
+    {
+      "id": "cue-575",
+      "timestamp": "0:09:35",
+      "seconds": 575,
+      "text": "So typically in Indian context, companies which are showing more than 15% sales growth and more than 20% profit after tax growth that is a part of current bigger accelerating quarterly and sales growth. So this is what you need to remember. So here I will just discuss an example with you. Whenever the momentum of fundamental starts, see this is a beautiful word, momentum of fundamentals. See fundamentals have a momentum. What is that momentum? Is that when a company does well for one quarter, there is a tendency that it will keep doing well for next several quarters."
+    },
+    {
+      "id": "cue-608",
+      "timestamp": "0:10:08",
+      "seconds": 608,
+      "text": "Whenever a company does bad for one quarter, there is a tendency that this company will keep doing bad for next several quarters. How many of you who are investing or who are with SOIC have observed this over the last 4 years that this is a trend that keeps happening. Generally investing also from last 10 years, you have never observed that a company which does good for one quarter, there is a tendency it will keep doing good for the next several quarters. A company which does bad for one quarter, there's a tendency it might keep doing bad for the next several quarters."
+    },
+    {
+      "id": "cue-637",
+      "timestamp": "0:10:37",
+      "seconds": 637,
+      "text": "Exceptions can be made in the obvious S but this is just a ballpark thumb rule. Just a ballpark thumb rule. Just a ballpark thumb rule. That this is something, again exception punit, you have to understand there are exceptions. Like I've been like maybe of fundamental as what time say I don't but it's been exceptions over there but generally it is true. Generally, this is something that has generally been true. I am not saying that it is 100% true, but generally it works. 60-70% of the time it is true. Because what happens is that, just imagine, how we read the companies."
+    },
+    {
+      "id": "cue-675",
+      "timestamp": "0:11:15",
+      "seconds": 675,
+      "text": "Let's think of the first principle. The first principle is thinking that B2C companies are very few in India at this time. Majority of the B2C companies are FMCG companies. And FMCG companies have multiple elevators. And majority of the categories have been penetrated. Whether it is the example of toothpaste or soap. How many soap will be used in a day maybe one soap will be used in a month or maximum you will use two soaps and maximum you will go to a luxury soap brand I don't know how many of you use a luxury soap brand but are you getting it?"
+    },
+    {
+      "id": "cue-711",
+      "timestamp": "0:11:51",
+      "seconds": 711,
+      "text": "The way economic development has happened in a lot of basic consumers' staple categories the penetration has reached to an all time high. I mean, if we talk about toothpaste, then it will be plus 95% penetration. If we talk about shaving, then there will be a lot of penetration. Similarly, if you talk about soaps, penetration is very good. Are you understanding this? All the winners of the last 4 years, very few B2C companies. Let's take the example of Varun Beverage. Varun Beverage is also a B2C business What was the growth on replacement demand? 4-5%?"
+    },
+    {
+      "id": "cue-747",
+      "timestamp": "0:12:27",
+      "seconds": 747,
+      "text": "Penetration means that if the population of India is as much as it is, then all the toothpaste is used So your tam is fully penetrated Are you able to understand this? A lot of us are not studying B2C companies today. We study B2C companies but again, they are very rare, they study some detailed concepts. So, what are the most common businesses that we study? If you look at the winners of the last 4 years, and look at the winners of the last 10 years, We read some details, but again, we read some very rare details."
+    },
+    {
+      "id": "cue-775",
+      "timestamp": "0:12:55",
+      "seconds": 775,
+      "text": "If you look at the last 4 years, or last 10 years, what type of companies are mostly people who study B2B and B2G? Business to business or business to government means those business that sells products to other business and those businesses that sells products to government like they participate in tenders Does anyone of you work in a B2B or B2G business? Does anyone of you work in a B2B or a B2G business? Does anyone of you work in a B2B or a B2G business? B2B consulting, interesting. Trans-union, interesting B2B marketplace nice B2B pharma Interesting So have you seen this trend?"
+    },
+    {
+      "id": "cue-827",
+      "timestamp": "0:13:47",
+      "seconds": 827,
+      "text": "Because you are B2B business, you can realize this thing well. You can also realize this in textiles. Again, I am going after a basic psychology of human behavior. When Covid came, I still remember When the lockdown was announced People started queuing up across the grocery stores When there was demonetization people started queuing up across the grocery store. Generally, inventory cycles, demand cycles, stocking up and de-stocking cycles are also available in B2B businesses."
+    },
+    {
+      "id": "cue-867",
+      "timestamp": "0:14:27",
+      "seconds": 867,
+      "text": "So whenever things start doing well, like we take an example of IT sector, IT sector did really well between 2020 to 2022. Right? Because what happens is that corporate starts spending and they start spending from the future as well to the present. Because we have to digitize right now otherwise we will end up losing out on the covid wave. Just one example."
+    },
+    {
+      "id": "cue-888",
+      "timestamp": "0:14:48",
+      "seconds": 888,
+      "text": "Similarly, when Indian textile companies do good, when the US consumer spending is high, what happens is that a lot of consumer brands in the US, because it's a B2B business, they tend to order a lot more than they could actually sell because they know that if the season is good and we end up being low on inventory, then our competitor may win. So here inventory stocking up cycle happens. So what is inventory stocking up? You stock up so much inventory that it is the same sale but not the same. Then what happens? A de-stocking cycle happens. That You try to put inventory in discount."
+    },
+    {
+      "id": "cue-922",
+      "timestamp": "0:15:22",
+      "seconds": 922,
+      "text": "But the orders from the back, you lower them. So there is a cycle generally which moves of orders being lagged or orders being up fronted in a B2G business especially. Similarly in a B2G business, when tenders start coming in, multiple tenders are in a row."
+    },
+    {
+      "id": "cue-940",
+      "timestamp": "0:15:40",
+      "seconds": 940,
+      "text": "As you saw the coverage of the tender, you saw that first you got the CG power, then the Karnex power, then the HBL power, then there is another company by the name of Medha which is unlisted I think they might win the largest of the lot so they are also getting it so whenever tenders also open there are multiple tenders which get released in a row because once they give tenders Then there is a lull period in between."
+    },
+    {
+      "id": "cue-963",
+      "timestamp": "0:16:03",
+      "seconds": 963,
+      "text": "So whenever a B2B business or a B2G business is showing big and accelerating quarterly earnings, generally what it means is that something is going on that can last for the next 2-3 years or something is going on in the industry which is leading to a lot of orders for these B2B companies similarly, let's take the example of transformer businesses, whether it is the example of Shinsir, or Trill so what is happening today? A lot of ordering is happening ordering by whom? Power plants, transmission companies and why is that ordering happening?"
+    },
+    {
+      "id": "cue-994",
+      "timestamp": "0:16:34",
+      "seconds": 994,
+      "text": "Because government is giving a lot of tenders because in India, transmission and distribution the PND spends in India that needs to accelerate from here so in the national electricity plan there is a 9.2 lakh crore Kpx pencil in it because in India, there are so many renewables So the solar energy that is being set up in the off-skirts areas We are not setting up in the city because there is no space in the city So to get electricity from the outskirts to the city, what you have to spend is Transmission and distribution. So that's a trend. But what does it say in numbers?"
+    },
+    {
+      "id": "cue-1028",
+      "timestamp": "0:17:08",
+      "seconds": 1028,
+      "text": "Current, big or accelerating, quarterly and sales growth. So there are these inflection points. So what do value investors do? Generally, I give you the framework of value investors. So when the value investors are deep value, they will go look at a company which is not growing today but it is very cheap statistically. If it starts growing then it will be a multi-vibre type store. But they have an immense amount of patience. So what will the value investors do? Look at different types of investors in the world. So I'll give you an example of value investors."
+    },
+    {
+      "id": "cue-1057",
+      "timestamp": "0:17:37",
+      "seconds": 1057,
+      "text": "You intentionally you see in the stream where there is no growth and where the valuations are cheap. Because you see where growth comes in, the growth is like that injection of steroids into valuations. You have to remember this. The more amount of steroids are injected, the bigger the person becomes. And eventually it causes a bad effect on the person because valuations keep getting expensive. But sometimes you can book it at an inflection point. The purpose of screening is this."
+    },
+    {
+      "id": "cue-1082",
+      "timestamp": "0:18:02",
+      "seconds": 1082,
+      "text": "So value investors will go for a company which is very cheap statistically For example, if there are PSU banks or private banks here The majority of the value investors will be discussing whether they are buying PSU banks or private banks Or companies that will statistically get 5-6 or 10% of the value What will a growth at reasonable prices investor do? For example, I considered myself a Garb investor because first thing is clear that I don't know what value investing comes to me it takes multiple years for growth to inflect. Let me take an example. This is a shilcher example."
+    },
+    {
+      "id": "cue-1116",
+      "timestamp": "0:18:36",
+      "seconds": 1116,
+      "text": "So this company created a multi-year Kpex in 2017-2018. But what happened is that there was no demand, right? So the company went through a down cycle between 2015 to 2020. Statistically cheap, but I don't know when growth will come back in 5 years. That's the biggest problem with deep value investing without being disciplined about growth. This is my only feedback to a lot of value investors when you give statistically cheap companies, you are losing discipline because you are not disciplined about growth so what do you do with garb investing?"
+    },
+    {
+      "id": "cue-1149",
+      "timestamp": "0:19:09",
+      "seconds": 1149,
+      "text": "You are also disciplined about growth still you will go wrong, I am not saying you will go 100% right in this sport if you are right 60-70% times then it is more than enough in this in this week because a lot of times shit also happens some company has banned it, regulation has been bad company has not run any product, margins have collapsed so all of those things can also happen But a garb investor will do what? They will track the quarterly growth rates. They will track the yearly growth rates very, very carefully."
+    },
+    {
+      "id": "cue-1180",
+      "timestamp": "0:19:40",
+      "seconds": 1180,
+      "text": "See, valuations, a value stock will remain a value stock until or unless there is growth that comes into place. So this is why this philosophy is so important to learn that how to implement it, that is up to you. But a value stock will only move when growth comes into it. And growth at reasonable valuations, what philosophy did we have? That the stock is at a reasonable value and growth is coming there. So that is what garb investing is. And finally full blown momentum investing is there. But if you look at the multibaggers, which have been made, so I'll ask you this question."
+    },
+    {
+      "id": "cue-1216",
+      "timestamp": "0:20:16",
+      "seconds": 1216,
+      "text": "Last like, So India is a country where highest amount of multibagas have been found over the last 22 to 23 years. Can you tell me one reason why? Just one reason why. India can have maximum multibagas in the last 15 to 20 years? Which country is the fastest growing economy today? It is India right now right? So growth is there but with good economic side right?"
+    },
+    {
+      "id": "cue-1255",
+      "timestamp": "0:20:55",
+      "seconds": 1255,
+      "text": "So if you take an example, growth is there in China too China economy was multiple times but China's index didn't work If you see the composite index of Shanghai It's the first index of the last 15 years It didn't make anything Even though China's economy is very low That was a simple reason because what has happened In China, return on equity of an average corporate is 9% or 8% Majority of the big companies over there are state owned enterprises. State owned enterprises are known to run companies with a poor return ratio. They don't care about return ratios, right?"
+    },
+    {
+      "id": "cue-1287",
+      "timestamp": "0:21:27",
+      "seconds": 1287,
+      "text": "They care about production because if they don't produce, they won't be able to give employment to people. One of the reasons why India has inequality is because we are very return metrics focused. Recently, I am going off topic, recently an article came in the economy that even though corporate profits are at all time high, but the wage growth is not that high because corporates didn't pass on the salary growth hikes to people right. If your margins are higher, what is the harm of sharing wealth with some of the people that work with you."
+    },
+    {
+      "id": "cue-1317",
+      "timestamp": "0:21:57",
+      "seconds": 1317,
+      "text": "So that is something that has been the bad side but what it leads to, it leads to very high return ratios. So in India, average corporate cash return on equity is around 14-15% and because we are anyways growing very fast, so this is what leads to winners in the stock market."
+    },
+    {
+      "id": "cue-1335",
+      "timestamp": "0:22:15",
+      "seconds": 1335,
+      "text": "So where quarterly earnings are growing fast and where yearly earnings are growing fast We have to keep those companies in our track and especially those companies where growth comes after many quarters So one is annual earnings increase and looking for big growth Especially, see, I am telling you this again and again, right? Any big winner in the past or any big winner of the future will have one thing in common. That is big earnings growth, explosion of earnings growth. And what happens is that explosion of earnings growth tends to last for a couple of quarters or a couple of years."
+    },
+    {
+      "id": "cue-1374",
+      "timestamp": "0:22:54",
+      "seconds": 1374,
+      "text": "If there are no exceptions to it, the rule of thumb. I'm not saying that there won't be exceptions."
+    },
+    {
+      "id": "cue-1379",
+      "timestamp": "0:22:59",
+      "seconds": 1379,
+      "text": "There will be exceptions that one or two quarter growth type companies start to stop doing well, but just a rule of thumb, whenever there's a big earnings growth in a stock or in a business Generally it tends to last for a couple of quarters Generally it lasts for 5 to 6 quarters Because previous year's base starts becoming big Until or unless the company does Kpex, then growth becomes difficult You have to remember this I will discuss a basic screen here Just over here We will learn on screener first then we will learn on different tools. Just coming to screener, screens."
+    },
+    {
+      "id": "cue-1416",
+      "timestamp": "0:23:36",
+      "seconds": 1416,
+      "text": "So today I will share all these screens with you. So like today I will share this. So current quarterly growth rates. So these are free screens to use, which I have made for you."
+    },
+    {
+      "id": "cue-1427",
+      "timestamp": "0:23:47",
+      "seconds": 1427,
+      "text": "So basically it's a very simple thing so what growth rates I have applied here so here we can remove price to earnings and we will remove margins and see so our filtration criteria is getting easier So I will just run this query just to say again Basically year on year quarterly sales growth of more than 15% Year on year quarterly profit growth of more than 20% ROC of more than 15% and market cap of more than 1000kroners So those companies where there are strong growth rates in this quarter, all of those will get captured over it."
+    },
+    {
+      "id": "cue-1461",
+      "timestamp": "0:24:21",
+      "seconds": 1461,
+      "text": "So here we give examples of what type of businesses are getting captured. So let's take an example, IEX's business captured 28% growth rate. ZenTech is being captured from a quarter because ZenTech had a 360% pat growth rate. But I don't know where it was basically the growth rate can continue but again I am not getting into stock picking I am just getting into screening similarly, let's take an example The entire capital market theme has been doing well. So, in the last couple of quarters, we have an example of CDSL which is getting captured. Injal is also coming here."
+    },
+    {
+      "id": "cue-1495",
+      "timestamp": "0:24:55",
+      "seconds": 1495,
+      "text": "Similarly, let's look here. Again, a lot of stock market names. Then, a Genset company gets captured by the name of Cummins India, so almost 37% pad growth. Aditya Bhilla AMC also gets captured, almost 36% pad growth."
+    },
+    {
+      "id": "cue-1509",
+      "timestamp": "0:25:09",
+      "seconds": 1509,
+      "text": "Then similarly, so very simple screen to use that you can do is that if you have a business into recycling which is getting captured that is Tindarabhar almost 60% pad growth and this company is also doing capacity expansion the company is doing something new similarly here we see Natco Pharma is getting captured because new product is by the name of Rev Limit if you see Shakti pumps then Shakti pumps also gets captured because almost a pad growth of 1600% age types. Thus, 3 quarters of the Shakti pumps are getting such a pad growth."
+    },
+    {
+      "id": "cue-1540",
+      "timestamp": "0:25:40",
+      "seconds": 1540,
+      "text": "Then a lot of your other businesses, Varun beverages has been coming here for multiple years now. So, I think this is one of the businesses where these growth rates were continuing for last, I think, just look at this. Sales growth, see, the last 12 quarters say same growth rates continued. Right. So we did this class actually last year also and last to last year also even then this was a particular stock which was getting screened. So that is the beauty of screening well."
+    },
+    {
+      "id": "cue-1569",
+      "timestamp": "0:26:09",
+      "seconds": 1569,
+      "text": "Again, today's market can be high but the idea is to use this framework Because in any market there will be a couple of companies which will be growing faster than the rest of the businesses. And if we get only 3-4 ideas, if we do the screening well, then it can give you a huge advantage over a lot of the other market participants because you just need to be disciplined with the framework. Similar example, here in the water team, there is a business by the name of Josh Engineering and just look at the growth rates. So these growth rates tend to last."
+    },
+    {
+      "id": "cue-1603",
+      "timestamp": "0:26:43",
+      "seconds": 1603,
+      "text": "So last six quarters, this growth rate has been lasting. And last six quarters, this stock has been coming under the quarterly growth rate framework like someone asked what is the exception, India Mart is an exception like post the solid growth rate number, the company reported almost 100% path growth rate but the stock fell, so here the exception is because the market is tracking their future growth. The future revenue drivers and the churn, the future revenue addition, they have to go through the fundamentals of the conference call. So that number got a lot lower."
+    },
+    {
+      "id": "cue-1636",
+      "timestamp": "0:27:16",
+      "seconds": 1636,
+      "text": "So this is a classic example of why market is a discounting machine So this business in spite of very solid pack growth The stock fell from almost 3000 to today 2400 So almost a drawdown of 20% Why so?"
+    },
+    {
+      "id": "cue-1650",
+      "timestamp": "0:27:30",
+      "seconds": 1650,
+      "text": "Because markets are concerned about churn rates and renewal rates churn rate means that the old subscribers are leaving very soon and the new subscribers are coming very slowly so this company deferred its revenue so it recognizes the revenue when the subscription services are given so here it says that the growth rate of subscription services has slowed down so again here again temporary headwinds, permanent headwinds, you will have to read them but if someone asks an exception, then I will tell you exceptions that there are exceptions like this then again a pride call business has been coming here for multiple years or actually multiple quarters now and they've also done a new acquisition by acquiring a company by the name of Sundra Motto by acquiring a company."
+    },
+    {
+      "id": "cue-1692",
+      "timestamp": "0:28:12",
+      "seconds": 1692,
+      "text": "Sundram or Shriram has acquired a company which will give them another 750 crore sales. Another company which after multiple quarters of a lull period, two companies which get screened this quarter or three companies example, so again these are just to show you how to do screening well. One is Garwari technical fibers after multiple quarters of stagnancy. Just look at this. Just observe this. Have your opinion. But at least observe here that what we are doing in business screening."
+    },
+    {
+      "id": "cue-1726",
+      "timestamp": "0:28:46",
+      "seconds": 1726,
+      "text": "After multiple quarters of stagnancy, the company comes up and shows a 28% revenue growth now for me this talk gets green for me to study at least that I will have to study what happened in this company then after the tool to research I will start using it I will search for the interview of management, investor presentation, conference call I saw that there is no presentation in the company Similarly, I searched for something on YouTube which I always do for all the companies which we have which we try to track We search for technical fibres Recently, I saw that there is an interview of management three weeks ago."
+    },
+    {
+      "id": "cue-1769",
+      "timestamp": "0:29:29",
+      "seconds": 1769,
+      "text": "And What we have to do is to listen to the interview and what is the management saying. Just as an example, the corporate announcements of the company, if we check in this particular business, is that when the company's results were announced, the presentation that the company declared in the results, the press media release, what did the company tell in the media release? What did the company tell in the media release? That the net sales increased by 16% I think this is the quarter, correct, it is around November 14th. So let's see what the company is saying."
+    },
+    {
+      "id": "cue-1806",
+      "timestamp": "0:30:06",
+      "seconds": 1806,
+      "text": "As expected, the pad growth was 30% over previous year. Mainly because of strong performance from aquaculture and geosynthetic business, we were also able to maintain significant PBT margins. First half of FY25 has been good for the company overall like the company has grown by 20% and GeoSynthetic's growth is going fast. We expect the growth momentum to continue during the second half of the FY25 as well. Now again because this is a class on screening, what is the beauty of this? That again, a business that gets screened."
+    },
+    {
+      "id": "cue-1838",
+      "timestamp": "0:30:38",
+      "seconds": 1838,
+      "text": "So now you watch the interview, now you see the interview, what is the company saying in the next 1-2 years? And also understand this is a probabilistic thing, even screening process is probabilistic, there is nothing certain in investing there is no guarantees in investing, but the idea is that the screening process should be shorted so here we have created a company called Garware Technical Fiverr then another business, which we have seen here, Jashin Neering then after multiple quarters, this is a business, as soon as good results come."
+    },
+    {
+      "id": "cue-1870",
+      "timestamp": "0:31:10",
+      "seconds": 1870,
+      "text": "So I think a lot of SOIC students they interact in the community group, like telegram. So how many of you saw this is one of the business which a lot of community members posted that there is growth after a lot of quarters. How many of you remember that? Again, example, markets are slave to earnings growth."
+    },
+    {
+      "id": "cue-1891",
+      "timestamp": "0:31:31",
+      "seconds": 1891,
+      "text": "Stock prices are slave of earnings growth stock prices love because like surprises right because no one is making that it because no one is making that in right similarly this was just one example after multiple quarters right last two quarters said the company started good a good top-line growth and margin started expanding. Similar example of a recent company is a signpost India Garga company, right. So again, can you observe that after two, three quarters, there is an explosion of top line growth? Is that the company has shown? How many of you are able to observe this? Just in the comments."
+    },
+    {
+      "id": "cue-1934",
+      "timestamp": "0:32:14",
+      "seconds": 1934,
+      "text": "Signpost India is a name of the company. Right? So, this screening, yes, is it cyclical or structural? What is this work? I will have to study it you are understanding that today's class is on screening so in this growth trigger, is it real or fake growth triggers? I will have to study it how will I study it? I will come to the conference call and see the company's press release If it is a recent type, I will study the company's DRHP If it is an interview for management, I will find an interview on YouTube But are you understanding that after screening once, we have to do something?"
+    },
+    {
+      "id": "cue-1970",
+      "timestamp": "0:32:50",
+      "seconds": 1970,
+      "text": "Once we have a strong growth rate, we will start reading after that, yes or no? How can we read before that? Are you agreeing with me in the comments? At least this is the class on screening I want to increase your curiosity from this class I don't want to make you say that you are going to study in this class I want to take your first filtration criteria That is the sole purpose of this class Right?"
+    },
+    {
+      "id": "cue-1995",
+      "timestamp": "0:33:15",
+      "seconds": 1995,
+      "text": "I will share it with you on the screen So again, I am asking you what I do, as soon as I make screens, I try to only look for companies where P ratio is still reasonable, 30 to 40, 30 to 30 Because the market is expensive, If you see, the market has gone from last 3 years, so you won't get any growth stock on 5th P.E. That's written in the books, that you will get growth stock on 5th P.E. In reality, someone got growth stock on 5th P.E. Means, there can be 1-2 stocks, but someone has experience in commenting that you got growth stock on 5kb have you ever seen anything like this?"
+    },
+    {
+      "id": "cue-2031",
+      "timestamp": "0:33:51",
+      "seconds": 2031,
+      "text": "Very rare, extremely rare it's an impractical expectation generally a PEE ratio which has worked very well for me is between 15 to 30 times. If I get a business in between 15 to 30 times, that is generally where I start getting very excited. So this is just a framework which I use that the PE ratio is between 15 to 30 and there I got a growth story right, when I put this screen right, actually in the screen like the science is tech, so this was a stock which was again screaming like a couple of quarters back. So it was getting screen multiple times. So that is the beauty of this."
+    },
+    {
+      "id": "cue-2077",
+      "timestamp": "0:34:37",
+      "seconds": 2077,
+      "text": "So as you can see here, the UTI AMC screen is on. So I will at least read the UTI AMC and read it. So today is the 20th P wear and if we look at the growth in the company, the growth is getting better than the last 2-3 quarters because the market is doing well. So whether the growth is volume linked growth or whether the growth is coming because just AUM is increasing because the market is going up. So that is the homework that I will have to do."
+    },
+    {
+      "id": "cue-2098",
+      "timestamp": "0:34:58",
+      "seconds": 2098,
+      "text": "But this is a screen where you will again every quarter you must spend time like the example of Perl Global now if growth is inflecting in textiles then this is a stock which has been coming since last two quarters because growth rates are inflecting in textiles So this is a company which has already done Kpex. So here I will look for triggers in earnings or what are the triggers in it. This is the sole purpose that we do. The purpose of this activity is the same. So the idea of food when the already 4000 crore market cap has almost reached."
+    },
+    {
+      "id": "cue-2130",
+      "timestamp": "0:35:30",
+      "seconds": 2130,
+      "text": "But this is also a business which again screening criteria is the same. Means according to me, there is nothing more in the screening beyond that. You have C and A in the cancelling, which is a simple screen which is fulfilled. Like in Pokarna, I think after multiple quarters in a row growth rates, right? So if you check, it is now two quarters in 19 to 25% growth. And just go read the conference call up again. If you go to the conference call, then management is giving guidance. Is giving the expectation of the past year. I think a lot of it is mentioned over there in the con call."
+    },
+    {
+      "id": "cue-2167",
+      "timestamp": "0:36:07",
+      "seconds": 2167,
+      "text": "But purpose is to screen it first. I am not going to increase the business with you because I have to fix the screenings."
+    },
+    {
+      "id": "cue-2174",
+      "timestamp": "0:36:14",
+      "seconds": 2174,
+      "text": "Generally, if you get a stock between 15-35% where the growth rate is good, that is a good starting point because you leave some PE rating for you on the table if you have PE rating then you will get lucky but this is just a general framework sometimes you get good value in 50% PE if growth is fast but first is that growth becomes a slave to earnings growth there is nothing else to that the more you chase earnings growth, the more you become a slave to earnings growth the better things start becoming there is an example here, a business is coming here by the name of Ritco Logistics."
+    },
+    {
+      "id": "cue-2210",
+      "timestamp": "0:36:50",
+      "seconds": 2210,
+      "text": "Let's take a simple example. There is a consolidation here, what is in stage 2? Now it is hovering close to highs and just look at this volume bar. So this volume bar, like in this whole day, almost absurdly high volumes. Now here we will come in technical filtration. But this volume bar, do you think this is retail money or smart money, if this big high volume is coming and the price is going up?"
+    },
+    {
+      "id": "cue-2235",
+      "timestamp": "0:37:15",
+      "seconds": 2235,
+      "text": "But it means whoever it is, they are willing to chase the price and why do they chase the price because they think something is happening in the business right delivery check again I did not check delivery I will tell you the reason later no actually I am the more you search the better it is Because they cover this business with monar capital In their website, there are all the initiating coverage reports There are quarterly earnings reports They have met the management, They have done a detailed write up and you start finding that this growth rate can be in the business, very rarely discussed."
+    },
+    {
+      "id": "cue-2273",
+      "timestamp": "0:37:53",
+      "seconds": 2273,
+      "text": "That is the type of business you start discussing and studying. Just look at it. Now again, just screens well. I am not saying that you should go and buy it. Just screens well. What is the purpose of this session? Purpose is not stop picking or finding businesses. Again, just screens well. Do you agree with me last six quarters? Now we have to go and study. Just the business screens well. That is the purpose of this session right I mean again If you are thinking of rare view, I will strongly suggest that you go watch the last 2-3 years of the screening session."
+    },
+    {
+      "id": "cue-2318",
+      "timestamp": "0:38:38",
+      "seconds": 2318,
+      "text": "I think a lot of tri members might remember that we did the last 2-3 years of the screening session. That it is a simple purpose that you select the stock shoots, create a screen well and then you start basically look at things. So this is what we saw quarterly. Now we see that just like what is going on yearly in pad growth. So if we look at the pad growth of this business then it is a quarter of a trailing 12 months. So In the last 3 years, the Pad growth of 78% and trailing 12 months, almost 35% of the Pad growth is visible in the business."
+    },
+    {
+      "id": "cue-2350",
+      "timestamp": "0:39:10",
+      "seconds": 2350,
+      "text": "Again, the purpose of this is, well, I should at least go and study it once. So That is the purpose of this class. So again, because we have a 15 to 30p framework, so we have seen the business here. There is a world-man speciality steal here. Again, I have not read that company, but maybe I should. Lumax auto is also coming here. So again, again, because of the purpose of the session, the screening. Like the Capricide Infra, so here the management has also been interviewed. You can go and see it."
+    },
+    {
+      "id": "cue-2379",
+      "timestamp": "0:39:39",
+      "seconds": 2379,
+      "text": "And again the business has been showing Strong growth rates from the last 3 quarters The idea of screening activity is That sometimes we will get such businesses where fundamental triggers can last for multiple years, multiple quarters, but at least it should be screened. If we don't learn to screen, then again we have a drawback."
+    },
+    {
+      "id": "cue-2400",
+      "timestamp": "0:40:00",
+      "seconds": 2400,
+      "text": "Like we take the example of urban smart space, real estate accounting is different because it just works on this basically what is the number of pre-sales when you go to the industry, you will know that if it is complicated, then the ideas can be deleted but on the profit and loss level, you can see the company's growth in the IS quarter and anyone tell me in the comments even though this number doesn't matter, but their accounting is getting recognized How much growth is there in this quarter? Right? How much is the Pat 11 crore? Almost."
+    },
+    {
+      "id": "cue-2443",
+      "timestamp": "0:40:43",
+      "seconds": 2443,
+      "text": "Yeah, it can't be recognized when you have 2, 260 crore of business. Again, real estate's accounting is different. But what's the idea? You must start screening businesses Right? You must start screening businesses Right? So this is another example Then recently in Sandur Magnesh they have a new Kpex commercial And again it's a commodity business so you have to see it independently But recently Kpex has been commercialized from last two quarters So they have got approval for mining expansion But what's different from last two quarters in growth rates?"
+    },
+    {
+      "id": "cue-2478",
+      "timestamp": "0:41:18",
+      "seconds": 2478,
+      "text": "Because the seasonal business will have a very high margin of variance sometimes it will be more or less but again, KPEX has just been commercialized mining approval has just been commercialized so what is the growth rate in the last two quarters just as an idea, year on year almost 65-40% growth rates at least we should study right again idea case study ganna yeah me jakey a parna zargoor chahiye ki yaar yeh cheez hame samajhariya nahi hain nakh ho sakhte samajhi nahi ho sakhte chodi de right ho sakhte hain business ko chodi de samajhi nahi but screening ka to criteria yeh yaar ki aapko strong growth rates aake pandini You need to learn that you don't understand this thing."
+    },
+    {
+      "id": "cue-2517",
+      "timestamp": "0:41:57",
+      "seconds": 2517,
+      "text": "But the criteria for screening is that you need to read strong growth rates. And how can you make this screen yourself? So I'll make this screen live with you. First, you have to write, year on year, quarterly sales growth of more than 15% and year on year, quarterly profit growth of more than 20%. And ROC of more than 15%, ROC criteria can be removed from some people where the company is inflecting from the turnaround."
+    },
+    {
+      "id": "cue-2535",
+      "timestamp": "0:42:15",
+      "seconds": 2535,
+      "text": "And finally, market capitalization, I wrote above 1000 crores because generally a lot of liquid names come You can do above 500 crores or 100 crores too But above 100 crores, the criteria is different because a lot of times The businesses have very negative cash loads or poor business models But just generally over there, if you have taken above 1000 crore, you can take above 100 crores And if you want to make it more stringent, then you can say that price to earnings ratio as company That should be below 40 mark and then you run this query. So you will be left with 63 names."
+    },
+    {
+      "id": "cue-2572",
+      "timestamp": "0:42:52",
+      "seconds": 2572,
+      "text": "So this is the beauty of using this free, it's a free screen, there is nothing paid for it. So as an example, Shakti pumps an example, So again one of the businesses, I actually screen using Screener only. There were no special insights in it. So if you look at the last three or four quarters, the company has been showing an accelerating sales growth. So again screen using screener only and this is again not a biocell recommendation but we also had a detailed research report on this in one of our RADESK. But screening process, I am telling you exactly what I do."
+    },
+    {
+      "id": "cue-2607",
+      "timestamp": "0:43:27",
+      "seconds": 2607,
+      "text": "I am using screener and I am not doing anything special here, I am using stock scans to screen I am not doing anything outside of it There is another business here called J Kumar Infra Again stock is in sideways consolidation And just look at the sales growth It is the last 3-4 quarters, double digit sales growth This quarter also had 17% sales growth And the pat was 73 crore, 90 crore 73 crore pat was done because tax rate was also higher last year so how much growth will be 73 to 90 crores? What do you think is the growth number?"
+    },
+    {
+      "id": "cue-2652",
+      "timestamp": "0:44:12",
+      "seconds": 2652,
+      "text": "Almost 22-23% growth number here, right? So again, you can see it in the operating profit. We just saw the number of pads. The margins have increased from 14% to 15% actually. But again, just as an idea, we are screening here. We are not seeing anything else. So again, please stop waiting for that question. We have to buy the stock. So hopefully it won't come again. But that is the idea. Like here, Nuvama Veldar is coming. We saw the NITCO Logistics. Then apart from this, Sandur Magnes is coming. Sardai Naulji is coming here. Now you will go and read this company."
+    },
+    {
+      "id": "cue-2686",
+      "timestamp": "0:44:46",
+      "seconds": 2686,
+      "text": "You will see that this company has bought a power plant and this company's briefly, Dikanth Haria sir had covered it He said that this company can be of around 2, 500 crore Ebitah post acquiring that power plant They recently had acquisition of power plant So here acquisition led growth is coming so you have to read it by the conference call what is the growth rate that the company is showing and why such growth rates are coming in this company, the SKS power plant when will the impact of its financials start so that is again an acquisition lead growth So again a trigger for variant perception."
+    },
+    {
+      "id": "cue-2723",
+      "timestamp": "0:45:23",
+      "seconds": 2723,
+      "text": "So we saw how we are seeing C and E in cancelling. Current quarterly growth rates and annual growth rates. So we learned these two things. Then what happens? There are companies which come up with newer products, new management, new highs or properly formed chart basis, supply and demand, big volume demand at key points. Now these two points are important. New. Remember this word that there is no company doing anything new. Something new is happening. New is happening."
+    },
+    {
+      "id": "cue-2752",
+      "timestamp": "0:45:52",
+      "seconds": 2752,
+      "text": "So remembering this word that if something new is happening Then that should also be a part of screening only First we screened through high earnings route Then we have to go and see conference call or presentation What new is this company doing what is that thing that this company is doing which it wasn't earlier which is leading to such growth rates, simple experiment right just over here, just over here, so here we were talking about a business, the energy of the company."
+    },
+    {
+      "id": "cue-2784",
+      "timestamp": "0:46:24",
+      "seconds": 2784,
+      "text": "Now coming below, you will see that there have been high volumes consistently in the past and the stock is in a stage 2 trend right now and what is new that the business is doing that is again you go through the conference call and here you guys tell me what is the company doing just over here on 21st August 2024 We successfully completed the acquisition of SKS power generation, shortly called SKS under the IBC route, Bankruptcy Code. SKS has two operating thermal power generating units of 300 megawatt each."
+    },
+    {
+      "id": "cue-2817",
+      "timestamp": "0:46:57",
+      "seconds": 2817,
+      "text": "In Rheigarh district of Chhattisgarh, SKS has been amalgamated with our company from September 1, 2024. Result for the quarter include result of SK's power plant also with effect from 2020 to 2024. One of the two power plant was under shutdown for overhauling after operations of five years which has resumed generation from 12th October. As such results of acquisition will truly start reflecting from next quarter results only. Again, all of us agree market is a discounting machine. The market probably would be looking at this and discounting it before but is the company doing something new?"
+    },
+    {
+      "id": "cue-2854",
+      "timestamp": "0:47:34",
+      "seconds": 2854,
+      "text": "Because the company had coal blocks and coal blocks are not utilized so what does the company do? Generate power, thermal power, so they bought a power plant. Is it a new product or a new segment for the company? Yes or no? It's a new product or a new segment for the company, correct? Again, screening, screening criteria. If I go and read this much, now I should go and read this business."
+    },
+    {
+      "id": "cue-2882",
+      "timestamp": "0:48:02",
+      "seconds": 2882,
+      "text": "I will read the last 3-4 quarters conference call and see how much profitability can come I will sit on the internet and find information on this business I will see interviews with all of them That is the idea of looking at new things What is new in this business? That is a simple idea Actually, Mr. Diganth Haria covered this video in a youtube video So I will just open this Diganth Haria just over here And we did a video on mining So I see this video So this video was covered by Sardai Energy. So you can watch that here again."
+    },
+    {
+      "id": "cue-2924",
+      "timestamp": "0:48:44",
+      "seconds": 2924,
+      "text": "Someone has been kind enough to put all the timestamps like the January comment actually but this is something that you can again now do right so idea care that the key is screening may amishha kuch tees new Joe company kariya weh pagani past ka example ito again mess example se bhi boh parishan oge to one beverage is se hage chaltain aaj hum example ita jise aparka lete ito yaha pe company ne new kya introduce kara ek example discuss karte hain Let's take an example from one beverage. Let's take an example from one beverage."
+    },
+    {
+      "id": "cue-2952",
+      "timestamp": "0:49:12",
+      "seconds": 2952,
+      "text": "The sales growth was slow from the last 2-3 quarters but it has fastened again. The company introduced a new product."
+    },
+    {
+      "id": "cue-2958",
+      "timestamp": "0:49:18",
+      "seconds": 2958,
+      "text": "The conductors also have an AL-59 conductor which is replacing all the older forms of conductors because of high voltage current requirement Now because it's a new product, it's a higher margin product, it's a a high realization product within the conductors margin shift which means the company's margins started increasing 5-6% margin went between 9-10% and now it's also going between 8-10% and it's happening in transmission, Kpex is going on new government policy has come because if I want to read this sector, what will I read? New like, a second, national energy policy."
+    },
+    {
+      "id": "cue-2992",
+      "timestamp": "0:49:52",
+      "seconds": 2992,
+      "text": "India's, again, it's in news everywhere. So if you read the power grid, you will know What is the national energy policy at this time? So I think just a second, I'll just write India. Now we have put the recent days in the market capsule also. That's it. Top 10 learnings. So like the NEP policy came from India. So this is again the 14th October 2024, India released it. By 2030, how many Kpex will be added on transmission? How many transmission lines will be added? What will be done? How many transformation capacity will be added? Transformer capacity and all these things."
+    },
+    {
+      "id": "cue-3034",
+      "timestamp": "0:50:34",
+      "seconds": 3034,
+      "text": "How many battery storage system will be added? How many pump storage plants will be added? So and what is the demand that the government is expecting for the power to happen now again, you get an idea of a theme, this theme is going on and Then you again, screening is nothing but the process of curiosity. The more curious you are, the more intuitive you are in your nature."
+    },
+    {
+      "id": "cue-3057",
+      "timestamp": "0:50:57",
+      "seconds": 3057,
+      "text": "The more you want to search for information, The better stock ideas you will start finding, the more cynical you are, the more skeptical you are, the more rigid you are, the more close minded you are, lesser the amount of stock ideas you will find. I have observed this in my friends. I have seen very smart friends of mine who were just sitting on last four years on a couple of businesses which just haven't gotten anywhere. Then I have seen smart friends of mine who were just generally optimistic in life and they have done extremely well."
+    },
+    {
+      "id": "cue-3093",
+      "timestamp": "0:51:33",
+      "seconds": 3093,
+      "text": "And they have observed Personality of people also decides what type of stock picking they will do. Have you observed this? This is why Barbara Onemuffet used to say that I won the Ovarian lottery. I was born in the US. They did it. Yeah, it does make a difference. And red percent it makes a difference. So, the example you gave, who variant perception investing in, you have to wait for the first quarter of sales to come. If it happens, that's a, that could be a big one. Again, because you personally do it for me, I'm not naming that stock, but just an example."
+    },
+    {
+      "id": "cue-3137",
+      "timestamp": "0:52:17",
+      "seconds": 3137,
+      "text": "So I'm also tracking that business right interesting right right so again this is something new means company new what are you doing that is very important to track Then here we saw what was written in the cancelling Big volumes means big volumes are coming So here we take an example So some company has done something new You have to see the investor presentation You have to see the company's conference calls And see which is a new product, which is a new geography What is the new acquisition of the company Like today we covered an IPO Inventures like knowledge solution And this company has made a new acquisition We need to see the new products, new geography, new acquisition We covered an IPO today in the name of the Inventious Knowledge Solution This company made a new acquisition So just post the new acquisition, can anyone see what has happened to the sales?"
+    },
+    {
+      "id": "cue-3183",
+      "timestamp": "0:53:03",
+      "seconds": 3183,
+      "text": "The margins have gone down, but now the company is saying that the margins will come back to mid 30s post the acquisition is amalgamated. Meaning when the acquisition is complete, the company will merge with us and the margins will come up. The company is now 12% margin and they are saying the margins will again go back to mid 30s. But what about sales growth in this scenario? Again, it's a new thing. We haven't seen the patch growth yet, but it's a new thing. Again, the idea of screening. We are going through a screening thought process. That something new is happening."
+    },
+    {
+      "id": "cue-3214",
+      "timestamp": "0:53:34",
+      "seconds": 3214,
+      "text": "Then our homework will start. So again, this was new products, new geographies, new clients, and new segments. So we are doing everything new. Then we come to volumes. And then you can come to Stock Scans, you can come to Stock Edge, you can come to Trendline, you can come to Markets with India, which is the tool of William and Neil, their company."
+    },
+    {
+      "id": "cue-3241",
+      "timestamp": "0:54:01",
+      "seconds": 3241,
+      "text": "So I will show you all the tools First stock scans are the S O I C So that you must understand that Here it can be that I am not a buyer So now look beyond my buyers So this is one of the tools So here if we see A screen with volume I love to use Why so?"
+    },
+    {
+      "id": "cue-3258",
+      "timestamp": "0:54:18",
+      "seconds": 3258,
+      "text": "Because in volume rocketing, there are many times when businesses like this come where there is something new where there is accumulation, big money and so on For example, before the HBL power order came, the stock started, the volume started Docketing over the last 3 weeks You just look at the weekly charts, you can just check that the volumes have been going up from the last 3 weeks And one pair of Kavach's order had already arrived I think somewhere close to last week One pair had already got the order So you know that if you are tracking the company, if you have seen the AGM of this business, the tools to research, if they got the order, they will get the order as well because there are 3-4 bidders in the tender."
+    },
+    {
+      "id": "cue-3300",
+      "timestamp": "0:55:00",
+      "seconds": 3300,
+      "text": "But are you able to correlate to it that smart money generally tends to enter just close to the event? Can you see the amount of volume that have come in over the last 3 weeks? Are you able to observe? And are you also able to observe again, you have done a technical course of SOIC? This is coming out of a cup formation. Are you able to observe? Right? That's the thought process. Similarly, volumes are high. Now just look at the volumes."
+    },
+    {
+      "id": "cue-3346",
+      "timestamp": "0:55:46",
+      "seconds": 3346,
+      "text": "Are these volumes normal since last one year? Just a question to all of you. Is it a normal volume for last one year? Smart money, retail money. What are you smart money? Retail money can't cause such big volumes in a company of 15, 000 cr. No, this stock is going up on high volumes. So it is not inner pressure, it is a sign of strong accumulation. Here, too, simple, what have you seen?"
+    },
+    {
+      "id": "cue-3378",
+      "timestamp": "0:56:18",
+      "seconds": 3378,
+      "text": "GPIL is getting into recycling of non-ferrous metals so new product and they have acquired the company at a dirt cheap valuation and Pondii Oxide has also increased its capacity and Pondii Oxide's market cap is almost 3-4000 crores they have acquired the company for 500 crores. Now, their conference call is, I don't know why, but what I am going to do is, I will listen to the conference call and then I will do the recycling. Now, what is the process of screening? Screening is about honing your curiosity in a way that it ends up throwing stock ideas in front of you."
+    },
+    {
+      "id": "cue-3410",
+      "timestamp": "0:56:50",
+      "seconds": 3410,
+      "text": "This is what stock screening is. Write it down somewhere. Screening is nothing but honing your curiosity in a way that it ends up throwing stock ideas at you. Will you remember this just drop the liars in the comments. Awesome. Means you should remember this thing. Exactly. Exactly. So, one question before going forward is that, why do I not see delivery volumes?"
+    },
+    {
+      "id": "cue-3450",
+      "timestamp": "0:57:30",
+      "seconds": 3450,
+      "text": "I will tell you the reason I will ask you all why I don't see delivery volumes one day on day 1 100 shares tradeaway let's take an example 50% delivery means 500 shares were bought by investors into their D-MAT account That means they became the signs of accumulation But news came in the company that the government has put anti-dumping duty Like as it came in Borosil Renewable, that the anti-dumping duty has been put on the solar glass Now post this news, if the anti-dumping duty has been put on, then what happens generally people will get excited and interested."
+    },
+    {
+      "id": "cue-3489",
+      "timestamp": "0:58:09",
+      "seconds": 3489,
+      "text": "So now what happens is that the amount of shares which have been traded in a day go to 10, 000. And in 10, 000, 20% delivery, which means 2000 shares have been delivered into the account. Right? Now, a general question, even though the delivery is only 20%, But is the total to quantity accumulated higher than 500? Yes or no? Yes or no? I don't see the percentage of delivery because of this. Is it clear to you that I don't see the percentage of delivery because of this? Just an example."
+    },
+    {
+      "id": "cue-3536",
+      "timestamp": "0:58:56",
+      "seconds": 3536,
+      "text": "Right? So, in the recording, just go through this example again. So just a percentage example. You can track actual delivery but whenever there are very high volumes you will see that delivery percentage will be low but what will happen is that actual delivery or absolute delivery will be much higher."
+    },
+    {
+      "id": "cue-3554",
+      "timestamp": "0:59:14",
+      "seconds": 3554,
+      "text": "This is why Keep things simple, don't confuse yourself with stuff The simpler you keep, the better it will be Just leave the delivery in price volume action Because most of the stocks, I think 99% of the time, it will be true That absolute delivery quantity will be much higher versus a normal day But what we have to do is, we have to screen the right fundamental company We are not going to the 300 crore company Because there, 2-3 buyers come and give the company full share don't know if there are fake volumes or genuine volumes. So there is a special insight there."
+    },
+    {
+      "id": "cue-3584",
+      "timestamp": "0:59:44",
+      "seconds": 3584,
+      "text": "You have to come and meet the promoter and attend AGMs. So if you are doing that, investing in small companies, be a bit more diversified versus concentrated because if you are investing from a computer, then you won't know what happens in the company. Again, I am coming back to the volume. Volume shows signs of accumulation. That is what volumes are. For example, Maharashtra is a seamless example. Maharashtra is seamless. Big volumes from last two weeks. This is a business."
+    },
+    {
+      "id": "cue-3616",
+      "timestamp": "1:00:16",
+      "seconds": 3616,
+      "text": "If you just go to the screener right if you go to the screener If you go to the screener you will find that if we look at this company's shareholding pattern Then promoters themselves have been buying right and the promoters are continuously buying 64.9% to 68% stake but again, we have to go from here and study business but what we are doing now is just screening the BoroSyl will be screened here if you see BoroSyl, then the high volumes are in between like the chart is not that good but the high volumes are coming so we will go here and read the news recently solar glass is anti dumping duty yes or no if anyone follows the news it is anti dumping duty about solar glass and this is a company which used to make almost 20-25% EBITDA margins back in the day but now they have been into losses."
+    },
+    {
+      "id": "cue-3668",
+      "timestamp": "1:01:08",
+      "seconds": 3668,
+      "text": "But again, the company is also fundraising and this company is also going for maybe they are fundraising to do another leg of Kpex so they can do bigger Kpex company Prycall is coming here Prycall is coming here at high volumes but again, the indicator of high volume is based on this your average 10 day volume is 1.5 times higher than the last 20 days of volume You can reduce this volume by 5 days if you want to close it more The companies whose average 5 day volume is much bigger than the last 10 day volumes But this is how you start looking at businesses where high volumes are coming Right, so, but you can use either of it or both of them Like the Indochount industries are here right You will see that it is a high volume, I am now can connect sloping line up which is the course of technicals, entry points But hopefully you are understanding why volumes are important Firstly, this is the volume Now I will teach you a tool all This is a tool actually which has thrown up a lot of winners in the stock market."
+    },
+    {
+      "id": "cue-3739",
+      "timestamp": "1:02:19",
+      "seconds": 3739,
+      "text": "And because this tool is made from the learnings of how to make money in stocks by William O'Neill, so I will cover two screens from this tool in brief. You don't need anything other than this. Look, I agree that active investing can be expensive because it is also a tool for stock scans, it is around 200 rupees per month The tool I am covering right now is 8000-9000 rupees per annum But I think If you are investing in active stock, will you agree with me when I say that you should spend at least 1-1.5% of your AUM in learning? Yes or no?"
+    },
+    {
+      "id": "cue-3775",
+      "timestamp": "1:02:55",
+      "seconds": 3775,
+      "text": "Otherwise, you should not invest in active stock, you should invest in mutual fund. But will you agree with me, At least 1% of your portfolio value you should spend in learning Because later on, you get a lot of salty emails like you covered that tool, you asked for it But this is not my purpose, I am just teaching you from my experience that which tools are very useful That is not my purpose Is it okay? Do you agree with me? Because if you don't get yourself future ready, anyways active investing you shouldn't do it."
+    },
+    {
+      "id": "cue-3806",
+      "timestamp": "1:03:26",
+      "seconds": 3806,
+      "text": "If you are doing new expenditure in tools, subscriptions, then you should not do active investing. Because it is definitely something which takes effort right so something that you must remember that if you are doing a little bit of learning then that expenditure is not there it is an investment that expenditure is there when you already have a good phone you bought another phone investment is there that you are buying something It's not an expenditure, it's an investment. It's an expenditure when you have a good phone and you have bought another phone."
+    },
+    {
+      "id": "cue-3835",
+      "timestamp": "1:03:55",
+      "seconds": 3835,
+      "text": "It's an investment that you're buying something which there is optionality. And what happens is that in a year, maybe one or two ideas are also found. It might even take care of that. So now I am going to teach you that screen. So we are going to the cancel methodology. So this is a screen in the markets in India. So again, I don't have any tie up with them. There is no commercial interest. We don't have any commercial tie ups with any brokers and stuff. I am covering this screen because I myself use it right. This is stocks cancels when I cover volume because I myself use it to screen stocks."
+    },
+    {
+      "id": "cue-3869",
+      "timestamp": "1:04:29",
+      "seconds": 3869,
+      "text": "Now markets make it up we don't have any types. This is what is up with discount is not over. But again I'm covering this because I myself use it so here I use only DOHE screens and these two screens have thrown up so many winners over the last 4 years is that it becomes difficult beyond a point to even count them. How many will else in screens I have. We simply go to the idea list. There are just two screens which I use. Right. So are you prepared to see both the screens? Which one I use? Just two screens. Nothing beyond that. It's my volume stock will be added."
+    },
+    {
+      "id": "cue-3902",
+      "timestamp": "1:05:02",
+      "seconds": 3902,
+      "text": "Institutional stocks will be added. Margin, pad growth stocks will be added. Right. Those stocks will be added. Basically, your charts are forming. Here you will find volume and institutional stocks, margin and pad growth stocks those stocks will be formed by your charts the first screen I use is a growth 50 screen here you will find 50 stocks here there is no valuation metric, so I will go to the second screen here you can see the valuation So here basically 50 will be stock screen. But here again, you can see the valuations. Here the same stock screen will come."
+    },
+    {
+      "id": "cue-3927",
+      "timestamp": "1:05:27",
+      "seconds": 3927,
+      "text": "So relatively much stronger versus index. Those stocks will come where the eps growth is very high. So if you look at the eps rating, it means that eps growth is fast if you look at the rs rating, it means that 87% of the index is performing better in businesses this is a Dixon screen that came from last 4 years Varun's screen that came from last almost 4 years Shilcher screen came in multiple times in last 4 years like if someone is coming for a new business, I think it's also 17-18 times P, I haven't checked it for a while."
+    },
+    {
+      "id": "cue-3956",
+      "timestamp": "1:05:56",
+      "seconds": 3956,
+      "text": "But again, this is a screen which when You have to use the screen of LCA when the market is corrected And when the rally comes back after correction, this screen will throw up multiple interesting stocks For example, Zentek is coming from a long time Now a Sahana system is a SME business where they are doing something interesting and deep tech, you can go and see that business. Then there is a company here, they are doing sales. So, who saw the SOIC YouTube video in midweek? How many of you saw that video?"
+    },
+    {
+      "id": "cue-3993",
+      "timestamp": "1:06:33",
+      "seconds": 3993,
+      "text": "Did you see, this is one of the companies where 2 percent promoter share holding increased almost 2 percent. Now this is a business where you go read the conference call you will see they are doing something new, new product, higher margin product, new sales, new geographies, right? So again, and also present in which sector? Transmission and distribution, right? Power sector can that. So again, something that they're doing new also coming into this screen. So again worth understanding. Now This has been in a stock which has been coming over air for last 2-3 months now."
+    },
+    {
+      "id": "cue-4042",
+      "timestamp": "1:07:22",
+      "seconds": 4042,
+      "text": "Is anyone here from Andhra Pradesh in the comments? It is there in the conference calls. Is anyone from Andhra Balesh? Now a simple question, pose the government change has a liquor policy been changed because because first of all, again I don't want to get into politics but it is alleged that government has sold the crony alcohol there."
+    },
+    {
+      "id": "cue-4068",
+      "timestamp": "1:07:48",
+      "seconds": 4068,
+      "text": "Alleged, I am not saying it is true but it is alleged but now it is an open alcohol policy so a lot of other liquor brands have also entered right again it's covered there it's covered there in its in their conference call The stock is coming in the screen It is there in the news But the idea is that we have to make the screening criteria right So in value fashion, like V2 retail is coming Now hotel, I mean if I want to take the example of sector rotation Then Indian hotels are also coming here But if this is a market leader in hotels, then it is possible that other hotels are doing well So you will see that I posted yesterday that hotel sector coming out of a base again So we will make a custom index here So the whole hookup, hotel sector is coming through the base So it is possible that in the hotel sector, there are many more companies where volumes are much higher Another time technoflast, we can see the example, Deepak fertilizer is coming here So The idea is that if you get a business on a reasonable valuation, then your relative strength will be good."
+    },
+    {
+      "id": "cue-4135",
+      "timestamp": "1:08:55",
+      "seconds": 4135,
+      "text": "For example, Garwari ITech is coming from a long time. We have covered Garwari ITech multiple times in screening sessions. If you remember Garwari Eye Tech, Garwari Polyester, they have a new product, growth rates have come, margin has been implanted. So again, keep basically be an open minded person. I will cover one more screen then we will go for a break. So you should see this screen once a week. That's it. I am watching it with you right now. You can see it on the screen. What are the recent additions? What is added on the screen recently? Once a week is more than enough."
+    },
+    {
+      "id": "cue-4168",
+      "timestamp": "1:09:28",
+      "seconds": 4168,
+      "text": "You can see recent additions. They get good stocks in recent releases. If you at recent removals then there are also some interesting stocks sometimes there is a company by the name of Styrenex Performance Mutile So this company has just made an acquisition. They have acquired one of the Thai companies from INEOS. So again let's do this. Let's do this simple. Go to Fundamentals and read the triggers. Go to Technicals and is it coming out of a base right now? Yes or no? That's a simple question. This thing we can clearly see."
+    },
+    {
+      "id": "cue-4208",
+      "timestamp": "1:10:08",
+      "seconds": 4208,
+      "text": "The class that has entered the technical point gets very easy for that after doing the fundamentals class of variant perception. I don't know why they have removed it but I don't know why they have removed it but I am saying that they get good ideas in their recently deleted ideas so I go there and search for ideas just consider me to be a shameless guy who is looking for stock ideas if anyone has an idea, then at the end, I have money I am the one who is placing the trade, it depends on the risk reward but again, what is the thought process? We are just shameless when it comes to screening."
+    },
+    {
+      "id": "cue-4248",
+      "timestamp": "1:10:48",
+      "seconds": 4248,
+      "text": "Wherever you get an idea, it's as good as it is. Now I will show you a last screen. In market split, there are only two working screens. One is the growth 50 screen. I have used it a lot in this product since a long time. And the second working screen is the blue dot list. Now this is the holy grail of all screens. It will have stocks, right? So this is a screen where I will explain the concept of relative strength. First I will explain you the screen then I will come to the concept. Stocks where relative strength is 52 weeks high, not the stock price, relative strength, what does it mean?"
+    },
+    {
+      "id": "cue-4287",
+      "timestamp": "1:11:27",
+      "seconds": 4287,
+      "text": "That stock particularly, its relative strength, every stock has a relative strength. Like if the index is 100 and the stock is 100 The stock is 100-70 and the index is 100-90 So the index is relatively strong But the index is 100-90 but the stock has some positive news It has been 74-70 20% improvement whereas when we talk about index, it is an improvement of around 11% so this 20% performance and the 11% of index is an out performance of 9% so the line of relative strength when it makes 52 weeks high, this is where this screen starts."
+    },
+    {
+      "id": "cue-4331",
+      "timestamp": "1:12:11",
+      "seconds": 4331,
+      "text": "This is why this is a screen which will have best sectors in the market, some of the stocks which have a lot of fundamental triggers in the market, some of the stocks which are just going through a base formation or might be coming out of a base formation. Just look at this right. So this is one of the stocks where the stock is just coming out of a base. If you connect the horizontal line, your rounding bottom, your horizontal breakout, your stock where earnings growth are the fastest, because earnings growth is the fastest where relative strength 52 also starts to be created."
+    },
+    {
+      "id": "cue-4369",
+      "timestamp": "1:12:49",
+      "seconds": 4369,
+      "text": "Are you understanding that when is the stopgap strong? When people expect better performance, whether the stopgap is as good as it is, a question to all of them. When people are expecting better times for the company. This is the beauty of screening. This is a screen which will throw data for you. You are throwing exactly what you are throwing. I think Relative strength is as much as a fundamental criteria as a technical. You can tell me that relative strength or relative outperformance of a company versus The index could also be a fundamental criteria. Can anyone tell me why?"
+    },
+    {
+      "id": "cue-4415",
+      "timestamp": "1:13:35",
+      "seconds": 4415,
+      "text": "Think about it. That a company's relative outperformance from benchmarks or other stocks can be considered a fundamental criteria, not just a technical criteria. Why do you think so and why so? Take in third order consequence. RSI is not relative strength, it is index. It is relative strength. I will tell you the difference towards the end. RSI relative strength index. Why good relative strength be as much as a fundamental criteria as it is a technical? There is demand."
+    },
+    {
+      "id": "cue-4460",
+      "timestamp": "1:14:20",
+      "seconds": 4460,
+      "text": "There could be some change happening. That company might be growing faster, that is why people, there is demand for that particular stock. It's a sector leader. Earnings growth are much superior versus the index. Whoever thought of this answer, like silent clapping for you. Right? All of us broadly agree that a stock follows a earnings road trajectory. All of us agree with this. In this term, there is no confusion. A stock price is an earnings growth slave. Do we agree with this? Nifty's long term return is between 12-14%. Do you agree with me on this also?"
+    },
+    {
+      "id": "cue-4503",
+      "timestamp": "1:15:03",
+      "seconds": 4503,
+      "text": "So If Nifty's long term returns is 12-14% then if a stock is outperforming the index then what is the market saying? Will its growth be better than Nifty or Nifty's growth? What do you think is the market telling you? The growth of stock, the growth of index, should be faster or less? Business growth, earnings growth should be faster than the index. So this is why relative strength is as much as a fundamental criteria as it is a technical."
+    },
+    {
+      "id": "cue-4543",
+      "timestamp": "1:15:43",
+      "seconds": 4543,
+      "text": "If anyone just tells you the relative strength, a technical criteria, listen to them and then ignore them right so just listen to them and ignore them because idea is that you people are much more advanced because you are thinking market is thinking why now I have to go and see in fundamentals what catalysts are what growth rates are here what rate of change That is the beauty of screening It's a game if you play it well It's just sort of like a game Weekly, if you sit and do screening, it will throw up multiple stocks at you So this is one of the screens which I love to use There will be a lot of companies here Relatively, the relative strength is making all time highs like the goldium international here now go read the conference call they say in q3 they are expecting some bonkers export growth so you can just read that out HBL has just ordered in v2 they are saying that Q2 to Q3 up to 50% or 35-40% quarter on quarter sales."
+    },
+    {
+      "id": "cue-4599",
+      "timestamp": "1:16:39",
+      "seconds": 4599,
+      "text": "Time Technoplast is coming from multiple times. You will see LT foods here. Similarly Ashoka Belkan is coming."
+    },
+    {
+      "id": "cue-4606",
+      "timestamp": "1:16:46",
+      "seconds": 4606,
+      "text": "They have been winning a lot of new orders Then Shaktipam is coming from a long time Then again the idea is that the more you start looking at stuff The more you start looking at these businesses It can be that you will get something interesting over 1000 crores Now it can be that I will ignore the small market tab companies because sometimes there is no information there is another company by the name of Bliss GVS Pharma this is another one of the companies in pharma which I pre and post watching the AGM so this is one of the businesses which are screened here on their website their AGM available that is a tool to research screen how did you do it in the blue dot list 2-3 months ago screened right but again in the company what is going on what is not happening you should go and see the AGM It will not typically screen like this because it does not have quarterly earnings and annual earnings But when you go and see AGM, then you start finding that this can be a trigger in this company, this can be a trigger, this can be a trigger, this can be a trigger."
+    },
+    {
+      "id": "cue-4674",
+      "timestamp": "1:17:54",
+      "seconds": 4674,
+      "text": "I just shared with you in today's session that I will share what I do. Which has worked for me. I just want to share that. That is the purpose of today's session. In concepts, I will come more, but this is one of the screens which I use because I know that the best to best companies where there is something interesting, this entire screen will start throwing it in front of me."
+    },
+    {
+      "id": "cue-4728",
+      "timestamp": "1:18:48",
+      "seconds": 4728,
+      "text": "So, this is ranked as per the scores. You can see that it is ranked as best score in the company's arrest. And the score that I am going to go down will get spoiled, relative to the growth of EPS or anything so I think till C score is somewhere you can keep looking at till the end of B score you can keep looking at some of the businesses and because these businesses will be doing something interesting, something exciting, something new will be happening in those companies. So you can see the valuation criteria and all that. Should this screen be in your eyes or not?"
+    },
+    {
+      "id": "cue-4765",
+      "timestamp": "1:19:25",
+      "seconds": 4765,
+      "text": "This is the purpose of the blue dot list. So I use these two screens in the markets in India, beyond using here honestly. So this is a use case. How many of you understand this use case? Now, drop a yes. At least screening or scanning process is better. Do you agree with me that there is a method of screening or scanning? We will take a break here. I will also have something to eat and then we will meet back then. One or two ideas changed is the portfolio."
+    },
+    {
+      "id": "cue-4800",
+      "timestamp": "1:20:00",
+      "seconds": 4800,
+      "text": "See market levels a lot of the time see what happens is that I'll just take a break before after this I'll just answer one question Amil Sharma's very nice question so hopefully this is a question that Amil has asked, if market levels are at an all-time high, how do you invest? I'll just say this, again, it's a saying by a friend of mine, I'll just take you there. So he's a very good friend of mine, Imanchu, we always have this banter going between us. Is that I just posted this tweet somewhere. Yeah. Strong stocks based on relative strength will take you to the strongest sector."
+    },
+    {
+      "id": "cue-4843",
+      "timestamp": "1:20:43",
+      "seconds": 4843,
+      "text": "This is a strategy that you use in the bear market. This is a strategy that you use in a bull market. Strongest sectors will anyways will have something that is going for them. I vividly remember 2017 to 2020 were a bad phase for the market, really bad phase of the market. Still few stocks were doing well, what was doing well. Your compounders like businesses were doing well, Abhajaj finance was doing well, entire chemical pack was doing well. That is where the relative strength was the maximum. That is where The market was telling you that in these businesses, growth rates are good."
+    },
+    {
+      "id": "cue-4882",
+      "timestamp": "1:21:22",
+      "seconds": 4882,
+      "text": "These are dealing to the Indian economy at the moment. So read these businesses and eat the compounding of 3-4 years. That is what the market was saying. And every trend eventually ends."
+    },
+    {
+      "id": "cue-4893",
+      "timestamp": "1:21:33",
+      "seconds": 4893,
+      "text": "In 2021, the trends ended the market structure change of last three years four years a market carry a Kpex oriented capital goods then power sector then some of your EMS companies some of your packaging companies right some of your lab grown diamond companies, some of your IT product companies, or IT software companies, some of your wealth management companies, some of your investment banking companies, some of your AMC companies, some of your companies which are into building material, some of your companies which are into building material, some of your companies which are into real estate, the market is growing here, the growth rate is low in other companies."
+    },
+    {
+      "id": "cue-4929",
+      "timestamp": "1:22:09",
+      "seconds": 4929,
+      "text": "So relatively, this company will be strong. And the past winners, chemicals or consistent compounder type, do you see pad growth in today's date? Yes or no? A simple question. What do you think is happening over there to the pad growth? Do you see anyone with pad growth there? Do you see any pad growth there? Very few companies over there. Very few companies over there. Very few. It's saying that winners of the past bull market rarely repeat in the future. But these businesses did well between 2012-2021, when there was a consumption driven economy. Narrative always follows."
+    },
+    {
+      "id": "cue-4972",
+      "timestamp": "1:22:52",
+      "seconds": 4972,
+      "text": "Now we are in an investment led economy. Because if the government Kpex increases in India, private sector Kpex starts picking up. So here investment led businesses will do well because relatively strong is the one relatively earning is coming here, relatively better sales is coming here relatively money is also flowing over here are you able to understand that all things are getting better, we should not look for stocks in comparison if we get reasonable valuations, investment led themes That is how you think about markets. Right?"
+    },
+    {
+      "id": "cue-5018",
+      "timestamp": "1:23:38",
+      "seconds": 5018,
+      "text": "Sector, bottoming out of what I am going to answer. I will just go for a break. So, how long do you have to break folks? How long do you have to meet? Session is 45-50 minutes. So, let's take a break. I will pause the recording. Alright, you said what is the purpose of relative strength and how we use market scans and market scans in front of two filters that we use for scanning stocks."
+    },
+    {
+      "id": "cue-5043",
+      "timestamp": "1:24:03",
+      "seconds": 5043,
+      "text": "Then now coming to a simple thing what is in the other cancelling that is like leader or leader or laggard institutional sponsorship or market direction We can ignore market direction because we are not seeing broad market direction If we talk about leaders and institutional So, where the institutional ownership is increasing Where the institutes or the DIS or FII are buying more of the stock So, that is an example of whether your stock is a leader or laggard. Let's take a simple example. Let's take two stocks. I don't know when that changes, but it's just an example."
+    },
+    {
+      "id": "cue-5083",
+      "timestamp": "1:24:43",
+      "seconds": 5083,
+      "text": "So it's a valuation agnostic example. Let's take a Sami hotel example. It's a stock which is much cheaper on an EB2 EBITDA basis versus let's say Indian hotels. But the problem with Sami hotels is that there is a lot of oversupply. The FIIIs here, the private equity, they have bought the stock long back pre IPO and they have been consistently selling. If you look at the stake over here, it is a Goldman Sachs stake that has gone to zero. Similarly, if you just observe a stake here, this one, right? So if you look at GTI capital alpha, so this is the stake that has fallen a lot."
+    },
+    {
+      "id": "cue-5128",
+      "timestamp": "1:25:28",
+      "seconds": 5128,
+      "text": "And if you look at it here, it is blue-chandra-pt, right? So yeah, this blue-chandra-pt is limited. If you look here, then their stake is 8.67, almost 4% below. So what does it show? Is there a supply of paper or is it being absorbed and retail holding at the same time has gone from 14% to 22% and the public share holders. So in spite of delivering best results for last 3 quarters, 3-4 quarters, as army or hotels gone anywhere. What do you think? Recently, Relative Strength has come back. Hopefully, we will see what happens."
+    },
+    {
+      "id": "cue-5173",
+      "timestamp": "1:26:13",
+      "seconds": 5173,
+      "text": "But are you understanding this? I am just doing a comparison. So, valuation wise, it is too cheap and there could be interesting things happening over it but Indian hotels example at the same time. It's a stock just mind you it's a stock which is much more expensive versus Sami hotels right there is no comparison of valuations It creates at 48 times EV2 EBITDA. Army hotel this year is at 14 times EV2 EBITDA. It has been expensive for the last entire year. But what has happened relentlessly is that public shareholding has fallen."
+    },
+    {
+      "id": "cue-5210",
+      "timestamp": "1:26:50",
+      "seconds": 5210,
+      "text": "And what has happened relentlessly is that foreign institutional investors, which I call a very in-discipline set of investors, but still institutional sponsorship. So Institutional holding 40% if we do FIDI, now how many? Almost 46%. So are you able to recognize how the institutional shareholder, shareholding has been moving and it is like a leader of the sector in spite of very high valuations. Are you able to correlate now? In spite of very high valuations, what has happened? Right? I am hopeful holder of Sami. Let's see what happens."
+    },
+    {
+      "id": "cue-5252",
+      "timestamp": "1:27:32",
+      "seconds": 5252,
+      "text": "Now, in Sami, it is possible that if growth comes so fast, what can happen is that it can happen that institutions start coming into that business. But I am just taking you through an example. Is that idea is to screen stocks where institutional shareholding is going up. Recently we did a midweek video where you can find where institutional shareholding is being built. But similar you can also search on screener. So let's make a free screen. Here I'll come to this FII plus DI lapping up screen. So this screen I'll share with you."
+    },
+    {
+      "id": "cue-5283",
+      "timestamp": "1:28:03",
+      "seconds": 5283,
+      "text": "But how to make this screen is simple, there are many ways to do it. The change in FII holding in last one year is greater than 3%, change in DI holding in last one year is greater than 3%. There are some companies like Hemat Singh has become a radio, media assist has become, some of these companies show up. We can relax a little more. Change in FII holding of greater than 2%, change in di holding of greater than 2% now run this query we will have 15 companies where institutional shareholding is going up."
+    },
+    {
+      "id": "cue-5317",
+      "timestamp": "1:28:37",
+      "seconds": 5317,
+      "text": "Another criteria that we can create over here is that promoter holding can be in a company. We can do this 11% each and we can say and promoter holding change in promoter holding is greater than 1% so here no company has come yet where FI holding is also increasing, DI holding is also increasing and change in promoter holding is also increasing now we can do something else Change in promoter holding is greater than 2% and what we do is market capitalization of the company above 1000 crores. Now let's run this query. Ignoring the Adani group for reasons which are understandable."
+    },
+    {
+      "id": "cue-5359",
+      "timestamp": "1:29:19",
+      "seconds": 5359,
+      "text": "So a lot of other companies, promoter holding has changed for more than 2%. So what you have to see here is the Kiri industries. So again, what you have to see in the Kiri industries is that if promoter holding has changed from greater than 2%, then how has it happened?"
+    },
+    {
+      "id": "cue-5375",
+      "timestamp": "1:29:35",
+      "seconds": 5375,
+      "text": "So Whether there is a fund infusion that the company has done Whether there is a warrant infusion that the company has done So if we look here, the promoters have done preferential allotment So here it can be that the company's share holding went above the promoters So this is one of the ways to find that promoters themselves are buying more of this stock. Either it could be through warrants, preferential allotment, or it could be they're buying open market, right? So, open market can also be, promoters are buying shares."
+    },
+    {
+      "id": "cue-5403",
+      "timestamp": "1:30:03",
+      "seconds": 5403,
+      "text": "Rest, some companies have just, pretty engineering is another one of them which comes up. Other than this, another one which comes up is GMR airports. But here too, conversion of preferential issues or equity is there. Other thing that you can use is change in fii holding of greater than 1% and change in di holding is greater than 1% let's see, so my plus 51se companies come where di I and fii both have increased their 11% This screen also seems very useful as infolian is one of the companies which comes up over here."
+    },
+    {
+      "id": "cue-5437",
+      "timestamp": "1:30:37",
+      "seconds": 5437,
+      "text": "So one of the only SMEs with very solid cash flows right then here more businesses come here, gull foil lubricant comes and apart from that poly medicare valuations have gone insane but medias like here are example wise. Well-spent corpus can up screen."
+    },
+    {
+      "id": "cue-5452",
+      "timestamp": "1:30:52",
+      "seconds": 5452,
+      "text": "Then apart from that other companies techno electric engineering screen is pds limited screen here was qi p ui so a lot of DIs and FIS participated and just over here if we take example of PDS in stock scans let me open PDS just over it can you see that the stock is also trying to come out of a base can you see this just a second that the stock is trying to come out of a base long base formation and textile sector is it in the news lately? Yes or no? Are you able to look at it?"
+    },
+    {
+      "id": "cue-5488",
+      "timestamp": "1:31:28",
+      "seconds": 5488,
+      "text": "The recent textile sector is also in the news because of better demand prospects going forward right and also started just forming high rise so again idea is that if you go to fundamentals here then again another stock that gets screened funds. Screening activity means again prestige states gets filtered. Presbyteries is also another one of the stocks which gets filtered. Presbyteries states also get filtered. So post this huge markup phase undergoing another sideways consolidation. So a small base is being built here."
+    },
+    {
+      "id": "cue-5532",
+      "timestamp": "1:32:12",
+      "seconds": 5532,
+      "text": "But post this huge markup, it's going to be in sideways consolidation because in H2, they are launching projects worth almost 50, 000 or 52, 000 crores. So how much their sales are, that will decide what the direction of the stock chart goes. Right, because that is the key fundamental trigger. A very big inventory launch for this company. Apart from that, other companies that come shell engineering, so already multiple has gone insane."
+    },
+    {
+      "id": "cue-5553",
+      "timestamp": "1:32:33",
+      "seconds": 5553,
+      "text": "Brigade enterprise is similar to prestige estates then heaven singha said we discussed then apart from that like the godrej property so real estate wali asi company is bhoda arian japa institutional shareholder like holding bird years time pay which is an interesting point right so again this is a screen that you can use change in FI holding and DI holding the stocks can use so for you already there is a screen we are ready made on the stock scans You can simply go to stock scans and just go to holdings and smart money moves and you will start finding companies where institutional shareholding is increasing."
+    },
+    {
+      "id": "cue-5593",
+      "timestamp": "1:33:13",
+      "seconds": 5593,
+      "text": "These are companies where you can change the last three years because there will be a lot of companies where the institutional shareholding will be changed. You can change this for the last 3 years Because in the last 3 years, there will be many companies where the promoter will be sharing the institution So you can do the latest quarter in stocks and stocks If you are in the latest quarter, if you are FII holding Let's take 0.5% and the 52 week high criteria for delete And let's add another filter, change in DII holding the latest quarter also has gone up by 0.5% and let's do what?"
+    },
+    {
+      "id": "cue-5622",
+      "timestamp": "1:33:42",
+      "seconds": 5622,
+      "text": "Let's do a okay so those companies where quarter on quarter FII and DII holding has gone up So those type of companies will come. If you apply it to high, 52 will be high. So you will have those companies where relative strength is there. So you can do another thing in stock scans. I think you can do returns versus nifty 50 last three months may 2% higher. So now only relatively strong stocks well, FII and DII holding is going up quarter on quarter, those will get screened in front of you."
+    },
+    {
+      "id": "cue-5665",
+      "timestamp": "1:34:25",
+      "seconds": 5665,
+      "text": "Like walk hard is one of the stocks which comes up because they are launching new innovative drugs which no Indian other Indian company has done right especially in a big stage where well spent corp comes up over it. Then other companies, I feel capital services name change has come up recently."
+    },
+    {
+      "id": "cue-5684",
+      "timestamp": "1:34:44",
+      "seconds": 5684,
+      "text": "Amyorganic C growth rate has come up, PDS Limited comes up, Tilak Nagar industry also comes up, You will see how some of the names start becoming common Another very interesting company comes up It's called Entero Health Care It's a distributor of pharma's And because they are entering in the Quick commerce pharma So this is a B2B distributor so probably they might be even distributing to quick commerce companies as well and their margins are also expanding and they're acquiring to grow as well right so interact building product and company area again one of the product companies into pre-engineered building solution providers bhajaj healthcare bhi aar hai right so idea kya ki jitna aapka screening criteria solid o putna aapke le better hai to relatively strong companies jaap hai like institutional So the idea is that the better your screening criteria is, the better the company will be."
+    },
+    {
+      "id": "cue-5725",
+      "timestamp": "1:35:25",
+      "seconds": 5725,
+      "text": "Relatively strong companies where the institution ownership is increased, this could also be a very good screening criteria for you to screen for stocks. Is it clear what's this one interesting? Where the relative strength is better and where the FII and DI link are better we have seen both is it clear awesome now I will come to the concepts and finally we will discuss one or two lore I will share the screener sheets with you. I will share everything with you and then we will go for a round of Q&A. Awesome. Great. So let's, like, I will come to the sectors of charts."
+    },
+    {
+      "id": "cue-5764",
+      "timestamp": "1:36:04",
+      "seconds": 5764,
+      "text": "So now we will come to the concept. This is a concept which I will be teaching but I love teaching this concept. There are two concepts. One is the trigger of variant perception which they have posted in the first class. Why do companies grow? It's simple that companies expand margin."
+    },
+    {
+      "id": "cue-5783",
+      "timestamp": "1:36:23",
+      "seconds": 5783,
+      "text": "Companies are going through a phase of margin expansion Corporate actions are being demurged Companies are off the debt Product mix is changing Right now, better margin products are coming Companies have capexed Operating leverage is being demurged management will change, industry cycle will turn or cost reduction will happen these are some of the fundamental change pointers you have to study in a company. In this, there is a change or you will get a conference call or an investor presentation. Right? Then we will see what is the second thing."
+    },
+    {
+      "id": "cue-5816",
+      "timestamp": "1:36:56",
+      "seconds": 5816,
+      "text": "The second thing which is important to look at is relative strength. So what is relative strength? So, I will discuss an interesting topic with you before the relative strength. Here we do it just over it. Now this is you. Actually my drawing is very bad. And this is a mountain. There are many mountains on which you are going to go. Bad right and this is a mountain right mountains and this is a flat road which is ahead. Now question is energy taken to climb."
+    },
+    {
+      "id": "cue-5867",
+      "timestamp": "1:37:47",
+      "seconds": 5867,
+      "text": "Now this is you walking on the flat road, so you are walking on flat road, then all of a sudden you have to climb this mountain. You climb the mountain, you put some effort and climb the mountain. It gets steeper here and easier to climb here. Then you come here, now you have to go back down from the mountain then you go down from the mountain, then you climb down, then you climb down now my question is, this is a very interesting question, just think of it. Where will the energy taken be the most to climb the mountain? Assend or descend, up hill or down hill?"
+    },
+    {
+      "id": "cue-5931",
+      "timestamp": "1:38:51",
+      "seconds": 5931,
+      "text": "When you are going up the mountain, correct? So, this is how the journey of a stock is also right those stocks can generally how make cheese cadets stage analysis can I'm going to come back to what is a stage analysis this is how it looks like it's so let's let it be here so kissy a question the value stocks, value stocks generally sideways and it will keep going sideways, sideways."
+    },
+    {
+      "id": "cue-5967",
+      "timestamp": "1:39:27",
+      "seconds": 5967,
+      "text": "For example, if you take the example of Kotak Bank, Kotak Bank is a stock in stage one of sideways We can say sideways trend When something is going sideways, you will say sideways trend Then it is sideways Stage 2 comes when there is a positive surprise But for positive surprise, some market expectations should be removed And the positive surprises come from earnings and through which it comes out of these 7-8 things Here margins will expand, or the industry cycle will be favorable For example, If the national electricity plan has a spend of 9.2 lakh crore, then it is a positive surprise for cap good suppliers in electricity industry?"
+    },
+    {
+      "id": "cue-6019",
+      "timestamp": "1:40:19",
+      "seconds": 6019,
+      "text": "Yes or no? It's a positive surprise. There is no doubting that fact. So again it's a positive surprise. This is a positive surprise. Similarly, again, a stage 2 will come. Sideways trend will go up. Now everyone will be backing up. 5-6 years growth will last."
+    },
+    {
+      "id": "cue-6039",
+      "timestamp": "1:40:39",
+      "seconds": 6039,
+      "text": "People will start making 2-3 year out models Then there will be estimates division, which you will see, target price will be revised, that is why it is revised because growth estimates are revised then the company's EPS momentum will be there so the canceling methodology we are reading so we are reading that we can scan those companies which are going through positive surprise models because here relative strength is highest because money is flowing in people are looking for the next growth leg company then it will become growth stock when will the growth stock be 100-200-300?"
+    },
+    {
+      "id": "cue-6074",
+      "timestamp": "1:41:14",
+      "seconds": 6074,
+      "text": "It is not necessary that the growth stock falls in the place of growth stock but this stock will start falling when the earnings growth cycle finishes when earnings growth cycle finishes, the loss of EPS momentum the growth that was thought of, it is always the human behavior if something is good, then our expectations are better if something is bad, then our expectations are also worse the negative surprise model estimates the rise down. And then finally when everyone has sold out, it ends up becoming a value stock again. This is our stage analysis."
+    },
+    {
+      "id": "cue-6107",
+      "timestamp": "1:41:47",
+      "seconds": 6107,
+      "text": "This is how a stock goes through its journey. To conquer stage analysis, you have to conquer two things. Three things in fact. First, you have to conquer what you want to conquer. You must understand what is relative strength, second cheeze kya conquer karne hai, you must understand what is a fundamental catalyst. Third thing that you must understand is that the 30 weekly EMI, what is the importance of that and how sideways, upwards and downwards chart look like. These are three things that you must understand. And one more thing you must understand is the price volume action."
+    },
+    {
+      "id": "cue-6139",
+      "timestamp": "1:42:19",
+      "seconds": 6139,
+      "text": "If the price is going up and the volume is going up, it means a strong uptrend is happening. If the price is going up and the volume is going down, it means that uptrend is weakening. Now, for example, suppose I go to Shimla, which is a mall road, I'm looking for a new restaurant and I want to try new food. There are 10 restaurants and one restaurant is filled with food. If I look at the social proof, a person like me will go empty stomach to see what's better. Because I don't want to wait."
+    },
+    {
+      "id": "cue-6175",
+      "timestamp": "1:42:55",
+      "seconds": 6175,
+      "text": "But if I just want to eat the best food, then I'll probably go and wait at the best restaurant, so there will be a line there so the price of the restaurant is also there and the volume is also there so there can be earnings growth, fast restaurant then the restaurant starts to end, the volume starts to decrease so he found out that in the restaurant, there was a tail of a rat, so people started running from there. So it means the trend is getting weak. Restaurant people are saying that it is one-off, one-off, but still people leave. Then comes another dish."
+    },
+    {
+      "id": "cue-6209",
+      "timestamp": "1:43:29",
+      "seconds": 6209,
+      "text": "In that dish, it seems that a cockroach came out and made noise in the restaurant. So what happens is that there is a mass exodus, everybody leaves the restaurant, the price also dropped a lot and it fell on a very high volume, so all the people left, you stay in the 3-4 tables, people leave slowly from the 3-4 tables, so the downtrend started to stop there, so this is the journey, stop, Now you will remember an example, because I told you an interesting example. You will remember an example that every stock has a journey like this. Just in the comments, does drop a LSE if you remember this."
+    },
+    {
+      "id": "cue-6254",
+      "timestamp": "1:44:14",
+      "seconds": 6254,
+      "text": "So this is how it is. It's a very relevant exam. When should we come to the stop? When the restaurant is getting crowded, not too crowded, this is the purpose of the actual class, you have to clean the stock and give it to you. So that is how the stage analysis works. Now in the stage analysis, the first thing to do is to conquer relative strength. Relative strength is that versus the other restaurants, people are more in that particular restaurant meaning the price of that restaurant is higher than the other otherwise it has started How will I know that there are more people there?"
+    },
+    {
+      "id": "cue-6296",
+      "timestamp": "1:44:56",
+      "seconds": 6296,
+      "text": "So the relative strength of that restaurant is higher than the others in terms of the number of people who are there in the restaurant number of people who are outside the restaurant so that is the example of relative strength now someone's question was, are RSI and RSI the same or not? Relative strength is a study of a securities performance versus the index whereas RSI is a momentum oscillator RSI does not confuse you with relative strength, RSI is a different thing So relative strength and RSI are different. So relative strength is your concept."
+    },
+    {
+      "id": "cue-6328",
+      "timestamp": "1:45:28",
+      "seconds": 6328,
+      "text": "This is a book by Stan Winston that he mentioned in the book. The important factor to check out while narrowing down a list of potential buys is relative strength. This is a measure of how a stock is acting in relation to the overall market. Even if a stock is rising, it can show poor relative strength. Likewise, a declining issue can demonstrate positive relative strength. Think about it, if XYZ rises 10% while standard and poor composite advances by 20%, XYZ is lagging the index even though it is moving higher. Not only it isn't a leader but it is obviously being pulled reluctantly higher."
+    },
+    {
+      "id": "cue-6368",
+      "timestamp": "1:46:08",
+      "seconds": 6368,
+      "text": "Therefore probabilities are very high that when the overall market turns down XYZ will get bombed. Conversely, If it drops by 10% while the market plummets by 20%, it is putting on a good show of relative strength. If the stock drops by 10% but the market drops by 20%, then the stock has more relative strength. And once the market turns higher, the stock will likely lead the period. So the thought process of relative strength is that price of XYZ is up on price of market average. So I will also apply relative strength here. So the line of relative strength looks like this on charts."
+    },
+    {
+      "id": "cue-6402",
+      "timestamp": "1:46:42",
+      "seconds": 6402,
+      "text": "This is how the line of relative strength looks like. And this is the concept of relative strength so I suggest you a reading material there is a reading material that you can find so this reading material shows that on an average stocks which have better relative strength outperform 20% in terms of total returns on an average. So this is the concept of relative strength. We will also see it in charts. Relative strength in sports too. Whether Rafael Nadal was a better player or Federer, then Nadal was on clay court. And basically the court which was on grass, there was Federer."
+    },
+    {
+      "id": "cue-6435",
+      "timestamp": "1:47:15",
+      "seconds": 6435,
+      "text": "Because the stats prove it. So relatively, federal was veteran grass court and Nadal was veteran clay court this is why strong stocks based on relative strength will take you to the strongest sector. It's something that you must always remember. So here we have examples of like examples of relative strength. Just over here. How do you put the relative strength line? So, I'll teach you in a free version, in the trading view. And I'll teach you the stock scans one by one. Just give me a second. All right. Just a second. Yeah. There's a video on our YouTube. How to find the strongest stocks."
+    },
+    {
+      "id": "cue-6476",
+      "timestamp": "1:47:56",
+      "seconds": 6476,
+      "text": "What detail we discussed. Let's take an example of car trade. And we will come to the chart and set it again I am teaching you outside the screening but my idea is that you should learn things here we will do relative strength then you can use the comparative relative strength of a stock by a trader or you can use the Relative Strength of a stock by a trader. It's a free indicator to use. As soon as you click on it, a Relative Strength chart will appear in front of you. This is a chart of Relative Strength. You can change this chart as well."
+    },
+    {
+      "id": "cue-6512",
+      "timestamp": "1:48:32",
+      "seconds": 6512,
+      "text": "The whole line of relative strength you can see something like this this is how the concept of relative strength will look like weekly charts you have to do you have to do the 26th so you are seeing the relative strength of 26 weeks just over here you can just find out when it starts outperforming nifty so when you want to outperform nifty you have to see it here whenever it's outperforming nifty like this chart of Carl trade if you check it in Carl trade basically as the relative strength goes up, the company's earnings are also coming up the earnings of the company that also exploded and now the company is riding for a 40 crore pat versus like last year minus 24 crore loss."
+    },
+    {
+      "id": "cue-6561",
+      "timestamp": "1:49:21",
+      "seconds": 6561,
+      "text": "Similar example with relative strength. So let's take an example of SRF. Now you tell me, I'll just ask you two, three questions. Very simple. Right. Very simple right there is a brief playboy role of RS stock now in sideways trend up trend or down trend what are you seeing it starting down trend but it came sideways again. Right? Long sideways trend. Now let's see here. Again because it's a class of screening. Let's search SRF."
+    },
+    {
+      "id": "cue-6607",
+      "timestamp": "1:50:07",
+      "seconds": 6607,
+      "text": "Business is very good, no doubt. But earnings is less than 5-6 quarters. Last, in fact, 8 quarters is less the patco? Can anyone tell me? What is the difference between the sales and the patco? It is muted. The margins are going down. Can you see the degrowth? Can you see stagnation? Now just over here, is the relative strength increasing or going down?"
+    },
+    {
+      "id": "cue-6660",
+      "timestamp": "1:51:00",
+      "seconds": 6660,
+      "text": "What do you see? Similar cycle is happening here. When the negative relative strength is there, it's underperforming consistently. So such type of stock won't get screened for you if you use the screening activity as well. Because what is happening even though the stock hasn't gone anywhere but the P ratio of the stock has expanded. Can you tell me why the P ratio is expanding? You can expand your stock. Because earnings are not coming."
+    },
+    {
+      "id": "cue-6705",
+      "timestamp": "1:51:45",
+      "seconds": 6705,
+      "text": "So even though the stock is not running, but the stock is more expensive in the last 2-3 years? Yes or no? Or is the stock more expensive? The answer is yes. Even though a stock which hasn't worked versus the index has become even more expensive versus 3 years ago This is the beauty of markets right?"
+    },
+    {
+      "id": "cue-6733",
+      "timestamp": "1:52:13",
+      "seconds": 6733,
+      "text": "Because margins are declining, earnings are declining, but the price hasn't declined but your PE ratio is increasing because the market feels that this is a very good company but if there are earnings coming back here, then I am going to go in time correction but again time value of money is a concept because your money should work for you. So from 3 years, nothing has been working here. The time value of money is a very important concept. So this is the beauty of relative strength. So relative strength and RSI are two different terms."
+    },
+    {
+      "id": "cue-6764",
+      "timestamp": "1:52:44",
+      "seconds": 6764,
+      "text": "Now here we have a lot of relative strength scans in stock scans. So here I will show you 4-5 times. Then I will show you in 4-5 times then in 2 more tools if we look at relative performance we will see those companies first we will see relative turnaround We come to filters and let's see. So here we delete it. Basically, those companies will come here where relatively these companies are outperforming the index. Right."
+    },
+    {
+      "id": "cue-6794",
+      "timestamp": "1:53:14",
+      "seconds": 6794,
+      "text": "All the companies that are outperforming the index, all those companies you start seeing on which filter basis strength versus nifty 50 on weekly basis higher than 2% returns and less than 10% returns so here we have started you can do one more thing in stock scams you can actually go towards indices like this is a great thing if you are looking for the strongest performing stocks in nifty 50, you can just click on nifty 50 and do a click. So these are the best performing stocks of nifty 50 versus the nifty 50 index."
+    },
+    {
+      "id": "cue-6826",
+      "timestamp": "1:53:46",
+      "seconds": 6826,
+      "text": "And here a question how many it stocks are coming answers get the it stocks are a how many or it stocks should at least go and look at the IT sectoral index? Again this is my curiosity which is leading me to which is leading me there. Right? So we will go towards, this is a curiosity question. So, let's see the nifty it index."
+    },
+    {
+      "id": "cue-6872",
+      "timestamp": "1:54:32",
+      "seconds": 6872,
+      "text": "Is it forming higher highs? Is it in a blue sky zone right now? Yes or no? Is it a relatively strong sector? Actually, you can also apply relative strength on index. Here we apply relative strength on it. We are applying relative strength on stock scanner. Let's put relative strength and just versus nifty. So we have a nifty 26. So let's put 22 with our 26. And let's do it. Right. All right."
+    },
+    {
+      "id": "cue-6919",
+      "timestamp": "1:55:19",
+      "seconds": 6919,
+      "text": "On 26 weekly chart, right, just like last 26 weeks, a comparison, is the relative strength also forming high, right? In the comments I am 26 because in 26 it is a medium term horizon and also it is written in the book actually we have done a lot of back testing so you can take 13, 26 or 52 and actually I said that so there are relatives I mean RS is written below so what can you do you can buy 13, 26, or 52 backtesting and actually I am writing down the relative strength so what can you do?"
+    },
+    {
+      "id": "cue-6958",
+      "timestamp": "1:55:58",
+      "seconds": 6958,
+      "text": "Just to understand why we are taking weekly, daily and monthly charts this amount of relative strength actually I have explained it better in one of the videos now I have a detailed discussion on how to find super strong multivagor stocks this is a video which you must watch actually stock scams video is from SYC now you can watch both these videos so here you will understand the concept of relative strength with tons of examples. There are many multiple examples."
+    },
+    {
+      "id": "cue-6988",
+      "timestamp": "1:56:28",
+      "seconds": 6988,
+      "text": "And what you have to use for duration, how much you have to use on a daily charge, how much you have to use on a monthly charge, all of it is explained over here from scratch. So you can just watch this video. Is it cool?"
+    },
+    {
+      "id": "cue-7005",
+      "timestamp": "1:56:45",
+      "seconds": 7005,
+      "text": "If you want to know more about Relative Strain then there is a 1 hour class that we have done that this one you can watch It is publicly available on YouTube channel So if you have any doubt that why this one is less why we are using 26 in this one but this you will get IT sector is going up because it moves in line with NASDAQ and if US's earnings go back, then it comes back. If the tech spends in the US, then who will get the order? If you have a lot of tech, who gets the order? Indian IT companies, as simple as that. In anticipation."
+    },
+    {
+      "id": "cue-7052",
+      "timestamp": "1:57:32",
+      "seconds": 7052,
+      "text": "The past IT companies like Sonata Software, Infosys, Mastic, simple, again it is warming the base, recent earnings have started going around 12-13% the pad growth, again, the other income component can be high but if you look at the PBT growth, PBT has gone to 129 crores and on EBITDA level, the company has shown almost 20% EBITDA growth similarly, look at the Sonata software conference call Again in the sideways trend, there is no confirmed signs or breakouts but the golden crossover is here So if we go to the conference call, they are guiding for a much stronger H2."
+    },
+    {
+      "id": "cue-7100",
+      "timestamp": "1:58:20",
+      "seconds": 7100,
+      "text": "Last year, there was loss in this quarter. So again, P multiple artificially inflated because the loss was included in the 4 quarter in TTM. Similarly, what is going on in emphasis? Emphasis has just formed a fresh all-time high. I think it is just coming out of a rounding bottom type pattern. So, fresh all-time high is not there, but 2022 is approaching the peak. So, just go through the concourse and see what is happening in the sector right. Relative strength will lead you to the strongest sector that's the thought process."
+    },
+    {
+      "id": "cue-7144",
+      "timestamp": "1:59:04",
+      "seconds": 7144,
+      "text": "Actually, if you have made subsectors, if you have changed the sectors of this company, then you will see tomorrow we have made the subsectors of the subsector, geospatial mapping subsector water recycling is also a subsector, recycling is also a subsector so If you want to find strongest sectors, so what you can do is let's take BSE 500 example and let's take an example. Let's take an example. If we look at any chemical sector, it's chemicals. Then you look at FMCG sector along with chemicals."
+    },
+    {
+      "id": "cue-7178",
+      "timestamp": "1:59:38",
+      "seconds": 7178,
+      "text": "We are looking Let's look at the chemical sector Chemicals are done Along with chemicals, let's look at FMCG sector We are looking at the sector that is in the headwinds Let's look at the insurance sector Let's look at the metals sector mining and metals let me just click on plus actually, there are only two stocks which are outperforming Nifty 50 in all these sectors now there is Exidus Wellness and Coal India right, so here we can relax our criteria but again out of all these sectors these two have been the best out performers over the last one week."
+    },
+    {
+      "id": "cue-7208",
+      "timestamp": "2:00:08",
+      "seconds": 7208,
+      "text": "Now you can change this one week and do monthly as well. You can just check for strength versus nifty 50 on a monthly basis as well. So all those things are also possible. Again, this is just an activity that we're doing. It's so just second, all right. So again, stock scans where relative performance can be a lot of you can see scans where ready made scans are. But ready made scans where you can see maximum performance."
+    },
+    {
+      "id": "cue-7237",
+      "timestamp": "2:00:37",
+      "seconds": 7237,
+      "text": "So those type of businesses you can also track the RITCO Logistics you can see the OliTech in IT you can see the power players you can with ice make refrigeration here is a company called Ice make and now they go to ice make refrigeration here you can see some fundamental trigger of KPEX can you see CWIP, how much is it going? How much is the CWIP? CWIP is 52 crores. How much is the net block? CWIP is how much is your fixed asset?"
+    },
+    {
+      "id": "cue-7282",
+      "timestamp": "2:01:22",
+      "seconds": 7282,
+      "text": "Now, who will read the call? Now, here we will read the con call. Actually, I have screened this stock in the morning. How much revenue is the company targeting this year? 500 crores? So let me just ask you a question. If the company is targeting the revenue of 500 crores, now let's think about the base rates. So how should the company do the revenue in the first half in the financial year? I should have invested 188 crores Let's invest 188 crores How much revenue did the company invest in the H2?"
+    },
+    {
+      "id": "cue-7333",
+      "timestamp": "2:02:13",
+      "seconds": 7333,
+      "text": "How much revenue did the company invest in the H2? 310 crores, am I thinking correct? Almost company has to show 45-50% growth in H2B you have to show your company the growth of 45-50% in H2B so again, we didn't do much if you learn good things so you will become fluent, proficient and you will start filtering companies like this."
+    },
+    {
+      "id": "cue-7387",
+      "timestamp": "2:03:07",
+      "seconds": 7387,
+      "text": "You can keep filtering stocks. That's the beauty of using all these tools. You can use this in stock scans. Like 3B black bio I think we covered in the class last year also. But again, idea of relative strength is this. Another example is this. Relative strength cover is another tool. This is a tool called stock edge."
+    },
+    {
+      "id": "cue-7411",
+      "timestamp": "2:03:31",
+      "seconds": 7411,
+      "text": "We come in markets, analytics, we come in scans, we come in price scans and we put in price scans relative strength for last 21 days so stocks which are outperforming the benchmark for last 21 days here we have 68 stocks, those stocks which are strongly outperforming the benchmark. Now here a Maharashtra Seamless also came. Maharashtra Seamless came in our promoter buying filter as an example. HBR Engineering also came. HBR Engineering also came in our relative strength order win criteria."
+    },
+    {
+      "id": "cue-7444",
+      "timestamp": "2:04:04",
+      "seconds": 7444,
+      "text": "Similarly, if you look further, a lot of stocks where like let's see in jupiter wagons so jupiter wagons are coming in volume where volume is coming I think in volume rocketing jupiter wagons are coming just over there actually my volume is quite big so Let's go and see if there is any news here. That is something that you must do. What is happening here fundamentally in this company? Then apart from that, there are lemon tree hotels. There is a lemon tree in the hotels. Then there are EIH hotels. There are two stocks in the hotels. Then there are three shallow hotels."
+    },
+    {
+      "id": "cue-7477",
+      "timestamp": "2:04:37",
+      "seconds": 7477,
+      "text": "There are three stocks in the hotels. There were a few hotels, there was a few hotels in which the EIH hotels were coming, there were 2 stores in which the 3rd was a shallow hotel, and 3 stores in which the 4th was an Indian hotel So are you understanding that in the hotel sector, H2 is the strongest quarter and they are still saying that 16-20% sales growth will come. So if hotel has a high operating cost business, if it has a sales growth of 15-20%, then how much will the pad growth be? If there is a high fixed cost business?"
+    },
+    {
+      "id": "cue-7511",
+      "timestamp": "2:05:11",
+      "seconds": 7511,
+      "text": "So the market will try to bacon it first The market will pre-position itself You understand the meaning of scanning what is the beauty of scanning? Right? If you scan well, so half the game is won if you scan well Garware technical fibres, here we can see at the beginning of the session, I had screened in the quarterly growth rate, but now you are seeing that the technical fibers are being screened at relative strength. Right. In the comments I think comments are off so that's the idea when you are screening stocks these are some of the tools and screen study can use stock scans."
+    },
+    {
+      "id": "cue-7565",
+      "timestamp": "2:06:05",
+      "seconds": 7565,
+      "text": "You can explore stockage, explore, screener, the free tools are bought. So I share links with you in the whole. You will have to log in to the screener to access these links. I have made a free login. I share this with you and post the class we will share with you. Just to put it in the comments have you received? Perfect. You can use all these screens and yeah so I think hopefully you will get a lot of understanding. I use two things to screen. So Twitter handle is Srinidhi ka. So post every quarterly results in the season. He is the one who is posting all the strongest results in the season."
+    },
+    {
+      "id": "cue-7612",
+      "timestamp": "2:06:52",
+      "seconds": 7612,
+      "text": "Then he makes a list of companies with the strongest results. So you can follow him on twitter as well. So you can follow him on Twitter. Also if there is any bulk deals or block deals, like Sunil Singhani is one of the smart investors, like Malabar Capital is a smart investor, Ashish Kachalia is a smart investor, so if they have started buying a name for the company. So that is also one of the criteria that you can use. So you can make Google Alert in their name. So Google Alert is in the name of Ashish Kachalia. Simple is go to Google Alert and Google alert you can just create."
+    },
+    {
+      "id": "cue-7652",
+      "timestamp": "2:07:32",
+      "seconds": 7652,
+      "text": "Just create a Google alert. Just as Ashish Kachalia has made Google alert. So anytime he buys or sells, I just get an email. It's a free tool to use. You don't have to pay anything to anyone. So Google alert you can use. You can basically create a Google alert in the name of Mukul Mahavi."
+    },
+    {
+      "id": "cue-7669",
+      "timestamp": "2:07:49",
+      "seconds": 7669,
+      "text": "Whenever he buys a company or whenever he sells some Whenever he buys new company, you can simply get an email Google alert is also a very undiscovered tool for screening stocks So you can just put a Google alert on some of the name of your favorite investors like Greaves cotton company is this volume bar some smart money H&I buying or is this retail investor buying? What do you think? There is a superstar investor name in this So this is the Vijay Kedia Ji, I was bought this stock. Now what is the story here, I will tell you first. How can it be about social business?"
+    },
+    {
+      "id": "cue-7711",
+      "timestamp": "2:08:31",
+      "seconds": 7711,
+      "text": "So this is a Sunrise business of EV. I think Ather is one of the companies, Ather or Ampere. So, I think Ampere belongs to them."
+    },
+    {
+      "id": "cue-7723",
+      "timestamp": "2:08:43",
+      "seconds": 7723,
+      "text": "So, Ampere is theirs and Ampere has been gaining market share it has Ola Electric Mobility 42, 000 crore market cap this entire company with other businesses is barely at 5600 crores PNL will not see anything now but you have to go and see in conference call what is happening here and how are they doing the new product segment what are new business doing, new products doing, new EV segment right working smart investor has bought it but it came in our screens because of high volumes because of it being reported in media, and now we can go and do our homework."
+    },
+    {
+      "id": "cue-7754",
+      "timestamp": "2:09:14",
+      "seconds": 7754,
+      "text": "This is the cheat code of screening. Screening is just cheating in terms that you can get best ideas of best of the people if you're just proficient at screening that's the beauty of the session on on this note I'll conclude and stop the recording from here we'll have around of Q&A session right so I'll just conclude hopefully Joe recording be the criminal you love the session and general I be at and kind of hopefully you love the session right so I'm just just So I will conclude. So I am just pausing the recording. And here we will have a round of Q&A. Just one additional thing."
+    },
+    {
+      "id": "cue-7784",
+      "timestamp": "2:09:44",
+      "seconds": 7784,
+      "text": "If you want to find some of the businesses, where some of the sectors which are the strongest you can just come to market scans and stock scans and The sectors which are delivering the strongest returns right you can just find it over in Jame green or a kind of relative out performance versus the index these sectors will get changed in a day or two because I have included a lot of subsectors and we have simplified the sectoral scanning as well but this is how you can find the strongest sectors so of course in stock scans, these subsectors are changing in 2 days but here, the criteria will be the same, where the green is, there is relative outperformance."
+    },
+    {
+      "id": "cue-7824",
+      "timestamp": "2:10:24",
+      "seconds": 7824,
+      "text": "That's the simplest way to find sub sectors which are outperforming. Like in hotels, the whole hotel is outperforming at this time. Whether it's large, middle or small hotels. Is it clear folks that you can find out sectors which are performing the best versus the index in stock scams? Awesome awesome This is the one year course, all the membership you have taken, you will upload this video in L5 course. With this I will just pause the recording and we will go to the queue around with the live attendees."
+    }
+  ]
+}

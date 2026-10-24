@@ -1,0 +1,1452 @@
+{
+  "lectureId": "L3_Lec03",
+  "subcourse": "l3",
+  "rawFilename": "L3_Lec03_art-of-business-valuation-different-methods-transcript.txt",
+  "lectureTitle": "Art of Business Valuation-Different Methods",
+  "courseTitle": "Level 3 How to Value a Company & Portfolio Creation!",
+  "totalDurationSeconds": 8228,
+  "totalDurationFormatted": "2:17:08",
+  "totalCues": 240,
+  "cues": [
+    {
+      "id": "cue-0",
+      "timestamp": "0:00:00",
+      "seconds": 0,
+      "text": "Hi investors, welcome to SOIC. So, let's start with the last week's session, the brief recap of the last week's session. What did we learn in the last week's session? After doing a brief recap of the last week's session, what we'll do is that we'll take it forward from here today. And in today's session, so I will refer my notes a little bit more and more because the session is too detailed because a lot of companies we have taken up. So in today's session, what we'll do is that we learn different valuation metrics like price to earnings from the last time Sika, a little suspect touch up."
+    },
+    {
+      "id": "cue-32",
+      "timestamp": "0:00:32",
+      "seconds": 32,
+      "text": "Price to book up to see how banks can price to book. We learn what is enterprise value, we will learn what is EV2Ebita, then we will learn what is price to cash flow, EV2 cash flow, EV2 free cash flow, then we will see the usage of price to book with cyclical stocks, example with Tata Steel, then we will learn how to build scenarios and then the most important topic of the day, how to find margin of safety, how to identify zone of dangers and when to sell stocks. When do we sell the stocks? That is the key criteria we will identify."
+    },
+    {
+      "id": "cue-66",
+      "timestamp": "0:01:06",
+      "seconds": 66,
+      "text": "And towards the end of the session, what we will do is that we will actually identify the deep value opportunities which are existing in the market today. Because in today's environment, if we are doing an evaluation session, then how can we identify deep value opportunities in today's session? How can we talk about the opportunities of deep value? Then if we have time, then we will go to DCF and Reverse DCF, just in case we don't, then we can take over DCF and Reverse DCF next week. So this is today's sessions load map. So just before I start, I think 5-10 minutes recap."
+    },
+    {
+      "id": "cue-106",
+      "timestamp": "0:01:46",
+      "seconds": 106,
+      "text": "So in last session, we actually spoke about that why, like why valuations are important. And, these are some of the books that we recommended the book of value expectations, investing, narrative and numbers, little book of valuation, or a short history of financial euphoria. These are some of the books that you can read to build your understanding on valuations. Then these are four videos that you can watch. So if you click on it, so you can see all the videos in front of you, you can see four videos to understand valuations better."
+    },
+    {
+      "id": "cue-135",
+      "timestamp": "0:02:15",
+      "seconds": 135,
+      "text": "Then these are some of the tools that we'll be using throughout the session. Then a very interesting story that we learned is that of the elephant and that how blind people when they first time interact with an elephant. So, it's a fan, it's a spare, it's a snake, it's a world. Similarly, there are different investing philosophies both at reasonable prices by a quality company at any price, technical analysis, deep value investing, special situation investing. But here I will include one more story so that today's session is very clear."
+    },
+    {
+      "id": "cue-169",
+      "timestamp": "0:02:49",
+      "seconds": 169,
+      "text": "So before I start today's session, I will share a story with you. It is a principle from Bhagwat Geeta. This is a principle from Bhagwat Geeta. Now you will think that we are talking about Bhagwad Gita, we are coming to investing. So, the idea is that when we actually look at such holy scriptures, then their wisdom can be applied across places and across time. Always remember this that the wisdom of holy scriptures that can be applied across places and that can be applied across time."
+    },
+    {
+      "id": "cue-205",
+      "timestamp": "0:03:25",
+      "seconds": 205,
+      "text": "So Bhagwat Gita has a very interesting principle which I will tell you in a simple way what it is called VVGP What it is called? VVGP Someone has read the principle of VVGP in Bhagwat Geeta in comment section, someone will read the VVGP So in Hindi we call it vyapti, in English we call it person."
+    },
+    {
+      "id": "cue-250",
+      "timestamp": "0:04:10",
+      "seconds": 250,
+      "text": "Then we call it vastu. So what is vastu? Vastu is a thing. Then we call it a ghatna. We call it ghatna because if you think in Hindi, then incident similarly if you think in English, then event right? Personality, object, incident and then the fourth one is the situation personality, object, incident and the situation So this will help you in your life as well and company evaluations may both help. You will be stunned how it will help you. So person think event. We call it event. So situation or the environment. So what can I write for Situation or the environment at that time?"
+    },
+    {
+      "id": "cue-301",
+      "timestamp": "0:05:01",
+      "seconds": 301,
+      "text": "So if you are a doctor in life, let me take my example. Recently I went to Hyderabad, I visited a company's plant, right? Like a recycler company's plant visited. But before going there, what happened? My flight was 2 pm and I was trying to book a cab from Ola cab. I was trying to book a cab from 11 am. It nearly 45 minutes, three cabs came and they cancelled these cabs cancelled so I called for three cabs and all three cabs cancelled on me towards the end it took almost 45 minutes so this was an event it was an event that I am getting cancelled who is involved in this?"
+    },
+    {
+      "id": "cue-354",
+      "timestamp": "0:05:54",
+      "seconds": 354,
+      "text": "I am involved in this What is the thing? I am trying to book a cab What is the event? The situation and environment is that my flight is at 2pm here the person, the situation and the situation keeps you an idea so the person, the situation and the situation is linked with what? Actually this is pure behavioral finance so this is purely linked to your emotions So this is purely linked to your emotions. Whenever there is a person, event, situation or environment, it will always keep moving your emotions. So at this time I started panicking."
+    },
+    {
+      "id": "cue-395",
+      "timestamp": "0:06:35",
+      "seconds": 395,
+      "text": "Then I remembered this VBGP, if I am not able to capture the person's situation, then I should do an alternative way and then I asked a friend of mine to drop me to the airport and he listened to me and dropped me there. So, in life, if you go in any environment, you will find this more and more in your life. When you encounter such situations, you will always go through this idea of vyakti, vastu, ghatna and parasthiti. That is person, thing, event and situation. So this is the event that will happen in your life again and again."
+    },
+    {
+      "id": "cue-429",
+      "timestamp": "0:07:09",
+      "seconds": 429,
+      "text": "Suppose if you're a doctor and if a patient comes in for urgent surgery right and if that patient has some really serious problem but your hospital doesn't have that equipment to serve that patient. So you will be very objective and suggest that patient to go somewhere in a better hospital or you will refer him to a better doctor. But that is again, Vyapti, Vastu, Ghatna and Parasite. Emotions showing a key mouse time to stay help me, But taking events and putting them into VVGP will help you to become more and more objective in life."
+    },
+    {
+      "id": "cue-461",
+      "timestamp": "0:07:41",
+      "seconds": 461,
+      "text": "Always remember this, whenever we talk about valuations, why people fail or flunker or fail in selling stocks is because they become emotional. So here we have to be objective and we also have to stay rational right because once you sort of do a zoom out analysis and once you think about like think about it objectively then you will start finding the solutions. But once you get caught up in emotions, so again that became a problem. But calling a friend of mine, he had just thought, what are the alternatives without panicking. So easily a solution came out."
+    },
+    {
+      "id": "cue-499",
+      "timestamp": "0:08:19",
+      "seconds": 499,
+      "text": "So similarly when it comes to stocks when you buy a stock or when you sell a stock so that is at the end nothing but that is the person that you are involved. Think that you own a business event while selling you are expecting some like while buying you are expecting something to happen or you're just buying cheap valuation and situation and environment. You use time to care sector euphoria may have a young sector basically dole drums may have and was time to care stock evaluation people you have a trust way."
+    },
+    {
+      "id": "cue-529",
+      "timestamp": "0:08:49",
+      "seconds": 529,
+      "text": "If you just think about anything in your life through this VVGP principle, that is, it will help you to become more and more objective. So, when we talk about selling stocks and buying stocks, everything is linked to at the end of the day valuations only and I will teach you when to sell to an automated tool. And how you handle it because that is not in our hands. What is in our hands is how as a person you react. We have the idea that as a person how we react and the reactions the more automated they become, the more we go into a system."
+    },
+    {
+      "id": "cue-581",
+      "timestamp": "0:09:41",
+      "seconds": 581,
+      "text": "So this is the idea of looking when to sell and when to buy. So, he went to form a thesis and went to basically buy a seller stock. So, why went to buy and went to sell is important. So, in previous webinar, he covered that how even a professor, who's the dean of valuations, He went wrong with like timing Tesla stock. So he sold out early, then stock became a five-bagger. He bought into it early. He made money, but then he couldn't write the entire journey. So to write the entire journey, we will learn about different valuations multiple."
+    },
+    {
+      "id": "cue-619",
+      "timestamp": "0:10:19",
+      "seconds": 619,
+      "text": "In the last one, we seen why valuations are important because bar bar stock markets are euphoria like Newton got caught in a bubble that is like South Sea stock went obscene and then South Sea stock collapsed and then again and again he kept on entering it. Last webinar we talked about this. Similarly recently the Adani group of companies in the Fiasco or Indian context, so a lot of them went to 300, 400, 500 b. N number of reasons was the float corner. But again, 400, 500 b is something that doesn't sustain for a period of time."
+    },
+    {
+      "id": "cue-654",
+      "timestamp": "0:10:54",
+      "seconds": 654,
+      "text": "So there's a certainty of blow up as contrary in EPS route, but there's an uncertainty of timing that happens. So how that uncertainty of timing or when to exit, how we can learn those tools, that is what we learn in today's webinar, right? Even though fundamentally our screening year of the stock term, we might not be able to buy it, right?"
+    },
+    {
+      "id": "cue-671",
+      "timestamp": "0:11:11",
+      "seconds": 671,
+      "text": "Then we learned about how Buffet actually invest through these three slides, Buffet is always focused on margin of safety and how he thinks about returns give 15% return banjad or more or less that is enough and finally we came to the idea of P ratios that how if you pay a really high P ratio for the stock like Infosysklai if you paid a 206 P ratio right in 2020 into 2000 for nearly eight years you didn't make any returns but had you bought the same infosys in 2002 and you held it for the next seven years you would have made more than 20% KG right because earnings of the stock were like kept growing really well right And even if you just look at this 206p baby, Infosysca, Pat growth, 115 or 117% even after that, the earnings you really, really rapidly for nearly six to seven years, but just buying a stock, just like buying a good business, it could be like it could also mean that you're not buying a great stock because valuations and the end of the day matter."
+    },
+    {
+      "id": "cue-729",
+      "timestamp": "0:12:09",
+      "seconds": 729,
+      "text": "Infosys example wonderful because 206p baby growth, 150 or 117% right But still your stock price didn't do anything for the next 5 to 6 years. Simple reason because the valuations or the expectations built in were too too expensive. So this is what we learned and then finally we came to the idea of price to earnings in last webinar. And we learned how to calculate PE ratio, how to calculate PE ratio, how to look at core PE ratio and business? And we also learned how in stocks we calculate PE ratios and how you can apply this idea of PE ratio for beating nifty using nifty strategy."
+    },
+    {
+      "id": "cue-767",
+      "timestamp": "0:12:47",
+      "seconds": 767,
+      "text": "If you just want to invest passive, how you can apply it? Then we spoke about bank bees, then we spoke about infrabes and indexes. And what we'll do today is that we'll pick up from where we left off and we talked about how earnings growth in the long run over a long period of time leads to your stock returns and some perception re-rating also leads to your stock returns. So, we will start with today's session. So, the first part of today's session, we will start with where does P ratio stops working and why you need to have multiple valuation metrics in your mind."
+    },
+    {
+      "id": "cue-807",
+      "timestamp": "0:13:27",
+      "seconds": 807,
+      "text": "So today's session we will try to keep it for 2 hours, not more than 2 hours because this is a lot of attention span. So when does price to earnings ratio stop working so in last webinar we discussed that how Arati Industries has a one of in its earnings and last week what happened is that Arati Industries results came and after coming to Arati Industries results what happened is that your PE ratio which we saw last week was around 15x if you will see in the recording you will see around 15x So that PE ratio has now gone to 32 times."
+    },
+    {
+      "id": "cue-838",
+      "timestamp": "0:13:58",
+      "seconds": 838,
+      "text": "Simple reason being because last year, if you check here, so Arthi Industries here, right? So you'll just see that the PE ratio has gone to 32.6 times simple reason because last year, when PE ratio is calculated on the patch of the month. So the trailing of the month is the last four quarters. So this is Q3, FI23, Q2, FI23, Q1, FI23 and Q4, FI22. So on the basis of the last four quarters, the PE ratio gets calculated. So when we were discussing last week, the results of Q3 were not there. We didn't have this data, so this was the data."
+    },
+    {
+      "id": "cue-875",
+      "timestamp": "0:14:35",
+      "seconds": 875,
+      "text": "The Pat of Aalti Industries was around Rs.725 crores, and it was nearly Rs.600 crores of termination income, which was given to them by the contract cancelation, which we also saw with the notes too counting. But now your quarter three results were also announced for Aalti Industries and Pat was at 137 crores, PVT 160 crores and EBITDA 289 crores."
+    },
+    {
+      "id": "cue-900",
+      "timestamp": "0:15:00",
+      "seconds": 900,
+      "text": "So you are not growing much, so you are only getting the amount of money and the March 2022, there is also a little contract termination income almost 70 crores which will basically spill over here so this pad is not of 194 crores this is also somewhere close to 140 crore this is also a pad of 140 crore because of 1 of termination income 1 of income was there, so see just look at this, so the trend of ebita, how all of a sudden it increases a lot this is because of 1 of termination income, the contract was cancelled, because of that they got additional income in that one, in these two quarters and this is now going away."
+    },
+    {
+      "id": "cue-948",
+      "timestamp": "0:15:48",
+      "seconds": 948,
+      "text": "The last week 15 times. And if you look at its ratio, the last week, you can see 15 times in the recording. So today, you have 32.6 times the ratio of 32.6 times. So the last week 15 times. And if you just click on screener, you'll find that the PE ratio has gone from almost 15 times to you can just get an idea over it the PE ratio has gone from 15 times to 32 times so actually my PE ratio is still inflated because it's inflated so I think it's deflated, I think the real PE of the company is close to 37 times."
+    },
+    {
+      "id": "cue-986",
+      "timestamp": "0:16:26",
+      "seconds": 986,
+      "text": "So before going forward we'll just do this one calculation so that you can clear with everyone. So all the people of the trailing 12 months calculate the pad. So this is 194.194 crores. So 140 plus 136 plus 124 plus 137. So calculate these 4 quarters of the pad. So this will be your trailing 12 month profits. So once you calculate all of them, then you can calculate them. So 140 crores plus 136 crores, how much is it? 276 crores plus 124 crores, how much is it? 300 crores plus 137 crores, how much is it? 437 crores. So how much is the trailing 12 months pad of the industry? 437 crores."
+    },
+    {
+      "id": "cue-1024",
+      "timestamp": "0:17:04",
+      "seconds": 1024,
+      "text": "How much is it? 437 crores. And how much is it? Around 590 crores. But how much is the trailing 12 months pad? 437 crores. So now take 437 crores and divide by the market cap of 19, 263 cr. So 437 cr divided by 19, 263 cr. Just do the calculation. Just do the calculation everyone and get to an answer. Just do the calculation. Just do the calculation once. Right. So P ratio actually may 44 times K as per the same thing. Just a second."
+    },
+    {
+      "id": "cue-1069",
+      "timestamp": "0:17:49",
+      "seconds": 1069,
+      "text": "Yeah, it's 537. I think I did some wrong calculation. So 140, 276, 400, yeah, 537 crores, I think calculation went wrong. So this is 140 crores plus 136 to 276 plus 124 to 400 crores, 400 plus 137 to 537. So now do this simply like just divide the market cap of like 19, 263 crores by 537 crores. So what's the answer that you get in the comment section below? So what's the answer that you get? Right, so 36 times the PE ratio is going on in the RTE industries right? So 36 times RTE industries are going on."
+    },
+    {
+      "id": "cue-1112",
+      "timestamp": "0:18:32",
+      "seconds": 1112,
+      "text": "Right, so this is a simple example which we learned in even last class and even in today's class. So just before I move forward, all right, over there, where does P ratio doesn't work and where it works, right? So, just say earnings may one off work, so in the case of the industry, PE industries isn't working. So, especially the second ratio where the time where PE ratio doesn't work is when we are assessing turnarounds. So, when you assess turnarounds, the PE ratio might not work over there. So I will discuss the example of HCG in today's session towards the end."
+    },
+    {
+      "id": "cue-1148",
+      "timestamp": "0:19:08",
+      "seconds": 1148,
+      "text": "Then if the company is sitting on top of operating leverage, then the PE ratio might not work. See, the company's capitalization has been done. The company's projects have been commercialized. But the company is not seeing any sales growth as of now. So if the company doesn't see any sales growth but the projects have gone live or commercial, what ends up happening is that the depreciation ends up hitting the PNL and your OPEX also starts hitting your PNL. This is why the PE ratio might look artificially elevated as well. So I'll give you one more example over here."
+    },
+    {
+      "id": "cue-1179",
+      "timestamp": "0:19:39",
+      "seconds": 1179,
+      "text": "When is this possible when the PE ratio might look artificially elevated because a project has gone commercial? So over here. So I'll give you multiple examples throughout the session today. So first let's look at an example of debug nitride, right? The debug nitride case may if you just look at it over there. So P ratio when the phenol project was going live, so I'm consolidated basis where it may already when the phenol project was going live, you can see that earnings were also collapsing."
+    },
+    {
+      "id": "cue-1205",
+      "timestamp": "0:20:05",
+      "seconds": 1205,
+      "text": "And then once the project went live, your earnings growth really rapidly started and P ratio came down to 9 or 8 times. So you had a lot of time to assess between this time. I think at least you had four or six quarters to assess the company. So that is again an example where P ratio stops working. So another example is sometimes when companies corner their float, what ends up happening is that the valuation multiples go to obscene. Now suppose if I'm invested in such a company, suppose if I am invested in such a company, right?"
+    },
+    {
+      "id": "cue-1245",
+      "timestamp": "0:20:45",
+      "seconds": 1245,
+      "text": "Suppose if I'm invested in a D Mart, let's say let's take an example of a D Mart. D Mart, there's no float, right? To float, we show how to find it. I had to float guy example discuss. So what I need to have an idea of is when to exit becomes even more important in such companies. And when to exit is even more important in such companies and we'll see why so let's take an example to here I give you examples first let's take an example of demart all right over here avenue supermarts and avenue supermarts p ratio the peak pit went till almost 300 times Currently it is down to almost 95 times."
+    },
+    {
+      "id": "cue-1285",
+      "timestamp": "0:21:25",
+      "seconds": 1285,
+      "text": "So why did it happen? Simple reason is this look at the float of the market. How to look at float of companies, right? So over here, almost 75% is with the promoter. 75% is with the promoter. 8.63 percentage is with the FII. So eight times of peer ratio went to almost 300 times. If you start looking at 75% with the promoters 10% with the FII's right then you're 6.71% with the DI's So almost 91.7% of the float is conned. And also if you just look at this, so public may the CEO of the company also own 2% stake, Right? So can you just do this calculation?"
+    },
+    {
+      "id": "cue-1324",
+      "timestamp": "0:22:04",
+      "seconds": 1324,
+      "text": "If 75% is with the promoters, 10% is with the FII's, almost 6.71% is with the DII's and 2% is with the CEO of the company. So how much of the float will be cornered? How much percentage of the float is cornered almost 93 to 94 percentage of the float gets cornered of the company right. So almost 94% of the float is cornered of the company. So whenever you see obscene valuations in companies always it's because of float cornering because 100 300p doesn't make sense."
+    },
+    {
+      "id": "cue-1355",
+      "timestamp": "0:22:35",
+      "seconds": 1355,
+      "text": "So here what it becomes important suppose if I'm riding such a company, so all the newcomers who are watching this session for the first time, Suppose if I'm riding such a company, right? So what I need to have in place is an exit sign. What is an exit sign that I need to have a play have in place? So fundamentally suppose for what you have bought, but you know, it is going in overvaluation, reverse GCF, so when to exit becomes very, very important. Here, you are the individual, the thing that you do stock. What is happening overvaluation or undervaluation?"
+    },
+    {
+      "id": "cue-1388",
+      "timestamp": "0:23:08",
+      "seconds": 1388,
+      "text": "And the problem is that you are confused when to sell out of such stocks so let's take an example here where the float has been colliding so again this is a fundamental stock so let's take an example of adani enterprises And let's see where the exit got triggered by the system. So I'll show you a way to exit stocks. So let's have a brief discussion. Then we will learn a lot of things for financial modelling. So when does exits get triggered? So here, let's talk about a tool first. We call it volatility stock. First we come here. There is a website known as tradingview.com."
+    },
+    {
+      "id": "cue-1427",
+      "timestamp": "0:23:47",
+      "seconds": 1427,
+      "text": "And we come to tradingview.com. Right? Because we are long term investors. So generally what we like to do is we like to use monthly charts. So weekly charts are also stock's daily charts. So now we can toggle from here."
+    },
+    {
+      "id": "cue-1441",
+      "timestamp": "0:24:01",
+      "seconds": 1441,
+      "text": "But because we want to stay away from noise is that this is why we use monthly charts so system based exit strategies how to make them, so just go to one monthly chart, one month chart right over here one month chart if you can do it simultaneously you can write it down or write it down in the recording Simply come to indicator and in indicator just search for an indicator by the name of volatility stock and the moment you come to volatility stock just click on volatility stock. 10 months."
+    },
+    {
+      "id": "cue-1469",
+      "timestamp": "0:24:29",
+      "seconds": 1469,
+      "text": "So this will be measuring 10 months of volatility of a stock and multipliers suppose if it's a cyclical stock or if you know the valuations have reached very high according to reverse DCF job seeking aske session may if you know the valuations have reached really high then you can use a multiplier of two if the valuations are still okay then you can let it be at a multiplier of 2.5 times. Suppose if someone was riding an Adani Enterprise, I'm just giving an example like fundamentally it doesn't screen well for us as well."
+    },
+    {
+      "id": "cue-1495",
+      "timestamp": "0:24:55",
+      "seconds": 1495,
+      "text": "So we never bought it but I'm giving you a hypothetical example of Dixon. And over here what you have to simply do is that thickness you can change here and this will make your exits much more like like basically peaceful if you really want to think about it the volatility stop again so that you remember 10 months of volatility This indicator measures and multiplier is two. So two times that average true range map is the formula. We'll see how it's going to be. It's a simple meaning of this indicator is only one indicator that we are using from technical analysis."
+    },
+    {
+      "id": "cue-1531",
+      "timestamp": "0:25:31",
+      "seconds": 1531,
+      "text": "Nothing else is that if you look at this monthly candle so this one month candle will be of that one particular month that is 3rd of August right so when the stocks are up trending so what is this indicator actually measuring So this indicator is actually measuring volatility volatility. The volatility volatility here can be favorable, positive, that is, it is uptrending, or it is negatively negative. Volatility average, the average volatility of the stock is 2 or 3 rupees or 4 rupees."
+    },
+    {
+      "id": "cue-1566",
+      "timestamp": "0:26:06",
+      "seconds": 1566,
+      "text": "Now if the stock starts falling 20-30 rupees in a day, or if the stock starts falling 40-50 rupees in a day, then this volatility stock will get in action."
+    },
+    {
+      "id": "cue-1574",
+      "timestamp": "0:26:14",
+      "seconds": 1574,
+      "text": "If the stock starts rising 10 or 20 rupees per day then this volatility basically stock will start uptrending so here if you see this green positive sign over here this is the idea that volatility is in your favor basically volatility is increasing on the upward side right so volatility is increasing on the upward side and upward side with volatility increasing come with you generally when accumulation of stocks happen and accumulation of stocks happen or when the markup phase is there that people are finding some fundamental value not particularly this talk because this talk has so much of a fundamental but we will see all stocks so sometimes it will go insane so suppose if you bought Dixon at 30p you saw it go all the way till 120 or 130p."
+    },
+    {
+      "id": "cue-1624",
+      "timestamp": "0:27:04",
+      "seconds": 1624,
+      "text": "So this signal would have given you a perfect exit similar for relaxo, similar for DVs, similar for DV's labs, similar for DV's labs, similar for lauras labs. I will also teach you how the system exits the simple thing is that when volatility uptrends in your favour, this is the accumulation and the markup phase and this plus sign will always be below the candle, so this is one month's candle Now once the volatility starts increasing on the downside, right?"
+    },
+    {
+      "id": "cue-1656",
+      "timestamp": "0:27:36",
+      "seconds": 1656,
+      "text": "When the distribution starts happening or when large volume starts, like like when large volume selling starts, this will sort of point towards downside. Right? And it will stop you out over here now suppose example it is so it's talk a little but size talks come again fundamentally this talk doesn't screen well at all so like they've got triggered somewhere close to 270 and it gave you an exit close to 2982 right so this is just one example right You already know there's overvaluation. So how can you find out what overvaluation is? Another example that you can take is that of Dixon."
+    },
+    {
+      "id": "cue-1695",
+      "timestamp": "0:28:15",
+      "seconds": 1695,
+      "text": "So you know Dixon is pointing towards over valuation. So I will tell you about reverse DCF. So simple thing in Dixon is just take a look at this. Entry triggered at 600 and exit triggered at what? 3900. Exit triggered at 3900. Exit Triggered at 3900 Because volatility really increases. Just look at why does volatility increase because your volumes just look at your red day volumes. Just look at volumes. This is classic sign of institutions buying."
+    },
+    {
+      "id": "cue-1730",
+      "timestamp": "0:28:50",
+      "seconds": 1730,
+      "text": "So whenever why do stocks move stocks move because of demand, demand and supply and demand and supply is built around the perception of fundamentals, perception of fundamentals, perception of fundamentals. So, if the demand and supply, so when is demand more than supply, when perception of fundamentals is improving? Why does perception of fundamentals improve? Because your earnings are going to come in very, very positively. And this was the entire markup stage you can call this."
+    },
+    {
+      "id": "cue-1762",
+      "timestamp": "0:29:22",
+      "seconds": 1762,
+      "text": "And this is the stage where already you see a lot of people insiders know, institutions know, they have an informational advantage. I've already like seen this institutions definitely have an information advantage and this is the stage of distribution. So this one indicator, right? So anyways, we know here, if we reverse DCF, 30% growth is stock to justify another for the next 20 years. Anyways, we know that this is the price. But this tool will help you to write the journey and exit at the right point of time because exits are more painful for investors than your entries."
+    },
+    {
+      "id": "cue-1800",
+      "timestamp": "0:30:00",
+      "seconds": 1800,
+      "text": "And this is why your exits will become very very objective if you start using this tool because it this tool does nothing But it is a measure of volatility car case co-measure that average to range co which is an indicator You can use on we can study on investor media. It is a tool which measures the volatility of companies, right? So this is an example. So I'll take you to multiple examples and actually we're much screening Karenga when to buy Kiwi Baat Karenga and deep value stocks Kiwi Cha Karenga ki Aajun pe is this signal giving a buy or a sell. So similarly, let's go to a stock, right?"
+    },
+    {
+      "id": "cue-1833",
+      "timestamp": "0:30:33",
+      "seconds": 1833,
+      "text": "So before going to a stock, so just in the like just over here on screen or just let's look at a company by the name of Relaxo. Now, relaxo, just look at the PE ratio. What has happened is that, before the results was close to 103 times."
+    },
+    {
+      "id": "cue-1852",
+      "timestamp": "0:30:52",
+      "seconds": 1852,
+      "text": "I think you can see it here, but if we look at the Tijori finance, so on Tijori finance, if you just come to relax, so you'll just find, so majority of the problems for investors happen so I think in key color is all update me so the before the results came right so before the results came your p ratio for relax relaxer was at 0.3 times but after the results have come the P ratio has gone to 130 times. So over here right so over here Pat your collapse work so just look at this your profit has gone to 30 crores which December 2021 almost 70 crores. So almost again your margins have contracted."
+    },
+    {
+      "id": "cue-1894",
+      "timestamp": "0:31:34",
+      "seconds": 1894,
+      "text": "So the path of trailing 12 months that is going down even further and further. This is why your T ratio has sort of expanded. Now similarly just look at this tool so someone is asking a doubt on V stop. I am just saying that you can iterate it in multiple ways and experiment. I will teach you all about it in the experiment. Now let's say it's a compounding stock and you just use a 2.5x multiplier of volatility. Just simply look at it here, your entry from 266 and your exit gets triggered at what price? Your exit gets triggered at what price? Almost close to 1000, right? 1050."
+    },
+    {
+      "id": "cue-1931",
+      "timestamp": "0:32:11",
+      "seconds": 1931,
+      "text": "And now your negative results have started coming out for the stock and your earnings have started collapsing. And just look at the red day just look at the like monthly candles with just look at the distribution data started happening someone asked you to make but I know that you know as a name you can create in a great and like automatic alert for you so Jesse first negative sign I got to trading use a couple email I did it first negative sign you have a right and this is the point of time maybe you should relook at the stock that you are owning."
+    },
+    {
+      "id": "cue-1957",
+      "timestamp": "0:32:37",
+      "seconds": 1957,
+      "text": "So first negative point the moment it comes that is the point of time you have to really relook at it. So this is an idea of selling stocks very very objectively which you can use in your journey. So relax when you see it will work. It's similarly, if you look at your business by the name of Laura's labs, right? So Laura's ke jaga pehle DVs dekte, yo DVs ke bhi recently results ayin, right? So DVs ke case me dekte ki when like they did give an exit in DVs. So exit was given close to 4, 100. And when was the entry? So entry though throughout the phases you could have taken."
+    },
+    {
+      "id": "cue-1989",
+      "timestamp": "0:33:09",
+      "seconds": 1989,
+      "text": "So 700, so five years, there was like no exit, six years almost. If you check here, so 2017, right? Almost 2020, like 2022 there is no exit and now an exit gets triggered. And now an exit gets triggered and that exit is also followed by basically negative results of the companies. Right. You can just see how the volumes have started panning out on a three month basis. But we will always prefer to use your long term charts and always like monthly basis. Always use monthly candles. Always use monthly candles. So this is just a simple exit basis that I can teach you here that how to do exits."
+    },
+    {
+      "id": "cue-2030",
+      "timestamp": "0:33:50",
+      "seconds": 2030,
+      "text": "For reentry, I will teach you how to do that. But this is just an idea of how you can create a system of exits. You look at any famous talk. So let's say IEX's example. In IEX, you know that reverse DCF is saying that your PE ratio has gone to some obscene levels. So you can simply take a multiplier of two times and it would have given you exit somewhere here."
+    },
+    {
+      "id": "cue-2052",
+      "timestamp": "0:34:12",
+      "seconds": 2052,
+      "text": "Even though our reverse DCF exit somewhere around here in the uptrending phase, almost 220 to 230, but this tool would have given you an exit between 200 to 210 rupees gas bus the moment it went red it would have sent you an email right to see time to have a small email I'm now you'll see that is distribution and slowly it is like going towards the non-interest area. So this is a simple exit system that can get created, right? Low float can be it can get created, but low float stocks may usually have P ratio. It stops working, right?"
+    },
+    {
+      "id": "cue-2084",
+      "timestamp": "0:34:44",
+      "seconds": 2084,
+      "text": "So what to do if sell signal is triggered with low volume, Ravi, if sell signal gets triggered in low volume, so see stocks need a lot of buying power to sort of go up and even on low volumes, they can start collapsing. So we've seen this in the example of recently, Sahregama, we saw in the example. He can say even on low like very low volumes, 10, 20, 000 shares a day. If you look at the pre-split, it has gone up to 5, 000 to 10, 000 shares. So it has almost collapsed from 500 to almost 350. And from PE of 70 times, it has come down to 38 times and one year forward with a PE 30 to 29 times."
+    },
+    {
+      "id": "cue-2121",
+      "timestamp": "0:35:21",
+      "seconds": 2121,
+      "text": "So again, even if you're following an exit signal, so this exit signal will give you exits after two, three years of buying stocks. So this is what investing like long term or medium term investing is. Yeah, we make some comment section because a lot of questions have come. So, there are 76 questions. I'll just take the good ones. Then we'll look at it. So first before going to your exit questions, you have to do two things. Explain. There are two types of investors, two types of investors. Two types of investors. There are two types of investors. First type of investors are who? Whoever?"
+    },
+    {
+      "id": "cue-2156",
+      "timestamp": "0:35:56",
+      "seconds": 2156,
+      "text": "Medium term horizon. So like people like me. So my horizon is not more than 2-4 years. I don't take a horizon on a company of more than two to four years. That is what I will say. So this is why such things will work for me. Then there are types of investors who have a 5, 10 or 15 year horizon. So there are there are types of investors who have two to four year horizon. Then there are investors who have 5, 10, 15 year horizons, right? To 5, 10, 15 year horizon, what are investors clay? Maybe this might not work. Maybe you can use a multiplier of three or 3.5 times, right?"
+    },
+    {
+      "id": "cue-2189",
+      "timestamp": "0:36:29",
+      "seconds": 2189,
+      "text": "Just to check key how long or till how long you can manage the volatility. But for people who have 2 to 4 year horizon, this tool will wonderfully work because we have a small base capital. And we need to try to find superior opportunities and look for XIRR. So with this clear, I just come to questions. So 2 is for so 2 come up with this kind of, just stick with me for 30 minutes, right? 30 to 40 minutes. I will tell you when to use 2, when to use and when to use 2.5 times. So I will tell you when we will do reverse DCA. We will learn it today."
+    },
+    {
+      "id": "cue-2226",
+      "timestamp": "0:37:06",
+      "seconds": 2226,
+      "text": "Then we will use it when high multiple or high expectations are built in. And 2.5TIMES when we will build it, I will explain that this is the only exit criteria that we follow. So other questions that are there, right? How to make we stop alert, how to set alert for negative. So Kamal, there, a trading view, there is an option on the top right of create alerts. If you look at it, it's an option for create alerts. So there you can check. Right. Isn't it a lagging indicator? Jatin says so Jatin a question for you like so a question for you. Tata Alexi Tata Alexi went from 600 to 1500."
+    },
+    {
+      "id": "cue-2263",
+      "timestamp": "0:37:43",
+      "seconds": 2263,
+      "text": "A lot of value investors sold out a lot of value investors. They sold out right then from 1500 it went all the way till 9000 rupees. Could you have ridden this journey just with the mindset of value investing? The answer is no right because you would have like yaar abhi payse ban gey abhi jayate tha. I have seen this happening right so again you need such a system in place which will help you to write the thing as well because in bull markets, you will see this will again and again happen. So that's it. We stop say, if you use two times, then you can trigger it to 7800 or 8200."
+    },
+    {
+      "id": "cue-2297",
+      "timestamp": "0:38:17",
+      "seconds": 2297,
+      "text": "Perfect exit exit system. No one can do this, But having an exit system is much better than having nothing at all. That is what I come to like that is what I believe at the end of the day. I used 2.5 times because we thought the long term compounder and it's a compounder business. Right. Our evaluations have been a lot of seniority 45 50 times with the, but the moment it triggered, then you have to simply sell. Right. So, VBL is sustained. So there is no exit. Right."
+    },
+    {
+      "id": "cue-2329",
+      "timestamp": "0:38:49",
+      "seconds": 2329,
+      "text": "Any other question so volatility is always so it's a thing that whenever your volatility in the stock increases generally it is increasing because some negative news is going to come in right so it's both a lagging and a leading indicator right so some people can use it weekly so you have to build your own system But I prefer to use a monthly one, right?"
+    },
+    {
+      "id": "cue-2358",
+      "timestamp": "0:39:18",
+      "seconds": 2358,
+      "text": "So again, weekly, if you think the stock is horribly valued, like just have all of the Ardani enterprises, it's horribly valued and you want to really sell out, but you really want your system to give you an exit, then maybe you can go towards weekly as well. But I prefer to use monthly because the type of business is I buy, where generally earnings growth is very strong, the earnings momentum is very strong and the businesses can do really really well over a period of time. So 2 to 2.5 times distinction is also on the side of that throughout the webinar after learning reverse DCF."
+    },
+    {
+      "id": "cue-2387",
+      "timestamp": "0:39:47",
+      "seconds": 2387,
+      "text": "But a little clarity started to be made. Once you experiment with this system individually, then you will find that it will work almost 95-98% of the times. Now see, this will majorly work for medium-term investors who have a horizon of 2-4 years Those who have a horizon of 10-15 years Maybe it might be time for you to buy more of that stock If you really think that stock has really positives baked into it. But this was a simple example. Now we talk about the P ratio, where does it work?"
+    },
+    {
+      "id": "cue-2422",
+      "timestamp": "0:40:22",
+      "seconds": 2422,
+      "text": "So the P ratio will not work in life insurance companies, will not work in banks, will not work in real estate companies because there are different metrics to value them. And then in deep pre-cyclicals, you have to look for price to book. So I have actually created a table for you that you should see in different industries. So this is a table for you. These are the valuation metrics for different industries and we'll combine this with reverse DCF and volatility stop that is when to exit. It's a simple thing is over there."
+    },
+    {
+      "id": "cue-2448",
+      "timestamp": "0:40:48",
+      "seconds": 2448,
+      "text": "It's simple thing is over there that what are the valuation metrics which can be used for different industries. So banks case may be used price to book is coming up with a clarification. Why do we use price to book and how we find value. Then hospitals case may be used price to cash flow price to free cash flow and also we can use eb to ebita to ebita calculation. I have it for you. So don't worry. We'll learn what eb to ebita is. Then it sector may we can use price to earnings because depreciation is not that high in business because less capex is heavy business."
+    },
+    {
+      "id": "cue-2482",
+      "timestamp": "0:41:22",
+      "seconds": 2482,
+      "text": "Price to cash flow also you can use, price to free cash flow also you can use. Discounted cash flow will work really well in the IT sector. Then in life insurance companies, we use price to embedded value. So this is a complicated sector because your PNL is made on the basis of assumptions. The future will have so many libraries, I will earn so much profit from it. The profits of the future comes back to the present value and gets added to your embedded value. Then chemical companies cases may you can use price to earnings, price to cash flow and EV to cash flow."
+    },
+    {
+      "id": "cue-2514",
+      "timestamp": "0:41:54",
+      "seconds": 2514,
+      "text": "Building material cases may like KIA industries type company or polygap companies type price to earnings or price to cash flow is the metric to use."
+    },
+    {
+      "id": "cue-2521",
+      "timestamp": "0:42:01",
+      "seconds": 2521,
+      "text": "Farmer's articles may, again, price to cash flow, even to EBITDA, like price to free cash flow or price to cash flow, you can use because domestic formulations, while I'm in it, not cap X, so I'll be earnings won't be depressed platform businesses may be cash flow yield, the DCF subkey examples, the conga exchanges, maybe because there is not much cap X surprise to earnings price to cash flow, even to free cash flow and DCF will work wonderfully in such businesses. Cyclical stocks may you can use price to book. So cyclical stocks may you can use price to book as a wonderful tool."
+    },
+    {
+      "id": "cue-2554",
+      "timestamp": "0:42:34",
+      "seconds": 2554,
+      "text": "Even in auto ancillary, when they are in losses and also in price to earnings type thing you can use, in FMCG sector, price to earnings or DCF will run wonderfully. So we will look at examples of different sectors. And these are all the metrics that we will learn today. So just give me your attention for the next 90 minutes and then we will learn all the methods of your earnings and multiples. We will learn them all once. So first we will come to this. Let's take one simple multiple. And let's start with something by the name of forward P. I think we saw it in the last session."
+    },
+    {
+      "id": "cue-2596",
+      "timestamp": "0:43:16",
+      "seconds": 2596,
+      "text": "We will start with why banks get valued on the basis of book value. Why do banks value the price to book value? That is the simple thing that we will look at today. And what are the other things to look out for in banks? Then we will come to hospitals. So just over here. Right. So what is book value? So book value, so book value of a company is the net difference between the company's total assets and total liabilities. Right."
+    },
+    {
+      "id": "cue-2625",
+      "timestamp": "0:43:45",
+      "seconds": 2625,
+      "text": "So if you just subtract the assets of a company by the liabilities of a company, what do you get to the net assets of the company or also known as the net worth of the company or also known as the equity of the company. How much of the assets are funded by shareholders equity or how much of the net worth is there? This is a simple example of book value. What is book value at the end of the day? Where book value reflects total value of a company's assets that shareholders of that company would receive if the company were to be liquidated."
+    },
+    {
+      "id": "cue-2659",
+      "timestamp": "0:44:19",
+      "seconds": 2659,
+      "text": "So if this company goes into the process of liquidation, you will find that some company has assets which will be financed by liabilities and then there will be some assets which are just financed by the retained profits of the company. This is what net worth of a company means. Now, suppose there's a company which has a rupees 200 of balance sheet. Rupees 200 balance sheet. Rupees 200 balance sheet as company. Rupees 200 balance sheet. So total assets rupees 200."
+    },
+    {
+      "id": "cue-2689",
+      "timestamp": "0:44:49",
+      "seconds": 2689,
+      "text": "Out of which total liabilities for the company like non current and current liabilities leaving the equity part aside is close to Rs 120. So, liabilities of this company Rs 120 total assets Rs 200. Now what does the accounting principal teaches us that a balance sheet always has to balance so in the event of liquidation of this company, if this company is liquidated then how much assets are financed by liabilities of 120 rupees so in this scenario, the book value of this company, the net worth of this company will be Rs.80."
+    },
+    {
+      "id": "cue-2724",
+      "timestamp": "0:45:24",
+      "seconds": 2724,
+      "text": "Because in the event of liquidation, the net worth of this company will go to Rs.80. So this is an example that in the event of liquidation, the net worth of 80 rupees is the company's base. So why do we value banks on the basis of price to book value? So price to book value is the price that the market is willing to pay for each rupee of book value which can be depicted as total assets minus external liabilities. So if you just visualize the balance sheet of a company, book value of the company is also the sum of its equity and free reserves."
+    },
+    {
+      "id": "cue-2753",
+      "timestamp": "0:45:53",
+      "seconds": 2753,
+      "text": "Book value is actually I will show you an example from the screener that what is actually book value. It is just going over here and just coming to over here and just over here. Just a second. Simply just going back to screener and looking at what is book value of a company, what is book value of a company? All right, over it. So let's say, let's open like some bank, let's say open, let's open IFL finance, right? So IFL finance, what is the book value of IFL finance? It's given over here. So book value of IFL finance is nothing but reserves."
+    },
+    {
+      "id": "cue-2798",
+      "timestamp": "0:46:38",
+      "seconds": 2798,
+      "text": "If you look at reserves here, so reserves of 8263 crores plus your share capital of 76 crores. So once you add these two, you will get to the book value of IFL finance. That is net worth. If the company is liquidated, then the assets and liabilities will be removed. So the company will be net worth. Which is attributable to the shareholder's event of liquidation. So how much is the book value of IFL finance? So this is 89. So it was around 89. Role as an event of liquidation. So this is 80 to 89 crores. So 83 to 69 crores. So this is a simple example."
+    },
+    {
+      "id": "cue-2840",
+      "timestamp": "0:47:20",
+      "seconds": 2840,
+      "text": "This is how book value of a company gets taken out even if you're using screener right to screener pay some money. But why banks may price to book is used coming to that. So in the so be I'm the data how book value calculation happens That is share capital plus retail earnings, but normally excludes basically revaluation reserves. So price to book value can be measured at a macro level or micro level as ratio of market capital net worth or as a stock price to book value. So this is a simple way to measure price to book value."
+    },
+    {
+      "id": "cue-2869",
+      "timestamp": "0:47:49",
+      "seconds": 2869,
+      "text": "But now coming to an example that why in a scenario of banks, like this gets used, right? So why in scenario of banks, this price to book basically gets used. So simple thing is that if you look at the assets of banks and if you look at the liabilities of the bank, then what are the assets of the bank? What are the major assets? The loans the banks have given out, some cash will also be there and some investments the bank might have made. What will be the liabilities for the bank? Major sources of liabilities will be deposits."
+    },
+    {
+      "id": "cue-2912",
+      "timestamp": "0:48:32",
+      "seconds": 2912,
+      "text": "So the difference between assets and liabilities will lead you to the net worth of a bank will lead you to the net worth of a bank. So for a bank macroeconomic conditions, like inflation, data, interest, liquidity are approximately the same. What differentiates one bank from the other is how efficiently the funds or the assets are utilized and how best spreads are managed. So one of the reasons why banks like HDFC and Kotak Bank enjoy higher valuations is because they earn higher return on equity on the net worth."
+    },
+    {
+      "id": "cue-2945",
+      "timestamp": "0:49:05",
+      "seconds": 2945,
+      "text": "So the remaining value, if you subtract assets or liabilities from the bank, then your book value will come. And that book value, because it's a leveraged business, So on that book value, how much profits you are making, that will tell you about banks and this is why price to book value gets used in banks. Right? So normally cost of funds and yields are around the same level for most banks. So price to book value is determined by how well they enhance the spreads and how well they contain their NPAs. Suppose if a bank's NPA increases, where will the NPA hit? Will it be on assets or libraries?"
+    },
+    {
+      "id": "cue-2981",
+      "timestamp": "0:49:41",
+      "seconds": 2981,
+      "text": "A bank's non-performing assets increase a lot. A bank with high NPAs will always get a lower valuation and the bank with lower NPS will get a higher valuation. A bank which can use its assets, so what is the problem in the bank? Your financial leverage is very high, meaning your assets to equity That is usually almost 10x, right? Almost 10x has the leverage. You mean you're like almost one rupee of equity is financing 10 rupees of assets. So if you're taking so much leverage, what do you have to control?"
+    },
+    {
+      "id": "cue-3014",
+      "timestamp": "0:50:14",
+      "seconds": 3014,
+      "text": "Is your margins and your spreads and how much ROA and ROE you make on your like assets and your spreads so that will determine your valuations at the end of the day. And also if you look at it by price to book value is given because whenever NPA hit comes now suppose if NPA hit comes so what will happen? Assets hit indirectly. The way accounting works because if assets get hit, then indirectly equity is getting hit. So This is why as per Basel regulations, banks are required to maintain core capital adequacy as a percentage of their asset books."
+    },
+    {
+      "id": "cue-3053",
+      "timestamp": "0:50:53",
+      "seconds": 3053,
+      "text": "Hence price to book value also becomes a proxy for effective yields on their asset books. Specifically when it comes to banks, other financials, price to book value is a very good approximation for comparative metrics. So basically it's a leveraged business and one more important thing to remember is that the difference between the assets and liabilities is the net worth for a bank and banks have to set aside a percentage of like assets. Joe capital adequacy ratio to get it 12 to 13% cover capital adequacy ratio. Renna G. So what really matters in banking?"
+    },
+    {
+      "id": "cue-3087",
+      "timestamp": "0:51:27",
+      "seconds": 3087,
+      "text": "There are these are these three ratios which decide the valuations of a bank. In the ratio say a bank valuation decide with a book value return on assets return on equity, which is a function of your margins, which the bank is making return on assets or return on equity, which I read in YouTube videos, and also the non performing assets of a bank. So these are the three things which will decide the book value, these are the three things which will decide the valuations of a bank."
+    },
+    {
+      "id": "cue-3120",
+      "timestamp": "0:52:00",
+      "seconds": 3120,
+      "text": "But now let's look at the valuations of a bank across the horizon right if you look at the valuations of all the banks in the whole horizon then you will get an idea of how you can invest in value so the idea is that we will map different sectors, hospitals, banks, any sector, and we will try to map their price to book values. And over here you can just check this out. So over here you can check this out, that the higher the ROE, higher the price to book value of the bank will be. Higher the ROE, higher the price to book value of the bank will be."
+    },
+    {
+      "id": "cue-3156",
+      "timestamp": "0:52:36",
+      "seconds": 3156,
+      "text": "Higher the ROA, higher the ROE, higher the price to book value of the bank will be. So just look at the example of HDFC Bank. HDFC Bank example it is. HDFC Bank 3.3 times price to book Why? Because ROE is 17% ROA is 1.9% Up to 2% because this is 1.25 So ROH of 2% is ROH of HDFC Bank ICICI Bank 2% ROA Your price to book value is a core The standalone bank has 2.8x whereas your ROE is close to 16.7%."
+    },
+    {
+      "id": "cue-3193",
+      "timestamp": "0:53:13",
+      "seconds": 3193,
+      "text": "So price to book will be higher like Kotak Mahindra Bank 3.4x price to book and your ROE is close to 14% so ROE is lower but ROE is the highest that is 2.3% so this is why if you look at it like if you look at the valuations of Kotak Mahindra versus HDFC versus ICICI so Kotak gets the most amount of premium because highest ROA. So it is using its total assets in the best form possible. ROE into financial leverage will give you ROE. So Kota Mahindra bank is least leveraged as compared to HDFC and ICICI, right? Then access bank."
+    },
+    {
+      "id": "cue-3231",
+      "timestamp": "0:53:51",
+      "seconds": 3231,
+      "text": "So this is where you can start finding evaluation comfort is at 1.9x price to book. Whereas, ROE is 14.4, but it has gone to 19% actually this quarter. Incremental ROE access banking, 19% are a, an ROA for access bank have also gone to 2% already so ROA is at 2% ROE is at 19% I'll show you from the investor presentation but whereas price to book is still at 1.9 to 2x. So basically this will become as a value candidate for me that I should go and study this and I should go and study this bank. So this is a bank that I should definitely go and study. Similarly just look at it over there."
+    },
+    {
+      "id": "cue-3274",
+      "timestamp": "0:54:34",
+      "seconds": 3274,
+      "text": "Here equity small finance bank. So this is a small finance bank. Let's compare it with AU small finance bank. So even micro finance, this is why I'm not comparing it with AU and equity. So in the case of equitas, if you just look at the ROAs, so ROAs if you see, so here already 1.5% ROAs are already visible here but I think in quarter 3 and quarter 4, so this is where your variant perception gets built in so there ROAs will cross 1.8 to 1.9%, meaning incremental ROA will cross 1.8 to 1.9 percent. Incremental ROA 1.8 to 1.9 percent will cross. Whereas what is the price to book value today?"
+    },
+    {
+      "id": "cue-3310",
+      "timestamp": "0:55:10",
+      "seconds": 3310,
+      "text": "Price to book value today is after merger. So this hold is 300 crores cash. Once it gets consolidated, the price to book value on FI 23, not FI 24 is at 1.3 X. 1.3 X cash plus price to book value to the FI 23 and not FI 24. And again, if the ROA goes to 1.8 or 2% and your ROE is lower because of lower leverage. So again, if ROA expands and your earnings keep growing at 35, 36% per annum, then it might get re-rated because you can look at the price to book value of AU small finance bank, which is at 4.1 X right now. Right. And you will see the ROA for both of them will become similar."
+    },
+    {
+      "id": "cue-3350",
+      "timestamp": "0:55:50",
+      "seconds": 3350,
+      "text": "So this is just a brokerage estimate but this is where your variant perception view gets built in. So this is one way to look at it and now let's model it. Let's do a financial modeling once in the first how we come to the modeling of these businesses. We will talk about the banks first. First we will talk about banks. So just coming over here. Alright, so first let's look at Iqwita's small finance bank. Just over here. So everything is taken from their con calls."
+    },
+    {
+      "id": "cue-3378",
+      "timestamp": "0:56:18",
+      "seconds": 3378,
+      "text": "So some people ask these are modeling how they do simple way that con call message numbers have you ever seen you see that analysts repeatedly ask bookkeeping questions, repeatedly ask questions about your guidance because they are doing financial modeling. Ujjivan is a microfinance institution. Ujjivan 98% of the loans are unsecured in nature whereas over here 82% of the loans are secured in nature. So unsecured asset is Ujjivan. So Ujjivan's comparison you do with Bandhan Bank, Ujjivan's comparison you do with like your NBFCs like Spandras, Purti and stuff because it is 98% unsecured loans."
+    },
+    {
+      "id": "cue-3414",
+      "timestamp": "0:56:54",
+      "seconds": 3414,
+      "text": "I know micro finance lending. This is 82% secured lending. So this is why you have to understand this. Yes, but it's a comparison. But now just a simple example over here. So I can just take the edit access and I can just go for editing over here. So just a second. All right. Simple examples. So this year, the growth of net interest income, right? So the growth of your gross profit, the interest income of net interest income your interest income minus interest expense, so here net interest income comes so this year they have given a guidance between 25 to 30% right?"
+    },
+    {
+      "id": "cue-3451",
+      "timestamp": "0:57:31",
+      "seconds": 3451,
+      "text": "So this time this quarter had almost 65% growth still we consider the growth of net interest income to be reasonable. Next year, net interest income growth is considered to be more conservative, so we consider it to be 25% and the next year, we consider it to be 25%. So net interest income was in FY22, 238 crores whereas if you grow it by 27% you get to a net interest income of 2589 crores FY24, if you grow it at 25%, 3236 crores FY25, 455 crores So this is just an example. The non operating income is the one that the banks call other income. So the growth of other income, we assume 24% here."
+    },
+    {
+      "id": "cue-3497",
+      "timestamp": "0:58:17",
+      "seconds": 3497,
+      "text": "We are taking reasonable, by the way, loan processing fees should increase ideally higher Here too, the other income growth we can take it to 24% Then we can take this to 24% So this will give you an idea how did we get to this number by reading the past con calls, by reading the past financial models. So total income of the bank basically will be somewhere close to 3255 crores, this by the end of this financial year. So basically this is something that we have basically modeled. So I am explaining the modeling scraps. What is total income?"
+    },
+    {
+      "id": "cue-3532",
+      "timestamp": "0:58:52",
+      "seconds": 3532,
+      "text": "Total income is nothing but net interest income plus the non-operating income. So you will have to read the business to get to the total income. So this will give you an idea. So we have taken total income by adding the net interest income with the non operating income. So total income we come to is 3255 crores. Total cost to income, how much will the bank pay? So cost to income ratios, if you see, this year we are assuming that cost to income will be 64%. Cost to income ratio is 64% why did we assume it?"
+    },
+    {
+      "id": "cue-3562",
+      "timestamp": "0:59:22",
+      "seconds": 3562,
+      "text": "You will ask what is the basis for assumption I will do it with a small finance bank if I go to con call or PPT you will did the cost to income ratio increase? Because they hired 1, 000 employees in this quarter. If you just look at this, in this quarter, they hired close to 1, 000 employees from 1796, 936 employees to 892 employees. So cost to income ratio has gone from 60.6% to 66.58%."
+    },
+    {
+      "id": "cue-3608",
+      "timestamp": "1:00:08",
+      "seconds": 3608,
+      "text": "So Q3, ideally it should fall because your income will grow and your net employer decision should fall. So this you can get it from their con call to conference call. So I will give you a financial modeling example. I will make it easier for you later. So cost to income ratio is at 64%. So cost to income ratio is nothing but to earn money to earn the income of 3255 crores, the cost of 64% they have to bear this is why your total OPEX goes to 2083 crores so what we are doing here is sending you sheets for your understanding so that you can also model is that total income into 64%."
+    },
+    {
+      "id": "cue-3655",
+      "timestamp": "1:00:55",
+      "seconds": 3655,
+      "text": "So this will give you the cost to income of 2, 083 crores. How do I do that?"
+    },
+    {
+      "id": "cue-3660",
+      "timestamp": "1:01:00",
+      "seconds": 3660,
+      "text": "D10 and 3255 crores into 64% this will give you 2883 crores of total OPEX then minus OPEX from total income what we get to is pre provision operating profits which is known as P-POP pre provision operating profits I have here, that is 1172 crores then the guidance of credit cost management has given in con call the guidance of credit cost management has given in con call the guidance of credit cost which is basically this that the credit cost will be close to 25, 186 crores And your credit cost will be 3.77 crores That is 1.5% into D28 So, according to 1.5%, the credit cost of 377 crores has come to you."
+    },
+    {
+      "id": "cue-3713",
+      "timestamp": "1:01:53",
+      "seconds": 3713,
+      "text": "That is simply 1.5% into D28, which is AUM, around 25%. So, this gives you the credit cost. Then, the profit before tax has come to 794 crores. The taxes for 25% have been minus here. Then, the profit after tax has come to 595 crores."
+    },
+    {
+      "id": "cue-3727",
+      "timestamp": "1:02:07",
+      "seconds": 3727,
+      "text": "Profit before tax 794 crores, taxes for 25% tax minus profit after tax 595 crores last year was 281 crores, from 281 crores we get to a 595 crores of Pat and if the company's Pat comes of 595 crores so you can simply just calculate the ROA of the business that you can get an idea of how many total assets will be so how much will be on closing but if you want to calculate ROE of the business as well So how you can do it is that the net worth by the end of this year will be 4, 700 crores to calculate the roe. What I can do is that simply divide the net profits by the net worth of the company."
+    },
+    {
+      "id": "cue-3764",
+      "timestamp": "1:02:44",
+      "seconds": 3764,
+      "text": "Right."
+    },
+    {
+      "id": "cue-3765",
+      "timestamp": "1:02:45",
+      "seconds": 3765,
+      "text": "And that I can do just in 200 so that will give you a 12.67% return on equity for the company so 12.67% return on equity so you can just get an idea on the financial leverage now from there ROA automatically in the Karlsaktiv which will actually be a number which will be more than 1.9% almost 1.9% of the RWA the bank will do by the end of this year so this is one way to model the numbers and to get an idea this is one way to model the numbers and get an idea right so how else to sort of give an idea ki kya exit multiple mil satya stocks pe toh kaisa sorthe ki exit multiples ka milinke do yaha diktin ki agar aum itna barte jaat hai right agar naapki book value basically aap 42 ke aspas aatiye right so agar aapki book value yaha pe like aapki book value yaha pe jo hai 42 49 or 58 rupees your book value basically comes around 42."
+    },
+    {
+      "id": "cue-3819",
+      "timestamp": "1:03:39",
+      "seconds": 3819,
+      "text": "So if your book value here is around 42, 49 or 58 rupees, you can simply take a one or two year forward and simply just model the exit multiple on book value basis. If you are on 1x then your CAGR is 4 or 5% for a bank which is doing 2% ROE in almost 1 or 2 years and also a bank which will be hitting almost 14-15% ROE in 2 years. How will it be 15% ROE?"
+    },
+    {
+      "id": "cue-3843",
+      "timestamp": "1:04:03",
+      "seconds": 3843,
+      "text": "Simply 1000 crore of PATH divided by almost your net worth of as you divide it, you will still get to an ROE of 14-15% so you can do this simple calculation that is equal to f24 and you can just divide this right so 15% are we in next one or two years if there is no macro like event right here in front of you there will be an example right so 15% are we 15.48 And then you're getting a bank which is at one X price to book on that level. I think price to book might even go higher post the merger consolidation, but we are still trying to be conservative."
+    },
+    {
+      "id": "cue-3878",
+      "timestamp": "1:04:38",
+      "seconds": 3878,
+      "text": "Another 1.5 X price to book on an exit basis because we have seen a Ugo cam multiple for similar metrics and other two X we will get, then your returns get taken care of. So this is how we think about an example of valuations. So this is the first example of how we are valuing the exit multiples on the basis of the price to book. Similarly, let's take an example here that is of South Indian Bank. I know if you are sitting here again and again, if you start modeling it from pen and paper, you will start understanding it better. Before I go forward, so another bank where we can do this."
+    },
+    {
+      "id": "cue-3920",
+      "timestamp": "1:05:20",
+      "seconds": 3920,
+      "text": "So I am sorry, deep value opportunities. We are modeling right now. So another example is I'll send you all these financial models. You can do do like do them yourselves. So just a South Indian bank case may be net interest income which is around 30% I think next year 18% and then 18% right and you have a net interest income has grown at 30% this year. But total income goes to 3661 crores. The guidance of OPEX is 61.97%. The guidance of next year OPEX is 54.82%. So how much is the P-POP of South Indian Bank? It will be around 1400 crores."
+    },
+    {
+      "id": "cue-3956",
+      "timestamp": "1:05:56",
+      "seconds": 3956,
+      "text": "This is also conservative because if you see the recent exit of South Indian bank on the pre provision operating profits, so it is already close to 500 crores of pre provision operating profits that like you can just look at this operating profits right. So we are depreciation go grab hot already 515 crores."
+    },
+    {
+      "id": "cue-3996",
+      "timestamp": "1:06:36",
+      "seconds": 3996,
+      "text": "So you make the experiment right grow this 515 crores By almost I think 3-4% quarter on quarter growth I think but next year almost like this pre-provision operating profit maybe it will keep growing but I think next year, because this is just for quarter three for the full financial year, this P-POP can be close to 2200 crores but still we will be like sensible and we will be conservative in doing our modeling of like financials right if P-POP goes to 2200 crores right so we have taken some of our model to build conservativeness here you will see conservativeness is built up we have taken P-POP as 2100 crores we have assumed growth but cost to income will fall because operating leverage kick in so you all tell me a simple question for all of you if your fixed cost remain where they are and your income grows at a faster pace, what ends up happening?"
+    },
+    {
+      "id": "cue-4057",
+      "timestamp": "1:07:37",
+      "seconds": 4057,
+      "text": "Does operating leverage kick into businesses? Right? Right? Operating leverage kicks in and what ends up happening in that scenario is that your cost to income falls. Your expenses will be reduced whereas your income will grow at a faster pace. And credit cost guidance is somewhere close to this year."
+    },
+    {
+      "id": "cue-4079",
+      "timestamp": "1:07:59",
+      "seconds": 4079,
+      "text": "This quarter provision was 40 crores because new book is doing really well because you know the new book go old books a replace correct is a 40 crores provision so if the credit cost falls to 0.5% which is also there for national banks credit cost is this much only for the pan national banks for the secured lenders, then your PBD goes to 1674 crores. And if you just cancel the taxes, then you get to a profit after tax of 1256 crores. Now here forward being, Nikal, give it a word, being back, but again, Nikal, Nikal, give it a word."
+    },
+    {
+      "id": "cue-4111",
+      "timestamp": "1:08:31",
+      "seconds": 4111,
+      "text": "If your profit after taxes 1256 crores, what is the current market cap of South Indian Bank? What is the current market cap of South Indian Bank? So we are just doing a rough metric, we are not even going to price to book value. What is the current market cap of South Indian Bank? 3704 crores. What can be the PAT? 1256 crores. So just calculate the forward B. How much is the FI-24 EP? How will we calculate forward P? How will we calculate the profit of one year and the market cap of today? So what is the forward P? Just in the comment section, everyone should participate."
+    },
+    {
+      "id": "cue-4144",
+      "timestamp": "1:09:04",
+      "seconds": 4144,
+      "text": "Everyone should participate. Forward P. How much is the forward P? Everyone just answer this question like next question. Because this will be more important than asking questions. Q&A session towards the end. Q&A will stop for a while. Everyone has a lot of distraction in the audience. First let's complete this towards the end we'll come to Q&A. So forward PE comes to three times. So forward P comes to three times. So how do we calculate forward P? Because some people asked. So what did we do?"
+    },
+    {
+      "id": "cue-4184",
+      "timestamp": "1:09:44",
+      "seconds": 4184,
+      "text": "We did nothing, But simply we took the profit after tax of FY 24 that is 1256 crores and ascajo market cap adds close to 3700 crores and we just divided like one year forward zoning by today's market cap and we got to the PE ratio of almost 3 times 2.9 to 3 times the answer will be there so this is how we calculate forward PE ratios so this is how we calculate forward PE ratios I will try to take it a bit slow because I know it can be complicated but there are numbers and understanding so we need to come What does the book value go to? How do we calculate the book value?"
+    },
+    {
+      "id": "cue-4225",
+      "timestamp": "1:10:25",
+      "seconds": 4225,
+      "text": "Simply, what do we do in the book value? Because banks don't give any dividends. We just take the profit after tax and adding to your net worth or the reserves and surplus. It is just taking the profit after tax and adding to your net worth of next year. To book value, as a calculator, because your retained earnings get added in a bank."
+    },
+    {
+      "id": "cue-4247",
+      "timestamp": "1:10:47",
+      "seconds": 4247,
+      "text": "And this is why book value, like like compounding of book value per share in banks becomes a very very important metric right so what will the book value go to 7, 646 crores and net worth agarap total deging it paid up capital add karke so 7, 855 crores ka is bank ka net worth hojayaega So what is the market cap of the bank today? What are we going to calculate now? Price to book value. Very easily, just Give me your attention. Price to book value calculate which is also known as market cap to book value. What is the market cap today? So market cap is close to 3700 crores."
+    },
+    {
+      "id": "cue-4290",
+      "timestamp": "1:11:30",
+      "seconds": 4290,
+      "text": "What is the book value one year forward is close to 7855 crores. What is the price to book value? Give me an answer. What is the price to book value of one year forward? I will calculate the price of the trailing. So, what is the price to book value of forward? Look, without taking examples, there is no one on earth who can teach you valuations. So this is why we are doing these exercises, right? It is possible that in a 20 stock portfolio, 4-5 of your stock thesis will fail. But the idea is that you should still do this for every stock that you own."
+    },
+    {
+      "id": "cue-4322",
+      "timestamp": "1:12:02",
+      "seconds": 4322,
+      "text": "See, I'm not saying that you have to buy or sell the stock, just consider this, it's an exercise for you to do because you can do it in every business. You can also do the same exercise in that, it's not necessary that you do it in the South Indian Bank. This is just an example. I make models for myself, so I don't share it with anyone. Now, if you just look at it on a trailing 12 months, if we calculate it on the basis of exit FI 23, so this was forward price to book. This was forward price to book. This was forward price to book."
+    },
+    {
+      "id": "cue-4352",
+      "timestamp": "1:12:32",
+      "seconds": 4352,
+      "text": "How will we calculate the price to book on a trailing 12 month basis? Everyone in the comment section, how to do it. Trailing 12 months basis, how do we calculate price to book right so simply can you just tell me he can calculate it Can you just give me the answer? How to calculate on a trailing 12 month basis? Just an answer. So 0.56x price to book value. 0.56x price to book value. I covered the pad so that you can get confused."
+    },
+    {
+      "id": "cue-4393",
+      "timestamp": "1:13:13",
+      "seconds": 4393,
+      "text": "So this is just an example of how we end up valuing stocks or how we sort of think so because I am teaching all of you so at least if you do this similar exercise for 50-60 businesses then you will become very very rational in terms of valuing companies and you won't need it. Right. So just look at this like exit multiple pay one or two year. We are going to take the zero point five exit milta. So it's an 11% KG 0.8 tax pay milta. So 40% KG zero like one X price to book. We will get that's a two years out to 57% CAGR. Which is Mota Mota our job as investors get done."
+    },
+    {
+      "id": "cue-4434",
+      "timestamp": "1:13:54",
+      "seconds": 4434,
+      "text": "So this is how you process information. So this is just one way to model out stocks. So this is just one way of modeling, right?"
+    },
+    {
+      "id": "cue-4442",
+      "timestamp": "1:14:02",
+      "seconds": 4442,
+      "text": "So I have like equity as the South Indian Bank think I think I feel that because the book value of financials like like the book value concept and financials, our modeling concept that will get finished with this right that we'll get finished with this right so here I feel finance me to hear I feel finance me what I will do like I'll just say key stick around for one to two hours because recording top the expert in the mother of a live class the mother of the so boss I just special situation investing's and come here but the main also go to when to buy and when to sell and when to do bottom fishing."
+    },
+    {
+      "id": "cue-4480",
+      "timestamp": "1:14:40",
+      "seconds": 4480,
+      "text": "Like how not to catch a falling knife as well. But first just give me some time to finish all these things with you. So first we will go here and your analyst reading report capability that will also improve a lot. So here I will just share this with all of you. So all these tools will be shared with you. So let's go to your systematics. So here we will go and see. IFL finance has made a note. Is the note visible to all of you in the comment section just drop a yes great I'll just zoom zoom in a bit right So just look at the way they have modeled it. Look at the way they have modeled it."
+    },
+    {
+      "id": "cue-4522",
+      "timestamp": "1:15:22",
+      "seconds": 4522,
+      "text": "Right. So just look at the way they have modeled it. So I'm a couple management. Yeah, the con call. So I think it's all I've posted the con call notes for S. Telegram members. You are S. C. Course members on clear telegram group pay. So I see tribe members clear."
+    },
+    {
+      "id": "cue-4536",
+      "timestamp": "1:15:36",
+      "seconds": 4536,
+      "text": "So just look at this net interest income right like they've taken the profit after tax so this is pre provision profits then EPS here they have simply drawn in an Excel and told how much EPS can be Then EPS growth, share on book value Then similarly your cost to income ratio And now this is where things become challenging Over here Cost to income ratio So, for a simple understanding, I will make it simple. So I feel finance cost to income ratio guidance. So when you see this, you go to an ROA tree and find multi-bagging financials on SOIC YouTube."
+    },
+    {
+      "id": "cue-4581",
+      "timestamp": "1:16:21",
+      "seconds": 4581,
+      "text": "So you will understand that better so the guidance of cost to income ratio is 35% by the end of FY24 so in FY25, the cost to income ratio of 35% will be 35% which they have taken as 38.1%. So this is management's guidance in the conference call. So if we take those numbers and start doing the calculations, then we will get to the idea of what can be a pat how much profit after tax can be of the company from profit of 1600 crores according to them can go to 2663 crores whereas the management guidance for cost to income ratio is 35% by the end of FY 24 completely."
+    },
+    {
+      "id": "cue-4629",
+      "timestamp": "1:17:09",
+      "seconds": 4629,
+      "text": "So here we create a small financial model by coming to IFL finance. We won't do much detail because it might be that you will be able to understand it better in the recording. We will do a simple business later. But first we have to concentrate on price to book value. So here, just look at this idea. Net interest income is growing at 25% for IFL finance. So this is what the guidance is also there. Right guidance be ae. So total income so non operating income ko 8% se grow kar lete lesser pace peh."
+    },
+    {
+      "id": "cue-4663",
+      "timestamp": "1:17:43",
+      "seconds": 4663,
+      "text": "This is in line with historical growth rate of non operating income so your total income goes to 6744 crore. Now here we come to the cost to income ratio. So here we have a number which will be close to 42% this year. Next year's guidance that is 35% by the end but let's assume 38% and next year let's assume the cost to income ratio goes to 35%."
+    },
+    {
+      "id": "cue-4697",
+      "timestamp": "1:18:17",
+      "seconds": 4697,
+      "text": "So simply just looking at this and if we maintain the credit cost that it remains 2% so what will end up happening is that over next 2-3 years this profit after tax of Eiffel finance goes from 1631 crores to almost 2545 crores and next 2 years we will cross 2500 crores profit after tax by FY25 exit right so this is how you can calculate numbers and This is how you can model out companies independently and book value per share goes to 329 rupees and then what you can simply do is that you can give a 3x price to book, 2x price to book, 2.5x price to book looking at peers and if you give 2.5x then what is your multiple?"
+    },
+    {
+      "id": "cue-4743",
+      "timestamp": "1:19:03",
+      "seconds": 4743,
+      "text": "This is 329 into 2.5. So this is 329 basically into 2.5 times. And so you get to an 824 rupee price, which is close to 500 today. If it goes to 3x then what is the price we get to that is 329 into 3 times and you get to 989 rupees right. This is almost like a doubler from here."
+    },
+    {
+      "id": "cue-4768",
+      "timestamp": "1:19:28",
+      "seconds": 4768,
+      "text": "So this is how you can model out stocks and this is one simple example of modeling kisey hoti hai agar aap actually me finance me interested hai yaar phir aap actually me thwasa serious hai investing baare main so this modeling idea you have to learn and you have to look at it through the lens of valuations and also how to do it. So similarly, I feel finance simple thing volatility stop may take a look at monthly charts."
+    },
+    {
+      "id": "cue-4793",
+      "timestamp": "1:19:53",
+      "seconds": 4793,
+      "text": "We are looking at it right so monthly charts may still the volatility stop is uptrending and so no exit has been given given to have a bit to use because they are 2.5 use concept depending upon your understanding. So like So this is something that you can find. So 2 up the view is if you think the growth is coming majorly from micro finance and if the growth is majorly coming from housing finance like your AUM and your basically apart from that it is much more secured credit in nature. So up to 2.5 we use but this is the exit discipline that we as investors follow."
+    },
+    {
+      "id": "cue-4826",
+      "timestamp": "1:20:26",
+      "seconds": 4826,
+      "text": "I think our own entry was somewhere close to this level like your 280k I think 280k entry these still we are just like patiently like some beach averaging up and you just let it be because as we multiple agarha I have to finance it is still at what it is still at your 13.7 XP ratio and price to book on the stock will be somewhere close to like a book value because quarter 3 book value I think is around 240. So price to book will also be somewhere close to 2.2 times before going forward. Abhi tak yaha pe jobi simple like doubt a abho doubt pujke jaye."
+    },
+    {
+      "id": "cue-4868",
+      "timestamp": "1:21:08",
+      "seconds": 4868,
+      "text": "Kyuki aage hum different different sectors may be a karing ham steel cast ka example ing it how to basically model it then I look across all the valuation multiples. So, the price to sales, the valuing cyclicals, the DCF, the reverse DCF. Now, there is a doubt in the comment section. So, NBFCs generally get higher multiples than banks because example, you know, I feel finance example, so what is the return on asset for I feel finance? It is close to now 3.6%. This is going to almost 4%. So banks go because of regulations."
+    },
+    {
+      "id": "cue-4905",
+      "timestamp": "1:21:45",
+      "seconds": 4905,
+      "text": "They have to park a lot of money on the side due to which their return on asset always gets capital right so NBFCs return metrics are superior than banks but this also means that NBFCs inherently are much riskier than banks because they have to go to segments where banks are not willing to lend to. This is why NBFCs get higher multiple but in drop cycle, when there are drawdowns, NBFCs are more as compared to your banks. So why does the South Indian Bank trade cheap to other private banks? Is it because of the old book? So in the South Indian bank, when will the exit be?"
+    },
+    {
+      "id": "cue-4943",
+      "timestamp": "1:22:23",
+      "seconds": 4943,
+      "text": "So know why you buy a stock and know when you sell a stock. Simple exit and entry criteria, just look at this. Old book and new book. There is an idea of the first bank. So just look at this. So old book is this which is 32, 369 crores. So in 2020, a new MD came. That is Murli Ramakrishna and he built a new book in the bank which is into secured loans. So this is into secured loans right and it is into lending of double A or triple A cooperants."
+    },
+    {
+      "id": "cue-4971",
+      "timestamp": "1:22:51",
+      "seconds": 4971,
+      "text": "Old book was into infrastructure projects and stuff right so what ended up happening was the old book if you look at GNPA then 11.76% whereas new book GNPA 0.06% right barely 24 crores GNPA and here it's 3805 crores GNPA."
+    },
+    {
+      "id": "cue-4988",
+      "timestamp": "1:23:08",
+      "seconds": 4988,
+      "text": "So what is happening is that your NNPA as a percentage of total book is 4.68% in the old book and the new book is 0.03% so as it keeps getting run down As it keeps running down because the loan keeps getting repaid So the size of the loan book is more than the higher nims So the gross margins of the new book are higher than the old book because it personal loans miss other right so what ends up happening is that overall the product mix of the loan book changes and you get a higher margin and a lower risk book as compared to the older book."
+    },
+    {
+      "id": "cue-5027",
+      "timestamp": "1:23:47",
+      "seconds": 5027,
+      "text": "So this is why what the thesis of investors is in South Indian manga. Abhisthesis make a big part care that is the CEO of the company that is Murli Ramakrishna. So Murli is the key thesis per pointer, like key thesis pointer by chance. If he ends up leaving, then your thesis also collapses, right? If he stays and this keeps happening, then basically, you know the math and you know what the returns can be made in this talk, right? So this is how you value stuff, right? So this is the pointers."
+    },
+    {
+      "id": "cue-5059",
+      "timestamp": "1:24:19",
+      "seconds": 5059,
+      "text": "So he has given a 20, 25 version and you can just look at it so 20 25 version get return on asset more than 1% ojana jay right and new book me names get that 3.5% se upachale jay old book can name get that 2.8 to 2.7 How many names should go up from 3.5% How many old book names are 2.8 to 2.7% So this is a simple idea No, assets is equal to liabilities you are right So Pariyul has a question that if assets are equal to liabilities then book value should be 0 No, What we are saying is that you have to do assets minus current libraries or non-current libraries."
+    },
+    {
+      "id": "cue-5095",
+      "timestamp": "1:24:55",
+      "seconds": 5095,
+      "text": "There is also equity in libraries but what are the libraries minus that are current libraries or non-current libraries. The remaining portion you will be left with is book value. So that is the simple example. So assets is equal to liabilities plus equity. That is the golden ratio of accounting. Any other questions? We will do a discounted cash flow on DCF. Length of the volatility stop means how much time period are you taking into account. If monthly charge is 10, then it will measure the volatility of 10 months."
+    },
+    {
+      "id": "cue-5137",
+      "timestamp": "1:25:37",
+      "seconds": 5137,
+      "text": "So the price of the merged entity in the book value is 300 crores of cash which is on the books of Equitas holding. We will get added to Equitas small finance bank. And your shares outstanding will also get cancelled the merged entity book value I think up to the merger complete I think I think I am reflecting in the D-mat trading account so that will show on I think 8th of February 8th or 9th of February, which will result in the book value of the merged entity. Any other question?"
+    },
+    {
+      "id": "cue-5174",
+      "timestamp": "1:26:14",
+      "seconds": 5174,
+      "text": "So, the cost to income ratio is Venkatas, so it is also dependent upon, so as in SIB, management has said that in cost to income, 10% like OPEX growth will be 10%, whereas net income growth will be 12% to 15%. So your income growth is higher than your cost growth, so this leads to operating leverage. So that is a simple idea. And as in Equitas, they themselves have given a guidance that cost to income ratio will fall down to 58 to 59% over a period of time so we are not assuming it yet but basically the idea of margin of safety is going on in numbers. Right."
+    },
+    {
+      "id": "cue-5213",
+      "timestamp": "1:26:53",
+      "seconds": 5213,
+      "text": "The modeling banks, we can do a lot of manufacturing companies. I'll explain it to you. Book value increases because the net profits add. Rishu, you have to read the companies, what are their earnings and without that you won't be able to do modeling. Whether it's a financial or any company. Actually this is complete financial modeling. If you study these two or three companies and watch this recording, you will learn financial modeling. It won't be tough for you."
+    },
+    {
+      "id": "cue-5256",
+      "timestamp": "1:27:36",
+      "seconds": 5256,
+      "text": "Credit cost is the provisions of a bank that is the side of the money that is bad for a loan upon AUM of a bank that will tell you the credit cost. Credit cost is a way of spending or how much the loan is bad for that you have to keep the money on the side. So what is happening in the banks right now in the banks is that the credit costs are falling right now because asset quality is improving. To city union bank, I can't do this because I haven't read that in this deck. Read any more questions."
+    },
+    {
+      "id": "cue-5289",
+      "timestamp": "1:28:09",
+      "seconds": 5289,
+      "text": "To calculate return on asset, so to calculate return on asset, simply basically, simply return on asset of formula get net profits upon total asset, right? So net profit upon total asset that will give you return on assets integrity of management should be important this is why I am saying that you take this and apply it across sectors like just just where you understand it, do it there. My idea is that you have to teach, right? My idea is not that you buy this stock, sell it, that's the purpose of this session."
+    },
+    {
+      "id": "cue-5321",
+      "timestamp": "1:28:41",
+      "seconds": 5321,
+      "text": "The idea of this session is that you use this and apply it in your own journey where it fits for you, right? That you fit it there, right? With this, I'll just go forward and actually we'll just go to more and more examples. So this was just an idea how to do modeling for banks. So banks kya aap kyaise modeling kar sakto? So just give me a second. I'll just open the presentation again. Just give me a moment. Just a second, I think presentation. All right, over it. Just a second."
+    },
+    {
+      "id": "cue-5366",
+      "timestamp": "1:29:26",
+      "seconds": 5366,
+      "text": "Just a minute. This opening the presentation. Like 30 seconds break. Because we have a lot of companies like this. The idea of valuations. We will do that. So, alright presentation is already open. Over here. So, this is how you can get an idea of how you can build your understanding about different businesses. Now, I am just sharing with you how you can do it. Maybe you are in the world lady's top or not, you are not getting exit triggers or not. But first you understand one thing before jumping on the other. So this is how we do it with your banks. Then the idea."
+    },
+    {
+      "id": "cue-5404",
+      "timestamp": "1:30:04",
+      "seconds": 5404,
+      "text": "Then what is really important is that we look at consumption sector. So it will be a little easier for you. So when you look at consumption sector when you look at consumption sector right so now we look at the idea of median P ratios Now we will look at the idea of median PE ratios and consumption sector may best use it is simplest sector to understand. It is one of the simplest sectors to understand. It is one of the simplest sectors to understand. If you just look at the volume growth, when you look at companies, sales is nothing but sales is equal to volume into value."
+    },
+    {
+      "id": "cue-5440",
+      "timestamp": "1:30:40",
+      "seconds": 5440,
+      "text": "Like in a 10-chip packet, it is 10 rupees. So in sales total, it is 100 rupees. So either your value goes up or your volume goes up. This is why your sales increase. But the better quality of sales growth is volume growth. So in consumption sector, what we generally look for is the volume growth of companies. Where higher volume growth will come, those companies will get a better valuation. So we are trying to identify the key variable over here right now. So in consumption sector, the key variable right now is volume growth."
+    },
+    {
+      "id": "cue-5470",
+      "timestamp": "1:31:10",
+      "seconds": 5470,
+      "text": "Volume growth means how many units are sold, how many pieces are sold. That is the most important aspect in consumption sector. So let's look at the example of Colgate. So Colgate may what is the volume growth if you just look at this I'll just turn the camera off so that you can see better. So Colgate may what volume growth over a period of time just over in Colgate may three years CAGR 1.8% of volume. Right, so similarly coming to another idea is that just look at this, just look at this Mariko. So Mariko overall volume growth hasn't been in double digits."
+    },
+    {
+      "id": "cue-5505",
+      "timestamp": "1:31:45",
+      "seconds": 5505,
+      "text": "Like a major business of Mariko even today is parachute oil. And what is the volume growth of parachute oil 4.5% what is the volume growth of Maricot value added heroiles to 5.4% I think 40 to 50% of the business Maricot this hair oil category The problem with category is the every person has a hair oil and nowadays people have also stopped using hair oil. So simply another example is that right. So over here as well your volume growth is in single digits. So let's see. See the stock returns. So this is one simple idea and consumption stops that I'm teaching you. He valuations."
+    },
+    {
+      "id": "cue-5543",
+      "timestamp": "1:32:23",
+      "seconds": 5543,
+      "text": "He's interacting with the like United breweries beer is a very well penetrated category. Three year Kager is minus 1.6% United spirits as deleverage. This is where it turns might be better, but your volume growth is still 2.6%. Dabar volume growth is still on the higher side, 9.1%. Britannia is also okay, 5.3%. Britannia may be value growth also. So Britannia is taking very solid price hikes. Similarly, Burrum Beverage is 15.1% volume growth. Cation Paints 17.8%. ITC 5% volume growth and Titan 12.6% Now, from here, we will start learning about business. We will start learning about business."
+    },
+    {
+      "id": "cue-5587",
+      "timestamp": "1:33:07",
+      "seconds": 5587,
+      "text": "So this is an important concept. Which will be applying in consumption stocks. Which will be applying in consumption stocks. So I'll just take you to the, no like a screener, like I'll just take you to the sheet. Just give me a second, right? I'll just take you to the website, all right, over it. All right, there. Right, I'll just take you to the website and just coming to it over here. So just coming to the idea of like first FMCG index curve valuation, what is the FMCG index valuation?"
+    },
+    {
+      "id": "cue-5623",
+      "timestamp": "1:33:43",
+      "seconds": 5623,
+      "text": "So I will just write Nifty FMCG on trend line and the moment I write NIFTY FMCG on trend line, you will just find that PE ratio of FMCG index itself over a long period of time, the PE ratio of FMCG index has been between 30 to 40 times. And what is the PE ratio of FMCG index today? It is still at 41.6 times, right? So FMCG companies generally get a higher valuation by Mr. Market so over here we will apply the concept of median PE or average PE. So median PE concept FMCG index as a corner start right So now just look at an example of ITC. So ITC's example is very painful period."
+    },
+    {
+      "id": "cue-5664",
+      "timestamp": "1:34:24",
+      "seconds": 5664,
+      "text": "In such businesses, median P can help you a lot. Just come to PE ratio. Just look at the median P ratio. Median means average P is in the long term. Just over here in such businesses which are very, very stable in nature because you can see the earnings are growing very, very stable, very, very non-linearly, but stable growth are earnings. So over here, what ends up mattering is that in such businesses, median P can be a good proxy if margins are not so volatile. So if in the ITC case, I'm assuming that margins won't be extremely volatile."
+    },
+    {
+      "id": "cue-5698",
+      "timestamp": "1:34:58",
+      "seconds": 5698,
+      "text": "And margins will always be sustained between 35 to 38%. So wherever your margins are sustained, like, so remember this, whenever your margins trade in a band, right? Margin's are the sustainable thing. Just ITC case may over the last 10, 13 years, margin are between 35 to 38%. So over here in such businesses, using median P is not a bad idea. So as a rough estimate of value, if you use median PE in such businesses, it is not a bad idea. Right."
+    },
+    {
+      "id": "cue-5727",
+      "timestamp": "1:35:27",
+      "seconds": 5727,
+      "text": "Just look at the, like growth, like look at the PE ratio right now, PE ratio is at 26 times whereas median PE it is over a long period of time, 30 times. So maybe median PE say there is 10 to 12% more of value left in the company. Similarly, looking at a business that is by the name of Varun beverages, right? So Varun beverages is the example they can. So I think this has been the best FMCG performing stock ever since it has been listed. I think like you can see like whatever the returns have been and just look at the long term P ratio of the stock."
+    },
+    {
+      "id": "cue-5758",
+      "timestamp": "1:35:58",
+      "seconds": 5758,
+      "text": "You can just look at check this to 50 to 55 times the really long term P ratio of varun beverages has been. Simple reason why does it get little premium to the sector valuation sector 42-42 times P ratio. Why is varun beverages at 52-55 times simply because the sector is growing at 6 to 7 percent whereas, foreign beverages is growing at 20 percent right. So, 3x growth, 3x premium, basically like almost 20 to 30 percent premium in your P ratio as well. So, that is a simple example. So, whenever P ratio goes to high high level in modern beverages."
+    },
+    {
+      "id": "cue-5792",
+      "timestamp": "1:36:32",
+      "seconds": 5792,
+      "text": "Maybe the P ratio might contract and it might go back to mean, but generally it has stayed around the mean. Generally it has stayed around the mean for its like listing history. So this is another example. Then a example all the time because we are talking about like valuations only right so one example all because we are talking about consumption stocks only so just look at the example of ccl products right so ccl products got 2025 may 2025 may they've announced one more capacity total capacity will go to 77000 tons per atom So I'm just teaching you what the variables matter, right?"
+    },
+    {
+      "id": "cue-5828",
+      "timestamp": "1:37:08",
+      "seconds": 5828,
+      "text": "CCL products come if you look at stock chart between 2010 to 2015, It will be a different story. 2016 to 2021 will be a different story and 2022 and onwards. Currently, it has been a different story. It's a simple idea. So let's see. I'm just telling you about production capacity and volume growth. Just on production capacity and volume room. So in the comment section everyone with me, so this company coffee and this company has a mode. So 2016 to 2021, what was the production capacity of this company? Everyone did it increase or was stagnant? Stagnant, right?"
+    },
+    {
+      "id": "cue-5879",
+      "timestamp": "1:37:59",
+      "seconds": 5879,
+      "text": "Stagnant. So production capacity was stagnant between 2016 to 2021. So now just taking to you, you are like giving you an example. So the 2016 to 2021 may, if your P ratio is stagnant, just look at this. 2016 to 2021. So let's look at this. Let's look at the stock chart. You'll see the correlation. This is how markets are intelligent. 2015, 2021, years of zero return. Clear work, what is the key variable to look for in this talk?"
+    },
+    {
+      "id": "cue-5926",
+      "timestamp": "1:38:46",
+      "seconds": 5926,
+      "text": "Became clearer? Did it become clear? Right?"
+    },
+    {
+      "id": "cue-5947",
+      "timestamp": "1:39:07",
+      "seconds": 5947,
+      "text": "Now, simple example, simple example again, same stock between 2011 to 2015 when the volume capacities and everything was doubling 2015 2016 right so simple example almost over here clear over where did we start from at what price did we start 23 rupees and what price did we end in 2016 almost 247 rupees right now same stock when a new growth journey has been announced from 2021 what is happening over here what is happening over here let's leave covid as id this is the year of covid let's leave it from 300 the price has come to almost 570 this was the frustrating years a lot of people are frustrated and will be selling here without knowing what really is moving the stock price."
+    },
+    {
+      "id": "cue-6000",
+      "timestamp": "1:40:00",
+      "seconds": 6000,
+      "text": "So you don't have to see anything in consumption stocks. Just look at the volume growth of a company in the company's growth in the company's growing in double digits at the volume goes in double digits. Generally the stock price, the P starts getting rerated."
+    },
+    {
+      "id": "cue-6013",
+      "timestamp": "1:40:13",
+      "seconds": 6013,
+      "text": "The P rating starts happening because your earnings will also grow and there's a certainty of earnings in the businesses because they are very very simple to study right so this is again so maybe this is in the third fifth that the new journey has just started I think here volatility stops or that too with you so maybe the new journey has just started and over it right So maybe the new journey has just started and over there. So maybe the new journey has just started over there and still like it's an upwards trending zone. Right. So that is a simple example. That is a simple example. Right."
+    },
+    {
+      "id": "cue-6046",
+      "timestamp": "1:40:46",
+      "seconds": 6046,
+      "text": "Look at what it is. So between 2016 till 2021, the world even we stopped and let you buy the stock basically. We stopped and here major selling. So if you can identify these fundamental basis and then you combine it with such indicators, I think no one can stop you from creating an extraordinary system for your own returns. So we consumption capacity 77, 000 tons which is doubling again from 2022. So this is just a simple example of how we look for basically volume growth in FMC sectors. Banking may be studied how we look at book value ROE and ROA."
+    },
+    {
+      "id": "cue-6086",
+      "timestamp": "1:41:26",
+      "seconds": 6086,
+      "text": "Similarly, when it comes to hospitals, what we look at is a is a multiple by the name of enterprise value to EBITDA. Now, if you look at any hospital sector report, they will have this multiple. Or you can look at enterprise value to cash flows. You can look at enterprise value to cash flows of a business. So what is enterprise value? So enterprise value is nothing but what is enterprise value? So enterprise value is nothing but if a private buyer comes to buy the entire business then how much money will it give for that business? It will depend on the market cap of that business."
+    },
+    {
+      "id": "cue-6127",
+      "timestamp": "1:42:07",
+      "seconds": 6127,
+      "text": "Then you will also see how much net debt is in the business. Suppose let's take an example today. If we take an SOIC market cap, let's have a discussion with you. Suppose the SOIC market cap is, what do you think is in the comment section below, for example, just to make it like, easier for you, right? So let's take an example, to simplify it, the SOIC market cap. Let's take an example. Simple. So I see come out the cap. One and let's see and let's apart from that let's see assumption So, we have a market cap of 1 crore and total debt is in SOIC."
+    },
+    {
+      "id": "cue-6185",
+      "timestamp": "1:43:05",
+      "seconds": 6185,
+      "text": "We have a market cap of 1 crore. We are not debt free. For example, total debt is in SOIC. Let's assume that it is a debt of 20 lakhs. And cash is in SOIC balance sheet pay 10 lakh rupees ka badaway right to in the archway private buyer adai who offers to buy s o I c beshukam manay kar denge but assume he offers to buy s o I c so what is the what is the entire price that he will basically give to buy SOIC. Simple example is that is one carot."
+    },
+    {
+      "id": "cue-6217",
+      "timestamp": "1:43:37",
+      "seconds": 6217,
+      "text": "That is one carot plus 20 lakhs minus 10 lakhs to 1.1 crores because your debt debt that also the private buyer will have to assume and debt will automatically get subtracted by cash because there is so much cash on the balance sheet. So you can pay off the debt and remaining debt the private buyer will assume. So this is the idea of enterprise value in the comment section below. Enterprise value clear. What was the enterprise value? Did it become clear? Easy."
+    },
+    {
+      "id": "cue-6246",
+      "timestamp": "1:44:06",
+      "seconds": 6246,
+      "text": "Debt is added because when a private buyer buys a company, so if someone buys a private buyer company, he will also have to assume the debt of the company. If I buy a company today, I buy the company in private transaction. There is also debt on the balance sheet of the company. So that is the part of the market cap because I will have to repay the debt. So that debt gets added into the enterprise value. Did it become easier now? So easier, right? So enterprise net debt. Ka yehi formula that's so net debt is debt minus cash gross debt. Kya adai just the total debt."
+    },
+    {
+      "id": "cue-6285",
+      "timestamp": "1:44:45",
+      "seconds": 6285,
+      "text": "So this is how enterprise value gets calculated. So EV2, EBITDA formula, what does it mean? We use it in hospitals. So why do we use EV2, EBITDA and hospitals? Simple reason is that in hospitals, there is no working capital. There is very less working capital involvement. So your EBITDA that flows down to your cash flow. So your EBITDA ends up becoming your cash flow. So in hospital business what ends up happening is when you put up a hospital, if I put up a hospital today, the average life of hospital will be between 20-30 years."
+    },
+    {
+      "id": "cue-6322",
+      "timestamp": "1:45:22",
+      "seconds": 6322,
+      "text": "But because I have put up a hospital, what will it hit on balance sheet or income statement? Depreciation. Depreciation will hit and other expenses will hit due to which my earnings might look artificially lower. So you might see that hospitals, which type of Kpex do we do? What are the three types of Kpex? We have talked about it in the hospital webinar as well. What are the ways for hospitals to do CAPEX? Greenfield, right? Brownfield, right? Greenfield, Brownfield. Greenfield within same city. Awesome. Greenfield in same city. Brownfield. Acquisition, right?"
+    },
+    {
+      "id": "cue-6367",
+      "timestamp": "1:46:07",
+      "seconds": 6367,
+      "text": "So, primary reason why hospitals which do actually brown field capyx or do sasta accusations get more valuations by Mr. Market simply because your earnings do not depress that much. Another question for all of you in the comment section. How much time will it take Gangaram to break even in Mumbai in the comment section everyone Everyone everyone should participate everyone just participate Right so simple answer is for on an average for a hospital to break even the time taken is somewhere close to 6 to 8 years."
+    },
+    {
+      "id": "cue-6411",
+      "timestamp": "1:46:51",
+      "seconds": 6411,
+      "text": "For a hospital to break even in a new geography, the average time taken is 6 to 8 years."
+    },
+    {
+      "id": "cue-6418",
+      "timestamp": "1:46:58",
+      "seconds": 6418,
+      "text": "So this is why the hospitals which do a lot of greenfield markets sort of the stock price goes in long hibernation right Joe a gum different different cities may go green field current even green field within a new city the stock price might not move for a while right so over here we have the entire hospital sector ev2 ebita ratios price to earnings ratios but price to earnings ratio may what problem will be because your earnings might be depressed because of your depreciation so EV to EBITDA ratio any analyst report that you read everyone looks for EV to EBITDA ratio when it comes to hospital Another one that you can use apart from ev2 ebeta ratio in hospitals is enterprise value to cash flow ratio."
+    },
+    {
+      "id": "cue-6461",
+      "timestamp": "1:47:41",
+      "seconds": 6461,
+      "text": "Enterprise value to cash flow ratio that is one you can use to value hospitals right. Enterprise value to cash flow ratios right yeah enterprise value to ebeta ratio. Over here if we just benchmark the sector today right If we just benchmark the sector today, right? If we just benchmark the sector today along with the margins of the sectors, right? So you just look at the EBITDA ratio, right? So first, let's look at the health care global EV2 EBITDA ratio. You will find it is like on exit 2023, it is 15.4 times then 13 times then 11.4 times."
+    },
+    {
+      "id": "cue-6493",
+      "timestamp": "1:48:13",
+      "seconds": 6493,
+      "text": "Even on 2023 basis, how many cheaper hospitals are there in hcg only one that is astrodm so the two cheapest hospitals within the sector are these astrodm is doing a lot of greenfield expansions astrodm is doing a lot of greenfield expansions and it has it also has a hospital based out in middle east the Middle East hospitals go come valuation milty. So this is why it might get a cheaper valuation. But HCG a question to all of you in the comment section. The answer is that their utilization is around 60%."
+    },
+    {
+      "id": "cue-6530",
+      "timestamp": "1:48:50",
+      "seconds": 6530,
+      "text": "So the utilization capacity around 60% is bed utilization and they are not doing any greenfield cap access. So they want to increase their bed utilization for the next 2 to 3 years. So again, this is why, so past reason for cheapness was too much greenfield and too much depreciation, but now your EV2 EBITDA has come to a very, very reasonable level. So again, this is something that I will study just by looking at the sector broadly. I mean, I am teaching you value picking opportunities through the valuations. Similarly, rainbow children Medicare."
+    },
+    {
+      "id": "cue-6563",
+      "timestamp": "1:49:23",
+      "seconds": 6563,
+      "text": "So rainbow children is putting is doing a lot of Kpex. Out of this 1000 beds which are coming up, 800 beds are coming up within existing cities where they've established centers. And what is the margins of rainbow? 35, 33% margins I think is post-India, pre-India is 25% margin. So margins be sector may best."
+    },
+    {
+      "id": "cue-6588",
+      "timestamp": "1:49:48",
+      "seconds": 6588,
+      "text": "So this is just another example that again this stock might get filtered for me because EV2 EBITDA is 19.6 times whereas this highest valuation in the sector is given to max healthcare at 29.4 times and apart from that Apollo hospital also gets a 27.4 times whereas a children care hospital doesn't have any regulation risk of the government. The government regulation risk near children care hospital because scheme patients 0.5% are here. So this is another hospital that gets filtered for me just by looking at the variations and the margins as compared to other peers and also the business model."
+    },
+    {
+      "id": "cue-6625",
+      "timestamp": "1:50:25",
+      "seconds": 6625,
+      "text": "This is the out of 5000 beds in the industry of pediatrics. It will have almost 50% of the beds. So this again gets filtered looking at the most premium hospitals, right? So again, you filter. Similarly, Narayana is another one that gets filtered for me because all the capex that is coming up is green field within a new city, but might be the returns come as compared to Hcg for like rainbow, like rainbow as an example. Similarly, I'll go and read to Aster but Apollo hospital gets deleted. Similarly, Max healthcare also gets deleted."
+    },
+    {
+      "id": "cue-6659",
+      "timestamp": "1:50:59",
+      "seconds": 6659,
+      "text": "But Kims is doing green field expansion within new and new cities. Almost 2000 crore Kpex may 1000 crore green field expansion in new cities. So this is why these variables, even though it is as compared to and this is why it gets kind of deleted for me that I don't want to study it at the moment because the key variable isn't fitting the theme. So that is just an example how we do it. 40s healthcare also might get filtered. So 40s also I might study. So this is an example at how we look at sectoral valuations and how we come to opportunities."
+    },
+    {
+      "id": "cue-6695",
+      "timestamp": "1:51:35",
+      "seconds": 6695,
+      "text": "So this is our work, different sectors have tried to see the valuation of what are the multiples or what are the metrics that we are using. In banks, we are using price to book, ROA and ROE hospitals, we are using the idea of basically looking at your EB2, EBITDA ratios and also like third one which we looked at was FMCG sector. We looked at volume growth and marrying with the like stock median piece. So these are some of the things that we learned today right now. But before going forward, very, very important concept, I think is webinar main, I think, because we are already at 5, 10 p.m."
+    },
+    {
+      "id": "cue-6731",
+      "timestamp": "1:52:11",
+      "seconds": 6731,
+      "text": "So I'll teach you two more concepts, which will really simplify the idea of exits and entries for you. The idea of exits and entries is very simple for you. Whoever is prepared, let's do it. I'll come to the concept of margin of safety and zone of danger. The concept of margin of safety is a very important concept. Because majority of the time we end up buying stocks when they are in zone of danger so what is margin of safety?"
+    },
+    {
+      "id": "cue-6762",
+      "timestamp": "1:52:42",
+      "seconds": 6762,
+      "text": "So margin of safety is a concept that this pool is built to carry a weight of 50, 000 kilos and you will declare it can only carry 30, 000 kilos right, so there is a margin of safety or you can declare it will only carry 25, 000 kilos so there is a margin of safety of nearly 50%. So this is the idea of margin of safety. In the simplest term, I will explain the example of companies. The idea of margin of safety is the simplest of the simple terms. Now what is zone of danger?"
+    },
+    {
+      "id": "cue-6798",
+      "timestamp": "1:53:18",
+      "seconds": 6798,
+      "text": "So what is zone of danger so zone of danger is what is that not in spite of 50, 000 kilos ka ish peyab kari kal sathe hai aap kita kari kar rahe hai aap aap poora exact 50, 000 kar rahe hai aap aap you are carrying 60, 000. So what will end up happening? The pull will break down. The pull will break down. And this is what also happens in stocks. So this is also what happens in stocks. So what happens in stocks? So this is an over-earning and under-earning concept. So we will also look at deep value opportunities today. Where under-earning is also happening."
+    },
+    {
+      "id": "cue-6836",
+      "timestamp": "1:53:56",
+      "seconds": 6836,
+      "text": "Then we will also get away from over-earnings. How is over-earning happening here? So idea of under-earning and over-earning. So the zone of danger is that you have talked in the last webinar, I will discuss many examples. And only one negative surprise is required for the D rating to start. That is peak margins plus peak P ratios. See, in re-rating, there is always a excuse that growth has become fast and in D rating, there is always an excuse. What is P re-rating?"
+    },
+    {
+      "id": "cue-6863",
+      "timestamp": "1:54:23",
+      "seconds": 6863,
+      "text": "That P usually companies used to get at 10 times but it goes to 30 times so this is known as P re-rating that your perception improves what is PD rating right PD rating is the P usually the company used to get was 100 times but now it has come down to 60 times. They say Dixon Mewel. So this is an example of PED rating and PED rating. So this is a simple example. So idea is not to buy companies when they are overheated. The idea is not to buy companies at this point of time. So this is the time when the companies are really overheated."
+    },
+    {
+      "id": "cue-6906",
+      "timestamp": "1:55:06",
+      "seconds": 6906,
+      "text": "So I can take multiple examples with you but simple example is what is over earning and what is under earning. These are the two simple examples that we have to discuss. What is the over earning and under earning? So over earning is when a company earns more than average profits due to some shortage or one of orders, right? You do some shortage or one of orders. Over earnings lead to creation of massive expectations and a large base size."
+    },
+    {
+      "id": "cue-6937",
+      "timestamp": "1:55:37",
+      "seconds": 6937,
+      "text": "Example PVC pipe may PVC companies were going through inventory gains, DVs and mall loopy Ravi, Laura's and Paxley wide, all the industries and one of income, a mine players and their margins, a recent example at App Quotexka. And a lot of these examples are not in the hindsight. A lot of these examples were given to the at least the SOIC tribe in Forsyte. How come? Let's just look at this. So here I download so I'll just open Telegram and Telegram There is an SOIC telegram page which is just meant for SOIC tribe members."
+    },
+    {
+      "id": "cue-6970",
+      "timestamp": "1:56:10",
+      "seconds": 6970,
+      "text": "And over there, we can just search for like, let's search for like one off. So idea of one off earnings. So over here, this is a post on Laura's labs done on when done, when it was 29 July 2022. So there was a report published by like there was a report published by Kota."
+    },
+    {
+      "id": "cue-6993",
+      "timestamp": "1:56:33",
+      "seconds": 6993,
+      "text": "And I like over here mentioned, learn to look beyond one of them report be parenge report me ka likhata right then another example is that of DVs to DVs pebi jump last to last quarter k results I think so DVs monlupiravir paid tapered out so just over air right over air this also be posted May 23 2022 covers why DVs growth has been led by one molecule, X of monopiravir, DVs has been underperforming the generic API market. What are the kinds of reports?"
+    },
+    {
+      "id": "cue-7024",
+      "timestamp": "1:57:04",
+      "seconds": 7024,
+      "text": "Simply, if you remove one of growth, because that one of the molecules that you get from COVID, if you look at the base business, because that molecule won't come again and again, If you look at the base business, this is where I mentioned that they look past one of growth in DVs and this should ideally be a part of PE calculation if earnings don't re-occur yesterday's session. And this is the point of time."
+    },
+    {
+      "id": "cue-7051",
+      "timestamp": "1:57:31",
+      "seconds": 7051,
+      "text": "If you look at the V stop, where it was hit, the exact V stop was later but if you look at this, if you look at this, it came from 4000 to 4000, it was hit on V stop I remember this because I have been using this for last one year as an experimentation before presenting it for all of you. So here fundamental negative news also came and your V stop also hit and it was a time to completely take an exit. One of earnings on like one of earnings which lead to one of profits can be really, really risky."
+    },
+    {
+      "id": "cue-7091",
+      "timestamp": "1:58:11",
+      "seconds": 7091,
+      "text": "And other up as a retail investor, you do not have time for such amount of research, then simply follow this system, right? Because system also indicated an exit, right? Marrying the fundamentals with the technical side. This is the beauty of a system. So volatility index may The time to sell is on the first red sign."
+    },
+    {
+      "id": "cue-7112",
+      "timestamp": "1:58:32",
+      "seconds": 7112,
+      "text": "So here in volatility, if you see the first exit sign was that somewhere The first red candle that started to come, the price was 41-4200 as the month was not continuing So this is the first red sign, the whole red candle was not complete because I remember this because I was looking at it back then. So basically this was the first red sign. As of February, it hasn't completed but still your monthly candle has started forming. Because the calculation starts in the last 30 days. This is an idea. At 340 or 4200, exit was triggered. This is a simple idea of looking at one of earnings."
+    },
+    {
+      "id": "cue-7151",
+      "timestamp": "1:59:11",
+      "seconds": 7151,
+      "text": "So whenever you are buying stocks, always one of earnings, you have to take into account without it you will always suffer if you keep buying it at the peak. Another example which could be a very long term opportunity for long term investors is a business of buy the name of Apkotex. Apkotex video because all these are case studies without case studies, you cannot study the valuation. Appcotex management itself came and said that the margin will be between 12-18%. The current margins are because of inventory gains because crude oil prices have increased."
+    },
+    {
+      "id": "cue-7196",
+      "timestamp": "1:59:56",
+      "seconds": 7196,
+      "text": "So at least when you're looking to buy, at least when you're looking at it in near term, You need to have an idea on the historic margins and what are the margins today because apkotex example similarly management itself in the concold comes and says he marayay margin ka yaha pe ek band rayaega right and I think a lot of tribe members asked this question. I think when Barbara was telling us, maybe answer the community points, he basically, this is over-earning right now. Is that simply just look at this, right?"
+    },
+    {
+      "id": "cue-7228",
+      "timestamp": "2:00:28",
+      "seconds": 7228,
+      "text": "He long-term, they say that the margins have always been between 12 to 18% but currently your margins went to almost 16%. Now the margins are back to 13% and they might go to 11 to 12%. So again, zone of danger in this area because inventory gain is increasing. I bought inventory for crude oil and the price of crude oil increased. So I am showing inventory gains."
+    },
+    {
+      "id": "cue-7249",
+      "timestamp": "2:00:49",
+      "seconds": 7249,
+      "text": "This is why my gross margins will keep expanding so my gross margins would have been expanding and normally my gross margins are between 30-35% and now gross margins are coming back to me so this mean, I have a view on the average gross margins Have a view on the average margins. Just look at the average margins. So just have a view on the average margins. It has always been between 25-30% but here it got elevated. The margins were elevated here. It is very important to take a picture of the long term average margins."
+    },
+    {
+      "id": "cue-7282",
+      "timestamp": "2:01:22",
+      "seconds": 7282,
+      "text": "And the type of business apkotex is, it also like, sometimes it grows really well, then few years it goes into cyclicality. For really long term investors, it's a solid monopoly business because 18p can expand P because earnings might contract. Their 5-10 year horizon, they might like to study it right. Their near term horizon is one year headwind basically they expanded for glove manufacturers."
+    },
+    {
+      "id": "cue-7314",
+      "timestamp": "2:01:54",
+      "seconds": 7314,
+      "text": "They set up a latex capacity, but glove industry may over supply because of COVID, you do which currently they are not able to sell their produce but they are still saying after one year it shall reduce and we will get 25% ROCE from this project. So in such a business where even currently your valuations aren't obscene and because it is literally monopny in a lot of products, I will like to buy it like I'll just explaining it. If hypothetically your business is like a disclaimer, no, not a buy or sell recommendation. So I will look at it when it goes below long term average margins."
+    },
+    {
+      "id": "cue-7347",
+      "timestamp": "2:02:27",
+      "seconds": 7347,
+      "text": "Below long term average margins. If it goes from 13 to 15% lower margin like last four years, product mix has changed. If it goes back to 10, 11% margin, that is where I'll get very interested in this because margin of safety will be there. Now, where was the zone of danger? What will come there? Margin of safety."
+    },
+    {
+      "id": "cue-7366",
+      "timestamp": "2:02:46",
+      "seconds": 7366,
+      "text": "Then we can play the two three year cycle and in that scenario we'll be ignoring volatility stock because I'm up now fundamental analysis K and I'm up now financial modeling K stock K layer and because this company has done 200 crores of capex And that 200 crores of capex can give 700 crores of sales to the company. And this 200 crore capex where company will do 30 crore of deep bottle necking, that will lead to 300 crores of sales. So totally 1000 crore of sales this company can add with the additional capex. But problem is that additional capex will hurt them for the next 3-4 quarters."
+    },
+    {
+      "id": "cue-7398",
+      "timestamp": "2:03:18",
+      "seconds": 7398,
+      "text": "Because capitalized capitalization or demand is not there. What will hit the profit and loss statement? So again, point to buy is when they are under earning. So that is deep value investing and not point to buy isn't when they are over earning."
+    },
+    {
+      "id": "cue-7410",
+      "timestamp": "2:03:30",
+      "seconds": 7410,
+      "text": "Because over earning they will be across everywhere right so again management keeps doing an SIP but over earning or the under earning mental model and apply this this will save you so much money I can't even tell you like how much money it will save you as tech case 24% margins where it wasn't the time to buy it similarly in the case of biology mines and alkyl mines 25 30 30 5 40% margins wasn't the time to buy. I think Alka El Amines and Balaji Amines case study, we covered the last session. I will teach you two more things today because I think again two are coming across."
+    },
+    {
+      "id": "cue-7447",
+      "timestamp": "2:04:07",
+      "seconds": 7447,
+      "text": "So two things also come. Just give me your attention for under 10, 15 minutes. And then we learn two more important things today because this is a part of valuations. Without anyone, valuations can't be learned. First thing I will teach you is that if you want to do bottom fishing in a stock, then what you should ideally wait for? That is one thing that I will teach you. Second thing that I will teach you is that how to do this financial modeling in companies like Steelcast to manufacturing companies and how to model it over there right."
+    },
+    {
+      "id": "cue-7474",
+      "timestamp": "2:04:34",
+      "seconds": 7474,
+      "text": "So just coming to like over here so I think first I think presentation say I'll just finish this idea of I like catching falling knives so falling knives come let me see a come let me see a so that is the idea that will basically cover over here. So falling knife and base formation, this is something that we fundamental investors can borrow from technical analysis, right? So what is the base formation? So it is when you're moving averages or the stock consolidates. So see a stock will always go in three trends. Three trends."
+    },
+    {
+      "id": "cue-7508",
+      "timestamp": "2:05:08",
+      "seconds": 7508,
+      "text": "You guys tell me in the comment section, what are the three trends a stock goes through in the comment section? What are the three trends? Three trends. Bullish bearish sideways, right? Bullish, bearish and sideways. Great. So these are the 3 trends which a stock price goes in. Right. So bullish bearish sideways or we can call this uptrend. You can call this downtrend or we can call this sideways trend or we can call this sideways trend. Ideal time to do bottom fishing is when the downtrend has subsided, means, if you want to sell it, then everyone has sold it."
+    },
+    {
+      "id": "cue-7557",
+      "timestamp": "2:05:57",
+      "seconds": 7557,
+      "text": "And it goes in a sideways trend. It starts basically like moving in a channel. Means stock price starts forming a base. Means it is on the floor. It is not going down. Here basically it has a resistance. And a support. It is moving between that. Why is base formation important? I will teach you why. Very interesting example. Base formation is very important. Now let's open a business by the name of Supriya Life Sciences. Supriya Life Sciences, what is the value? 12.5 times. You look at the margins, you look at the growth. So growth hasn't been that bad."
+    },
+    {
+      "id": "cue-7596",
+      "timestamp": "2:06:36",
+      "seconds": 7596,
+      "text": "It's a 128 crore pad that used to cost 39 crores. So growth, everything has been good. But the Pee ratio will think that there are 20% companies guiding for 25% growth. Then someone will say that there is 15% growth and then they buy it. Someone will say that there is a growth ratio of 12% and they buy the company. But the answer is you have to be very careful. Why so? Because simple thing. See, these things are important because they will serve you in creating a solid system. If you are doing bottom fishing, so you wait for the stock to stabilize in a sideways trend."
+    },
+    {
+      "id": "cue-7633",
+      "timestamp": "2:07:13",
+      "seconds": 7633,
+      "text": "So simple idea, simple idea, like let's look at a business by the name of Iran but here I'll do weekly charts and not monthly weekly charts. I'll go to right here. I'll go to just weekly charts."
+    },
+    {
+      "id": "cue-7645",
+      "timestamp": "2:07:25",
+      "seconds": 7645,
+      "text": "We'll go to weekly charts and you only tell me so you guys tell me is the stock forming higher highs or higher lows is the stock forming higher highs or higher lows and this is a gap down right this is a gap down is the stock forming higher highs or higher lows and you have a simple indicator used come up which is very easy is moving average use or I can use exponential moving average to exponential moving average you can use."
+    },
+    {
+      "id": "cue-7676",
+      "timestamp": "2:07:56",
+      "seconds": 7676,
+      "text": "So I'll just write exponential moving average moving average exponential for SOIC try members the technicals I think four hours of course is out, two hours of course are regular which will be out this week as well. So length of your exponential moving average, you can take it as 30 weeks, right?"
+    },
+    {
+      "id": "cue-7692",
+      "timestamp": "2:08:12",
+      "seconds": 7692,
+      "text": "You can either take it as 30 weeks or you can just take it as 12 weeks as well but you will just find that the it is always forming higher lows right so it is forming lower lows and lower highs if you look at the stop even your exponential moving average 30 weekly is trending downwards trending downwards so we here base formation start may be right similarly if you look at a business by the name of Doodla dairy, I'm not mistaken with a little recent idea to 30 week history, it's a little bit less than a doodla dairy type business. If you just search for it, right?"
+    },
+    {
+      "id": "cue-7726",
+      "timestamp": "2:08:46",
+      "seconds": 7726,
+      "text": "So I think it is open nowhere, right? All right. So do not any type business may is a base being formed in the comment section is a base being formed in the comment section is a base being formed right now. In the comment section. Excite ways trend may start."
+    },
+    {
+      "id": "cue-7747",
+      "timestamp": "2:09:07",
+      "seconds": 7747,
+      "text": "Looks like it is starting to be formed and yes it is getting formed you can see it is in a sideways trend just look at the moving average I think it is from July 22nd and it is still in the same place so it is not freefall so the problem is as a retail investor, what you end up doing is that first thing, exit signs we do not care for and then we start averaging down without any respect to process. Without any respect to process. Just look at this. There is no base which has been formed as of now."
+    },
+    {
+      "id": "cue-7777",
+      "timestamp": "2:09:37",
+      "seconds": 7777,
+      "text": "And this was the, I think we, itself, we exited at 170-160, which I think in hindsight looks to be the wrong selling pointers because we made almost one bag in this and we didn't respect the selling. In my journey, I saw that wherever I didn't respect the selling, I was affected. And wherever I did, like in NeoGen and IEX, there we have made solid money. Wherever I didn't do it, we have made losses only and we have seen our gains getting evaporated. Similarly, reverse DCF like the earnings expectation were like you have to grow 30% in 10 years. So then didn't make any sense."
+    },
+    {
+      "id": "cue-7812",
+      "timestamp": "2:10:12",
+      "seconds": 7812,
+      "text": "But once it broke down, right? Once this technical or B stop, we are big, except exit. They are the only base form for a sequence in the comment section. Is there a base being formed in sequence? Yes or no. So there is no point in bottom fishing. That is a simple idea of the day. There is no point in bottom fishing at the end of the day. Right median P sequence actually P was 60 70. After the result, it went to 120 180 because earnings will collapse. Right. So it's a bent broken and beyond belief thesis that will play out here. That believe will not be like this."
+    },
+    {
+      "id": "cue-7847",
+      "timestamp": "2:10:47",
+      "seconds": 7847,
+      "text": "But exit exit should be disciplined when to buy is overrated. What to buy is overrated when to exit is the most underrated part of investing because exits will help you to manage risk. Exits is what will help you to manage this. Another business jubilant ingreavir right now. Right jubilant ingreavir right now. So I think over here, your moving averages have started stabilizing a bit. Right over here has started stabilizing and you see that the margins have also started stabilizing. And so you see from the last one year, it is just roaming in that band only, right? The stabilization start area."
+    },
+    {
+      "id": "cue-7883",
+      "timestamp": "2:11:23",
+      "seconds": 7883,
+      "text": "So this is a business I will go and study deeply because the margins increases. So it's got financial model B when I am there. So again, you have to only go for bottom fishing once your base starts getting formed. If you go for bottom fishing in a freefall scenario, you will likely get killed. There's no other way to put it. Then you will see what I bought, why I bought more, so that is like just like one place is hurt, you are going to hit it more, so that is what it means for two to four year horizon investors. Similarly, RTI industries, so the demurger is okay, the share price value of Rs."
+    },
+    {
+      "id": "cue-7923",
+      "timestamp": "2:12:03",
+      "seconds": 7923,
+      "text": "150 has come out of it, but apart from that business is going through strong headwinds. So, yes, by the pessimism, everything is good. But let it form a base first. Valuation wise, it's not cheap yet. The stock is going on the PEP of 36-37 where the earnings are not growing by 10-15%. In the last 4-5 years. So, it's still not cheap enough as compared to your peg ratios. So again, an idea, let it form a base first. It's clear that let it form a base is how important. So another example is that of Gujarat Flora Chem. So Gujarat Flora Chem is a business where basically just look at this."
+    },
+    {
+      "id": "cue-7957",
+      "timestamp": "2:12:37",
+      "seconds": 7957,
+      "text": "So Gujarat Flora Chem questions are coming. So again, your fundamental thesis has to be really, really strong in such businesses. And where you think that the earnings are growing, what is happening to fluoropolymers and what is happening to stuff. So again, it's a business where just over here, just a second. So this is a business where your Vstop has been triggered. So someone owning might be selling. But again, over here, you'll marry risk with allocations. If you don't take an exit, Your fundamental thesis has to be very strong."
+    },
+    {
+      "id": "cue-7987",
+      "timestamp": "2:13:07",
+      "seconds": 7987,
+      "text": "In my scenario, lower allocation and building this allocation up as I get more and more comfortable with the business. This system is overriding when the fundamental thesis is very intact. If you don't have that understanding, I think it's on weekly, I think it's not going to trigger the exit on monthly basis. On monthly basis, it is close to your volatility stop only. So, no exit has been triggered on monthly basis."
+    },
+    {
+      "id": "cue-8013",
+      "timestamp": "2:13:33",
+      "seconds": 8013,
+      "text": "And again, if your fundamental thesis is strong enough then this is a point to study businesses right results check karo ek doh quarter ke ka results hai if like your volatility stop start standing again then you start building your allocation again to averaging up ka bhi ek besey hum logik cheese use katta to go bhi aapko sikaunga But this is just an idea that fundamentally, if your thesis is enough, like is strong enough and if you're taking a 5, 10 year horizon, then maybe in the scenario of 2 to 4 years, you won't be able to do this."
+    },
+    {
+      "id": "cue-8041",
+      "timestamp": "2:14:01",
+      "seconds": 8041,
+      "text": "So again, objective is VVGP that was a person, Either use it for 2 to 4 year horizon or use it for 5 to 10 year horizon. Where you are taking some other framework. So these are the two scenarios to use it in. So now we have learnt base formation. And final thing, I think, learning base formation was very important. So after base formation I think I will go to like SOTP and learn all these things. But before that I will prepare you so that you come to the next week session also 100% that I will prepare you a little bit that which companies I will be discussing."
+    },
+    {
+      "id": "cue-8075",
+      "timestamp": "2:14:35",
+      "seconds": 8075,
+      "text": "So that next week's session may be 100% time. I will prepare a little bit for you to discuss which companies we will be doing. We will be doing a valuation of PB FinTech which is after a lot of pessimism. Now the base is being formed and company might start growing. So it's like valuation exercise. We'll try and you age companies may then we'll try a valuation exercise for jubilant and review. I'll try. Then next week may I make valuation exercise. Who's going to try? So just over there. Just give me a second. All right, over here."
+    },
+    {
+      "id": "cue-8104",
+      "timestamp": "2:15:04",
+      "seconds": 8104,
+      "text": "Steel cast cut, try it again, which seems to be at a very reasonable valuation, right? As compared to the growth that is coming. So, So that I'll just send the model on SOIC group. So SOIC telegram group. Over here, I'll just I'll just also explain to you how the depreciation was modeled because they are not increasing the capex size or maintenance capex. Then we'll also learn how we can model Sandoor Magnes. So I'll make a live model in front of you. So how a live model can be made because this company is seemingly at 1.5 X EBITDA. Similarly, we'll actually do modeling of RTI Pharma Labs."
+    },
+    {
+      "id": "cue-8147",
+      "timestamp": "2:15:47",
+      "seconds": 8147,
+      "text": "So RTI pharma labs is more into your businesses which are regulated markets and margins are higher as compared to our three drugs problem can be sector is in the dole rums as our three drugs is into your developed markets and it is into much like inferior quality business. So R3 pharma labs got a nine month patent at is 150 crores. Now your question is where did 150 crores come from? So they have given a nine month FI 23 Pat like Pat statement like earning statement income statement of balance sheet. Whereas market cap it is getting is 2, 351 crores, which is at an 11.7 times P ratio."
+    },
+    {
+      "id": "cue-8188",
+      "timestamp": "2:16:28",
+      "seconds": 8188,
+      "text": "Whereas growth has been from FI 21, it has grown to 1460 crores within first nine months and EBIT again so your EBIT have contracted to 15% because of Parma sector may be chalera time so EBIT margins are doubled out of R3 drugs whereas valuation is half of RTI drugs so valuation is at a 50% off of RTI drugs so this is relative peer to peer valuation here we are seeing that one stock is cheaper compared to similar stock within the same sector and RTI drugs are in unregulated markets whereas RTI pharma's 56% of sales is into North American Europe. But sector is time to headwinds get through."
+    },
+    {
+      "id": "cue-8228",
+      "timestamp": "2:17:08",
+      "seconds": 8228,
+      "text": "So sizing is what will help us to deal with risk. Joe portfolio allocations may but current right. So this is with our T Farmer labs or Bm companies care discuss current day. You discounted cash flows by Asian paints K. I got a bit discounted cash flow and discounting the seeking it. But I think I think we have just over enough time. Thank you so much. Hopefully we keep meeting each other again and again and this is what we love to do is to add value to each and every one of you. Thank you so much for joining us. Hope to see you in the next session of SYC. Jai Hind."
+    }
+  ]
+}
