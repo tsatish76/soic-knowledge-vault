@@ -84,8 +84,8 @@ subcourses.forEach(sub => {
     const rawSummary = fs.readFileSync(summaryPath, 'utf-8');
     const indexPath = path.join(subPath, 'index.md');
 
-    let quickNav = `<div class="p-4 my-4 rounded-xl bg-slate-900 border border-slate-800">\n`;
-    quickNav += `<span class="text-xs font-bold uppercase text-emerald-400 tracking-wider">Sub-Course Navigation</span>\n`;
+    let quickNav = `<div class="subcourse-nav-box">\n`;
+    quickNav += `  <div class="subcourse-nav-title">Sub-Course Quick Navigation</div>\n`;
     quickNav += `<div class="flex flex-wrap gap-2 mt-2">\n`;
     
     if (courseStructure[sub].summaryReferencesFile) {
@@ -128,7 +128,7 @@ subcourses.forEach(sub => {
 
   if (c.reports.length > 0) {
     const reportItems = c.reports.map(r => ({
-      text: `Lec ${r.lecNum < 10 ? '0' + r.lecNum : r.lecNum}: ${r.title.length > 35 ? r.title.slice(0, 32) + '...' : r.title}`,
+      text: `Lec ${r.lecNum < 10 ? '0' + r.lecNum : r.lecNum}: ${r.title}`,
       link: r.link
     }));
     items.push({
@@ -171,7 +171,7 @@ if (fs.existsSync(manifestFile)) {
           text: courseNames[sub] || sub.toUpperCase(),
           collapsed: false,
           items: manifest[sub].map(t => ({
-            text: `${t.lectureId}: ${t.lectureTitle.length > 32 ? t.lectureTitle.slice(0, 30) + '...' : t.lectureTitle}`,
+            text: `${t.lectureId}: ${t.lectureTitle}`,
             link: t.pageUrl
           }))
         });

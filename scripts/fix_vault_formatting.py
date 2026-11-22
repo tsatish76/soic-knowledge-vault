@@ -192,12 +192,12 @@ def convert_lecture_index_to_cards(content, subcourse):
     """
     Converts 6-column markdown table in '2. LECTURE INDEX' into responsive card grid
     """
-    pattern = re.compile(r'(###?\s*2\.\s*LECTURE INDEX.*?\n)(?:\|.*?\|[\r\n]+)+', re.DOTALL)
+    pattern = re.compile(r'(###?\s*2\\?\.\s*LECTURE INDEX.*?\n)(?:\|.*?\|[\r\n]+)+', re.DOTALL)
     m = pattern.search(content)
     if not m:
         return content
     
-    header = m.group(1).strip()
+    header = re.sub(r'\\([.!])', r'\1', m.group(1).strip())
     table_text = m.group(0)[len(m.group(1)):].strip()
     lines = [l.strip() for l in table_text.splitlines() if l.strip().startswith('|')]
     if len(lines) < 3:
@@ -208,9 +208,9 @@ def convert_lecture_index_to_cards(content, subcourse):
         cols = [c.strip() for c in line.strip('|').split('|')]
         if len(cols) >= 5:
             lec_id = re.sub(r'[*_`]', '', cols[0]).strip()
-            title = re.sub(r'[*_`]', '', cols[1]).strip()
+            title = re.sub(r'[*_`]', '', cols[1]).strip().replace(r'\!', '!').replace(r'\(', '(').replace(r'\)', ')')
             duration = cols[2].strip()
-            focus = cols[3].strip()
+            focus = cols[3].strip().replace(r'\!', '!').replace(r'\(', '(').replace(r'\)', ')')
             pillars_raw = cols[4].strip()
             pillars = [p.strip() for p in re.split(r'[,/]', pillars_raw) if p.strip()]
             report_raw = cols[5].strip() if len(cols) > 5 else ''

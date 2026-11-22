@@ -1,5 +1,5 @@
-<div class="p-4 my-4 rounded-xl bg-slate-900 border border-slate-800">
-<span class="text-xs font-bold uppercase text-emerald-400 tracking-wider">Sub-Course Navigation</span>
+<div class="subcourse-nav-box">
+  <div class="subcourse-nav-title">Sub-Course Quick Navigation</div>
 <div class="flex flex-wrap gap-2 mt-2">
   <a class="sanchay-pill" href="./CC_Summary_References">⚡ 3-Min Summary Cards (D2)</a>
   <a class="ts-chip" href="/courses/cc/CC_Lec01_Report">Lec 01</a>
@@ -22,17 +22,116 @@ Within the **TVGP (Theme, Valuation, Growth, Promoter)** architecture, this sub-
 
 ---
 
-### 2\. LECTURE INDEX
+### 2. LECTURE INDEX
 
-| Lecture ID | Title | Duration | One-line Focus | TVGP Pillar(s) | Detailed Report |
-| :---: | :---- | :---: | :---- | :---: | :---: |
-| **CC-Lec01** | Finding Multibaggers\! Fundamental Analysis (Crash Course Class 3\) | 03:28:35 | Screening modularly for white spaces, anti-dumping vacuums, deleveraging, S-curves, and PEAD aligned with Stage 2 breakouts and Core/Satellite sizing. | Theme, Valuation, Growth, Promoter | `CC_Lec01_Report.md` |
-| **CC-Lec02** | Tools to Find Multibaggers — Research Toolkit, Concall Mastery, Operating Leverage & Alternative Data Sets (Crash Course Class 4\) | 03:25:47 | Generating variant perception via concall signaling, BRM categorization, gross-block operating leverage, and EPFO/credit-rating/satellite scuttlebutt. | Growth, Valuation, Theme, Promoter | `CC_Lec02_Report.md` |
-| **CC-Lec03** | Technical Meets Fundamentals: Price-Volume Action, Relative Strength (RS), Stage Analysis, Moving Averages, Volatility Stop (V-Stop) & Exit Strategies for Long-Term Investors (Crash Course Class 5\) | 03:50:47 | Timing Stage 2 entries (`30-W EMA`, `RS > 0`, `RSI > 50`, `ADX > 20`), pyramiding, and executing rule-based exits (`10-W EMA`, `200-DMA stretch`, `V-Stop` \+ `30-W EMA`). | Theme, Growth, Promoter, Valuation | `CC_Lec03_Report.md` |
-| **CC-Lec04** | Joining the Financial Statements: Connecting the Income Statement, Balance Sheet & Cash Flow Statement Through Practical Case Studies, Operating Leverage, Working Capital Cycles & Capital Allocation (Crash Course Class 6\) | 02:10:31 | Bridging accrual P\&L to Balance Sheet and Cash Flows (`CFO`, `CFI`, `CFF`) to predict QIP dilution, audit self-funded Capex, and link NWC days to DuPont ROCE. | Growth, Valuation, Promoter, Theme | `CC_Lec04_Report.md` |
-| **CC-Lec05** | SOIC Method Explained: Valuation Part 1 — Why Valuations Matter, P/E Re-Rating & De-Rating, Overhang of Overpaying, Intrinsic vs. Transactional Value & Forward P/E (Crash Course Class 7\) | 03:11:45 | Avoiding the "overhang of overpaying" (70x–230x P/E), separating intrinsic vs. transactional value, stripping one-offs, and applying ≤2-year Forward P/E and PEG. | Valuation, Promoter | `CC_Lec05_Report.md` |
-| **CC-Lec06** | SOIC Method Explained: Valuation Part 2 — Re-Rating Catalysts, Delayed Gratification, PEG Ratio, EV/EBITDA, Sum-of-the-Parts (SOTP) & Sectoral Multiples (Crash Course Class 8\) | 03:01:59 | Matching valuation multiples (`EV/EBITDA`, `SOTP`, `P/CF`, `P/S`, exchange volumes) to asset intensity and enforcing the 5 valuation guardrails. | Valuation, Growth | `CC_Lec06_Report.md` |
-| **CC-Lec07** | Valuations Decoded (Valuation Part 3\) — BAP Portfolio Traps, Capital Cycle, Bull/Bear/Base Modeling, Discounted Cash Flow (DCF), Reverse DCF, Late-Stage Bases & Exit Strategies (Crash Course Class 9\) | 03:32:05 | Building 3–4 year Bull/Base/Bear P\&L models (`>15%` Base CAGR), 10-year DCF & Reverse DCF expectations checks, trough-to-peak cyclical models, and Wyckoff late-stage exits. | Valuation, Growth | `CC_Lec07_Report.md` |
+<div class="lecture-grid">
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec01</span>
+      <span class="lecture-duration">⏱️ 03:28:35</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec01_Report">Finding Multibaggers! Fundamental Analysis (Crash Course Class 3)</a></h4>
+    <p class="lecture-focus">Screening modularly for white spaces, anti-dumping vacuums, deleveraging, S-curves, and PEAD aligned with Stage 2 breakouts and Core/Satellite sizing.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec01_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec01">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec02</span>
+      <span class="lecture-duration">⏱️ 03:25:47</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec02_Report">Tools to Find Multibaggers — Research Toolkit, Concall Mastery, Operating Leverage & Alternative Data Sets (Crash Course Class 4)</a></h4>
+    <p class="lecture-focus">Generating variant perception via concall signaling, BRM categorization, gross-block operating leverage, and EPFO/credit-rating/satellite scuttlebutt.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec02_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec02">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec03</span>
+      <span class="lecture-duration">⏱️ 03:50:47</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Valuation</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec03_Report">Technical Meets Fundamentals: Price-Volume Action, Relative Strength (RS), Stage Analysis, Moving Averages, Volatility Stop (V-Stop) & Exit Strategies for Long-Term Investors (Crash Course Class 5)</a></h4>
+    <p class="lecture-focus">Timing Stage 2 entries (`30-W EMA`, `RS > 0`, `RSI > 50`, `ADX > 20`), pyramiding, and executing rule-based exits (`10-W EMA`, `200-DMA stretch`, `V-Stop` \+ `30-W EMA`).</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec03_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec03">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec04</span>
+      <span class="lecture-duration">⏱️ 02:10:31</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Theme</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec04_Report">Joining the Financial Statements: Connecting the Income Statement, Balance Sheet & Cash Flow Statement Through Practical Case Studies, Operating Leverage, Working Capital Cycles & Capital Allocation (Crash Course Class 6)</a></h4>
+    <p class="lecture-focus">Bridging accrual P\&L to Balance Sheet and Cash Flows (`CFO`, `CFI`, `CFF`) to predict QIP dilution, audit self-funded Capex, and link NWC days to DuPont ROCE.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec04_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec04">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec05</span>
+      <span class="lecture-duration">⏱️ 03:11:45</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec05_Report">SOIC Method Explained: Valuation Part 1 — Why Valuations Matter, P/E Re-Rating & De-Rating, Overhang of Overpaying, Intrinsic vs. Transactional Value & Forward P/E (Crash Course Class 7)</a></h4>
+    <p class="lecture-focus">Avoiding the "overhang of overpaying" (70x–230x P/E), separating intrinsic vs. transactional value, stripping one-offs, and applying ≤2-year Forward P/E and PEG.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec05_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec05">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec06</span>
+      <span class="lecture-duration">⏱️ 03:01:59</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec06_Report">SOIC Method Explained: Valuation Part 2 — Re-Rating Catalysts, Delayed Gratification, PEG Ratio, EV/EBITDA, Sum-of-the-Parts (SOTP) & Sectoral Multiples (Crash Course Class 8)</a></h4>
+    <p class="lecture-focus">Matching valuation multiples (`EV/EBITDA`, `SOTP`, `P/CF`, `P/S`, exchange volumes) to asset intensity and enforcing the 5 valuation guardrails.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec06_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec06">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-Lec07</span>
+      <span class="lecture-duration">⏱️ 03:32:05</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+    </div>
+    <h4 class="lecture-title"><a href="./CC_Lec07_Report">Valuations Decoded (Valuation Part 3) — BAP Portfolio Traps, Capital Cycle, Bull/Bear/Base Modeling, Discounted Cash Flow (DCF), Reverse DCF, Late-Stage Bases & Exit Strategies (Crash Course Class 9)</a></h4>
+    <p class="lecture-focus">Building 3–4 year Bull/Base/Bear P\&L models (`>15%` Base CAGR), 10-year DCF & Reverse DCF expectations checks, trough-to-peak cyclical models, and Wyckoff late-stage exits.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./CC_Lec07_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/cc/CC_Lec07">🎙️ Transcript</a>
+    </div>
+  </div>
+</div>
 
 ---
 

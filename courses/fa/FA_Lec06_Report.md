@@ -1057,4 +1057,3 @@ Batch complete: Batch 4 = Stages 10–12 [[01:16:35–01:57:02](/transcripts/fa/
 
 ---
 
-

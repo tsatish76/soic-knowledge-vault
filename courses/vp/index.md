@@ -1,5 +1,5 @@
-<div class="p-4 my-4 rounded-xl bg-slate-900 border border-slate-800">
-<span class="text-xs font-bold uppercase text-emerald-400 tracking-wider">Sub-Course Navigation</span>
+<div class="subcourse-nav-box">
+  <div class="subcourse-nav-title">Sub-Course Quick Navigation</div>
 <div class="flex flex-wrap gap-2 mt-2">
   <a class="sanchay-pill" href="./VP_Summary_References">⚡ 3-Min Summary Cards (D2)</a>
   <a class="ts-chip" href="/courses/vp/VP_Lec02_Report">Lec 02</a>
