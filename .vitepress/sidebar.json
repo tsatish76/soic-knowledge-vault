@@ -1,4 +1,41 @@
 {
+  "/courses/bf/": [
+    {
+      "text": "BF: Behavioural Finance",
+      "items": [
+        {
+          "text": "🗺️ Sub-Course Overview (D3)",
+          "link": "/courses/bf/"
+        },
+        {
+          "text": "⚡ Summary Reference Cards (D2)",
+          "link": "/courses/bf/BF_Summary_References"
+        },
+        {
+          "text": "📑 Detailed Lecture Reports (D1)",
+          "collapsed": false,
+          "items": [
+            {
+              "text": "Lec 01: System 1 Can Shake You Out: Beha...",
+              "link": "/courses/bf/BF_Lec01_Report"
+            },
+            {
+              "text": "Lec 02: System 2 Will Clear the Air: Nar...",
+              "link": "/courses/bf/BF_Lec02_Report"
+            },
+            {
+              "text": "Lec 03: Do You Suffer from FOMO? Super D...",
+              "link": "/courses/bf/BF_Lec03_Report"
+            },
+            {
+              "text": "Lec 04: The Power of Incentives: Warrant...",
+              "link": "/courses/bf/BF_Lec04_Report"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "/courses/cc/": [
     {
       "text": "CC: TVGP Crash Course",
@@ -6,6 +43,44 @@
         {
           "text": "🗺️ Sub-Course Overview (D3)",
           "link": "/courses/cc/"
+        },
+        {
+          "text": "⚡ Summary Reference Cards (D2)",
+          "link": "/courses/cc/CC_Summary_References"
+        },
+        {
+          "text": "📑 Detailed Lecture Reports (D1)",
+          "collapsed": false,
+          "items": [
+            {
+              "text": "Lec 01: Finding Multibaggers! Fundamenta...",
+              "link": "/courses/cc/CC_Lec01_Report"
+            },
+            {
+              "text": "Lec 02: Tools to Find Multibaggers — Res...",
+              "link": "/courses/cc/CC_Lec02_Report"
+            },
+            {
+              "text": "Lec 03: Technical Meets Fundamentals: Pr...",
+              "link": "/courses/cc/CC_Lec03_Report"
+            },
+            {
+              "text": "Lec 04: Joining the Financial Statements...",
+              "link": "/courses/cc/CC_Lec04_Report"
+            },
+            {
+              "text": "Lec 05: SOIC Method Explained: Valuation...",
+              "link": "/courses/cc/CC_Lec05_Report"
+            },
+            {
+              "text": "Lec 06: SOIC Method Explained: Valuation...",
+              "link": "/courses/cc/CC_Lec06_Report"
+            },
+            {
+              "text": "Lec 07: Valuations Decoded (Valuation Pa...",
+              "link": "/courses/cc/CC_Lec07_Report"
+            }
+          ]
         }
       ]
     }
@@ -51,7 +126,7 @@
               "link": "/courses/chk/CHK_Lec06_Report"
             },
             {
-              "text": "Lec 07: CHK_Lec07_Report",
+              "text": "Lec 07: Screening Non-Linear Businesses ...",
               "link": "/courses/chk/CHK_Lec07_Report"
             },
             {
@@ -128,17 +203,17 @@
       ]
     }
   ],
-  "/courses/l3/": [
+  "/courses/vp/": [
     {
-      "text": "L3: Corporate Valuation & Strategy",
+      "text": "V&P: Corporate Valuation & Strategy",
       "items": [
         {
           "text": "🗺️ Sub-Course Overview (D3)",
-          "link": "/courses/l3/"
+          "link": "/courses/vp/"
         },
         {
           "text": "⚡ Summary Reference Cards (D2)",
-          "link": "/courses/l3/L3_Summary_References"
+          "link": "/courses/vp/VP_Summary_References"
         },
         {
           "text": "📑 Detailed Lecture Reports (D1)",
@@ -146,35 +221,35 @@
           "items": [
             {
               "text": "Lec 02: Valuation Fundamentals, PE Multi...",
-              "link": "/courses/l3/L3_Lec02_Report"
+              "link": "/courses/vp/VP_Lec02_Report"
             },
             {
               "text": "Lec 03: Business Valuation Frameworks, V...",
-              "link": "/courses/l3/L3_Lec03_Report"
+              "link": "/courses/vp/VP_Lec03_Report"
             },
             {
               "text": "Lec 04: Buffett's Valuation Philosophy, ...",
-              "link": "/courses/l3/L3_Lec04_Report"
+              "link": "/courses/vp/VP_Lec04_Report"
             },
             {
-              "text": "Lec 05: L3_Lec05_Report",
-              "link": "/courses/l3/L3_Lec05_Report"
+              "text": "Lec 05: Portfolio Allocation Approaches,...",
+              "link": "/courses/vp/VP_Lec05_Report"
             },
             {
               "text": "Lec 06: Valuation Across Industries: Sec...",
-              "link": "/courses/l3/L3_Lec06_Report"
+              "link": "/courses/vp/VP_Lec06_Report"
             },
             {
               "text": "Lec 07: Finding Intrinsic Value Across S...",
-              "link": "/courses/l3/L3_Lec07_Report"
+              "link": "/courses/vp/VP_Lec07_Report"
             },
             {
               "text": "Lec 08: Fundamentals of Financial Foreca...",
-              "link": "/courses/l3/L3_Lec08_Report"
+              "link": "/courses/vp/VP_Lec08_Report"
             },
             {
               "text": "Lec 09: SOTP Valuation, Enterprise Value...",
-              "link": "/courses/l3/L3_Lec09_Report"
+              "link": "/courses/vp/VP_Lec09_Report"
             }
           ]
         }
@@ -196,74 +271,6 @@
     {
       "text": "🎙️ Transcripts Library",
       "link": "/transcripts/"
-    },
-    {
-      "text": "L3: Corporate Valuation & Strategy",
-      "collapsed": false,
-      "items": [
-        {
-          "text": "L3_Lec02: Why Valuation Matters + Odd Me...",
-          "link": "/transcripts/l3/L3_Lec02"
-        },
-        {
-          "text": "L3_Lec03: Art of Business Valuation-Diff...",
-          "link": "/transcripts/l3/L3_Lec03"
-        },
-        {
-          "text": "L3_Lec04: How Buffett Actually Invests? ...",
-          "link": "/transcripts/l3/L3_Lec04"
-        },
-        {
-          "text": "L3_Lec05: Portfolio Allocation Approach",
-          "link": "/transcripts/l3/L3_Lec05"
-        },
-        {
-          "text": "L3_Lec06: Part 1 Valuation Across Indust...",
-          "link": "/transcripts/l3/L3_Lec06"
-        },
-        {
-          "text": "L3_Lec07: Part 2 Finding Intrinsic Value...",
-          "link": "/transcripts/l3/L3_Lec07"
-        },
-        {
-          "text": "L3_Lec08: Part 1 Financial Modelling",
-          "link": "/transcripts/l3/L3_Lec08"
-        },
-        {
-          "text": "L3_Lec09: Part 2 Financial Modelling",
-          "link": "/transcripts/l3/L3_Lec09"
-        }
-      ]
-    },
-    {
-      "text": "FA: Mastering Fundamental Analysis",
-      "collapsed": false,
-      "items": [
-        {
-          "text": "FA_Lec01: Class 1 Fundamental Analysis",
-          "link": "/transcripts/fa/FA_Lec01"
-        },
-        {
-          "text": "FA_Lec02: Class 2 Financial Statements",
-          "link": "/transcripts/fa/FA_Lec02"
-        },
-        {
-          "text": "FA_Lec03: Class 3 Cash Flow Statement",
-          "link": "/transcripts/fa/FA_Lec03"
-        },
-        {
-          "text": "FA_Lec04: Class 4 How to Filter Epic Sto...",
-          "link": "/transcripts/fa/FA_Lec04"
-        },
-        {
-          "text": "FA_Lec05: Class 5 Research a Stock from ...",
-          "link": "/transcripts/fa/FA_Lec05"
-        },
-        {
-          "text": "FA_Lec06: Q&A Session",
-          "link": "/transcripts/fa/FA_Lec06"
-        }
-      ]
     },
     {
       "text": "CHK: TVGP Framework Checklist",
@@ -354,6 +361,74 @@
         {
           "text": "CC_Lec07: Class 9 | Valuations Decoded (...",
           "link": "/transcripts/cc/CC_Lec07"
+        }
+      ]
+    },
+    {
+      "text": "FA: Mastering Fundamental Analysis",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "FA_Lec01: Class 1 Fundamental Analysis",
+          "link": "/transcripts/fa/FA_Lec01"
+        },
+        {
+          "text": "FA_Lec02: Class 2 Financial Statements",
+          "link": "/transcripts/fa/FA_Lec02"
+        },
+        {
+          "text": "FA_Lec03: Class 3 Cash Flow Statement",
+          "link": "/transcripts/fa/FA_Lec03"
+        },
+        {
+          "text": "FA_Lec04: Class 4 How to Filter Epic Sto...",
+          "link": "/transcripts/fa/FA_Lec04"
+        },
+        {
+          "text": "FA_Lec05: Class 5 Research a Stock from ...",
+          "link": "/transcripts/fa/FA_Lec05"
+        },
+        {
+          "text": "FA_Lec06: Q&A Session",
+          "link": "/transcripts/fa/FA_Lec06"
+        }
+      ]
+    },
+    {
+      "text": "V&P: Corporate Valuation & Strategy",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "VP_Lec02: Why Valuation Matters + Odd Me...",
+          "link": "/transcripts/vp/VP_Lec02"
+        },
+        {
+          "text": "VP_Lec03: Art of Business Valuation-Diff...",
+          "link": "/transcripts/vp/VP_Lec03"
+        },
+        {
+          "text": "VP_Lec04: How Buffett Actually Invests? ...",
+          "link": "/transcripts/vp/VP_Lec04"
+        },
+        {
+          "text": "VP_Lec05: Portfolio Allocation Approach",
+          "link": "/transcripts/vp/VP_Lec05"
+        },
+        {
+          "text": "VP_Lec06: Part 1 Valuation Across Indust...",
+          "link": "/transcripts/vp/VP_Lec06"
+        },
+        {
+          "text": "VP_Lec07: Part 2 Finding Intrinsic Value...",
+          "link": "/transcripts/vp/VP_Lec07"
+        },
+        {
+          "text": "VP_Lec08: Part 1 Financial Modelling",
+          "link": "/transcripts/vp/VP_Lec08"
+        },
+        {
+          "text": "VP_Lec09: Part 2 Financial Modelling",
+          "link": "/transcripts/vp/VP_Lec09"
         }
       ]
     }

@@ -702,10 +702,10 @@ Let's double check grounding rules from the persona prompt:
 7. No meta-language ("In this lecture", "The speaker talks about"). State facts directly. Attribute opinions ("Speaker's view:").
 8. Format rules from `1B_prompt.md`:
    For EACH stage:
-   STAGE `````<N>`````: `````<Stage Title>`````  [hh:mm:ss–hh:mm:ss]  [TVGP: `````<pillar>````` if applicable]
+   STAGE ```````<N>```````: ```````<Stage Title>```````  [hh:mm:ss–hh:mm:ss]  [TVGP: ```````<pillar>``````` if applicable]
    a) What this stage answers (One sentence)
    b) Detailed explanation (Engaging paragraphs, sub-headings)
-   c) Examples & case studies (* Example: `````<name>````` [timestamp] [Slide N], Context, Data/details, Walkthrough, Takeaway)
+   c) Examples & case studies (* Example: ```````<name>``````` [timestamp] [Slide N], Context, Data/details, Walkthrough, Takeaway)
    d) Formulas, metrics & thresholds (Table)
    e) Visual aid (Choose the most useful ONE)
    f) Speaker's cautions & common mistakes

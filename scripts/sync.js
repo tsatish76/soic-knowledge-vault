@@ -63,7 +63,7 @@ subcourses.forEach(sub => {
       // Extract title from file content
       const filePath = path.join(subPath, f);
       const content = fs.readFileSync(filePath, 'utf-8');
-      const titleMatch = content.match(/\*\s*\*\*Title:?\*\*:?\s*(.+)/i);
+      const titleMatch = content.match(/[-*]\s*\*\*Title:?\*\*:?\s*(.+)/i);
       const title = titleMatch ? titleMatch[1].trim() : f.replace('.md', '');
 
       courseStructure[sub].reports.push({
@@ -109,7 +109,8 @@ const courseNames = {
   chk: 'CHK: TVGP Framework Checklist',
   cc: 'CC: TVGP Crash Course',
   fa: 'FA: Mastering Fundamental Analysis',
-  l3: 'L3: Corporate Valuation & Strategy'
+  vp: 'V&P: Corporate Valuation & Strategy',
+  bf: 'BF: Behavioural Finance'
 };
 
 subcourses.forEach(sub => {
@@ -164,7 +165,7 @@ if (fs.existsSync(manifestFile)) {
       { text: '🎙️ Transcripts Library', link: '/transcripts/' }
     ];
 
-    ['l3', 'fa', 'chk', 'cc'].forEach(sub => {
+    ['chk', 'cc', 'fa', 'vp', 'bf'].forEach(sub => {
       if (manifest[sub] && manifest[sub].length > 0) {
         transcriptItems.push({
           text: courseNames[sub] || sub.toUpperCase(),
@@ -232,7 +233,8 @@ allMdFiles.forEach(file => {
   if (relPath.includes('/chk/')) currentCourse = 'CHK';
   else if (relPath.includes('/cc/')) currentCourse = 'CC';
   else if (relPath.includes('/fa/')) currentCourse = 'FA';
-  else if (relPath.includes('/l3/')) currentCourse = 'L3';
+  else if (relPath.includes('/vp/')) currentCourse = 'V&P';
+  else if (relPath.includes('/bf/')) currentCourse = 'BF';
 
   let currentLecture = path.basename(file, '.md').toUpperCase();
   let currentStage = 'General';

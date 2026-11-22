@@ -36,7 +36,8 @@ export default defineConfig({
       { text: 'CHK (Checklist)', link: '/courses/chk/' },
       { text: 'CC (Crash Course)', link: '/courses/cc/' },
       { text: 'FA (Fundamentals)', link: '/courses/fa/' },
-      { text: 'L3 (Valuation)', link: '/courses/l3/' },
+      { text: 'V&P (Valuation & Portfolio)', link: '/courses/vp/' },
+      { text: 'BF (Behavioural Finance)', link: '/courses/bf/' },
       { text: '🎙️ Transcripts & Audio', link: '/transcripts/' },
       { text: '🛡️ Verification Queue', link: '/verification-queue/' },
       { text: '📈 Sanchay App', link: 'https://portfolio-tracker-frontend-iota.vercel.app' }

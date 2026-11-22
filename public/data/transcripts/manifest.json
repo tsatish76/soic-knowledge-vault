@@ -213,70 +213,70 @@
       "pageUrl": "/transcripts/fa/FA_Lec06"
     }
   ],
-  "l3": [
+  "vp": [
     {
-      "lectureId": "L3_Lec02",
+      "lectureId": "VP_Lec02",
       "lectureTitle": "Why Valuation Matters + Odd Meter!",
       "duration": "2:02:49",
       "totalCues": 201,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec02.json",
-      "pageUrl": "/transcripts/l3/L3_Lec02"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec02.json",
+      "pageUrl": "/transcripts/vp/VP_Lec02"
     },
     {
-      "lectureId": "L3_Lec03",
+      "lectureId": "VP_Lec03",
       "lectureTitle": "Art of Business Valuation-Different Methods",
       "duration": "2:17:08",
       "totalCues": 240,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec03.json",
-      "pageUrl": "/transcripts/l3/L3_Lec03"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec03.json",
+      "pageUrl": "/transcripts/vp/VP_Lec03"
     },
     {
-      "lectureId": "L3_Lec04",
+      "lectureId": "VP_Lec04",
       "lectureTitle": "How Buffett Actually Invests? Valuation Methods",
       "duration": "2:30:01",
       "totalCues": 258,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec04.json",
-      "pageUrl": "/transcripts/l3/L3_Lec04"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec04.json",
+      "pageUrl": "/transcripts/vp/VP_Lec04"
     },
     {
-      "lectureId": "L3_Lec05",
+      "lectureId": "VP_Lec05",
       "lectureTitle": "Portfolio Allocation Approach",
       "duration": "2:09:25",
       "totalCues": 281,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec05.json",
-      "pageUrl": "/transcripts/l3/L3_Lec05"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec05.json",
+      "pageUrl": "/transcripts/vp/VP_Lec05"
     },
     {
-      "lectureId": "L3_Lec06",
+      "lectureId": "VP_Lec06",
       "lectureTitle": "Part 1 Valuation Across Industries",
       "duration": "2:31:21",
       "totalCues": 233,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec06.json",
-      "pageUrl": "/transcripts/l3/L3_Lec06"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec06.json",
+      "pageUrl": "/transcripts/vp/VP_Lec06"
     },
     {
-      "lectureId": "L3_Lec07",
+      "lectureId": "VP_Lec07",
       "lectureTitle": "Part 2 Finding Intrinsic Value Across Sectors",
       "duration": "2:08:30",
       "totalCues": 203,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec07.json",
-      "pageUrl": "/transcripts/l3/L3_Lec07"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec07.json",
+      "pageUrl": "/transcripts/vp/VP_Lec07"
     },
     {
-      "lectureId": "L3_Lec08",
+      "lectureId": "VP_Lec08",
       "lectureTitle": "Part 1 Financial Modelling",
       "duration": "1:16:01",
       "totalCues": 123,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec08.json",
-      "pageUrl": "/transcripts/l3/L3_Lec08"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec08.json",
+      "pageUrl": "/transcripts/vp/VP_Lec08"
     },
     {
-      "lectureId": "L3_Lec09",
+      "lectureId": "VP_Lec09",
       "lectureTitle": "Part 2 Financial Modelling",
       "duration": "1:54:21",
       "totalCues": 195,
-      "jsonUrl": "/data/transcripts/l3/L3_Lec09.json",
-      "pageUrl": "/transcripts/l3/L3_Lec09"
+      "jsonUrl": "/data/transcripts/vp/VP_Lec09.json",
+      "pageUrl": "/transcripts/vp/VP_Lec09"
     }
   ]
 }

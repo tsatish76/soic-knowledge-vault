@@ -21,7 +21,7 @@ console.log('🎙️ Starting SOIC Transcript Ingestion & Normalization...\n');
 
 const timestampRegex = /^\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]$/;
 
-const subcourses = ['chk', 'cc', 'fa', 'l3'];
+const subcourses = ['chk', 'cc', 'fa', 'vp', 'bf'];
 const manifest = {};
 let totalTranscriptsParsed = 0;
 let totalCuesParsed = 0;
@@ -39,9 +39,9 @@ function parseTimestampToSeconds(ts) {
 function normalizeLectureId(sub, filename) {
   // e.g. Lec01_class-1-theme... in chk -> CHK_Lec01
   // FA_Lec01_... in fa -> FA_Lec01
-  // L3_Lec02_... in l3 -> L3_Lec02
+  // VP_Lec02_... in vp -> VP_Lec02
   // Lec01_... in cc -> CC_Lec01
-  const match = filename.match(/(?:(?:FA|L3|CHK|CC)_)?Lec(\d+)/i);
+  const match = filename.match(/(?:(?:FA|L3|CHK|CC|VP|BF)_)?Lec(\d+)/i);
   if (match) {
     const num = match[1].padStart(2, '0');
     return `${sub.toUpperCase()}_Lec${num}`;

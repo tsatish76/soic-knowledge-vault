@@ -91,7 +91,7 @@ let totalTimestampsLinked = 0;
 let reportsWithTranscripts = 0;
 let reportsWithoutTranscripts = 0;
 
-const subcourses = ['chk', 'cc', 'fa', 'l3'];
+const subcourses = ['chk', 'cc', 'fa', 'vp', 'bf'];
 
 subcourses.forEach(sub => {
   const subDir = path.join(coursesDir, sub);

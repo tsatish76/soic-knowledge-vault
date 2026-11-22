@@ -1,0 +1,1560 @@
+{
+  "lectureId": "VP_Lec04",
+  "subcourse": "vp",
+  "rawFilename": "VP_Lec04_how-buffett-actually-invests-valuation-methods-transcript.txt",
+  "lectureTitle": "How Buffett Actually Invests? Valuation Methods",
+  "courseTitle": "Level 3 How to Value a Company & Portfolio Creation!",
+  "totalDurationSeconds": 9001,
+  "totalDurationFormatted": "2:30:01",
+  "totalCues": 258,
+  "cues": [
+    {
+      "id": "cue-0",
+      "timestamp": "0:00:00",
+      "seconds": 0,
+      "text": "Hi investors, welcome to SOIC. So a warm introduction to each and every one of you who are attending the third part of the valuation webinar. So in this webinar, what we will learn is this first thing that we will learn is that we will learn about the idea of discounted cash flows, how DCF happens, how can we get the intrinsic value of the company? I have tried my best to simplify it to a level and explain it to a fifth class child. Second thing that we will learn is how reverse GCF works so how can we do reverse discounted cash flow?"
+    },
+    {
+      "id": "cue-29",
+      "timestamp": "0:00:29",
+      "seconds": 29,
+      "text": "Third thing that we will learn is how to create financial models Fourth thing that we will learn is that we'll go towards when to buy, till how long to hold and when to sell. Because at the end of the day, the fourth party went to buy till how long to hold and when to sell. These are the most important parts and absolutely towards the concluding part of the webinar, we'll go and actually create a deep value screen and I'll also share which deep value screen stocks will come in and that we'll do towards the end and afterwards we'll have a question and answer round."
+    },
+    {
+      "id": "cue-61",
+      "timestamp": "0:01:01",
+      "seconds": 61,
+      "text": "So I will request each and every one of you to pay full attention for the next 120 minutes. There will be no webinar for 2 hours. But for the next 2 hours, I need your full attention. Like full attention means full attention. If you are using phone, then leave something. Just give me 2 hours of your full attention."
+    },
+    {
+      "id": "cue-77",
+      "timestamp": "0:01:17",
+      "seconds": 77,
+      "text": "Because in these 2 hours, a lot of your doubts like which point should be bought on how much should be sold whether it is undervalued whether it is overvalued these doubts will be solved and these doubts like intentionally like we haven't discussed it on any of our videos because I think this is a real value add of SOIC membership and also like SOIC webinars that we do because see we are going to do a lot of identifying in let's take an example that say laurus labs 2020 may identify and I think like after identifying video b I think when I had the I think market cap was close to 6 5 6000 crores and now 6 7000 crores type and the business did really well But now a lot of people actually got stuck towards the peak and the business fell like and the stock fell and the business fundamentals also deteriorated."
+    },
+    {
+      "id": "cue-127",
+      "timestamp": "0:02:07",
+      "seconds": 127,
+      "text": "So, the idea is that if we have tools like this that we can sell, then stock picking art is not the real art, it is the idea of portfolio creation and maximizing risk and reward. Same stock can be the most loved stock in one part of its journey and the same stock can be the most hated stock in the other part of its journey. So idea as a retail investor is that we have an edge over the institutions. What is the edge? That we can easily get in and get out of stocks whereas an institution to get out of stock, they will have to like dump it open in the market, right?"
+    },
+    {
+      "id": "cue-165",
+      "timestamp": "0:02:45",
+      "seconds": 165,
+      "text": "So idea is that if we can use this idea of agility and if we can mix it with a fundamental framework, then this will give you a wonderful aspect. Kya valuations ko went to buy till how long to hold and went to sell ke saar jab mix kar ogay it will become such a potent trigger that basically what will end up happening is that your hit rate, right? Your hit rate will improve massively. And I've been seeing this in my own personal journey, like ever since I've started using these tools in last like 18 months, your additional tools."
+    },
+    {
+      "id": "cue-196",
+      "timestamp": "0:03:16",
+      "seconds": 196,
+      "text": "So what has ended up happening is that a lot of times like my selling like my selling or rebalancing thing has improved. Yes, I got my portfolio make stock that well percent. Right. But now my when to sell walla part has hit. I'll teach you again how to find it. So 12% I'll rebalance it to 4% or 5% because fundamentally also valuations arrive but 12% rebalance Kalya 4-5% because I want to let the remaining quantity be. So that is also the idea that we'll see that art of portfolio management will get clarified along with valuations when to buy till how long to hold and when to sell."
+    },
+    {
+      "id": "cue-230",
+      "timestamp": "0:03:50",
+      "seconds": 230,
+      "text": "So let's start. So first thing that we will actually think about is how one Buffet actually invests. So, in the last to last webinar, you studied a case and in the last to last class, you studied a case. How does he invest with a business? But how does he actually invest or how does he like do valuations of a company? Whether is he doing a DC or discounted cash flow? The answer is no, he's not doing a discounted cash flow analysis. He's not doing a discounted cash flow analysis. Let's see how. So this is from 2013 Berkshire letter to shareholders. Right."
+    },
+    {
+      "id": "cue-275",
+      "timestamp": "0:04:35",
+      "seconds": 275,
+      "text": "So has all the letter to shareholders like that or 2013 in the letter to shareholders and how does he actually invest? So over there he has mentioned that when Charlie and I buy stocks, which we think of as small portions of businesses, our analysis is very similar to which we use in buying entire businesses. So basically they are buying a stock of a business, so they are analyzing it as if they are analyzing an entire business. We first have to decide whether we can sensibly estimate an earnings range for 5 years out or more, right?"
+    },
+    {
+      "id": "cue-305",
+      "timestamp": "0:05:05",
+      "seconds": 305,
+      "text": "If the answer is yes, we will buy the stock if it sells at a reasonable price in relation to the bottom boundary of our estimate. I have said this very important line here, now you have to read it very carefully that we first have to decide whether we can sensibly estimate an earnings range for 5 years out. So what are they doing is that they are estimating earnings of a business, they are estimating profitability of a business 3 to 5 years out. 3 to 5 years out. If the answer is yes, we will buy the stock if it sells at a reasonable price. In relation to the bottom boundary of our estimate."
+    },
+    {
+      "id": "cue-347",
+      "timestamp": "0:05:47",
+      "seconds": 347,
+      "text": "This is the simple criteria that they are doing a simple financial model where in their minds because they're so sharp mathematically, right? So they're doing a financial model, they're creating a financial model in their minds, right? So we'll learn how to create a financial model using Excel as well. What simply you understand, what easy things to do. If however we lack the ability to estimate the future earnings, our future earnings ability lack, right estimate Carnegie, which is usually the case. We simply move on to other prospects in 54 years."
+    },
+    {
+      "id": "cue-378",
+      "timestamp": "0:06:18",
+      "seconds": 378,
+      "text": "We have never forgotten an attractive purchase because of macro or political environment or the views of the other people. In fact, these subjects never came up when we make decisions. So again, you'll talk about circle of competence because the circle of competence ke bina to five years out earnings projecting because of it three to five years kyaas bas. So this is a simple idea that how why how and why like your financial model is really really important and how does it work right So I'll actually take you to one of the financial models. A company's Kali is announced by a CAPEX."
+    },
+    {
+      "id": "cue-411",
+      "timestamp": "0:06:51",
+      "seconds": 411,
+      "text": "Let's look at the financial model of the company once more. Because if we do it live, it will become easier and easier for you. Right? So a company announced a lot of CAPEX tomorrow. So that will announce live. So I'll just go to the company's name. So I'll just open screener and screener. We have been looking at the consignor. CapEx announced that is new gen chemicals. I'll open the investor presentation and over air will come to this aspect. So where we'll come to the investor presentation. I'll just come to this aspect over there right."
+    },
+    {
+      "id": "cue-444",
+      "timestamp": "0:07:24",
+      "seconds": 444,
+      "text": "So new CAPEX announcements board approval for expansion of electrolyte capacity of 5000 metric tons to be operational by June 2024. So Charity Lithium salts capacity of 1000 metric tons to be operational by June 2024. This is in line with robust demand environment for FY25 and beyond. Right? So, company is doing collective capex of 450 crores. So, 450 crores ka company collective capex kar rhe hai."
+    },
+    {
+      "id": "cue-467",
+      "timestamp": "0:07:47",
+      "seconds": 467,
+      "text": "Debt to equity will remain to be below 1.25x and here the guidance is that at a consolidated level, aim to achieve more than 30% revenue CAGR over the next 3 to 4 years, translating into 2000 crores to 2250 crores of revenue by FY26, FY27 So here we have numbers given, CAPEX numbers are given, and margin profile of the company we already know, we are looking at the past. So is it possible to make a financial model of this company? Can we do a permix from here? Just in the comment section. Is it possible? So let's see how it can be done. And whether to buy it or not, that we will also discuss."
+    },
+    {
+      "id": "cue-512",
+      "timestamp": "0:08:32",
+      "seconds": 512,
+      "text": "So when you potential existing business to 1, 000 to 1, 000 50 crores, battery chemical business to 1, 000 to 1, 200 crores. This same business that is going to do chemicals, we are making that video too, but it is taking a lot of time because it has too many moving parts right so simple idea so we'll just go to your Google sheet over here I'll just add I'll just name this deep value sheet as an example and over here I'll just take the business of what? Neo-Gen chemicals. Neo-Gen chemicals. Right?"
+    },
+    {
+      "id": "cue-552",
+      "timestamp": "0:09:12",
+      "seconds": 552,
+      "text": "So here we take an idea and What we do is first we look at the sales of the company and I'm gathering it. So let's go to over here. Neo gen chemicals, right? And let's take the F523 sales first. So what we'll do is that F523 sales, right? Or we can just write it 2023 and 2024 and 2025 and 2026 and 2027. Let's look at the sales. So let's assume let's go to over here and let's look at the sales right we'll just go into consolidated sales coming over here."
+    },
+    {
+      "id": "cue-601",
+      "timestamp": "0:10:01",
+      "seconds": 601,
+      "text": "The last three quarters make it a sale. So simply everyone with me everyone do this with me because this will help you a lot and when to buy it till how long to hold and when to sell, we will discuss that in this. So Q1, Fi23, Q2, Fi23, Q3, Fi23, right? So these are the last quarters and these are the sales. So let's add, that's 148 plus 148, so it is 296, right? This will be equal to 296 crores plus 186 crores. So this is 482 crores. So these last three quarters are their sale. This is the sale of the last three quarters, 482 crores."
+    },
+    {
+      "id": "cue-647",
+      "timestamp": "0:10:47",
+      "seconds": 647,
+      "text": "Now let's assume that the run rate of quarter 3 also sustains in quarter 4. So the run rate of quarter 3 also sustains in quarter 4. Why are we doing this? Because we are just taking an estimate because their capyx's are coming live in series. So let's take an estimate and let's assume this 482 crores goes to 186 crores. This also increases by 486 crores. This is going as per guidance of the management in the conference calls and stuff. So, it's a very simple example. You don't have to do anything. Just pay attention. So, how much is 482 plus 186? So, this is 488, right?"
+    },
+    {
+      "id": "cue-684",
+      "timestamp": "0:11:24",
+      "seconds": 684,
+      "text": "So, the sale of the 660 8 crores, the company will do for the entire year of FY23. Right? So, I'll just take this assumption, the 6.68 crores of sales, so we'll just come over here, that 6.68 crores of sales, the company will do in entire 2023. Now the management has guided for 30% CAGR in sales growth for the next 3-4 years post completion of CAPXS So what I'll simply do is that I'll just simply take this So first we'll make a PNL statement according to the management vision I'll just take simply 668 into 1.3, right? So next year's sales are more or less like this, right?"
+    },
+    {
+      "id": "cue-726",
+      "timestamp": "0:12:06",
+      "seconds": 726,
+      "text": "And I'll just basically simply just drag this, right? And as soon as I drag it, it's 1907 crore sales by 2027. Even though they are guiding for 2200 to 200 crores of sales but let's assume that 30% of the sales comes in so now we are just coming to Pat margins and profitability margins so next thing I will come to is the EBITDA margins of the company and then I will come to depreciation of the company I will come to ebit and interest, then I will come to PBT, then I will come to Pat of the company. Right. So simply let's look at the EBITDA margins of the company."
+    },
+    {
+      "id": "cue-771",
+      "timestamp": "0:12:51",
+      "seconds": 771,
+      "text": "Right. So EBITDA margins of Neogen chemicals historically has been between 17 to 18% in a quarter of a biscuit dip. Well, because of higher raw material expenses, right. And again, management guidance is 18% or any wallet. So this, this things, these things we can small, small things we can confirm looking at the conference calls. And once you go through these conference calls, you'll find that 18% is an average EBITDA margin that they have guided for over a long period of time."
+    },
+    {
+      "id": "cue-800",
+      "timestamp": "0:13:20",
+      "seconds": 800,
+      "text": "And over a long period of time, if you look at the history of the company, you will find that 18% to 19% is EBITDA margin. In the comment section, those who are watching the recording, you should also watch it yourself."
+    },
+    {
+      "id": "cue-811",
+      "timestamp": "0:13:31",
+      "seconds": 811,
+      "text": "So let's take 18% as per the stated guidance, by the way, the bold rank will improve, it can be 20-21% but we will take 18% so I think at the end of FY23 because of higher raw material prices, it will remain 17% but let's assume that it is 18% so again, these are just asap, you can make your own, but we are going to go up and down so that we get a better idea so we take 17% here 18% 18% for some year 19% can also 19% but for our own simplicity sake we are taking 18% and now coming to depreciation just over here I'll just insert one row above and I'll just enter EBITDA company So what I'll simply do is that I'll multiply sales into ebita margins and this will give me the ebita of the company."
+    },
+    {
+      "id": "cue-863",
+      "timestamp": "0:14:23",
+      "seconds": 863,
+      "text": "So 113, I'll drag it like this. So I'll have all the ebita of the company. At 1907 crores of sales, the company will be doing 18% EBITDA margins and the EBITDA will be at 343 crores. So now a very important part comes, depreciation. People keep asking for depreciation. So first thing that we look at is depreciation as a percentage of sales over a long period of time. The depreciation as a percentage of sales over a period of time and also what we will do is incremental Kpex."
+    },
+    {
+      "id": "cue-899",
+      "timestamp": "0:14:59",
+      "seconds": 899,
+      "text": "So this is again a roughly right metric that we'll do is not keep precisely we'll be right we are trying to be roughly right but I'm trying to teach you how to do it right so first thing what I'll do is that my neogeo and neogeo chemicals key Joe annual report a to neogeo and chemicals key Joe annual report a So I will open up the annual report of the annual report of the Neogen Chemicals and I think I have opened up somewhere here and what I will do is that I will simply go to the depreciation schedule of the company So what I will do is I will come to the depreciation schedule So you will find that the company is depreciating buildings and plants over 30 to 20 years."
+    },
+    {
+      "id": "cue-941",
+      "timestamp": "0:15:41",
+      "seconds": 941,
+      "text": "Meaning if the company is investing 100 crore in plants, then its depreciation is going to be over 20 years. So the company is depreciating 5 crore every year. Is it absolutely clear that we have seen the company's life in the depreciation schedule? Is it absolutely clear? My idea is to give you a rough guesstimate and like before looking at anything else just assume that we are making a PNL statement so before getting into negative assumptions that we are making a mess about any business Just try to learn without an idea of judging or trying to be more like in this case."
+    },
+    {
+      "id": "cue-983",
+      "timestamp": "0:16:23",
+      "seconds": 983,
+      "text": "So the idea is first of all, we learn before getting into the judgment whether to buy stock or not. So first of all, we learn how these things are made. I also know how DCF works, how it works, how capacity utilization works. There is nothing like that, you are getting the insights. So these insights are there, you have to read the businesses. So the idea is to just create a BNL. So just simply concentrate over there, leaving all the assumptions aside for a second."
+    },
+    {
+      "id": "cue-1010",
+      "timestamp": "0:16:50",
+      "seconds": 1010,
+      "text": "So over here let's just go to this and building and material like building a 30 year depreciation schedule and plant a 20 year depreciation schedule and over here I'll just again come to this to historically as a percentage of sales do example of the new gen chemicals so I'll just log out from here and open the other one that is here right so historically new gen car depreciation as a percentage of sales Kinnar you have to take a look at the simply like the new gen chemicals right and historically here I export to excel so this is a you can simply remove it so I'll teach you how to do it."
+    },
+    {
+      "id": "cue-1049",
+      "timestamp": "0:17:29",
+      "seconds": 1049,
+      "text": "So I'll just calculate it from here. So here, if we use the export to excel feature from the screener, so you will just find it out over here. See how you can historically calculate depreciation as a percentage of sales. So, what will be financial shenanigans sheet? So, fraud checklist, fraud sheet. So, this is one of the sheets that we use with SOIC students. So, historically, your depreciation as a percentage of sales for new gen chemicals has been 1 to 2 percent ever since the amount of cap excess have been increasing."
+    },
+    {
+      "id": "cue-1088",
+      "timestamp": "0:18:08",
+      "seconds": 1088,
+      "text": "So one way to do it is historical rates like 2 percent is depreciation as a percentage of sales. But another way to do it is that the company has given us a capex of 450 crores that the company will be doing incrementally. So 450 crores capex company will be doing incrementally. So going back to the numbers that we were making, 450 crores company is doing capex incrementally. So just remember this one figure. So just basically remember this one figure. The 450 crores company is doing incrementally cap x. So depreciation as a percentage of sales."
+    },
+    {
+      "id": "cue-1124",
+      "timestamp": "0:18:44",
+      "seconds": 1124,
+      "text": "So 2023 may be depreciation as a percentage of sales. So depreciation run rate will be increasing. Currently, how much depreciation is run rate? 4 crores. So that is like So that is like a depreciation of 16 crores. So this over here, so 16 crores company depreciation. So let's, depreciation amount for at least 2023, let me just write depreciation as 16 crores. The moment I write depreciation as 16 crores, what will be my EBIT? Everyone in the comment section, how much is the earnings before interest in taxes? Depreciation data annually every company gives."
+    },
+    {
+      "id": "cue-1169",
+      "timestamp": "0:19:29",
+      "seconds": 1169,
+      "text": "Someone asks how to assume the depreciation of 16 crore so just for clarity purpose over here you can just find that the depreciation run rate after like previous capex.com was like went from 2 crore to 4 crore right went from 2 crores to 4 crores per quarter right so 4 crores in quarter 3 of f523 so quarter 4 of f523 maybe because no new capx is not coming live we are still assuming 4 crores next quarter will be there that is quarter 4 of f523 and you'll find depreciation as 16 crores for the entire year so quarter 4 can maybe if there are 4 crores then the depreciation will be there by 16 crores right So we are just doing a rough modelling exercise."
+    },
+    {
+      "id": "cue-1208",
+      "timestamp": "0:20:08",
+      "seconds": 1208,
+      "text": "It won't be precisely right. But this will give you a rough estimate or a rough idea that how your depreciation starts going up and stop."
+    },
+    {
+      "id": "cue-1217",
+      "timestamp": "0:20:17",
+      "seconds": 1217,
+      "text": "Now we have a clue that they are doing a 450 crore of capex right which will be depreciated over a period of 20 years let's assume so 30 years of building the life but I'm supposed to get 20 years over a period of time this will get depreciated right and what will end up happening is that this 450 crores of capex is going live from second half of f5 24 to completely in 25 26 and 27 we have a depreciation the column is simply what I'll do is that I'll take 450 and divide it by 12. So the answer I have is 22.5 crores."
+    },
+    {
+      "id": "cue-1255",
+      "timestamp": "0:20:55",
+      "seconds": 1255,
+      "text": "So incrementally there will be a depreciation hit of 22.5 crores starting fully from 2025. Second half of FY24 is slightly it will start going up. Is it clear what we did over there? Clarity I? 20 years. So, I'll just take it over. So, I'll just make it even simpler. So companies investing 450 crores into property, plant and machinery and also buildings right and company historically has been depreciating or depreciating assets like fully on 20 years basis. I'm trying to make it very very simple. So 20 year depreciation of your asset will be zero."
+    },
+    {
+      "id": "cue-1299",
+      "timestamp": "0:21:39",
+      "seconds": 1299,
+      "text": "So depreciation is wear and tear of fixed assets. So it's just an accounting term. So over it, so what we'll do, I got 450 crores will get fully depreciated over 20 years. So this is a useful life, useful life. I say that in 20 years, it will become zero. And what is the amount being spent? So spend amount, how much is it on the cap? Investment amount, how much is it? 450 crores. So can I say that 450 divided by 12 will give me the straight line depreciation of this company's capex?"
+    },
+    {
+      "id": "cue-1327",
+      "timestamp": "0:22:07",
+      "seconds": 1327,
+      "text": "So what I'll do simply 450 divided by 20 and I will get answer as 22.5 crores which will start hitting the PNL statement from 2025. So existing 16 crores, which already depreciation is going on, historical assets, that will go up. So next year, like FI 24K, second half may, some of the capex goes live."
+    },
+    {
+      "id": "cue-1351",
+      "timestamp": "0:22:31",
+      "seconds": 1351,
+      "text": "Let's assume the FI 24K second half may so close to like 50% of the the capex that goes live so that will just a rough approximation based upon call me they'll clear it but let's assume 2024 K second half may 50% of the capex goes live right so close to 11 crores of depreciation hit starts coming in 2024. So what I'll do is that 16 crores of historical depreciation chalra I'll just add 11 crores to it because 50% of the capex goes live in 2024. So what I'll do is that 16 plus 16 plus 11 to 27 crores of depreciation in 2024. See this will be a ballpark number."
+    },
+    {
+      "id": "cue-1389",
+      "timestamp": "0:23:09",
+      "seconds": 1389,
+      "text": "It can be between 27 or 30 as well. But the year next to that, what will happen that full cap X goes like close to 22.5 crore tight I guess. So what I'll do is that 16 crores to historical depreciation, the ad by 22.5. And this depreciation will continue for the next 2 to 3 years. So sorry I think this 38.5 will continue for next 2 to 3, 4 years until or unless they announce new capacity expansions. Right? Until now, the clarity that we are assuming as a company depreciation was easy. If you look at it in the recording, there will be a lot of clarity."
+    },
+    {
+      "id": "cue-1431",
+      "timestamp": "0:23:51",
+      "seconds": 1431,
+      "text": "There will be a lot of clarity and we are trying to make it very easy. It is difficult to do it easily. So great. Over here I am just deleting this. So watch it carefully."
+    },
+    {
+      "id": "cue-1444",
+      "timestamp": "0:24:04",
+      "seconds": 1444,
+      "text": "It will become more clear for you right so now what we'll do is that we'll get to e bit of the company simply I'll just subtract e bit by depreciation so over here they say e beta may say agar e beta may say so I'll just like make it easier for you agar ab ebitah mesay right agar ab ebitah mesay depreciation if you just subtract you'll get to ebitah of the company you'll get to ebitah of the company right so this is the ebitah of the company bit of the company. So this again, we'll do for the next like four, five years. So we'll just create this model simply, right? So just over here, right?"
+    },
+    {
+      "id": "cue-1482",
+      "timestamp": "0:24:42",
+      "seconds": 1482,
+      "text": "So that is EBITDA again, minus C seven, that is 27 crores. And similarly, we'll do this for the next five years and we'll get to 304 crores of EBITDA for the company. Now coming to a very very important element that is of interest cost. So this company is leveraged."
+    },
+    {
+      "id": "cue-1502",
+      "timestamp": "0:25:02",
+      "seconds": 1502,
+      "text": "It isn't as if this company isn't leveraged, so this company has leveraged it, you can see that the interest cost is close to 7 crores right now, so currently the company has like borrowings of 281 crores whereas reserves of 428 crores and company said that our debt to equity will go to 1.25 times after this capex, it won't cross 1.25 times so simply I can get that incrementally how much this company will borrow that can be simply arrived from here. You have a debt to equity 1.25 times. So what is the formula for debt to equity? So those who have seen the classes of balance sheet, S.O.I.C.G."
+    },
+    {
+      "id": "cue-1540",
+      "timestamp": "0:25:40",
+      "seconds": 1540,
+      "text": "They have a walk in the park, a park, who have seen the profit and loss statement. So this stick with me because when to buy till how long to hold and when to sell jingo PNL or balance sheet kakam idea to him kale wo bhi mapo sikaunga wo toh apko both simple common sense wa like tool ajo mapo sikaunga to next 30 minutes kale ikdem give me your 100% attention right so company is guided ki 1.25 times with the debt to equity, right? So let's take the equity of the company. So equity of the company is what? 428 plus 25. So 453 crores equity, a company of 453 crores."
+    },
+    {
+      "id": "cue-1575",
+      "timestamp": "0:26:15",
+      "seconds": 1575,
+      "text": "And debt to equity, the company is saying won't cross like 1.25 times right so basically debt will be 1.25 times of the equity right so what I can simply do the debt figures for rise connect what I can simply do is that I can simply go to a calculator. Right. And our like, you are right. So just a second and our equity, how much is 428 plus 25453. Right. I think it's business."
+    },
+    {
+      "id": "cue-1608",
+      "timestamp": "0:26:48",
+      "seconds": 1608,
+      "text": "It's equity raising or because it will give them they will make the balance sheet stronger simply into 1.25 so what I will get is 566 crores the company's debt will go to 566 crores post all these post all these capex right so 566 crores ka kar company ka debt ho jaad hai right what is the interest rate that the company is currently giving on its debt so simply kya karna hai kuch bhi nahi karna right So let's take this 288 crore 281 crore as borrowings."
+    },
+    {
+      "id": "cue-1639",
+      "timestamp": "0:27:19",
+      "seconds": 1639,
+      "text": "So company balance sheet pay 281 crore as the company has borrowings of 281 crore on the balance sheet on which the company is paying 25 crore of interest right now. So company is paying 25 crores of interest on 281 crores of borrowing. Everyone in the comment section, how much is the interest rate that the company is doing paying right now? So 9% as per the company's paying interest rate, right? 9% simple, simple, 9% as per the company's paying interest rate, right? 9% is being interest rate. Interest upon debt. Simple. Great. So 9% is being interest rate."
+    },
+    {
+      "id": "cue-1684",
+      "timestamp": "0:28:04",
+      "seconds": 1684,
+      "text": "And what was our figure for basically we arrived to 566 crores of borrowings that the company will do. Now what is the 9% of 566 crores? I have 566 crores of loaners and I have to give 9% interest. So what will be my total interest cost? What will be my total interest cost? I can just simply multiply this by 9%. So 566.25, so I will just do this. So it is equal to 566.25 into 9%. So I will get the answer of 50.96 crores."
+    },
+    {
+      "id": "cue-1725",
+      "timestamp": "0:28:45",
+      "seconds": 1725,
+      "text": "So the interest cost of 2023 is 25 crores so next year, because when you do CAPEX, you have to take money in advance from the bank because they are investing, so a lot of time operation run over happens so let's assume interest cost goes to 51 crores over the next few years right after that. So, so, so, so, so, so, so, so, so, so, to interscouse. So repayment of debt. So yes, I do have assumptions and you can be a question."
+    },
+    {
+      "id": "cue-1769",
+      "timestamp": "0:29:29",
+      "seconds": 1769,
+      "text": "We are just trying to make a guesstimate because quarter four of f I 23 k con call may they'll give you all these assumptions and ideas right so what I'll simply do is that I'll subtract the e bit by I'll just what I'll simply do is that I'll subtract the EBIT by interest right and I'll simply keep doing this for the next four or five years and I simply get to the profit before tax of the company which in our guesstimate model comes close to 253 crores or 254 crores. Now coming to a very, very important idea that what will be the tax rate for this company, right?"
+    },
+    {
+      "id": "cue-1808",
+      "timestamp": "0:30:08",
+      "seconds": 1808,
+      "text": "So tax rate is company or kya aega? So let's go to tax rate. So yaha pe abham investor presentation mein aate hain because we are making it like tailored to this company right so I'll just come to this and over here they mentioned the tax rate as well somewhere so let me just do this I'll just simply do tax right so just coming to tax rate so consensual like so cons so basically concessional tax rate of 15% on the new capex right so they've formed a subsidiary which is meant for electrolytes So they'll be making lip F six salts from lip F six salt that is geetium hexafluorophosphate."
+    },
+    {
+      "id": "cue-1850",
+      "timestamp": "0:30:50",
+      "seconds": 1850,
+      "text": "You can go to chemical car. Who say very electrolyte forward integrate. Jolietium ion battery well a manufacturers. Who go to basically a product batch. Right. And you have a is full a cap X key. Can you basically potential a so existing business key? Let's assume."
+    },
+    {
+      "id": "cue-1866",
+      "timestamp": "0:31:06",
+      "seconds": 1866,
+      "text": "Let's make it even simpler so the potential of existing business is 1, 000 crores and the potential of this business is also 1, 000 crores let's take the rule of thumb so in one business, I am paying the tax of 15% and on the other business I am currently paying close to 29% taxation on old corporate tax rate I think this is going to be 25% on old corporate tax rate. It's going to be 25-26% on new corporate tax rate. So that again you have to refer back to con calls where they mention things."
+    },
+    {
+      "id": "cue-1903",
+      "timestamp": "0:31:43",
+      "seconds": 1903,
+      "text": "So what you have to understand over here is that from F524 or F525 If I give a part of sales, 50% of sales claim a tax rate of 25% and 50% of sales claim a tax rate of 15% right? So how much will my blended tax rate be? Simple answer is between 20 to 22% if you take out the weighted average, you will get the exact answer but I am just doing a rough estimation that the tax rate of 20 to 22% this company will be paying in next 1 to 2 years So this is a very precise way of calculating it. Some people just take 25% and give it a full key because it's corporate tax rate."
+    },
+    {
+      "id": "cue-1942",
+      "timestamp": "0:32:22",
+      "seconds": 1942,
+      "text": "But here, because we are going for precision, they assume that the tax rate is 29% in the next year onwards because 25% will be falling. Because of existing business, they will be doing 800 to 850 crore of sales. So next year, we let's assume 25% and then let's assume higher end of our own guidance of tax rate."
+    },
+    {
+      "id": "cue-1966",
+      "timestamp": "0:32:46",
+      "seconds": 1966,
+      "text": "22% 22% right so this will become clear in the comment section clarity a I'm not 22% just in the comment section comment section clarity I am 22% clear clear weighted average current exact answer on the 22% lead right so your debt to equity can also keep falling because of the retained earnings keeps getting added but one problem with this company has been historically, there is no cash flow generation here because your cash flow generation has been really low, equity just ends up becoming a number in the balance sheet."
+    },
+    {
+      "id": "cue-2003",
+      "timestamp": "0:33:23",
+      "seconds": 2003,
+      "text": "Equity is just retained, so equity is just a number, there is no value in equity that it is added to the balance sheet. Actually, reserves are created but the cash is not there. So this is why this is the risk with this business that it will blow up because they are expanding very aggressively whereas cash flows are non-existent right now. So I will explain that in the risk part. Now finally coming to tax of the business and how to buy one, how to sell and till how long to hold I will bring the same business example after that. So don't go anywhere."
+    },
+    {
+      "id": "cue-2035",
+      "timestamp": "0:33:55",
+      "seconds": 2035,
+      "text": "It will make it very very clear for you that we have everything on our process that how can we process it. So how will we come on tax? So total tax, how much will the company get? So total tax will be just multiply 72 into 29%. And simply you can do this for all the years and now we can come to Pat so profit after tax that is right so your profit after tax will be 72 minus 21 right so 72 profit before tax code tax a minus karoge profit agai 51.5 crores ka right simply is code rack kado to my bus profit others company ka 198 crores ka the profit the company will be doing in the year of 2027."
+    },
+    {
+      "id": "cue-2082",
+      "timestamp": "0:34:42",
+      "seconds": 2082,
+      "text": "So 198 crores profit the company will be doing in the year 2027. So over here, we can take the current P of the company based on F527 earning if we want to right so again I'm not asking you to buy or sell the company I don't own the stock I'm just trying to make an example with you that how can you do a particular stock up F527 earnings how much is the company's 198 crores right which we estimated and we have estimated between FI 27 earnings is 198 crores, which we estimated, we estimate between 180 to 220 crores. Current market cap is 3147 crores."
+    },
+    {
+      "id": "cue-2116",
+      "timestamp": "0:35:16",
+      "seconds": 2116,
+      "text": "Current market cap is 3, 147 crores whereas FI 27 earnings are what? FI 27 earnings are what? 198 crores. What will be the P? So expected earnings of FI 27 P ratio. Everyone in the comment section P ratio. Price to earnings. So what is your P ratio? P ratio is 16 something 15 to 16 up to a speed ratio. The ratio at the 16, yeah, 15 something 15 to 16, the measurement of a forward PK concept, and we are taking at least what we are taking one, two, three, four, We are taking four year forward PE ratio because we are trying to estimate the earnings of a business, right?"
+    },
+    {
+      "id": "cue-2166",
+      "timestamp": "0:36:06",
+      "seconds": 2166,
+      "text": "So this is an idea that Abhimne won Buffett first learning he's trying to take this four, five year forward estimates and trying to calculate the multiples today ascapes scenario may be reasonable and I am not it is simply I'll take 3, 1, 4, 7 divided by 198. So I'll get a P ratio of 15.89 times. This is how financial modeling is done for any business that you take. So you can take a depreciation as a percentage of percentage of sales and you can just drag the depreciation or you can just take any business and create these financial models."
+    },
+    {
+      "id": "cue-2200",
+      "timestamp": "0:36:40",
+      "seconds": 2200,
+      "text": "So financial modeling would be essay and what you have to do is that you have to keep updating your model. Now suppose management comes tomorrow in the concoil and says here 20% of our EBITDA margin will be there. So you make it with 20% management comes tomorrow and says here 20% is 16% EBITDA margin in the new project because the EBITDA margin in the new project haven't been declared as of now."
+    },
+    {
+      "id": "cue-2222",
+      "timestamp": "0:37:02",
+      "seconds": 2222,
+      "text": "If the ebda margins are higher, then you can simply create an estimate or a guesstimate of the PNL statement updating this the same financial model but abh jo ai boht important question aath hai, hi pehne cheez ki How to buy, how to ride and when to sell. So this is a simple financial model. Now the important question is when to buy, till how long to ride or when to sell. Or you don't have to buy, that is also a good question. Fundamentally if you are not comfortable with cash conversion being poor or the balance sheet being stretched, then you get deleted."
+    },
+    {
+      "id": "cue-2255",
+      "timestamp": "0:37:35",
+      "seconds": 2255,
+      "text": "But if someone goes and decides to buy, then how long to go and when to sell, then we'll be in three questions. So I will modify this every quarter. I'll try to modify this like after every six months or 12 months based on the like guidance. If the management tomorrow comes and says key, we'll do 20% margin. So I'll just update the entire model and put 20% over it. So that will give you an idea chart 20% margin spend. Now this is the profit and loss statement that comes right. So that the in that ways your like entire assumptions will basically get changed over there."
+    },
+    {
+      "id": "cue-2288",
+      "timestamp": "0:38:08",
+      "seconds": 2288,
+      "text": "If it comes to 20% so your entire assumptions will change. So let's take this 20% of the moment and 20% right. You'll see the entire profit and loss statement moves and the like market like profit after tax comes to 227 crores. So this is how your model moves, right? So you can just simply do this and you can simply create these models for each and every business at your own. I have created them because I have to be disciplined. I don't know if you are doing it or not. But valuations will always give you an idea."
+    },
+    {
+      "id": "cue-2319",
+      "timestamp": "0:38:39",
+      "seconds": 2319,
+      "text": "So just over a technical chartist or a fundamental analyst who doesn't do valuations, So if you use valuations, then you will club it with the went to by till how long to hold and went to sell. Your framework will become more stringent. Then we will come to reverse DCF or DCF. Your framework will become more stringent and went to sell will become a walk in the park for you. So over it, like now just come into an example of when to buy, how long to hold and when to sell. So here I am going to teach you three tools."
+    },
+    {
+      "id": "cue-2351",
+      "timestamp": "0:39:11",
+      "seconds": 2351,
+      "text": "I think I have tried many of them but this is the first time I will be teaching you. And hopefully you learn something new out of this right so let's take an example of neogen chemicals right let's take an example of neogen chemicals right so neogen chemicals case me there's a new tool that I'll be teaching you today it is known by the name of parabolic, SAR, volatility stop and ADX. So it will become very very easy for you to make buying ends or like at least buying decisions selling decisions and till how long to hold decisions Right."
+    },
+    {
+      "id": "cue-2387",
+      "timestamp": "0:39:47",
+      "seconds": 2387,
+      "text": "So first tool that I will teach you today is a tool by the name of adx. Right. Adx karka couple tools. Right. So what is the meaning of adx? So it is known as average directional index. It is very, very simple to understand. It is known as Average Directional Index. ADX is known as Average Directional Index. So ADX if you want to read the exact definition, I'll just take you over here to investopedia. It's a very simple thing to understand. So, average directional index, you'll just find the exact definition over there. So, this is a tool that is created by Welles Wilder."
+    },
+    {
+      "id": "cue-2430",
+      "timestamp": "0:40:30",
+      "seconds": 2430,
+      "text": "So, basically this is what he created for commodity charts, but the idea of the tool is So there are two things that happens in this tool So it's very simple if you want to understand ADX a little bit So just coming back to investor BD only So you can just find out that the average directional index So in front of this, you will get 4 or 5 values. What will be the values? So first 4 or 5 values that will be there in front of you is that if the adx crosses 20 to 25, then basically the like trend of the stock is in your favor. So what is ADX? So ADX is a trend following indicator."
+    },
+    {
+      "id": "cue-2469",
+      "timestamp": "0:41:09",
+      "seconds": 2469,
+      "text": "So ADX is a trend following indicator. Trend following indicator. Right. So if the ADX of a stock, so I'm just teaching you to exactly your values. So if the ADX of a stock, so I'm just teaching you to exactly your values are up jacket, they can be sucked in. So if the ADX of a stock is more than 20 to 25, then means the stock is in a positive uptrend and the stock is in a positive uptrend. If the ADX of the stock is between 10 to 20, right? So means the stock is flat. There's nothing happening below 10 basically super downtrend below 10 basically super downtrend."
+    },
+    {
+      "id": "cue-2504",
+      "timestamp": "0:41:44",
+      "seconds": 2504,
+      "text": "This is the meaning if it goes above like your 40 or 40 to 60 key over the jar, so basically it has entered a super trend. So basically your business has entered a super trend. Fundamentals are improving. A lot of bios are coming to buy. So technically, we are going to be going to buy how long to hold and when to sell. What are the technical space? Okay. So this is the idea of ADX indicator. So ADX, I'm up here, calculation. How do you do it? ADX. So basically it is calculated on the basis of directionals. Like basically two directions, a positive direction or a negative direction."
+    },
+    {
+      "id": "cue-2538",
+      "timestamp": "0:42:18",
+      "seconds": 2538,
+      "text": "What's simple. If you see this candle, right? So this is a closing of this candle, but the next month's closing is higher than the previous month's closing, then your directional index will be positive."
+    },
+    {
+      "id": "cue-2552",
+      "timestamp": "0:42:32",
+      "seconds": 2552,
+      "text": "Now, if you just look at this candle right now the closing is basically like higher in the previous one but the closing is lower in this month so what will it indicate a negative direction right so negative direction positive direction or in the average is this means an average directional index so if it crosses above 25, it means the stock has entered into a trend and this indicator just remember this, ADX so above 25 the stock has entered into a trend just above 25 what is the meaning?"
+    },
+    {
+      "id": "cue-2583",
+      "timestamp": "0:43:03",
+      "seconds": 2583,
+      "text": "The stock has entered into a trend, just drop a hell yes if you understood this ADX above 25 means the stock has entered into a trend just above 25 what is the meaning that the stock has entered into a trend just drop a heli as if you understood this the adx above 25 come up the stock has entered into a trend above 25 above 25 right great right so above 25 come up yeah right So you can also study this tool independently, which will actually help you when to buy me. Then coming to the second tool. So second tool to our son, the last basically, we see."
+    },
+    {
+      "id": "cue-2612",
+      "timestamp": "0:43:32",
+      "seconds": 2612,
+      "text": "So second tool that we have over here is volatility stock. So volatility stock is purely and purely meant for exits. It is purely and purely meant for exits. So when does volatility of a stock increase? So when does volatility of a stock increase when basically dumping of the stock starts when does the volatility volatility of a stock increase when basically higher volume sales start like pay people start dumping the stock when the price starts falling sometimes low volumes maybe volume, so the orbit risk and this basically will stop you out from the said position. Yes, I got NeoGen chemicals."
+    },
+    {
+      "id": "cue-2646",
+      "timestamp": "0:44:06",
+      "seconds": 2646,
+      "text": "Okay. Now this is where reverse DCF will come in handy. Now let's say suppose over here, you found key like volatility stop of basically taking example of NeoGen chemicals."
+    },
+    {
+      "id": "cue-2657",
+      "timestamp": "0:44:17",
+      "seconds": 2657,
+      "text": "You found that the valuations of the company have gone really berserk so I'll use a tighter volatility stop that is 2x volatility stop so you will see that your entry was in neo-gen here some 517 500 and now the exit was around 1300 and around 1300 your exit came right whereas here if you do reverse DCF somewhere close to 1700, had you done a reverse DCF, it would have been telling you that NeoGen chemicals is baking in 30% of growth for the next 15 to 20 years."
+    },
+    {
+      "id": "cue-2685",
+      "timestamp": "0:44:45",
+      "seconds": 2685,
+      "text": "And I covered this talk in our YouTube video on top 10 overvalued stocks so here reverse DCF or volatility stop, if in reverse DCF any company is making a big profit from 25% or 20% CAGR for the next 10 years, if you have a 25% value then it means that the stock has become really expensive you have to tighten your volatility stop to take an exit or to manage risk so here volatility stop is purely meant for selling so what we have learnt so far? One is ADX and the other is volatility stop the third thing we will learn is parabolic SAR, which will help you to buy. So ADX is a tool to sell."
+    },
+    {
+      "id": "cue-2730",
+      "timestamp": "0:45:30",
+      "seconds": 2730,
+      "text": "This will help you to make decisions. Parabolic SAR is a tool which will teach you when to buy. So clubbing parabolic SAR with ADX will teach you when to buy and volatility stop is also the tool which will teach you how long to ride till how long to ride. So, these three questions will get solved through these three tools and by reverse DCF and discounted cash flows. So, your valuation, when to buy, how long to hold and when to sell it. Everything will be completed. No doubt. So volatility stop here. Our stop out of the stock message this particular stop right."
+    },
+    {
+      "id": "cue-2769",
+      "timestamp": "0:46:09",
+      "seconds": 2769,
+      "text": "So over here we are stopped out whenever this plus sign goes becomes negative. So I will show you the indicators first. So that it is easy for you. So when you open trading view, you can do it on next Sunday. So next Sunday there is a session on trading view which we will release the details soon. So just over here, simple, I'll write volatility stop, right? And volatility stop may be 20 or 2. So I'll just take the length as 10 because I'm long term compounding."
+    },
+    {
+      "id": "cue-2808",
+      "timestamp": "0:46:48",
+      "seconds": 2808,
+      "text": "And multiplier, you can keep it as 2 to when the reverse DCF is baking in a lot of high froth 2.5 when you think that the stock is a compound type business and I want to give it a lot of leeway but yeah but they say to kill her because it was making in 30% of growth for the next 10 years. You can just simply click on these, you can actually do this. You can make this line a little detailed. You can just take this and make it more and more detailed. So, first we put a volatility stop. Then in the second indicator, coming to average directional index. More detail right."
+    },
+    {
+      "id": "cue-2845",
+      "timestamp": "0:47:25",
+      "seconds": 2845,
+      "text": "So, so this one, I think I think so I have this directional index with D I plus and D I minus right. So what I typically like to do is that I like to hide high DI plus and DI minus. Basically, we have a gate. I just thicken it so that it becomes easier for us to look at it. Then third tool, these are the three tools which will help you to when to buy how long tool and when to sell. This is not a simple new buy for you."
+    },
+    {
+      "id": "cue-2880",
+      "timestamp": "0:48:00",
+      "seconds": 2880,
+      "text": "Another tool is by the name of parabolic SAR here you will see parabolic SAR which is the second one so when to buy part is parabolic SAR copy I will just click on it and I will just make the increment value 0.05 and I'll just do what is basically dotted lines and make them more and more visible so we stop up and I'll hide So when to buy is the part of the business, when to buy You have to buy when the ADX Suppose fundamentally everything has been screened for you and you particularly like the business Simply you have to buy when this is a parabolic asset So this is typically when to buy, this is not when to sell Remember this is for when to buy This is for when to buy, when to buy, when to buy, right?"
+    },
+    {
+      "id": "cue-2933",
+      "timestamp": "0:48:53",
+      "seconds": 2933,
+      "text": "Club with ADX. So if your average directional index is more than 20, like in the case of Nehogen, it is going above 20 for a long period of time. So ADX is ADX you have to club with parabolic S.R. So here is your parabolic S.R. Is basically like trending. So when basically it is below the candle, it means it's trending when it is above the candle, basically stop price is consolidating or it is falling. So this is the point of time to actually place your bias right this is the point of time to actually place your bias right."
+    },
+    {
+      "id": "cue-2965",
+      "timestamp": "0:49:25",
+      "seconds": 2965,
+      "text": "So according to like parabolic SAR simply you have to buy when it starts trending and your ADX is above 20 so ADX should be above 20 and your parabolic SAR should be trending so the simple definition of parabolic SAR you can just simply go and read it on investor media this is a volatility indicator but this is a shorter term indicator as compared to your V stop so whenever parabolic ACR starts trending that is the point of time to purchase so here our went to buy is solved and ADX is above 20 so went to buy is solved now what is our solved? Went to sell and how long to write?"
+    },
+    {
+      "id": "cue-3005",
+      "timestamp": "0:50:05",
+      "seconds": 3005,
+      "text": "This will be solved using Vstop and we will do it with reverse GCN. I will put examples in many businesses so that you can get more simple. Let's take the most famous example that is of laurice labs right so over there right so you can see it is a parabolic sr kept trending so a monthly like candles where they can't do it. So, we are more into investing. So, weekly or monthly charts link a max to max and nothing more than that. So we are one of when to buy the law is me."
+    },
+    {
+      "id": "cue-3036",
+      "timestamp": "0:50:36",
+      "seconds": 3036,
+      "text": "I solve together when to buy, Kabi, we could have placed our buy orders, but when to sell up, solve with a law is lapse candle. So I'll just hide this. Right."
+    },
+    {
+      "id": "cue-3044",
+      "timestamp": "0:50:44",
+      "seconds": 3044,
+      "text": "When to sell, our cup solve with a by using volatility stop right and when to sell car solver and so suppose if you thought Laura's was a compounder business right and you thought you want to give it more leeway to have a multiplier 2.5 so when to sell come to your exit was triggered between 520 to 550 rupees in a monthly chart right because see when to sell gets triggered because fundamental deterioration is happening in the business which was also visible the x of paxley white we saw in the second session how paxley white news came in july 2022 And that is where your when to sell got triggered in the stock."
+    },
+    {
+      "id": "cue-3084",
+      "timestamp": "0:51:24",
+      "seconds": 3084,
+      "text": "So we have learned three things, when to buy and this is also how to ride. You can see this, you can take example of Loris and actually you just look at this perfectly. So aja perfectly. Let's go. So 68 to be saying buying got triggered and you're selling got triggered in at 527. So this is a tool which would have helped you to write almost like what 8x gains almost 8x gains in two to two and a half years. Right. So again, your exits got triggered over there when to buy, how long to hold and when to sell."
+    },
+    {
+      "id": "cue-3116",
+      "timestamp": "0:51:56",
+      "seconds": 3116,
+      "text": "So when to sell and how long to hold is solved by volatility stop when to buy is solved by parabolic SR along with what your adx so adx above 20 and parabolic SR this will solve when to buy right and volatility stop along with your basically volatility stop will solve till how long to ride and when to sell. So this is how long to hold and when to sell. All three things are solved in technicals. Now what to buy, whether it is undervalued or overvalued, we will learn from fundamentals. Take any business example here. Let's take an example of Dixon. Dixon technology is an example."
+    },
+    {
+      "id": "cue-3158",
+      "timestamp": "0:52:38",
+      "seconds": 3158,
+      "text": "In Dixon, your selling got triggered to 4000. If you were using 2.5x, your selling triggered to 2.5. How can you make it a reminder? Simply go to this. Set reminders over here. Simply come to this clock. Turn the camera off so you can see it."
+    },
+    {
+      "id": "cue-3179",
+      "timestamp": "0:52:59",
+      "seconds": 3179,
+      "text": "Simply set reminders on the stock simply go to this clock right and create alert and create alert me kya gana right simply volatility stop right so volatility stop cup kassak then right you can just create an alert and you can create this alert in your email on the particular application and also like URL and stuff and send email to SMS also option is there. Right. So I think send email option."
+    },
+    {
+      "id": "cue-3204",
+      "timestamp": "0:53:24",
+      "seconds": 3204,
+      "text": "If you just trigger this, just set up a dedicated email idea for yourself when to buy or basically buying or selling stocks and you can just simply create this so it will send you a notification event to sell your trigger. So over here you can just simply create this and it will get created. So whenever it hits, right, whenever it crosses as well, So whenever it crosses above, it will also give you an indication monthly charts. Whenever it crosses down, it will also give you an email or a reminder."
+    },
+    {
+      "id": "cue-3233",
+      "timestamp": "0:53:53",
+      "seconds": 3233,
+      "text": "So this is when to buy when to sell and how long to hold these three parts over a long period of time compounding may this will get solved. Many people think he all the like this won't help them when it comes to like they are taking the benefits of compounding. Just look at HDFC Bank stock chart apart from 2008 crisis, right? Or COVID crash, the whole markety crash over there you can choose to ignore it. You just look at it from 1999."
+    },
+    {
+      "id": "cue-3262",
+      "timestamp": "0:54:22",
+      "seconds": 3262,
+      "text": "So again, it's a simple tool that will help you to automate your exits because what ends up happening is that we get stuck in stocks And then we start looking left right center. He said, he said, I did it. Then we go into that blame game and then the problem arises because most of the exit decisions are made on basis of emotions and not like your basically an objective criteria of selling. So this objective criteria of selling will help you to simplify your life. When to sell and how long to ride will be simplified by V-stop."
+    },
+    {
+      "id": "cue-3296",
+      "timestamp": "0:54:56",
+      "seconds": 3296,
+      "text": "When to buy will be simplified by a combination of average directional index along with parabolic SAR. That is the simplest idea at the end of the day. That is the simplest idea. A simple example. Let's come to Algae Elamines. Everyone knows that it's expensive to go to the reverse DCF. So in Algae Elamines, for the last 13 years, there have been only two cells and when were these two cells over here? So first simple example over here. The first cell got triggered when there was a pharma down cycle between 2015 to 2018. I'll get a mind schedule volume stay. They stopped growing."
+    },
+    {
+      "id": "cue-3335",
+      "timestamp": "0:55:35",
+      "seconds": 3335,
+      "text": "So sell got triggered. Abhi Amine's key companies can result. I am what are the margins and what is the growth reported by mine companies? Everyone in the comment section See participate because this will help you to solve the three most troubling questions in investing. So this is a simple idea of when to sell basically using your volatility stock. So we learned three new things today. Now I'll go to DCF and reverse DCF and clubbing reverse DCF with volatility stock will actually like make your selling much much better than majority of the street right."
+    },
+    {
+      "id": "cue-3369",
+      "timestamp": "0:56:09",
+      "seconds": 3369,
+      "text": "So what did we learn just four things that we learned we learned financial modeling we learned when to buy how long to ride and when to sell. What are the four things that we learned till now this. Now we'll come to discounted cash flows and reverse DCF right. So coming to these two things more this will clarify your total mind that how to ride, hold, sell, and how to do valuations. So that you have more and more conviction over a particular stock. And finally, we'll come to a deep value sheet that we have created just for you in this webinar, and I'll also discuss the rationale behind it."
+    },
+    {
+      "id": "cue-3402",
+      "timestamp": "0:56:42",
+      "seconds": 3402,
+      "text": "But that will also help you a lot. So Now we are coming to this idea of different valuation metrics which are used in different industries. So last two sessions when maybe FMCG has seen clear, they've also learned about banks. Then we also I think took a look at a few chemical businesses and then we also had a look at one more industry which I'm forgetting right now. So now coming to the valuation metrics which are purely and purely meant for the cement companies and how to find opportunities out of this."
+    },
+    {
+      "id": "cue-3431",
+      "timestamp": "0:57:11",
+      "seconds": 3431,
+      "text": "The cement companies when there are two things to remember that there are two types of players. There are two types of players when it comes to Cements. What are the two types of players which are present? First type of players that are present when it comes to the cement industry are regional players. Are regional players. They will be stuck in one region. They are mostly in Karnataka. Then second type of players in the cement industry are pan India players. And What is the valuation metric used to get an idea about them? It is known as EV per ton."
+    },
+    {
+      "id": "cue-3471",
+      "timestamp": "0:57:51",
+      "seconds": 3471,
+      "text": "So enterprise value is nothing but market cap plus debt minus cash. Market cap plus debt minus cash is equal to enterprise value of cement of any company. So why are we taking enterprise value per ton for cement company? So enterprise value per ton because Cement business is a business of high debt and high cash flow generation. So over here, never ever look at price to earnings ratio, especially when it comes to your cement sector. Either look at EV to cash flow or look at price to cash flow or look at EV per ton. Because EV per ton will give you the replacement cost."
+    },
+    {
+      "id": "cue-3516",
+      "timestamp": "0:58:36",
+      "seconds": 3516,
+      "text": "This will give you an idea of how much you are trading on your replacement cost. So you look at this, so the two types of players we talked about, regional players and pan-India players, the EV per ton of pan-India players is ascribed much higher than Mr. Market as compared to the regional players. Just look at this example that this is I think, Altratech cement right? Just look at the EV per ton given by market, $191. Look at this Ambuja Cement, again a Pan India player. EV per ton given by market is $205. Right?"
+    },
+    {
+      "id": "cue-3553",
+      "timestamp": "0:59:13",
+      "seconds": 3553,
+      "text": "A ton of cement is being made, $205 of EV per ton is being ascribed to this business. These valuation metrics usually I'll tell you how to find them out as well. Look at three cement. Pan India player agreed 194 dollars EV per ton. But this is where value opportunities emerge. Like, 5th one, Dalmia Bharat. Now, Dalmia Bharat is becoming a pan India player. So in the comment section, those who have read, Dalmia Bharat is becoming a pan India player. So it is also going where ultra taken shri cement are."
+    },
+    {
+      "id": "cue-3599",
+      "timestamp": "0:59:59",
+      "seconds": 3599,
+      "text": "Whereas Dalmia Bharat today gets a $121 of EV per tonne, meaning enterprise value per tonne. That is close to $121 per tonne of EV per tonne. Per tonne of cement, it has been ascribed a $1.21 valuation by Mr. Barkit. Whereas the company is going pan India, just the way she cement and ultra day and ultra tech cement have done. And also how your Ambuja cement has done. This will give you an idea that this is how value spotting or value opportunities in the markets arise."
+    },
+    {
+      "id": "cue-3635",
+      "timestamp": "1:00:35",
+      "seconds": 3635,
+      "text": "Because if Dalviyan Bharat actually emerges to be a pan India player, then again what will end up happening is that the valuation that is per tonnage where the market is ascribing that is EV per ton that the market is ascribing to Dalvia, as compared to POS is lower. So idea of looking at valuation multiple is to look for opportunities that emerge. So now this is an opportunity that I can go and study. Mani main isko jaake padunga because it is going, it is going to become a pan India player."
+    },
+    {
+      "id": "cue-3664",
+      "timestamp": "1:01:04",
+      "seconds": 3664,
+      "text": "And this is where my circle of competencies, especially when it comes to your cement players, regional players, so this is where it is like wonderfully explained. So regional players, so what is happening over here. So regional players may just say, if you look at this, this is a regional player. So $76 of EV per ton, right? This is Orient Cement regional player, $45 of EV per ton. Now this is Prism Johnson, $76 of EV per ton because they're constrained to a particular region."
+    },
+    {
+      "id": "cue-3690",
+      "timestamp": "1:01:30",
+      "seconds": 3690,
+      "text": "Pan India player may the moment you become a Pan India player, so you are not dependent upon the economics of a particular state because in one state, there can be a recession. Whereas in Pan India, you can better deal with it because realizations of cement, it's a regional market. What are the prices of cement in East India? What are the prices of cement in East India? What are the prices of cement in West India, North India and South India? But if you become a Pan India player, what ends up happening is that some market method realization a chha huay gai."
+    },
+    {
+      "id": "cue-3715",
+      "timestamp": "1:01:55",
+      "seconds": 3715,
+      "text": "So your business becomes lesser volatile as compared to your regional players. This is why you will see this wonderfully done by Mr. Market is that pan India players get a higher EV per ton, right? EV per ton is generally higher for the pan India players and the average replacement cost I think that is usually given in research reports. If a replacement cost can what is the valuation this company is getting. So once it goes below replacement cost as well, especially in regional players, then it can become interesting."
+    },
+    {
+      "id": "cue-3742",
+      "timestamp": "1:02:22",
+      "seconds": 3742,
+      "text": "But this is how I am using it to filter down on an opportunity by the name of Dalmia Bharat. If it actually becomes a Pan India player, then the valuation multiples can read it. So this is one way to spot opportunities using your valuation metrics. Right. So this is how you can filter on opportunities using valuation metrics. Now coming to agrochemical valuations and also looking at the valuations of fluorination companies, then we'll come to some of the parts valuation."
+    },
+    {
+      "id": "cue-3771",
+      "timestamp": "1:02:51",
+      "seconds": 3771,
+      "text": "And then finally, DCF ka jo idea ki Hawaii high interest rates, kill the valuation of stocks and reverse DCF will come to that. So your like idea of valuations will become simpler and simpler. Right? So now coming to this idea of how basically your, like agrochemical sector may, how are the valuations that get like done, right? So this is again an idea that Hawaii value chain matters and how you can marry value chains with higher valuations given to companies. So you'll just find that when it comes to two businesses in this sector that is Sumitomo Chemicals and PI Industries, both of them."
+    },
+    {
+      "id": "cue-3810",
+      "timestamp": "1:03:30",
+      "seconds": 3810,
+      "text": "So Sumitomo chemicals serves to also MNC that is its parent company and it is also having a patented portfolio of products, right. And generally you will see that a Sumitomo chemicals is looked at as a consistent compounder within the sector. Similarly, PI industries, it manufactures patented molecules, it serves to MNCs, it insources these molecules from MNCs and again PI industries is dealing in patented space."
+    },
+    {
+      "id": "cue-3835",
+      "timestamp": "1:03:55",
+      "seconds": 3835,
+      "text": "So, when you look at P multiple of agrochemical companies within the sector, you will find that Sumitomo PI industries go 45 XP is a upper meltdown Within this sector, because they have a better mode, they have stronger revenue and growth visibility, stronger distribution, pricing power, Sumitomo chemicals, but definitely if you talk to any agrochemical distributor, They are brands and then they are they have guarded technology because you can insource the molecules and you can do n number of things. So this is the idea of value chain and how P multiples the businesses get."
+    },
+    {
+      "id": "cue-3866",
+      "timestamp": "1:04:26",
+      "seconds": 3866,
+      "text": "Then second type of business. So it's an MNC also bear crop science growth will be but for the pricing power of brand or high stickiness with the farmers. This is why you see a bear crop science will get anywhere between 35 to 40 xp ratio even though growth is very less but still it's an mnc so it's a bit of a mess then you will find that there will be businesses, right? So you'll find that in 20 to 30 p ratio, you'll find businesses like Bharat Rasain, Aztec life sciences will come over here, which is trying to do what PI industries has done, right?"
+    },
+    {
+      "id": "cue-3900",
+      "timestamp": "1:05:00",
+      "seconds": 3900,
+      "text": "By getting into patented business, but still 70% of the business is generics for these companies, Aztec and Bharat Rasayan. Rally is here because Rally's business model is very weird. So Aztec and Bharat Rasayan will come here. So in this period, well, their P ratios will be between 20 to 30, a bit more elevated the crowd because the earnings have been soft. And so you will find this idea, the value chain gets married to also P ratios in a sector. So this will be somewhere close to 25 to 30 X P ratio within the agrochemical sector."
+    },
+    {
+      "id": "cue-3932",
+      "timestamp": "1:05:32",
+      "seconds": 3932,
+      "text": "Then you will find all types of companies which have lower PE ratios because their business models don't have a strong mode. So example, Hiraan by industries. So the results were also basically bad for the company. And also margins have evaporated. So these are type of companies where lower means here rallies ko bhi main kain daluga right so these are the type of companies where you are doing generics and you are doing just domestic business of formulations right And what ends up happening in such scenario is India may agriculture is an seasonal activity."
+    },
+    {
+      "id": "cue-3966",
+      "timestamp": "1:06:06",
+      "seconds": 3966,
+      "text": "India may agriculture is a seasonal activity. Why so am I saying? Because some year it will be there will be good monsoon, some year there will be bad monsoon. This is why your like your basically plantation by farmers can reduce or increase. So actually it's a increase because it reduces it's right. It becomes a seasonal activity. So whenever I can make a company guy if I'm trying to make a PNL model like we did for NeoGen chemicals. Now let's assume you're making a PNL model for a company whose business model is dependent on the company, whether it will rain or not."
+    },
+    {
+      "id": "cue-3997",
+      "timestamp": "1:06:37",
+      "seconds": 3997,
+      "text": "And the actually one more thing about it is that whenever there is Indian monsoon agency, so whenever their estimate for the yearly monsoon comes, if the estimate for the monsoon is lower than expected then the stock especially in this basket they start falling because they're majorly dependent upon India and secondly because they're majorly dependent upon India So what ends up happening domestic market with clickality is much more right. Whereas these businesses, especially PIN Sumitomo have an export business. So they're connected to the world market."
+    },
+    {
+      "id": "cue-4031",
+      "timestamp": "1:07:11",
+      "seconds": 4031,
+      "text": "Bharath Rao sign is exporting to Brazil today. Ashtek is also has a 60 to 50% of export business. But when you're majorly into the domestic business, so leaving a Sharda Cropcam in size aside because that's a trader type company. So whenever you are exposed to more and more like of your domestic business like your Dhanuka Agri Tech, companies like your then Insecticides India, like whenever you export or Rallys India, whenever you exposed more and more to domestic business, you will find that the valuations of these companies will be much, much lower as compared to the others."
+    },
+    {
+      "id": "cue-4064",
+      "timestamp": "1:07:44",
+      "seconds": 4064,
+      "text": "So idea is to try to find companies which can move up the value chain maybe because the business has fallen but again that is because of cyclicality so we should study and as tech life sciences right karm karna chi ospe because if it moves up the value chain it can be very very interesting but pi industries or yaha pe al actually club SRF as well because that is as big as PI Industries. These are three, four companies which are already have won the market. I mean, they have won the market. So here you can just look at your when to buy and when to sell tools and actually make a distinction."
+    },
+    {
+      "id": "cue-4096",
+      "timestamp": "1:08:16",
+      "seconds": 4096,
+      "text": "Another example that how value chain ends up deciding the valuations of a company. So, you will find that the fluorination companies, So this is an example of the same that these were the margins. So margins also end up deciding our valuations of a company if they're sustainable or not. So you'll find a Deepak nitrite. So it's a deeper night right. I don't know. It's a guy you can compare it with SRF on the bean and also finally a good job for our chemicals. So look at the margins of this is Naveen company is Naveen."
+    },
+    {
+      "id": "cue-4130",
+      "timestamp": "1:08:50",
+      "seconds": 4130,
+      "text": "So Naveen reported 27.6% margin in quarter three FI 23 in a quarter where all the chemical companies are reporting bad margins. Company two is Gujarat, the chemicals, which reported a 37% margin as compared to 36% last year. Whereas the company C is SRF which reported a 32% EBIT margin versus 29% EBIT margin last year. So this is why sector mapping is important because you can derive opportunities out of this. So here we have Naveen as an opportunity so valuations have become high for Naveen. So again, I'll be very, very careful."
+    },
+    {
+      "id": "cue-4164",
+      "timestamp": "1:09:24",
+      "seconds": 4164,
+      "text": "But again, Gujarat Phyllo chemicals and SRF, these are the opportunities that end up coming just by looking at the valuation metrics of an industry and the margins of a company. So I will go and actually read why so I'll do work. Naveen, we've already done work, but I will go and do work on Gujarat Pharo chemicals and SRF more and more because these companies at least are at a lower multiple versus Naveen. Naveen is also doing really well because growth is much faster. But again, Gujarat follow chemicals is today at 26 XP. Whereas growth rates are more than 20% types, right?"
+    },
+    {
+      "id": "cue-4198",
+      "timestamp": "1:09:58",
+      "seconds": 4198,
+      "text": "So growth rate 20% se bhi upar hai. So let's calculate the peg ratio with you. So 26x, so P ratio is 26, earnings growth is 20%. Pag ratio of the business is 1.3 times. Pag ratio is 1.3 times, which doesn't seem to be horribly expensive. If the margin sustained. So this is a business I will go and study just by doing a simple exercise like this. I saw earnings growth and guidance for 25% earnings growth. Still on a 20% earnings growth, this business gets filtered for me. This is the idea of looking at sectoral valuations."
+    },
+    {
+      "id": "cue-4232",
+      "timestamp": "1:10:32",
+      "seconds": 4232,
+      "text": "I think in the last two, three webinars, we've discussed a lot of sectoral valuations we have done for banking, the Iqwita Small Finance Bank, I Feel Finance in NBFCs and South Indian Bank example. And today we have looked at it in terms of chemicals and also last volume growth. Recently, even in a contracting space of FMCG, another business has been reporting very strong growth that is vector food. So that is again a business that can be studied with the lens of volume growth within the FMC sector along with the multiples that the company is trading at 50."
+    },
+    {
+      "id": "cue-4270",
+      "timestamp": "1:11:10",
+      "seconds": 4270,
+      "text": "We take it trailing 12 months but actually forward with 30. We have a vector food see what we are making money. They can get cases. It's a big question. So this is with the sectoral mapping of valuations. Now coming to the last three parts in the webinar today that we'll discuss is some of the parts valuation right this we'll discuss then DCF reverse DCF and then our deep value sheet and finally a round of question and answers. Right. So coming to some of the parts valuation, some of the parts valuation, so you'll see that there are companies which have conglomerate structures."
+    },
+    {
+      "id": "cue-4305",
+      "timestamp": "1:11:45",
+      "seconds": 4305,
+      "text": "So you'll find there are companies which have conglomerate structures. So some things are very, very important to understand. So I'll just take you to screener and show you multiple examples that there are some companies which have conglomerate structures, right? So over here, just coming over here, right? So you will find that some companies have conglomerate structures. So let's go to one, right? So let's go to Freener and let's take an example of ITC, right? So Abhimanyu's email ID, Taldum, right? So let me just take an example of basically ITC."
+    },
+    {
+      "id": "cue-4338",
+      "timestamp": "1:12:18",
+      "seconds": 4338,
+      "text": "So just a second, till then I'll just insert the other email ID just a second. And so taking an example of ITC over it, right? And now I'll just open the sheet for you. All right. It's on three. Let's take an example of ITC and I'll just open ITC limited and you'll just find that the IT actually ITC got 80 90% business to FMCG business here, right? That is cigarette business and the other FMCG products, right? Yet the company gets a lower P multiple versus companies like an HUL versus the companies like your Hindustan Unilever."
+    },
+    {
+      "id": "cue-4380",
+      "timestamp": "1:13:00",
+      "seconds": 4380,
+      "text": "Or versus your companies like like versus your companies like Nestle, right? Or you look at, so in the Sun, the Unilever gets 61p whereas your Nestle gets what? Nestle gets a 78.2p, right? So coming back to ITC, so ITC currently gets a 25p. Why is it so? Simple reasons because A, there are basically, there is an FMCG business in it which is still growing. So I'll just go to product segments. So some of the parts valuation, I'm not seeking it. I'll just go to product segments and I'll just find out that even today, the majority of the profitability is where does it come from?"
+    },
+    {
+      "id": "cue-4417",
+      "timestamp": "1:13:37",
+      "seconds": 4417,
+      "text": "Even in the latest quarter, we'll just find this out. So for the entire quarter, ITC reported how much? 6705 crores of operating profit. Whereas majority of the profitability even today for ITC if you just look at this it will give you an idea. So, but total profits are still coming from ITC. Majority of it still comes from which sector today? Everyone in the comment section. Which sectors are more profits from ITC today? The answer is cigarette business. The answer is cigarette business and the maximum value of EBIT comes from cigarette business."
+    },
+    {
+      "id": "cue-4476",
+      "timestamp": "1:14:36",
+      "seconds": 4476,
+      "text": "But what is interesting to notice is that the FMCG business EBIT has grown from 144 crores to 352 crores, right? But still it is barely 5% of consolidated EBIT for ITC. Agriculture business will be somewhere between 5 to 7%. Then your paper packaging and board business will be somewhere close to 10%. And so these businesses are 5% each, right? 75, 55, 85, and all the remaining three businesses are 5%. So problem with conglomerates arises. I am telling you why we are in the discount business because there are too many segments is that there is a conglomerate discount that is given to ITC."
+    },
+    {
+      "id": "cue-4520",
+      "timestamp": "1:15:20",
+      "seconds": 4520,
+      "text": "There is a conglomerate discount that is given to ITC precisely because of this. And ITC Kajopi Rerating BY that is purely because of cigarette business growing volumes much faster than anticipated. Just look at the cigarette business, ebit growth, volume growth has been faster than anticipated and also your profitability growth has been faster than anticipated because margins started recovering. So these are the two reasons why ITC's stock has got re-rated fundamentally. Technically, your shareholding pattern has started changing."
+    },
+    {
+      "id": "cue-4551",
+      "timestamp": "1:15:51",
+      "seconds": 4551,
+      "text": "FIIs who couldn't buy because of ESG and stuff, now they've basically started buying the stock again and also ITC announced a change in capital allocation policies. But this is a simple idea that whenever you are valuing conglomerates, you have to do a sum of the parts valuation. So in the case of IDC, we made a video on it two and a half years ago when we did some of the parts valuation on ITC. But this is the idea that SOTP valuation is what you have to do when it comes to conglomerates. So ITC's business, how will you do an SOTP?"
+    },
+    {
+      "id": "cue-4587",
+      "timestamp": "1:16:27",
+      "seconds": 4587,
+      "text": "Simple thing, what you can do is that you can take the FMCG cigarette business, you can give it a different value can take the agricultural business you can prescribe it a different valuation FMCG business FMCG business index FMCG give it a 40p you will come to a market cap for FMCG business. Paper boards, give it a 10p because it's a commodity business or basically stationary business, but packaging in business more than 10, 12p in high. Then you give a valuation to the hotel business and IT business and finally you give valuation to the FMCG business like your cigarette business."
+    },
+    {
+      "id": "cue-4626",
+      "timestamp": "1:17:06",
+      "seconds": 4626,
+      "text": "You will find that majority of the bulk of the valuation is being driven by your capital allocation policy of giving back dividends to the shareholders and also by your FMCG cigarette business. Now these are the two things which are actually driving your valuations for ITC."
+    },
+    {
+      "id": "cue-4641",
+      "timestamp": "1:17:21",
+      "seconds": 4641,
+      "text": "Now, the same thing we can do is that the simple fund of SOTP valuation is that if a kid is given actually a packet of biscuits, in that packet of business biscuits, he has his favorite cream filled biscuit then he has his second favorite chocolate chip biscuit then he has his third favorite salted biscuit he doesn't like the salted business biscuit a lot but he loves the chocolate chip and the cream filled biscuit. So this is also what happens with valuations of conglomerates. So in this scenario, this is the idea but we have to buy it."
+    },
+    {
+      "id": "cue-4676",
+      "timestamp": "1:17:56",
+      "seconds": 4676,
+      "text": "This is the idea of some of the parts valuation which we learn to apply in the case of SRF. So this is a report written by Kodak Securities. I'm just trying to teach you what SOTP is up there because you're doing a valuation webinar. So it will help you a lot in terms of your journey in investing because one, two years down the line, five years down the line, If someone asks you what is SOTP, then you can simply answer them. Yes, SOTP. Right. So what if just look at the valuation model made by them, right? So it will make it very, very simple for you. So you can also do these things."
+    },
+    {
+      "id": "cue-4709",
+      "timestamp": "1:18:29",
+      "seconds": 4709,
+      "text": "So jubilant in Grivia, we have actually shared it with you on your email as well post the session. And you can just check this, segmental revenue, segmental EBIT, idea segmental EBIT margins. You will just find that in SRS business in 2022 or 2023 expected, just look at this. It is expected that technical textiles of both flat businesses, the sale will be 2172 crores, whereas its EBIT will be barely 364 crores, right? Whereas SRF's total EBIT will be 3129 crores. Whereas chemical and polymer business will be doing 2240 crores of EBIT. So again, it's an expected valuation range."
+    },
+    {
+      "id": "cue-4752",
+      "timestamp": "1:19:12",
+      "seconds": 4752,
+      "text": "Then packaging films cost 711 crores. Out of total EBIT, 60 to 70% of the EBIT is contributed by the chemical business. Then your packaging business and find your technical textile business constitutes remaining 30%. Idea is SRF's re-rating will be in the same scenario. If overall profitability, chemical business becomes 85-90% of overall EBIT. This is the thesis one has to take if one is looking at SRF today. This is an idea of some of the parts valuation. Because SRF's PE ratio is 28 times. Whereas Navin Florin has 66 times. Gujarat Flore Chemicals has 26 times."
+    },
+    {
+      "id": "cue-4794",
+      "timestamp": "1:19:54",
+      "seconds": 4794,
+      "text": "Why Gujarat Flore Chemicals is lower? Because people are worried about the sustainability of the margins. If they sustain, then the re-rating will happen over there. Then the re-rating might happen. We can't say it might happen. But again, in scenario of SRF, what one has to have a thesis of is that 85 to 90% of the overall profitability starts coming from the chemical business in next 2-3 years. So from 44 crores of sale, at least 80 to 85% of your profits are coming from the chemical business. So that is almost 3300 crores of EBIT."
+    },
+    {
+      "id": "cue-4827",
+      "timestamp": "1:20:27",
+      "seconds": 4827,
+      "text": "So the quarterly run rate of EBIT has to go to 800 crores which is around 600 crores. Whereas if you look at the valuations of SRF today, so this is again given by the brokerage not by us, we haven't created the table right now. But over here you'll just find that like this technical textile business, they are given a 6x EV2 EBITDA at the enterprise value to EBITDA ratio led to basically EBITDA multiple. He 6x K as per trade, so basically 2458 crores, but this business will be doing some 400 crores of EBITDA. And So that comes to per share of 83 rupees."
+    },
+    {
+      "id": "cue-4862",
+      "timestamp": "1:21:02",
+      "seconds": 4862,
+      "text": "In chemical and polymer business pay, 21xEV2 EBITDA, this is in line with POS, this is in line with POS, right? And over here, you get to a enterprise value of what? 75, 741 crores, which is 2557 rupees per stock. As for packaging films, you are giving 8x EBITDA, that is 8, 325 crores, which comes to 281 rupees per stock and unallocated 9 rupees to be cash-wash. So total adding all these 4 to get to 2930 rupees per stock. Now this is how your SOTP target prices get arise by different brokerages right. Now it can be any EBITDA or any expensive thing."
+    },
+    {
+      "id": "cue-4906",
+      "timestamp": "1:21:46",
+      "seconds": 4906,
+      "text": "But This is an idea of valuations that your thesis in SRF type business depends upon chemical business becoming a dominant part of the profitability pool. The other bad business, their profitability will be okay or will be slightly growing whereas chemical business will become a dominant part of the profitability pool for SRF and only in that scenario you end up making money in such a business. That is your valuation framework and that is your fundamental thesis and when to buy till how long to hold and went to sell. Which is a term now put technicals me sikadi."
+    },
+    {
+      "id": "cue-4940",
+      "timestamp": "1:22:20",
+      "seconds": 4940,
+      "text": "This is the idea of looking at valuations and fundamentals because this will give you more and more confidence just by blindly following a chart. Right. Did it become clear? This is the SRFT video. I think you can be after this session. Do watch it a day after tomorrow or two, three days after then look at the session again, it will start making more sense. So 83 cash on the balance sheet and unallocated cash. So I think 83 is a technical textile business. So this is per share."
+    },
+    {
+      "id": "cue-4967",
+      "timestamp": "1:22:47",
+      "seconds": 4967,
+      "text": "So suppose if enterprise value is 2458 crores, so you basically divide the enterprise value by number of shares outstanding and you will get to per share. That is how 83 rupees came. So this is an idea. So this is how SOTP valuations work. And now if we go to SRF business today, right, so I'll just take it over there. And so now there is another way to actually look at SRF that is looking at Kama Holdings. That is looking at Kama holdings. That is looking at Kama holdings. So I'll just take you to SRF's valuation."
+    },
+    {
+      "id": "cue-5002",
+      "timestamp": "1:23:22",
+      "seconds": 5002,
+      "text": "In these sheets, jubilant in rivia is a valuation case, so that we can that we'll share with you later. And then finally if you look at Kama holdings just look at it over it. Just look at this over it, how valuations get made. So again, this is nothing of by yourself framework. This is just to give you live and life case studies. Just look at an example of Kama holdings. So Kama holdings is the parent company of SRF and just look at karma holdings taken SRF right so it is close to 50.69% just look at the historical discount."
+    },
+    {
+      "id": "cue-5039",
+      "timestamp": "1:23:59",
+      "seconds": 5039,
+      "text": "So historically discount like about 2012-13 we calculate it has been between lowest it went to 46% highest it goes between 75 to 80% right so this is a simple framework for valuations and so lowest it went to 46% highest it went to 75 to 80%. So how you create thesis in a particular business is simple, right? So currently SRF's market cap is 67, 864 crores. If SRF's market cap uses think and try to draw inferences and valuations. So you try to go next four to five years. May if the market cap doubles, right? Suppose if the market cap goes to 1.4 lakh crores, let's take an example."
+    },
+    {
+      "id": "cue-5084",
+      "timestamp": "1:24:44",
+      "seconds": 5084,
+      "text": "So this is just an example of hypothetical scenario. Again, nothing of buy sell recommendation by any means whereas what is the total value of Kama holdings stake in SRF currently is 34, 398 crore, Kama holdings market cap is 8, 042 crore, so today's discount is 77% so let's assume that we can a bull bear based scenarios as a type of businessman right I'll just basically take this just give me a second alright so as a scenario we can create bull bear and base scenarios it's over here what can one simply do is that one can simply come to this, right?"
+    },
+    {
+      "id": "cue-5123",
+      "timestamp": "1:25:23",
+      "seconds": 5123,
+      "text": "And suppose, let's say four years down the line, you assume in your bullish scenarios of five years down the line, let's assume 2728, the market cap goes to 1.4 lakh crores. So SRF may you end up making a 15% kegur. Let's for an example's sake, let's try to draw hypothetical examples. Whereas the Kama holdings cost taken in SRF, it is 50.69%. So what will be the value of the entire stake? It will be, it will be right here. So I'll just do 1, 40, 000 right. So 1, 40, 000 into 50.69. So it comes to 70, 966 crores. When such scenarios, let's say the discount falls to 60%."
+    },
+    {
+      "id": "cue-5163",
+      "timestamp": "1:26:03",
+      "seconds": 5163,
+      "text": "So why do we follow that? We see that as we announced by back. So just because of national market conditions, because these discounts are cyclical as well, what is the discount goes to 60%. And now what multiple your comma holding comes to like so you have a 60% like the word now what your multiple comma holding comes to is into 60% and now you'll just find is that basically I'll just take this 70, 000 into 0.6 right so idea is that it will be 70, 966 into 0.6. So, the idea is you will get to basically, almost basically you will get to just give me a second."
+    },
+    {
+      "id": "cue-5211",
+      "timestamp": "1:26:51",
+      "seconds": 5211,
+      "text": "So almost basically you'll get to 42, 500 and basically so you'll get to 42, 000 and 579 crores of market cap, right, which is currently today at what 8, 042 crores. So this is just a simple idea that how basically narrowing of discount and underlying holding company also growing can lead to good returns if it happens. So this is one way to do, do valuations and to find margin of safety in holding companies to play the underlying hold go, right? The, does it become clear? But at the end, you have to take a call on SRFs, like SRFs market cap doubling over next four to five years."
+    },
+    {
+      "id": "cue-5251",
+      "timestamp": "1:27:31",
+      "seconds": 5251,
+      "text": "And only then you end up making stupendous returns in comma holdings just as a valuation case study. Does it become even more clear in the comment section? Clear was simple example, simple. So discount reduce particularly, right? So just a second. So discount come, you can say discount to market cap is 60%, I think, right? So over here, I think there's a slight mistake. So 70, we can just do it into 0.4."
+    },
+    {
+      "id": "cue-5281",
+      "timestamp": "1:28:01",
+      "seconds": 5281,
+      "text": "So that will give you a better idea so yeah market cap we can be close to 28, 386 crores right so our company's 40% market cap like company's 60% discount will be there and company's market cap goes from 8, 000 to 28, 386 crores. If we rate it and see this will maybe come somewhere close to what is the CAGR it comes to. Let's assume this happens in four years. Payment per period is zero. Present value is what? Minus 8042. Future value is what? 28, 386. This is one."
+    },
+    {
+      "id": "cue-5320",
+      "timestamp": "1:28:40",
+      "seconds": 5320,
+      "text": "So 37% type in a scenario where the discount narrows to 60% if it happens but you have to take a underlying call on SRF actually increasing in market capitalization. So this is an example how SOTP math, you can combine it with a holding company discount to come at valuations for companies. When to buy, how long to hold and when to sell. We already talked about that. And towards the end of the question and answer, I will talk about those things again. The Q&A, we will talk about it again. But now finally coming to the idea of discounted cash flows and reverse DCF."
+    },
+    {
+      "id": "cue-5355",
+      "timestamp": "1:29:15",
+      "seconds": 5355,
+      "text": "So now I need your maximum attention. So once I start the DVS chart, I'll just open it. So one request before we go to reverse DCF and DCF. So reverse DCF and DCF have simplified it to a level that it is very, very simple. So I think you'll be DCF cut out there. That will be, that will get solved once and forever. Like it is so, so simple to understand. I think I spent two, three hours just to make it simpler for you, right? So you can just check an idea. I think, like, So DVs, what did it stop with the 2017 say one could have just simply done nothing, right?"
+    },
+    {
+      "id": "cue-5392",
+      "timestamp": "1:29:52",
+      "seconds": 5392,
+      "text": "And one would have been writing but exit was triggered at 4200, right? And now, and now you see the margins are collapsing, mall Nupira where it is going away and everything is happening. So see I'm not saying the company can't make a comeback right. So you have to do your financial modeling where if it comes back to 2022 P the financial model banaiye, demang mein idea dali valuation ka look at the growth of the company volume growth of the company is given a detailed guidance And then I think from FY 24 or 25, the earnings growth of DVs will resume after this high base gets crossed."
+    },
+    {
+      "id": "cue-5423",
+      "timestamp": "1:30:23",
+      "seconds": 5423,
+      "text": "It's from 24, 25 and probably that will be the time where you end up saving your IRR and actually go and look at DVs again. So that is another idea to use it with your valuation models. So now going back to your interest rates, discounted cash flows and everything else over here. So idea is that Mr. Warren Buffett keeps on saying that interest rates are like gravity to stock valuations. Higher the interest rates, lower the valuation, lower the interest rates is equal to higher the valuations. So, why does he say so? This is what we learned today, why does he say so? Why does he say so?"
+    },
+    {
+      "id": "cue-5466",
+      "timestamp": "1:31:06",
+      "seconds": 5466,
+      "text": "But interest rates are like basically gravity to stop valuations and why does it matter as well? So this is what we will learn today in the rule of investing and why what happens to economy whenever interest rates rise or whenever interest rates fall. So fundamental rules of economics get to penalties whenever interest rates rise very rapidly what happens to economy that low interest rates stimulates the economy, spending is good for asset owners, particularly investments. This capital increases good for investors and borrowers."
+    },
+    {
+      "id": "cue-5499",
+      "timestamp": "1:31:39",
+      "seconds": 5499,
+      "text": "More important propaganda, whenever low interest rates are there, your economy spending rises, people have more money in their hand and it is good for investors and borrowers. Second thing, high interest rates reduces spending investments and good for lenders and savers, right? So good for lenders and savers, like, whenever there are high interest rates because FD may art percent, middle and non percent, middle."
+    },
+    {
+      "id": "cue-5521",
+      "timestamp": "1:32:01",
+      "seconds": 5521,
+      "text": "So why will people at the end of the day come to stock markets until or unless it's a very lucrative opportunity because these days you're getting 8.25 percent in senior citizen fd's ncd's when all on the others percent mill. And if you're getting those type of investment returns in fixed income, right? So again, your threshold for investing in a stock should go very, very high. Recently, you will see that very high PE stocks are collapsing. Very high PE stocks are collapsing. Have you ever wondered why? Simple reason is interest rates. Simple reason. Let's see how."
+    },
+    {
+      "id": "cue-5557",
+      "timestamp": "1:32:37",
+      "seconds": 5557,
+      "text": "So, the Fed uses its power to influence interest rates so we don't give it to central banks but simple idea is that when low interest rates are there then people get money and when high interest rates are there then people get money and low interest rates are good for valuations whereas high interest rates are bad for valuations. So I'll just take you to an example is that why so and how a discounted cash flow analysis works right. So just remember this the higher interest rates are bad for valuations, lower interest rates are good for valuations of stock markets and stocks."
+    },
+    {
+      "id": "cue-5589",
+      "timestamp": "1:33:09",
+      "seconds": 5589,
+      "text": "So how can you actually calculate the discounted cash flow and what is discounted cash flow? So here we simply again coming back to Mr. Buffett and then we'll go to discounted cash flows. So it will make it very, very interesting that what are what is DCF. So I'll just turn my camera off so you can see it. So leaving aside tax factors Formula we use for evaluating stocks and businesses is identical. Indeed, the formula for valuing all assets that are purchased for financial gain has been unchanged since it was was laid out by a very smart man in 600 BC."
+    },
+    {
+      "id": "cue-5624",
+      "timestamp": "1:33:44",
+      "seconds": 5624,
+      "text": "So Oracle was ASOP and is enduring though somewhat incomplete investment inside was a bird in a hand is worth two in the bush. He asked you may have my cash that is worth the it is what it is worth twice the cash that I will receive in future. So a bird in a hand is worth two in the bush. To flesh out this principle, you must answer only three questions. How certain are you that there are indeed birds in the bush? How certain are you that there will be future cash flow? How certain are you that the companies will generate returns? This is where certainty element comes in."
+    },
+    {
+      "id": "cue-5661",
+      "timestamp": "1:34:21",
+      "seconds": 5661,
+      "text": "This is the idea of circle of competence. This is where certainty element comes in, so this is the idea of circular competence, how certain are you that the company is going to grow. Second question, when will they emerge and how many will there be, at what rate the cash flows will grow. So second question is saying at what rate the cash flow will grow of a company. And third thing is saying that what is the risk rate. The risk rate interest rates which you are going to discount on the president."
+    },
+    {
+      "id": "cue-5684",
+      "timestamp": "1:34:44",
+      "seconds": 5684,
+      "text": "Interest rates is equal to risk rate which we consider to be the yield on long term us bonds right. If you can answer these three questions you will know the maximum value of the bush the maximum number of birds you know for the you now possess that should be offered and of course don't literally think birds think dollars. A very simple example is to explain this. A very simple example. So that it becomes clearer to you. So let's assume that you get paid 10 lakh rupees in perpetuity."
+    },
+    {
+      "id": "cue-5719",
+      "timestamp": "1:35:19",
+      "seconds": 5719,
+      "text": "Let's assume that you buy an RBI bond and if you buy the Indian government bond, you get paid 10 lakh rupees in perpetuity. 10 lakh rupees at an interest rate of 10% perpetuity means we will always get it. So perpetuity means A stream of cash flow that will keep recurring. And this perpetuity is what, listen carefully, it is a constant perpetuity. It is a constant perpetuity that every year it will get 10% Every year it will get 10% So it is called constant perpetuity. So today I will put so much money that I will get 10 lakh rupees every year? What will I do with this?"
+    },
+    {
+      "id": "cue-5758",
+      "timestamp": "1:35:58",
+      "seconds": 5758,
+      "text": "So how much stream of cash will I get on 10 lakh rupees? So I will write PMT, This is 10 lakh rupees that I get every year. The rate. How much I get? 10% So simply just do this. Simply everyone just do this. 10 lakh rupees. That is 10 lakh. Divide by 0.1. Why do I do 0.1? Because 10 out of 100. So 10 out of 100 is 0.1 meaning 10% so 10 divided by 0.1 10 lakhs divided by 0.1 what is the answer you all have just in the comment section how much money should I give to buy this What is the answer? Answer is 1 Cr, 100 Lakhs. Answer is 1 Cr or 100 Lakhs."
+    },
+    {
+      "id": "cue-5804",
+      "timestamp": "1:36:44",
+      "seconds": 5804,
+      "text": "Simple. Simple. Why did we do it? Why did we do PMT upon rate? Simple. Great. So now let's take an example is that if I buy this investment at 1 crore if I buy this investment, if I buy this investment at 1 crore, I will keep getting 10 lakh rupees per annum for constant perpetuity. And now let's say market may be something up and down, now this 1 crore is what the fair value of the asset fair value of the RBI bond that is issued. So this you will find that it is risky interest rate. So I'm going to be 10% here that is the PMT upon rate. What simple or the output discounted cash flow."
+    },
+    {
+      "id": "cue-5848",
+      "timestamp": "1:37:28",
+      "seconds": 5848,
+      "text": "I'm going to be more than tension in the cubies. So this is the one crore that you are basically this is the fair value of the asset. Now suppose if you buy the asset at suppose if you get it for 70 lakh rupees, so how much discount will it to fair value? What is the discount rate to fair value? What is the discounted rate to fair value? Everyone in the comment section with me, how much discounted to fair value? The answer is everyone participate. The answer is everyone participate. The answer is 30%."
+    },
+    {
+      "id": "cue-5895",
+      "timestamp": "1:38:15",
+      "seconds": 5895,
+      "text": "So we will say that that particular security will be undervalued. Now this 1 crore, if I end up paying like let's say 1.5 crores for it. So how much over valuation have I given for particular stock and security? What is the over valuation that I have paid? Everyone in the comment section, what is the over valuation that I have paid? Everyone in the comment section, what is the over valuation that I have paid? For that particular security? Answer is 50% that I have paid 50% over and above the fair value of 1 crore for the asset. Now this is how your DCF happens in a very very simple way."
+    },
+    {
+      "id": "cue-5941",
+      "timestamp": "1:39:01",
+      "seconds": 5941,
+      "text": "So DCF idea I will make it simple from here. So this was what we saw of constant perpetuity constant perpetuity that you have invested 1 crore per annum and you get 10% throughout your lifetime Now let's take an example that you have invested 1 crore per annum. You get 10% per annum but it also grows by 5% per annum. So it grows by 5% every year. So it's very simple and easy to understand."
+    },
+    {
+      "id": "cue-5972",
+      "timestamp": "1:39:32",
+      "seconds": 5972,
+      "text": "Now what I'm saying is that if we get 10 lakh rupees per annum and this 10 lakh rupees per annum is going to grow at a rate of 5% for the next perpetuity in in finity years right now if you look at the example of basically Joe, I just called you peace prices basically if you look at the example of if you look at the example of noble peace price the noble peace price car Joe idea okay that's a a growing perpetuity and constant perpetuity. The Nobel Peace Prize for Endowment Fund. From 1890s till now, you know that Endowment Fund is still going on."
+    },
+    {
+      "id": "cue-6013",
+      "timestamp": "1:40:13",
+      "seconds": 6013,
+      "text": "They didn't invest any money there because they keep investing in bonds and different asset classes and that's when the endowment fund has been growing and through that the winning money is given to the winners and as such it is also basically beaten inflation. So in all this calculation is required. So now I am asking you what is the question that there is a PMT that you are investing 10 lakh rupees, that you will be getting 10 lakh rupees per annum for infinity, right? But it also grows at a rate of 5%. So now how do I get its valuation?"
+    },
+    {
+      "id": "cue-6047",
+      "timestamp": "1:40:47",
+      "seconds": 6047,
+      "text": "Simply what I will do is PMT upon rate, how much I get? 10% minus growth. How much is the growth? 5% right? So this is the terminal value growth rate that I am taking that I will get growth from 5% every year. Now how much I am investing, 10 lakh rupees divided by what? 0.1 minus 0.05. So how do I divide it from 0.05 to divide it from 5%. So what will be the value of this asset class? What will be the value of this asset class? Everyone in the comment section. What will be the value of this asset class? How much? What will be the value of this asset class?"
+    },
+    {
+      "id": "cue-6092",
+      "timestamp": "1:41:32",
+      "seconds": 6092,
+      "text": "Around 2 crores. Now we are going towards the basics of DCF. Around 2 crores We are going towards the basics in DCF So what will be the valuation of this asset class? Around 2 crores This is for a growing perpetuity Whereas that one was for a constant perpetuity. Now, I have cleared the concepts I have cleared. Now, I have cleared your terminal value. Now, you will have a lot of DCF for you. Right? So now, DCF will become a walk in the park for you."
+    },
+    {
+      "id": "cue-6117",
+      "timestamp": "1:41:57",
+      "seconds": 6117,
+      "text": "Just give me next 20 minutes of your full attention because If you give me full attention for next 20 minutes, DCF will never be a doubt in your lifetime ever. Right. So what is the formula for DCF? So simply what does DCF stand for? That is compounding is basically you're going from present value to future value. So you guys do it. Suppose you put 100 rupees And just simply open calculator with you. Just multiply it by 1.1. If you are earning 10% in it, into 1.1, into 1.1 for the next 3 years."
+    },
+    {
+      "id": "cue-6148",
+      "timestamp": "1:42:28",
+      "seconds": 6148,
+      "text": "10% 10% 10% So what is the answer that you will get somewhere close to 133 point like something and so you will get answer somewhere close to 133 point something right. So this is the idea of compounding. But if I say something after 3 years that today you have 133 rupees but how much you started from 10% per annum that you have 133 rupees. So simply just take the final amount and keep dividing it by what? 1.1 divided by 1.1 divided by 1.1. And you will again get back to 100 rupees today."
+    },
+    {
+      "id": "cue-6184",
+      "timestamp": "1:43:04",
+      "seconds": 6184,
+      "text": "So what funny thing is that compounding is nothing that so discounting is nothing but it is the reverse of compounding. What simple things are right. So what we just removed all the things, 2 crore and 1 crore value that was the net present value of all the perpetuity that we have and all the growing stream of cash flows that we will get today that is the net present value of it So discounting will help you to find out present value of assets. So you guys have done 100 into 1.1 into 1.1 into 1.1. Do the recording. And when you get the final value, then you divide it from 1.1."
+    },
+    {
+      "id": "cue-6225",
+      "timestamp": "1:43:45",
+      "seconds": 6225,
+      "text": "Divide it from 1.1, divide it from 1.1, divide it from 1.1, everyone got it in the comment section it's looking simple, it's not looking simple, it's easier to make than this, it's simple Right? Great. If you are if you are simple, the next step will be even more simpler. Because now we are coming to discounted discounting."
+    },
+    {
+      "id": "cue-6260",
+      "timestamp": "1:44:20",
+      "seconds": 6260,
+      "text": "So those who couldn't get it, so I'll just explain the entire idea that when it comes to discounted cash flow analysis, what we do simply is that we take free cash flows of a company, We take free cash flows of a company, we take free cash flows of a company, we grow them at a certain rate, right? And then we take a discount rate, right? So discount rate, I take 10% as the cost of capital or 10% as the discount rate. I take 10% discount rate. You can remember this. 10% I take as a discount rate. Why do I take 10% as discount rate? Because if I don't invest in the stock market today, right?"
+    },
+    {
+      "id": "cue-6298",
+      "timestamp": "1:44:58",
+      "seconds": 6298,
+      "text": "If I invest in bonds or if I invest in debt or if I get other opportunities, I am reasonably assured that I'll make 9 to 10% of returns. I am reasonably assured today."
+    },
+    {
+      "id": "cue-6307",
+      "timestamp": "1:45:07",
+      "seconds": 6307,
+      "text": "It's possible that sometime ago when the government bond yields or when FD rates were at 4%, at that point of time, I would have taken 7 to 8% as a discount rate but today I'm taking 10% as a discount rate remember this what is my cost of capital 10% because I can find other opportunities to invest my money in at 10% right so how much is 10% just remember this right growth in cash flows right so how much we'll grow the cash flow that is dependent upon the company you come to consider a face may then finally we'll go to terminal value the terminal value growth kitties at the company so I always assume you have me a bit terminal value keep like if a company is a growing perpetuity because company at the end is linked to the world economy and if it keeps growing forever as the world economy keeps growing forever."
+    },
+    {
+      "id": "cue-6355",
+      "timestamp": "1:45:55",
+      "seconds": 6355,
+      "text": "So I always assume terminal value somewhere between agar bhoothi zhaga slow growing company like ITC type company I won't take it more than 2% or 3% but if it's a faster growing company I'll take terminal value as 4% why 4% because 4% has been the world economy growth rate right. But I take terminal value as 4% For a very mature company you can take it as 2% or 3% as well So this is the idea of discounted cash flows and how we do it So before going further and showing you a couple of live examples of discounting cash flows. So this is what Mr."
+    },
+    {
+      "id": "cue-6394",
+      "timestamp": "1:46:34",
+      "seconds": 6394,
+      "text": "Uthpal said says that all investing is about terminal value because what ends up happening is that this is a very funny thing. Is that company to terminal value That is 55 to 60% of a company's valuations. There's discount rates and growth in cash flows only account for the remaining 35 to 40% of the valuations."
+    },
+    {
+      "id": "cue-6420",
+      "timestamp": "1:47:00",
+      "seconds": 6420,
+      "text": "This is the truth that 55 to 60 percent of valuations of a company aside in the terminal value that whether the company will survive over a long period of time this is why you will see that companies which reduce debt or companies which are in very stable industries like Titan or you will find that the valuation multiple ends up expanding over there. There's a big steel to me. Apel Apollo me walkie. They paid off all the debt and now companies generating free cash flows right? So That is where your terminal multiple ends up expanding and that is where you get like huge re-rating impacts."
+    },
+    {
+      "id": "cue-6455",
+      "timestamp": "1:47:35",
+      "seconds": 6455,
+      "text": "Paying off of debt is one of the key criteria for terminal value expanding and the industry should be stable in nature. So all investing is nothing but about Terminal value is what Mr. Uthpal said, because he's focused on the importance of terminal value of a business. And what else which matters over in, so I'll play all the simple connect this to make you and give you an idea at why higher growth companies get a higher valuation by markets simply because your compounding effect is higher."
+    },
+    {
+      "id": "cue-6485",
+      "timestamp": "1:48:05",
+      "seconds": 6485,
+      "text": "You will see if the company is growing at 5% so cash flow will go to 1.5 thousand then 1.27 thousand and 1.62 thousand by the end of year 10. Similarly for companies growing at 25% cash flow will go to 1.25 thousand, 3.5 lakh by the end of fifth year and almost 9, 31, 000 by the end of 10th year. So this is the difference of compounding. The difference of 20, 000 in year 1 between 25% and 5%, Now that difference expands by almost 7.7 lakh rupees by the end of year 10. This is the beauty of compounding and this is why faster growth is given much more value by Mr. Right."
+    },
+    {
+      "id": "cue-6523",
+      "timestamp": "1:48:43",
+      "seconds": 6523,
+      "text": "So, you can see that the companies that you are looking at, the ADX above 24, the parabolic SIR, the volatility stop will also start trending upwards. Generally those are the companies which are growing at these rates. Generally you will find those companies growing between 20 to 25% and This is the math of compounding and this is why their valuation starts expanding. If we look at the details, this is why the valuation starts expanding. Is it clear, did you get an idea of how compounding takes over in cash flow growth. Right. So now just going forward because BCF you have to explain it to me."
+    },
+    {
+      "id": "cue-6567",
+      "timestamp": "1:49:27",
+      "seconds": 6567,
+      "text": "Right. So now just basically going forward. So this is how your like your growth of cash flow looks like. So year one cash flow if invested at a rate of 10% per annum by the end of fifth year it becomes 161000. Right year two cash flow growing at a rate of 10% per annum if invested at a rate of 10% for like by the end of fifth year it becomes 1, 45, 000. Similarly, you can look at these examples and you'll just find that if you look at all the cash loads in 5 shares, then the growth in 10% will be this much."
+    },
+    {
+      "id": "cue-6600",
+      "timestamp": "1:50:00",
+      "seconds": 6600,
+      "text": "Those who are watching the recording, they can also pause and do this exercise themselves right. The discounting can suppose if I have 82644 in a year if I discount them at a rate of 1.1 right 10% say I will discount so today if I invest 75131 right So today this is the present value of that asset. This is the future value. So from future value to present value if I have to come, I use the idea of discounting. So I get to 75, 131, the 90, 090, I come to 82, 644. So here I'll discount it by two years. Here I'll discount by three years. Right."
+    },
+    {
+      "id": "cue-6643",
+      "timestamp": "1:50:43",
+      "seconds": 6643,
+      "text": "So, that is the simplest idea that if I basically come down to today's valuation, that is what discounting will tell me. So this second year I've come down to first year again and this I've come down to the end of second year. This is the end of third year. This is how discounting works. So now I'm going to explain you all this because when we go to DCF, then DCF will become like actually really really easy It won't be like you have studied something else Now you take an example with me divide 1 crore by 8 percent. Just do these two examples. First divide 1 crore by 0.08."
+    },
+    {
+      "id": "cue-6685",
+      "timestamp": "1:51:25",
+      "seconds": 6685,
+      "text": "Tell me the answer and then divide 1 crore by let's say 0.0 basically. So again, I'll just take these two examples. So just divide 1 crore by 0.1. What are the answers in both the scenarios? You have 10 lakhs, it will be easy. First divide 1 crore by 0.08, then divide 1 crore by 0.1. What are the answers that you are getting? First scenario your answer will be 12.5 crores. Second scenario your answer will be 10 crores. Now pause and think. Last one year interest rates are going up and down, everyone in the comment section."
+    },
+    {
+      "id": "cue-6737",
+      "timestamp": "1:52:17",
+      "seconds": 6737,
+      "text": "Interest rates are going up. So can we establish one thing purely and properly that when interest rates increase P multiples start contracting of even very highly valued companies. So interest rate increase. So the first impact of startups or in the entire world, because there's no cash flows in there. So you're saying that sometimes in perpetuity cash flows are the first impact on them. The second impact will be on companies which have very, very high valuations. So now nifty quality, 30 index, right?"
+    },
+    {
+      "id": "cue-6771",
+      "timestamp": "1:52:51",
+      "seconds": 6771,
+      "text": "So ever since interest rates have started increasing, nifty quality, 30 index, if you just look at the P ratios that have fallen from 35, 36 to 26 today, right? Ever since interest rates have started increasing, you name the stock and look at the P and look at the fall. Ever since interest rates have started increasing, so high P stocks pay markets become even more non forgiving. I Look at an example of Asian paints. Your PE ratio has derated from what? 119 to what? 70.4 times today. Look at an example of DMAR. The PE ratio has derated from what? Your PEE ratio has derated from what?"
+    },
+    {
+      "id": "cue-6814",
+      "timestamp": "1:53:34",
+      "seconds": 6814,
+      "text": "Like 313 times 313 PEE ratio Asuka aage 96 times Earnings grow But PEE ratio derate hogi, it's just like No money was made from October 21 Actually one, if one had invested one is 40% down since then another example Berger paints let's look at the P ratio for last three years right just look at the P ratio it is down from 150 times to almost 62 times now let's look at relax so relax so maybe PD rating who are near or where the PD rating because earnings have collapsed actually P has gone up because the earnings have collapsed. Right."
+    },
+    {
+      "id": "cue-6849",
+      "timestamp": "1:54:09",
+      "seconds": 6849,
+      "text": "So this is something but you can check the valuation and the returns that the stocks have given. Right. Can just check that out. Then another example that we can take, we can look at a Dixon, right? So Dixon's case, if you just look at this, again, you'll see that the P ratio has like derated from 150, 160, 170 times to almost 67 times like sanity is coming back towards, right? Then look at Tata, let's see, right?"
+    },
+    {
+      "id": "cue-6874",
+      "timestamp": "1:54:34",
+      "seconds": 6874,
+      "text": "They're just as an example, look at the P ratio, P ratio is derated from 110 to 58 times even though your earnings are going so this is the idea that whenever interest rates increase first major impact first of all, the impact is on startup investing, the funding for startups will be dry all over the world. Second, the impact on them will be higher P-E ratio companies. Because their sensitivity to P-E ratio is much more linked to interest rates than any other companies. Right? So this is the idea. Do you understand this in the comment section? Just drop a hell yes if you do. Right? Awesome."
+    },
+    {
+      "id": "cue-6918",
+      "timestamp": "1:55:18",
+      "seconds": 6918,
+      "text": "So now we are going to establish that higher the interest rates, lower the valuations of the company will be. Now let's come to the idea of creating a live discounted cash flow sheet for a company by the name of KEI Industries. We discounted cash flow once for the company called KEI Industries. We will also do Asian paints. First, we will do Asian paints so that it becomes easier for you because Asian paints are a well-known company. So what we are doing simply today is that first thing that we are coming to is the year one free cash flow. So year one free cash flow, how much do I have?"
+    },
+    {
+      "id": "cue-6956",
+      "timestamp": "1:55:56",
+      "seconds": 6956,
+      "text": "2415 cr. So year one free cash flow, how did you get it? Simply you are forecasting 10% growth in free cash flow because historical growth rate of Asian paints has been 10 to 12%. That is the historical growth rate. So if you come here and see Asian paints, how did you get the free cash flow? Cash flow from operations. So we have normalized it. We have taken an average because 2022 when CFO was lower because of inventory hit simply just take cash flow from operations that is 3683 corolls and subtracted with the net capex of the company. So subtracted with the net capex of the company."
+    },
+    {
+      "id": "cue-6993",
+      "timestamp": "1:56:33",
+      "seconds": 6993,
+      "text": "So over here what we have done because 2022 was an abnormal year. So over here I think what we have done is that we have taken an average of three years. So average free cash flow the company has three years average little right and then grow it that 2022 because inventory hit right because most of the B2B companies went through this so you can ignore this year. So just take the average 3 years and subtract it by the net capex that the company is doing. So free cash flow is equal to what? Cash flow from operations minus net capex. That will give you the cash flow from operations."
+    },
+    {
+      "id": "cue-7034",
+      "timestamp": "1:57:14",
+      "seconds": 7034,
+      "text": "That will give you the free cash flow of a company. To formula cash flow from operation minus net cap X will give you the free cash flow of a company."
+    },
+    {
+      "id": "cue-7041",
+      "timestamp": "1:57:21",
+      "seconds": 7041,
+      "text": "So over here we have taken average of 3 years and basically divided by 3 and then calculated the free cash flow of average of 3 years and basically divided by 3 to get to a value of what we have written in front of you right so I think the value that we got towards over here 2415 crores we are assuming this will keep growing from 10% per annum for the next 10 years so over here, so let's take a look at this so actually why did we take 10% per annum growth rate? Just look at cash from operation growth of Asian paints. So like last five years maybe taking it and last six years maybe taking it."
+    },
+    {
+      "id": "cue-7079",
+      "timestamp": "1:57:59",
+      "seconds": 7079,
+      "text": "Average with hanging in 10, 12% per annum is a lot cash flows may growth. If you can just take this example and do it independently. So the growth rate of 10-12% is in cashlows over a long period of time. Just look at this. So rule of thumb is we have put cashlows of Rs.1400 crores in 2014. Today the cashlows are at almost Rs.3, 038 crores. So 1, 2, 3, 4, 5, 6. So rule of thumb lagalate. So 2014 may 1400 crore cash flow that today the cash flow is at almost like 3038 crores. And so 123456 so almost six years made double. So we can take this as 12% growth rate in cash flows."
+    },
+    {
+      "id": "cue-7112",
+      "timestamp": "1:58:32",
+      "seconds": 7112,
+      "text": "So I'll just come over here and I'll just actually take this as 12% if you want to take the input and entire model will change so it will give you a better indicator so 12% is the per annum cash flow growth of Asian Bains I'll send this sheet to you so you can also do this. So free cash flow increased by 12% for the next 10 years. It's so clear. First thing is, growth rate is our clear. Our assumption of growth rate is clear here that we will keep growing the 12% per annum for the next 10 years."
+    },
+    {
+      "id": "cue-7139",
+      "timestamp": "1:58:59",
+      "seconds": 7139,
+      "text": "Like it's a little aggressive because after 5 years the company will grow even more and the growth rate can be slower. Is it clear that how much growth we have assumed 12% per annum in the comment section is it clear just drop a thumbs up great right so growth rates can also vary but we are just assuming to make it simple. Now, if the company keeps growing at 12% per annum, right?"
+    },
+    {
+      "id": "cue-7172",
+      "timestamp": "1:59:32",
+      "seconds": 7172,
+      "text": "And what we have to do is that after a year, what we have to do is to take out the present value of this company so what we will do is discounting, so this is our future value we are coming to future growth rate So this is the future value of the company. The 2459 crores cash flow will go to 6, 820 crores after the end of 10 years. But we have to bring this future value into present value. So if we have to bring it into present value, what will we do here? What is the reverse of compounding? What is the reverse of compounding everyone in the comment section? What is the reverse of compounding?"
+    },
+    {
+      "id": "cue-7206",
+      "timestamp": "2:00:06",
+      "seconds": 7206,
+      "text": "What is the reverse of compounding? Everyone in the comment section, what is the reverse of compounding? Discounting. What is the reverse of compounding? Discounting. I will give very aggressive assumptions in Asian paints. To show you how much overvaluation is there in this. In Asian paints, the government bond deal is 7%. I am not giving any equity risk premium. I am not taking 10% as well. I will discount all the cash flows. You will have to do anything else. You will have to put the numbers in the excel sheet. So the insert here is that I will make it simpler for you."
+    },
+    {
+      "id": "cue-7243",
+      "timestamp": "2:00:43",
+      "seconds": 7243,
+      "text": "So free cash flow growth input 12% per annum. How much discount rate did we take for 7%? So if I discount 2459 crores to present value that is today you will get to what that is 2298 cr if I discount after 2 years out 2750 cr to today you will get to 24006 crores. You will see that this is the discount of 2 year in the company. If you look at E6, so this is the 2 year. Let's do this, we will discount all the cash flows and bring them to present value today. So I will bring all the cash flows on present value."
+    },
+    {
+      "id": "cue-7278",
+      "timestamp": "2:01:18",
+      "seconds": 7278,
+      "text": "So this will be the present value that I will get of all the future cash flows on today's valuation. I will give this much for today. So just look at the sum of the present value. That is 28, 474 crores. So sum of present value is nothing but 28, 474 crores why did we understand this step in the recording? Why did we understand this step? Why did we understand the present value of all the cash flows of the future? Did you understand the steps? Did you understand easily?"
+    },
+    {
+      "id": "cue-7311",
+      "timestamp": "2:01:51",
+      "seconds": 7311,
+      "text": "Just in the comment section, yes, you understood easily now I will come to the terminal cash flow, I am coming to the same now we will come to the terminal value cash flow now remember the beginning that we were doing, that is PMT upon rate minus growth, right? So we say by the end of the 10th year, right? So by the end of the 10th year, now we are saying that we can't forecast more than this. So, what we are saying that the company will keep growing at a rate of 5% forever after that."
+    },
+    {
+      "id": "cue-7351",
+      "timestamp": "2:02:31",
+      "seconds": 7351,
+      "text": "So, here we are 11th year onwards, we are saying that the company will keep growing at a rate of 5% per annum forever. So now the growth rate of 5% of forever is where I have to bring it to your idea of this 10th year how much rate we have over here we have to bring out all the terminal value cashlows so how will I do it? So how will I do it right to you know the terminal year cash flow me 11th year can I get a 6, 820 crores to my 10th year that is 6, 820 crores above me that is 6, 820 x 1.05 because we have increased the terminal value by 5% what is the answer?"
+    },
+    {
+      "id": "cue-7404",
+      "timestamp": "2:03:24",
+      "seconds": 7404,
+      "text": "6, 820 x 1.05 what is the answer? 6, 820 x 1.05 what is the answer? 7161. What is the answer? Great. Let's talk about it again. We said that after 10 years, we cannot forecast the growth of cash flow. That is what we assumed by the end of 10 years. We cannot forecast the growth of cash flow more than this. We are saying that the terminal value growth rate in this company is aggressive in assumptions, we are saying that this 5% per annum forever grow. So in 11th year, means the cash flow of this company will be 5% if we grow it."
+    },
+    {
+      "id": "cue-7450",
+      "timestamp": "2:04:10",
+      "seconds": 7450,
+      "text": "So 6, 820 crores plus into 5%. So now you will understand it better. What is the answer for it? 6820 x 1.05. What is the answer without you? Got it? Perfect. Now we have the answer. 7161 Cr which we have written it over here if you just find it out 7161 crores, this terminal year cash flow right now what I will do is that whatever I have this 7000 now in the beginning what we did in the beginning that is PMT is equal to PMT upon rate, right? So I did PMT upon rate, upon rate minus growth, right?"
+    },
+    {
+      "id": "cue-7496",
+      "timestamp": "2:04:56",
+      "seconds": 7496,
+      "text": "So in the beginning, we learned that if there is a growing perpetuity, right? If there is a growing perpetuity, what did we do? PMT upon rate minus growth. Remember everyone that we took an example of that 10 lakh rupees upon rate of 10% minus growth rate of 5%. Remember that example everyone?"
+    },
+    {
+      "id": "cue-7513",
+      "timestamp": "2:05:13",
+      "seconds": 7513,
+      "text": "Does everyone remember it in the comment section PMT upon R-G everyone remembers perfect perfect right as per the way he was explaining that PMT upon R-G so if there is a growing perpetuity that will grow every year from 5% every year every year the cash flow of Asian paints will grow by 5% every year every year, the cash flow of Asian paints will grow at a rate of 5% per annum so how do I bring it to the present value today? That is the challenge right? How do I bring it to the present value today? So for that, I don't have to do anything simply what do I have to do for that? Right?"
+    },
+    {
+      "id": "cue-7554",
+      "timestamp": "2:05:54",
+      "seconds": 7554,
+      "text": "So simply for that, I'll just do two things right? I'll just do two things right so over it. So I will just do two things over it which will make it clearer for you. So it will be this G70, the terminal year cash flow of 7161 crores."
+    },
+    {
+      "id": "cue-7574",
+      "timestamp": "2:06:14",
+      "seconds": 7574,
+      "text": "I will do 7161 crores which is the terminal year cash flow divided by rate of discounting that we have taken is close to 7% so here I will do 7% or minus G there was 10% minus 5% so here 7% or terminal year cash flow growth is 5% the moment I do this and the moment I close the bracket so just over here I think yeah just divide it right the moment I do this and close the bracket I'll get an answer of 3, 58, 058 crores. So if I have all the cash flow of Asian paints by the end of year 10, then how much will the answer be? 3, 58, 050 crores of cash flow will come here."
+    },
+    {
+      "id": "cue-7623",
+      "timestamp": "2:07:03",
+      "seconds": 7623,
+      "text": "But there is a small step left here what is the small step left? It came at the end of year 10 so the small step is left over so it came at the end of year 10 now what I have to do is bring it to the present value that is today this is a very small step which people forget to do. This is why sometimes the answer goes wrong. So here I am simply, as you have put it in the template, I am just explaining it as reasoning."
+    },
+    {
+      "id": "cue-7650",
+      "timestamp": "2:07:30",
+      "seconds": 7650,
+      "text": "So what I will do is equal to present value is equal to present value is equal to present value rate of discounting camera about 7% right number of periods get them in the past 10 years payment get me a zero a future value get me a this is the future value the moment I click on enter right So I'll get an answer of 18244, like a little bit of decimal because it's below. So you'll get the same answer here. So this answer will be same as this answer right. So this is how you do discounted cash flow analysis. This is how you do discounted cash flow analysis."
+    },
+    {
+      "id": "cue-7696",
+      "timestamp": "2:08:16",
+      "seconds": 7696,
+      "text": "So total present value of shares total market cap number of shares outstanding 95.9 number of shares outstanding 95.9 95.9 intrinsic value 2194 rupees 2723 rupees 95.9 by 2 lakh 10, 500 crores. The answer intrinsic value per share, Asian pain see assault man that is 2194 rupees and as good as 2723 rupees. So for SOIC tribe members, Joe, yeah, I'm the current Agar you may financial literacy course may present value future value is up the guy got a good take a class."
+    },
+    {
+      "id": "cue-7748",
+      "timestamp": "2:09:08",
+      "seconds": 7748,
+      "text": "So this calculations will become a walk in the park for you, for all the SOIC course members. So this terminal value, we have calculated over it, So we discounted back 358, 000 crores to present value that is at year 1. So this is how we got the terminal value of 182, 026 crores. I broke it down for you in a very simple form. But you won't need to do all this in one formula. So today, after taking 7% discount rate of Asian paints, it is overvalued."
+    },
+    {
+      "id": "cue-7776",
+      "timestamp": "2:09:36",
+      "seconds": 7776,
+      "text": "Had we taken 10% as the discount rate then the degree of overvaluation would have gone to 70% right this is the difference this is why high peace talks are collapsing today that is why high peace talks are not doing well today right. So we have discounted cash flows. Ache se sika I think once you watch the recording of this, I think never ever you will get any doubts of discounted cash flows. Right. It is counting. Yeah, I will share the Excel sheet. So weighted average cost of capital needs is not anything. It is a discounted cash flow."
+    },
+    {
+      "id": "cue-7812",
+      "timestamp": "2:10:12",
+      "seconds": 7812,
+      "text": "So many people think cost of equity or cost of debt is literally science fiction. You don't need to do that. You take 10% as your discount rate. 7% why did I take it? Because I wanted to show you even on aggressive assumption of discount rate the government bond deal is 7% if I look at 7% Asian paints is not as safe as the government bond yield. That is what we have to identify with because growth can go up and down. Because what is happening here? What is going to be a problem on these discount rates? Competition is going to come from the grassy industries."
+    },
+    {
+      "id": "cue-7845",
+      "timestamp": "2:10:45",
+      "seconds": 7845,
+      "text": "This is why the moment competition CAPEX is announced, your discount rates, your uncertainty of cash flows coming that goes down. Is it clear even more now in the comment section? Is it clear even more? Cost of capital is nothing, it is a discount rate, that the cost of capital is so high, like the cost of capital of doing business and the cost of capital for you as a shareholder, that it is so high that it has the difference of opportunity cost. So this is our example of DCF of Asian paints. Similarly, we had done it in some different in the KEI industries."
+    },
+    {
+      "id": "cue-7876",
+      "timestamp": "2:11:16",
+      "seconds": 7876,
+      "text": "We actually did it through a PNL way. So now I won't confuse you here because this is something that we'll do later as well. But in KEEI, for instance, the intrinsic value per share is Rs.1, 790. I don't know what the current market price is today for KEEI industries. I think when we bought it, it was at some 1000 rupees and we thought a similar thinking. So today market price per share is 1677. The movement is 1677 over there. So currently discount to intrinsic values barely 6.71% in KEI industries."
+    },
+    {
+      "id": "cue-7908",
+      "timestamp": "2:11:48",
+      "seconds": 7908,
+      "text": "Either the growth rate has to accelerate or your returns can be mediocre from going forward from it. If the growth rate goes beyond 20-25%, then you can make good returns even in KEI from these levels. Suppose growth rate 20% goes to 20%, I think the sell value is not there. So I'll just create a model of KEI and send it to you later. So what did I do with KEI? I simply took the CAFO to EBIT of KEI and gone to 75%. You got the cash flow from operation. KIA industries has given a capex guidance of 250 crores for next three years and maintenance capex of 200 crores."
+    },
+    {
+      "id": "cue-7943",
+      "timestamp": "2:12:23",
+      "seconds": 7943,
+      "text": "So subtracting your cash flow from operations by capex, you get to free cash loss. So this is a model that we built manually by using our numbers and narrative framework that we learned from Professor Ashwada Mudran right so he manually built it so this is something that you can go through with your own time right so at your own time and now I'll finally come to reverse DCF and a deep value thing that we created for all of you today. So margin of safety concept is over here. So margin of safety concept is if KEI's industries share price would have been 850 rupees today."
+    },
+    {
+      "id": "cue-7977",
+      "timestamp": "2:12:57",
+      "seconds": 7977,
+      "text": "Then KEI industry share price would have been 1000 rupees today. Then there would have been a margin of safety of 79% available to the intrinsic value that is what margin of safety means And so what one buffett keeps on saying he at least well 50% Kager margin of safety milja agar KIA bar or so pay a job for 50% of margin of safety way according to discounted cash flows it ends up becoming a fantastic buy. According to your margin of safety principle. But we have also learned margin of safety through overvaluing and under-earning. So you have to club that with this. Now, cons of DCF."
+    },
+    {
+      "id": "cue-8011",
+      "timestamp": "2:13:31",
+      "seconds": 8011,
+      "text": "Why doesn't DCF work? Simple reason is that we have always assumed that the cash flows will keep growing. In the case of Asian paints also, we have always assumed that the cash flows will keep growing. Is it possible in real life that cash flows will also keep growing forever. Or it will keep growing every year it will keep growing. Is it possible in the real world of business everyone? The answer it is impossible. So it is impossible that the cash flows will keep growing forever."
+    },
+    {
+      "id": "cue-8040",
+      "timestamp": "2:14:00",
+      "seconds": 8040,
+      "text": "So this is why when shallow cyclic ality comes into companies, which is why I have a slide prepared for you, but every industry will have different types of shallow cyclic ality. Elements. Right. So every industry will have different types of shallow cyclic ality element built into it. Right. You'll see that whenever shallow cyclic ality comes into it, right? So whenever cyclic ality or shallow cyclic ality comes, your cash flows will go up and down. Your cash flows will go up and down. So we'll update this a bit."
+    },
+    {
+      "id": "cue-8069",
+      "timestamp": "2:14:29",
+      "seconds": 8069,
+      "text": "So If shallow cyclicality comes, if your cash flows go up and down, that is where your discounted cash flows stops working. Let's take a decent example of Balkrishna Industries. It's a cyclical business. Just look at the margins of Balkrishna Industries. Of all Christian industries. 12%. 12%. You are totally confused about the discounted cash flows. Because you created a model now. A googly comes at you and the margins go to 12%. This is why DCF's real world usage is less. This is why we introduce the concept of reverse DCF. Because that is much more important than your discounted cash flows."
+    },
+    {
+      "id": "cue-8109",
+      "timestamp": "2:15:09",
+      "seconds": 8109,
+      "text": "So we will learn reverse DCF. Just pay attention for 5 minutes. Then we will simply go to the deep value sheet. And finally we will go to question and answer round. So our next 20 minutes session is over. So this is the idea of expectations investing. So there is a book by Professor Michael Mobbesson which is which gives an idea that instead of forecasting the growth, what if we can invert the DCF and actually get what is the expected growth built into this company at this point of time. That is what reverse DCF means."
+    },
+    {
+      "id": "cue-8146",
+      "timestamp": "2:15:46",
+      "seconds": 8146,
+      "text": "Simply this is the simple meaning of reverse DCF because what ends up happening is that abhi ame aamde bohzada forecasting karne pade hai. What if the forecast do not work? What if we go wrong agar 12% ka jo wo tha, wo 10% growth aagya? Right? So all of your model will go for a toss. This is the idea of forecasting that how we learn to do reverse DCF and I'll actually open a tool for you. So it's a little difficult to teach on Excel because there are so many steps on Excel."
+    },
+    {
+      "id": "cue-8174",
+      "timestamp": "2:16:14",
+      "seconds": 8174,
+      "text": "So I'll actually open a tool for you that is by the name of the jury finance right with the jury finance I think the jury finance will eventually be like it may be a free to use feature may a jaga kaafi saare it may features free to use we are ne waale right so I'll just sign into my account so I'm just signing it because I need to put in my phone number. This give me a second. All right. Right. Just a minute. All right. To give up a we are coming to the idea of reverse DCF and this is where the reverse DCF will finally get solved once and for all right."
+    },
+    {
+      "id": "cue-8211",
+      "timestamp": "2:16:51",
+      "seconds": 8211,
+      "text": "So this is the idea of reverse DCF that we'll come to is that over here so the Jori finance paper we'll just come to the idea of reverse DCF and let's open a business by the name of let's say let's go to hyper over valuation let's go to HLE glasscode right so HLE glasscode how to do reverse DCF simply going to financials of HLE glasscode and simply just coming to beneath right just coming to this reverse DCF calculator. Reverse DCF calculator. We'll just look at the free cash flows of the company. Just look at the free cash flows of the company. So free cash flows have been negative."
+    },
+    {
+      "id": "cue-8247",
+      "timestamp": "2:17:27",
+      "seconds": 8247,
+      "text": "So the free cash flows are negative. Then try doing it on operating cash flows like your CFO. Last two years, a lot of B2B businesses have had an impact on their cash flows. Let's take it between 48 to 44 crores of normalised cash flows. Let's just write 44 crores of cash flow from operations of this company. So discount rate, let's assume that 10% is not there."
+    },
+    {
+      "id": "cue-8268",
+      "timestamp": "2:17:48",
+      "seconds": 8268,
+      "text": "To earn a minimal 10% rate 10% return from HLE glass court and let's assume capital good company, so capital good company's average P ratio is not more than 25% so this company will have to actually make 22% compounding of cash flows for the next 10 years for you to make actually decent returns over it 10% rate if you want to earn return so this company will have to grow cash flows for 22% for the next 10 years which I don't know if it is possible or not similarly, let's go to PidLight let's take the examples of PidLight and let's club with we stop to identify selling points over here Pidlite case because it's a mature company we'll get free cash flows of Pidlite I think it might be easier for us to get so Pidlite case if you want to look at the free cash flows, over here, free cash flow of Pildite is 795 crores."
+    },
+    {
+      "id": "cue-8337",
+      "timestamp": "2:18:57",
+      "seconds": 8337,
+      "text": "So let's go to Pildite free cash flows and first we will count it as 10% and let's assume Pildite is an adhesive company so it has 40% of the market so let's assume that we will assume the PES in the terminal value of 50 so Pidlite has to grow its cash flows at a rate of 23.5% for the next 10 years in order to make 10% rate of return for you."
+    },
+    {
+      "id": "cue-8368",
+      "timestamp": "2:19:28",
+      "seconds": 8368,
+      "text": "And actually looking at the historical growth rates historical growth rates so according to reverse DCF looking at the last decade growth rate it seems to be really expensive But this is where your volatility stop as an idea will come in that if you think that a stop becomes If you take 50 PEB after that it's very expensive So what you can simply do is that you can go to your volatility stop And you can close down the multiplier to 2 whenever it starts looking expensive And if the multiplier hits that is the point of time of selling."
+    },
+    {
+      "id": "cue-8405",
+      "timestamp": "2:20:05",
+      "seconds": 8405,
+      "text": "So this will save you a lot of heartaches, especially when it comes to businesses like Dixon which was very big. Neo Gen may I ended up selling at 1600, 1700 because reverse DCI was saying the 35% growth rate is more. Similarly, currently I'm riding Naveen because Naveen may next four or five years for 30, 40% growth rate. So I haven't sold it as of now. But again, it's a very old holding."
+    },
+    {
+      "id": "cue-8430",
+      "timestamp": "2:20:30",
+      "seconds": 8430,
+      "text": "There's an APL upholowage, it's expensive according to reverse DCF also and according to comparing with POS as well So once your reverse DCF indicates hyper overvaluation, simply just close down your volatility stop from 2.5 to 2X Let's see in the case of Demart, I think your volatility stop was hit at 4, 400. In 43-4, 400 volatility stop got hit. Is it becoming clearer that how you can club reverse DCF with Vstop for exits. Is it becoming clearer? Because the moment liquidity goes away, people are saying, this is expensive now. You don't want to be caught holding the bag."
+    },
+    {
+      "id": "cue-8469",
+      "timestamp": "2:21:09",
+      "seconds": 8469,
+      "text": "That is the simple idea at the end of the day. Right? So formula is not going to be reverse DCF. Simple is reverse DCF, what will you do? Just go to the jory finance and if you want to sign up to the jory finance, so we have a tie up with them which will give you a 15% off. That is SOIC015. So Again, it's a tie up that I'll upfront tell you if you want to do a like if you want to go for it so you can use S Y C 0 1 5 This will give you a 15% off also while signing up for the jury finance right so the reverse DCF. What do they do?"
+    },
+    {
+      "id": "cue-8503",
+      "timestamp": "2:21:43",
+      "seconds": 8503,
+      "text": "Like we were forecasting in DCF but reverse DCF will help you to get an idea that if you want to become a CGR in the future, and if you assume that exit P will be 40, let's assume exit P will be 50. If you are an exit P, that is only for very few businesses, the moment you take it above 50 P exit, exit multiple, then you are going into the territory of a world of imagination because 50 P is over what companies are going to go over a period of time. Well, that I hardly there might be only one or two companies in India out of 5000 or 6000 companies."
+    },
+    {
+      "id": "cue-8540",
+      "timestamp": "2:22:20",
+      "seconds": 8540,
+      "text": "Let's take it 50p right at the end of the 10th year this company will get 50p right and today you don't have to do a discounted cash flow but the discount rate you're giving is 10% you want to make a 10% rate of return, me das percent rate of return banana chatham. So the free cash flows of this company have to grow at 21% for the next 10 years for me to make a 10% rate of return. If I want to make a 15% rate of return from this company, Then the free cash flows have to grow at a rate of 26.5%."
+    },
+    {
+      "id": "cue-8568",
+      "timestamp": "2:22:48",
+      "seconds": 8568,
+      "text": "If I want to make a 20% return from this company, the free cash flows have to grow at a rate of 32% for the next 10 years. So this expectations calculator will give you an idea whether the company is horribly expensive or is it horribly cheap or whether you can club it with Vstop to get exit signals early. Whenever more than 20% in 10 years, simply go to Volatigree stop and place it at 2. So, Bajaj finance, FinServe, HDFC bank, on some make you cash flows, because banks are in the business of giving loans."
+    },
+    {
+      "id": "cue-8604",
+      "timestamp": "2:23:24",
+      "seconds": 8604,
+      "text": "So, all the banks and lenders we have already covered in the session, the session 2 or session 1 of it where we explained the idea of book value per share and how you can do like you can get build bull bull bear and base scenarios right so that is the idea that we have I've taught you over there I think I'm a equator small finance bank I have a finance or in sub-kijo south Indian bank jow basically valuation more like a a ko samshaaya tha ki kese a banks ko value and in the South Indian Bank, basically, you were able to explain how you can value banks."
+    },
+    {
+      "id": "cue-8634",
+      "timestamp": "2:23:54",
+      "seconds": 8634,
+      "text": "So with this, our discounted cash flows, reverse GCF, both of them get completed. And now I will finally come to a sheet that basically also like part of it, how I actually thought and built like my personal portfolio using similar tools of valuations and similar tools of like basically of this discipline of selling. Is disciplined enough selling. So I'll just actually, so again, a standard disclaimer, no buy and sell recommendation, just to teach you that how we are very, very stringent about these ideas or like ideas of valuation or getting to the right business model, right?"
+    },
+    {
+      "id": "cue-8669",
+      "timestamp": "2:24:29",
+      "seconds": 8669,
+      "text": "So There are two types of portfolio that we have built. One is a family portfolio, one is personal portfolio, personal PF, right? So that has much lower stocks, family PF has much higher stocks. So here we use the idea because see, variations at the end are also linked to your portfolio allocations. So here it's simple. There are two frameworks to use. 2468 or simply 36912. Lowest allocation ideas where you think the business models are topsy-turvy should get should get only 2% allocations or lower because you're seeing the business is emerging. Right."
+    },
+    {
+      "id": "cue-8707",
+      "timestamp": "2:25:07",
+      "seconds": 8707,
+      "text": "I'm just a higher allocation 4 to 6% is the like love should they they should get and highest allocations should get 8% allocation at cost basis. And at at cost basis, sometimes the market price increases if it increases, then we rebalance it. So this is what I family follow for my family PF."
+    },
+    {
+      "id": "cue-8725",
+      "timestamp": "2:25:25",
+      "seconds": 8725,
+      "text": "Personal PF I follow three six nine and twelve but currently there is like currently for one of the businesses which I would like to name currently there is one over concentration over there where we have a 35% allocation just in one of the businesses which I won't be naming over there but this is an idea that how we do allocations right and this is how you get P multiple or cheap valuation that is what we are trying to look at so let's look at how the family PF is this is just to explain how we build through discipline for example, We know it's a cyclical stock so we'll be very early to sell and we stop at 2.0."
+    },
+    {
+      "id": "cue-8770",
+      "timestamp": "2:26:10",
+      "seconds": 8770,
+      "text": "Similarly, like Equitas Bank, Ival Finance, HCG Hospital, EV2, EBITDA, even the cheapest hospital, If the hospital is made, it's probably the cheapest hospital as cheap as almost ashtals. Then there will be a business by name of Arman finance which I think we are just playing the micro finance cycle. Abhiyab yagar if the business starts overheating a lot right because it has already been I think 121 50% up."
+    },
+    {
+      "id": "cue-8800",
+      "timestamp": "2:26:40",
+      "seconds": 8800,
+      "text": "So again over here if it starts over heating a lot other 67x price to book chale jaat hai while take the V stop and put it at 1.5x because I don't want to end up holding a deep cyclical when the cycle breaks. So this is my simple idea of exiting stocks as well, which we have already identified before even entering them. Similarly, another business here by the name of Shevalik by Metal, then Rainbow Children Hospital here, which I think hospitals may as one of the best metrics when it comes to financials of the hospitals."
+    },
+    {
+      "id": "cue-8833",
+      "timestamp": "2:27:13",
+      "seconds": 8833,
+      "text": "Then there's a business old holding by the name of APL Apollo, which has already been a, I think, nine bagger or a 10 bagger or now. And I think that again, incremental money stops going when valuations increase. Then on the Veeam Florian will be here. Then an idea of something like your Kama holdings will be here and your GFL type businesses here, your PB FinTech type businesses here, right? And again, this is a very old holding. This is also very old holding. Then one of the recent holdings, a KEI holdings is like a KEI Industries is there, right?"
+    },
+    {
+      "id": "cue-8867",
+      "timestamp": "2:27:47",
+      "seconds": 8867,
+      "text": "So simple idea of creating a portfolio is get cheap valuations. South Indian Bank, Ecuador, Cyprus, France, HGNH like Arman originally was cheap valuations. Shivalec buy metals, rainbow children like Shivalec is growing at 25% per annum. What is the P ratio of the business today? It is at 32-35 times. Right? So again, it's an idea that peg ratio is 1.5 times below. Similarly, a rainbow children's hospital, it has the best metrics in the hospital industry. Yet it is growing at 22-22% types."
+    },
+    {
+      "id": "cue-8900",
+      "timestamp": "2:28:20",
+      "seconds": 8900,
+      "text": "So this is how we actually end up valuing companies and here is another business consumption method is one of the averages and last one is where allocation is very very low to begin with. So this is how we think about creating portfolios because at the end the whole idea of valuation, of exits, everything is that we put them in our portfolio and see how we create it. There is some old holdings like Navin, Florian or APL or Apollo, incremental money stops going on over there. So this is how we end up creating the portfolios. And this is how we think about creating a portfolio."
+    },
+    {
+      "id": "cue-8933",
+      "timestamp": "2:28:53",
+      "seconds": 8933,
+      "text": "And this is how basically the idea of portfolio creation comes into the mind. Right. I think you have a whole set the maximum eight, though companies miss or you're because total miss 17 to 19 companies. So this gives you diversification. This gives you gives you like type protection on a like overall portfolio level and also allocations clubbing them with risk taken and having exit criteria like these top and reversed DCF in mind. This will help you a lot when it comes to in your journey of investing. And this was it with today's class."
+    },
+    {
+      "id": "cue-8963",
+      "timestamp": "2:29:23",
+      "seconds": 8963,
+      "text": "And now I can have a round of question and answers for those of you who are in tribe members, if you wish to become S Y C tribe members. So those who are those of you who are tribe members just in the comment section, like just actually, if you have any feedback for the SOIC course, also basically give any feedback that you have in the SOIC course. Great. Great. So, great. So, like, if anyone wishes to become a SYC tribe member, so they can use this. So, yeah, I think family PF, there's also another business, which has been there for last two years now."
+    },
+    {
+      "id": "cue-9001",
+      "timestamp": "2:30:01",
+      "seconds": 9001,
+      "text": "And still dividend are up to, I think, original, bank price, almost 2.5% dividend deal is gone. Like this, the whole presentation is still available at home because it is a very detailed presentation. I think 190 slides were there where I had to cut down in last two sessions to a lot. Right. Thank you so much for joining us. Hopefully you have a great Sunday. Thank you everyone. Thank you so much. Have a great Sunday everyone. Bye bye."
+    }
+  ]
+}

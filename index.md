@@ -47,4 +47,5 @@ features:
 | **CHK** | **TVGP Framework Checklist** | Core 4-pillar investment gatekeeper (Theme, Valuation, Growth, Promoter) | [Open CHK Overview](/courses/chk/) |
 | **CC** | **TVGP Crash Course (Class 2-9)** | Intensive deep dive into moats, operating leverage, capex cycles, and CCC | [Open CC Overview](/courses/cc/) |
 | **FA** | **Mastering Fundamental Analysis** | Forensics, balance sheet deconstruction, cash flows, and auditor notes | [Open FA Overview](/courses/fa/) |
-| **L3** | **Corporate Valuation & Portfolio Strategy** | Reverse DCF, margin traps, cyclical PE adjustments, and portfolio sizing | [Open L3 Overview](/courses/l3/) |
+| **V&P** | **Corporate Valuation & Portfolio Strategy** | Reverse DCF, margin traps, cyclical PE adjustments, and portfolio sizing | [Open V&P Overview](/courses/vp/) |
+| **BF** | **Behavioural Finance** | System 1 vs 2, cognitive biases, loss aversion, and portfolio-level anchoring | [Open BF Overview](/courses/bf/) |
