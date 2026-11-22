@@ -11,8 +11,8 @@
 
 ### A. Concepts Only Briefly Mentioned
 
-- **SOTP (Sum of the Parts) & Trent:** Deferred to Parts 2 and 3 \[01:14:52, 02:44:05, 03:11:13\].  
-- **Lincoln Pharma (18% promoter holding) & Sigachi Industries:** Brief mentions without deep walkthroughs \[01:38:55, 03:00:00\].
+- **SOTP (Sum of the Parts) & Trent:** Deferred to Parts 2 and 3 [01:14:52, 02:44:05, 03:11:13].  
+- **Lincoln Pharma (18% promoter holding) & Sigachi Industries:** Brief mentions without deep walkthroughs [01:38:55, 03:00:00].
 
 ### B. Items Marked `[?]`, `[? verify]` or `[? Hindi segment unclear]`
 

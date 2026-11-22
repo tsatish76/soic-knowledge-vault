@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev",
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "dev": "node --max-old-space-size=8192 node_modules/vitepress/bin/vitepress.js dev",
+    "docs:dev": "node --max-old-space-size=8192 node_modules/vitepress/bin/vitepress.js dev",
+    "docs:build": "node --max-old-space-size=8192 node_modules/vitepress/bin/vitepress.js build",
     "docs:preview": "vitepress preview",
     "sync": "node scripts/sync.js && node scripts/parse_transcripts.js && node scripts/linkify_reports.js",
     "parse:transcripts": "node scripts/parse_transcripts.js",

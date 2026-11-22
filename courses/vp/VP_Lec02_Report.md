@@ -19,12 +19,12 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 
 * **Warren Buffett’s Two-Filter Investment Selection Criterion:** Evaluate potential stock investments by first analyzing maximum potential capital loss (downside risk), then requiring a minimum 15% CAGR hurdle rate based on structural operating margins (e.g., 36% PAT margin) and volume growth potential (70% growth) [[00:45:02–00:47:46](/transcripts/vp/VP_Lec02?t=2702)].
 * **Volatility Stop (V-Stop) Technical Exit Indicator:** Integrate fundamental valuation with technical risk exits using a 10-month Average True Range (ATR) Volatility Stop set to a 2.0x–2.5x multiplier on monthly charts; tighten the multiplier to 1.5x–2.0x when PE becomes obscene (>100x or 20-year growth priced in) to exit before institutional distribution triggers severe price crashes [[00:54:48–01:02:52](/transcripts/vp/VP_Lec02?t=3288)].
-* **PEG Ratio Thresholds & Valuation Zones:** Categorize stock valuations into three operational zones using the Price/Earnings-to-Growth formula (\\(\text{PEG} = \frac{\text{PE Ratio}}{\text{Earnings Growth Rate}}\\)): Deep Value/Low Valuation (\\(\text{PEG} < 1.0\text{x}\\)), Reasonable Valuation/GARP (\\(\text{PEG} = 1.0\text{x}–1.5\text{x}\\)), and Overvalued/High Danger (\\(\text{PEG} > 1.5\text{x}–2.0\text{x}\\)) [[01:02:52–01:03:58](/transcripts/vp/VP_Lec02?t=3772), [01:54:52–01:56:19](/transcripts/vp/VP_Lec02?t=6892)].
+* **PEG Ratio Thresholds & Valuation Zones:** Categorize stock valuations into three operational zones using the Price/Earnings-to-Growth formula ($\text{PEG} = \frac{\text{PE Ratio}}{\text{Earnings Growth Rate}}$): Deep Value/Low Valuation (PEG < 1.0x), Reasonable Valuation/GARP (PEG = 1.0x–1.5x), and Overvalued/High Danger (PEG > 1.5x–2.0x) [[01:02:52–01:03:58](/transcripts/vp/VP_Lec02?t=3772), [01:54:52–01:56:19](/transcripts/vp/VP_Lec02?t=6892)].
 * **Valuation Multiple Compression Risk (Infosys Case Study):** Purchasing a high-growth company at an obscene entry multiple can cause zero capital returns over a decade (e.g., Infosys from 1999 to 2009) due to a 6x / 60–70% PE multiple compression from 206x to 30x PE, despite net profit/earnings growing at 20–25% CAGR [[01:03:58–01:07:00](/transcripts/vp/VP_Lec02?t=3838)].
-* **Earnings Yield Formula & Inverse PE Valuation:** The earning yield of any asset or stock is calculated as the inverse of the PE ratio (\\(\text{Earning Yield} = \frac{\text{Net Profit}}{\text{Market Cap}} = \frac{1}{\text{PE Ratio}} \times 100\\)), enabling direct comparison against fixed income / bank FD returns (e.g., a 14.3x PE equals a 7% earning yield) [[01:09:37–01:11:32](/transcripts/vp/VP_Lec02?t=4177)].
+* **Earnings Yield Formula & Inverse PE Valuation:** The earning yield of any asset or stock is calculated as the inverse of the PE ratio ($\text{Earning Yield} = \frac{\text{Net Profit}}{\text{Market Cap}} = \frac{1}{\text{PE Ratio}} \times 100$), enabling direct comparison against fixed income / bank FD returns (e.g., a 14.3x PE equals a 7% earning yield) [[01:09:37–01:11:32](/transcripts/vp/VP_Lec02?t=4177)].
 * **Core PE Calculation Method (Adjusting for Other Income & One-Offs):** Calculate true operational core PE by deducting non-core FD interest/other income (adjusted for 25% tax) and non-recurring contract termination fees/demerged business profits from reported PAT (e.g., MapmyIndia's core PAT drops from ₹91 crore to ₹66 crore post-tax, elevating true PE to >90x; Aarti Industries' true PE rises to 37.8x after eliminating ₹631 crore one-off termination income and ₹100 crore demerged pharma PAT) [[01:45:25–01:52:17](/transcripts/vp/VP_Lec02?t=6325)].
 * **Nifty PE Odds Meter Return Expectation Matrix:** Predict long-term equity index CAGR based on entry Nifty PE bands on normalized earnings: 16x PE = "bet the house" entry zone (>15–17% CAGR), 18x–19x PE = 13–15% CAGR, 20x–22x PE = 12–14% CAGR, above average = 10–12% CAGR, and >25x PE = low return zone (6–8% CAGR) [[01:21:50–01:24:24](/transcripts/vp/VP_Lec02?t=4910)].
-* **Deconstruction of Share Price Returns (Sage 1 Framework):** Long-term stock price CAGR is driven by the interaction between EPS growth CAGR and PE re-rating CAGR (\\(\text{Stock CAGR} \approx \text{EPS Growth CAGR} + \text{PE Multiple Change}\\)); for example, Bajaj Finance's 69.5% 10-year CAGR was powered by 34% EPS growth combined with a PE expansion from 10x to 43x [[01:35:40–01:37:02](/transcripts/vp/VP_Lec02?t=5740)].
+* **Deconstruction of Share Price Returns (Sage 1 Framework):** Long-term stock price CAGR is driven by the interaction between EPS growth CAGR and PE re-rating CAGR ($\text{Stock CAGR} \approx \text{EPS Growth CAGR} + \text{PE Multiple Change}$); for example, Bajaj Finance's 69.5% 10-year CAGR was powered by 34% EPS growth combined with a PE expansion from 10x to 43x [[01:35:40–01:37:02](/transcripts/vp/VP_Lec02?t=5740)].
 * **Normalized Earnings Adjustment Framework:** During macro shocks or temporary lockdowns (e.g., COVID-19), evaluate valuation using 1–2 year forward normalized EPS rather than depressed trailing earnings to avoid artificially inflated PE multiples and spot generational buying opportunities [[01:32:07–01:35:40](/transcripts/vp/VP_Lec02?t=5527)].
 
 ---
@@ -39,13 +39,13 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 | **Stage 4** | Market Cycles, Psychology & Bubble Mechanics | [[00:31:16–00:45:02](/transcripts/vp/VP_Lec02?t=1876)] | [Slide 12–Slide 14] | Stages of a market bubble (Low Valuation → Awareness → Enthusiasm → Greed → Delusion → Delusion Breaking); institutional vs. retail market behavior during market tops. | None | [TVGP: Valuation] |
 | **Stage 5** | Warren Buffett's Investment Selection Methodology | [[00:45:02–00:52:04](/transcripts/vp/VP_Lec02?t=2702)] | [Slide 15] | Two-filter investment framework: Filter 1 = Evaluate downside risk and potential for loss first; Filter 2 = Assess hurdle rate (15% CAGR target based on PAT margins and volume growth potential); comparative peer analysis across operating metrics. | IBM, Midcontinent Tab Card Company, KEI Industries, Polycab India, Havells India, V-Guard Industries, Universal Cables | [TVGP: Growth] |
 | **Stage 6** | PE Ratio as Odds & Volatility Stop (V-Stop) Technical Exit Tool | [[00:52:04–01:02:19](/transcripts/vp/VP_Lec02?t=3124)] | [Slide 16–Slide 18] | PE ratio represents odds rather than exact point values; classification into Low, Reasonable, and High valuation zones; Technical Volatility Stop (V-Stop) indicator using 10-month ATR with 2.0x–2.5x multiplier on monthly charts to detect institutional distribution and trigger early risk exits. | Dixon Technologies, Relaxo Footwears, Eicher Motors, Tesla, Sequent Scientific, Supriya Lifesciences | [TVGP: Valuation] |
-| **Stage 7** | PEG Ratio Framework & Valuation Multiple Compression Risk | [[01:02:19–01:08:58](/transcripts/vp/VP_Lec02?t=3739)] | [Slide 19–Slide 20] | PEG ratio definition and formula (\\(\text{PE} / \text{Earnings Growth}\\)); risk of extreme PE compression (60–70% drop) neutralizing strong earnings growth over a decade when buying at peak valuations. | Infosys, HDFC Bank | [TVGP: Valuation] |
-| **Stage 8** | PE Ratio Breakdown, Earning Yield & Market Liquidity Drivers | [[01:08:58–01:21:18](/transcripts/vp/VP_Lec02?t=4138)] | [Slide 21–Slide 24] | PE mathematical breakdown (\\(\text{Price}/\text{EPS}\\) and \\(\text{Market Cap}/\text{PAT}\\)); Earning Yield as inverse PE; macro drivers of perception/multiples (liquidity contraction, interest rate competition between bond and equity markets); competitive industry shifts altering perception. | Real estate plot example, Relaxo Footwears, Metro Brands, Campus Activewear, Mirza International, Bata India, IIFL Finance, KEI Industries | [TVGP: Valuation] |
+| **Stage 7** | PEG Ratio Framework & Valuation Multiple Compression Risk | [[01:02:19–01:08:58](/transcripts/vp/VP_Lec02?t=3739)] | [Slide 19–Slide 20] | PEG ratio definition and formula ($\text{PE} / \text{Earnings Growth}$); risk of extreme PE compression (60–70% drop) neutralizing strong earnings growth over a decade when buying at peak valuations. | Infosys, HDFC Bank | [TVGP: Valuation] |
+| **Stage 8** | PE Ratio Breakdown, Earning Yield & Market Liquidity Drivers | [[01:08:58–01:21:18](/transcripts/vp/VP_Lec02?t=4138)] | [Slide 21–Slide 24] | PE mathematical breakdown ($\text{Price}/\text{EPS}$ and $\text{Market Cap}/\text{PAT}$); Earning Yield as inverse PE; macro drivers of perception/multiples (liquidity contraction, interest rate competition between bond and equity markets); competitive industry shifts altering perception. | Real estate plot example, Relaxo Footwears, Metro Brands, Campus Activewear, Mirza International, Bata India, IIFL Finance, KEI Industries | [TVGP: Valuation] |
 | **Stage 9** | Passive Index Investing & Nifty PE Odds Meter | [[01:21:18–01:32:07](/transcripts/vp/VP_Lec02?t=4878)] | [Slide 25–Slide 27] | 22-year convergence between Nifty EPS growth (11x) and index price returns (10.5x); Nifty PE valuation return matrix (16x PE = "bet the house" entry zone yielding >15–17% CAGR; >25x PE yielding 6–8% CAGR); sectoral index PE dynamics (Bank Nifty, Nifty Pharma, Nifty FMCG, Nifty IT, Nifty Auto). | Nifty 50, Bank Nifty, Nifty Pharma, Nifty FMCG, Nifty IT, Nifty Auto | [TVGP: Valuation] |
 | **Stage 10** | Normalizing Earnings Framework During Macro Disruption | [[01:32:07–01:35:40](/transcripts/vp/VP_Lec02?t=5527)] | [Slide 28] | Normalizing earnings during temporary operational halts or lockdowns; projecting 1–2 year forward EPS to establish true underlying PE multiples when trailing earnings collapse artificially. | Nifty 50 | [TVGP: Valuation] |
 | **Stage 11** | Deconstructing Stock CAGR vs EPS Growth (Sage 1 Framework) | [[01:35:40–01:45:25](/transcripts/vp/VP_Lec02?t=5740)] | [Slide 29–Slide 31] | Dissecting historical stock price CAGR into EPS growth contribution vs. PE re-rating/expansion contribution; evaluating whether returns are fundamentally driven or multiple-expansion dependent. | Bajaj Finance, Asian Paints, Relaxo Footwears, KEI Industries, PI Industries, Deepak Nitrite, Varun Beverages, Avenue Supermarts | [TVGP: Growth] |
 | **Stage 12** | Core PE Calculation: Eliminating Non-Core Income & One-Offs | [[01:45:25–01:54:52](/transcripts/vp/VP_Lec02?t=6325)] | [Slide 32–Slide 33] | Step-by-step formula for Core PE: subtract non-core other income (FD interest adjusted for 25% tax) from reported PAT; eliminate non-recurring one-off income (e.g., contract termination fees) and demerged business profits to derive true operating PAT and accurate PE. | MapmyIndia (CE Info Systems), Aarti Industries, Indian Energy Exchange (IEX), Westlife Development, Varun Beverages, Steelcast | [TVGP: Valuation] |
-| **Stage 13** | Forward PEG Analysis, V-Stop Integration & Session Wrap-Up | [[01:54:52–02:02:49](/transcripts/vp/VP_Lec02?t=6892)] | [Slide 34–Slide 35] | Calculating trailing vs. forward PEG ratios; integrating forward PEG thresholds (\\(\text{PEG} \le 1.5\text{x}\\)) with 10-month ATR Volatility Stop indicators to maintain positions in structural compounders while establishing risk exit triggers; outline of upcoming session covering DCF modeling, EV/EBITDA, and sell rules. | KEI Industries | [TVGP: Valuation] |
+| **Stage 13** | Forward PEG Analysis, V-Stop Integration & Session Wrap-Up | [[01:54:52–02:02:49](/transcripts/vp/VP_Lec02?t=6892)] | [Slide 34–Slide 35] | Calculating trailing vs. forward PEG ratios; integrating forward PEG thresholds (PEG ≤ 1.5x) with 10-month ATR Volatility Stop indicators to maintain positions in structural compounders while establishing risk exit triggers; outline of upcoming session covering DCF modeling, EV/EBITDA, and sell rules. | KEI Industries | [TVGP: Valuation] |
 
 ---
 
@@ -140,7 +140,7 @@ Four analytical platforms serve as the core toolkit for tracking financial data,
 c) Examples & case studies
 * **Example:** US Tech & Crypto Bubble (2020–2021) [[00:04:41–00:05:58](/transcripts/vp/VP_Lec02?t=281)] [Slide 1]
   * **Context:** Demonstrating market euphoria and valuation distortion during financial cycle peaks.
-  * **Data/details:** FANG tech equities trading at 100x–200x Price-to-Sales (P/S) multiples [[00:05:22](/transcripts/vp/VP_Lec02?t=322)]; an electric vehicle startup achieving an \$82B [[00:05:22](/transcripts/vp/VP_Lec02?t=322)] / \$200B market valuation despite having zero operational vehicle manufacturing facilities; collapse of the cryptocurrency bubble in 2021 [[00:05:22](/transcripts/vp/VP_Lec02?t=322)].
+  * **Data/details:** FANG tech equities trading at 100x–200x Price-to-Sales (P/S) multiples [[00:05:22](/transcripts/vp/VP_Lec02?t=322)]; an electric vehicle startup achieving an $82B [[00:05:22](/transcripts/vp/VP_Lec02?t=322)] /$200B market valuation despite having zero operational vehicle manufacturing facilities; collapse of the cryptocurrency bubble in 2021 [[00:05:22](/transcripts/vp/VP_Lec02?t=322)].
   * **Walkthrough:** During the 2020–2021 liquidity wave, market participants abandoned cash flow fundamentals and priced growth stocks on narrative alone. EV and tech companies commanded multi-billion-dollar valuations without operating factories or revenue, driving P/S multiples to 100x–200x. When market liquidity tightened, these ungrounded valuations collapsed.
   * **Takeaway:** Unbacked narrative euphoria creates severe capital risk; investors must maintain a systematic exit framework when holding overvalued assets during market manias.
 
@@ -190,7 +190,7 @@ Five primary investment strategies exist in equity markets [[00:10:18–00:10:49
 
 ### The Dean of Valuation Case Studies: Tesla and Apple Exit Errors
 Relying solely on fundamental DCF valuation models causes investors to exit compounding growth stocks too early [[00:10:49–00:13:59](/transcripts/vp/VP_Lec02?t=649)] [Slide 6]. Even Professor Aswath Damodaran ("Dean of Valuation") repeatedly made exit timing errors on Tesla and Apple by relying strictly on static fundamental target prices [[00:10:49–00:13:59](/transcripts/vp/VP_Lec02?t=649)]:
-* **Tesla Trade:** Damodaran identified Tesla as fundamentally undervalued in June 2019 at \$180 (\$12 split-adjusted) post-crisis when Elon Musk secured funding [[00:11:25–00:12:00](/transcripts/vp/VP_Lec02?t=685)]. He sold his entire position in January 2020 at \$60 (split-adjusted, quadrupling his capital) because his DCF model could not justify a fair value above \$600 (\$60 split-adjusted) [[00:11:57–00:12:39](/transcripts/vp/VP_Lec02?t=717)]. Tesla subsequently rallied to \$1,200 (\$410 split-adjusted in 2021/2023 terms), causing him to miss a ~34x remaining upside [[00:12:00–00:12:39](/transcripts/vp/VP_Lec02?t=720)].
+* **Tesla Trade:** Damodaran identified Tesla as fundamentally undervalued in June 2019 at $180 ($12 split-adjusted) post-crisis when Elon Musk secured funding [[00:11:25–00:12:00](/transcripts/vp/VP_Lec02?t=685)]. He sold his entire position in January 2020 at $60 (split-adjusted, quadrupling his capital) because his DCF model could not justify a fair value above$600 ($60 split-adjusted) [[00:11:57–00:12:39](/transcripts/vp/VP_Lec02?t=717)]. Tesla subsequently rallied to$1,200 ($410 split-adjusted in 2021/2023 terms), causing him to miss a ~34x remaining upside [[00:12:00–00:12:39](/transcripts/vp/VP_Lec02?t=720)].
 * **Apple Trade:** Damodaran bought and sold Apple multiple times based on DCF fair value calculations [[00:13:19–00:13:59](/transcripts/vp/VP_Lec02?t=799)]. Over that timeframe, Apple compounded into an 8-bagger on price appreciation and a 16x–17x bagger including dividend reinvestment and aggressive share buybacks [[00:13:19–00:13:59](/transcripts/vp/VP_Lec02?t=799)].
 
 ### The Capital Cycle Framework
@@ -209,8 +209,8 @@ c) Examples & case studies
 
 * **Example:** Professor Aswath Damodaran's Tesla Trade (2019–2021) [[00:10:49–00:12:39](/transcripts/vp/VP_Lec02?t=649)] [Slide 6]
   * **Context:** Demonstrating premature exit errors caused by fundamental DCF target price caps.
-  * **Data/details:** Entry in June 2019 at \$180 (\$12 split-adjusted); complete exit in January 2020 at \$60 split-adjusted (4x gain); maximum DCF fundamental value cap = \$600 (\$60 split-adjusted); subsequent stock price peak = \$1,200 (\$410 split-adjusted) in 2021.
-  * **Walkthrough:** Damodaran correctly identified Tesla's bottom in 2019. However, his rigid DCF model dictated a sale once the stock hit his \$60 split-adjusted fair value. Because his fundamental model could not capture expanding market momentum, he exited right before a massive multi-year rally to \$410 split-adjusted.
+  * **Data/details:** Entry in June 2019 at$180 ($12 split-adjusted); complete exit in January 2020 at$60 split-adjusted (4x gain); maximum DCF fundamental value cap = $600 ($60 split-adjusted); subsequent stock price peak = $1,200 ($410 split-adjusted) in 2021.
+  * **Walkthrough:** Damodaran correctly identified Tesla's bottom in 2019. However, his rigid DCF model dictated a sale once the stock hit his $60 split-adjusted fair value. Because his fundamental model could not capture expanding market momentum, he exited right before a massive multi-year rally to$410 split-adjusted.
   * **Takeaway:** Fundamental DCF models are effective for entry timing but ineffective for exit timing in structural growth stocks; technical trend-following tools should govern exits.
 
 * **Example:** Apple Inc. Compounding vs. Re-valuation Friction [[00:13:19–00:13:59](/transcripts/vp/VP_Lec02?t=799)] [Slide 6]
@@ -273,7 +273,11 @@ When supply chain dislocations allow companies to earn supernormal margins witho
 
 ### The Three-Peak Danger Zone Formula
 Speaker's view: The greatest risk of permanent capital loss occurs when an investor purchases a stock at the confluence of three peaks [[00:29:56–00:30:35](/transcripts/vp/VP_Lec02?t=1796)] [Slide 10]:
-\\[\text{Zone of Danger} = \text{Peak Valuations (P/E)} + \text{Peak Earnings (PAT)} + \text{Peak Operating Margins (EBITDA \%)}\\]
+
+$$
+Zone of Danger = Peak Valuations (P/E) + Peak Earnings (PAT) + Peak Operating Margins (EBITDA \%)
+$$
+
 
 c) Examples & case studies
 * **Example:** MDF Sector / Greenpanel Industries & Rushil Decor [[00:14:29–00:19:47](/transcripts/vp/VP_Lec02?t=869)] [Slide 8]
@@ -347,7 +351,11 @@ Historical market bubbles demonstrate that intelligence does not protect investo
 
 ### Fundamentals vs. Perception & Manipulation
 Valuation is governed by the relationship between market perception and underlying earnings [[00:39:57–00:42:07](/transcripts/vp/VP_Lec02?t=2397)]:
-\\[\text{Valuation Multiple} = \frac{\text{Perception}}{\text{Net Profit}}\\]
+
+$$
+Valuation Multiple = \frac{Perception}{Net Profit}
+$$
+
 
 Fundamentals (net profit and cash flows) represent 40%–50% of stock performance; the remaining 50%–60% is driven by perception and liquidity [[00:40:28–00:41:30](/transcripts/vp/VP_Lec02?t=2428)]. In the short term, perception can be artificially manipulated by controlling a stock's floating stock [[00:39:57–00:40:28](/transcripts/vp/VP_Lec02?t=2397)]. Under George Soros’s *Theory of Reflexivity*, rising prices enhance positive perception, driving price growth beyond fundamental reality until perception collapses back to fundamentals [[00:36:10–00:38:47](/transcripts/vp/VP_Lec02?t=2170)].
 
@@ -425,7 +433,7 @@ The primary rule for every legendary investor and trader is risk management: fir
 #### Filter 2: Hurdle Rate Assessment
 In 1959, after Midcontinent Tab Card Company became established, it required capital to purchase additional manufacturing machinery [[00:46:37–00:47:07](/transcripts/vp/VP_Lec02?t=2797)]. At this stage, the business demonstrated a 40% Net Profit Margin (PAT margin) and generated sufficient cash flow for new equipment to self-fund [[00:46:37](/transcripts/vp/VP_Lec02?t=2797)]. Buffett evaluated the company using legal pads to compare its quarterly operational metrics directly against competitors—evaluating volume growth, product segment speed, and relative valuation multiples [[00:47:07–00:47:46](/transcripts/vp/VP_Lec02?t=2827)]. 
 
-He established a mandatory hurdle rate of a 15% CAGR return from day one of his investment [[00:47:46–00:48:56](/transcripts/vp/VP_Lec02?t=2866)]. Given Midcontinent's 36% PAT margin and 70% volume/earnings growth rate available at a non-obscene entry valuation, achieving a 15% CAGR was certain [[00:47:46–00:48:56](/transcripts/vp/VP_Lec02?t=2866)]. Buffett invested \$60,000 of his personal net worth (representing 20% of his entire capital at the time) without relying on speculative future DCF projections, relying strictly on historical operational data [[00:48:56](/transcripts/vp/VP_Lec02?t=2936)]. Over an 18-year holding period, he invested an additional \$1 million into the business and generated a 33% CAGR [[00:48:56–00:49:27](/transcripts/vp/VP_Lec02?t=2936)].
+He established a mandatory hurdle rate of a 15% CAGR return from day one of his investment [[00:47:46–00:48:56](/transcripts/vp/VP_Lec02?t=2866)]. Given Midcontinent's 36% PAT margin and 70% volume/earnings growth rate available at a non-obscene entry valuation, achieving a 15% CAGR was certain [[00:47:46–00:48:56](/transcripts/vp/VP_Lec02?t=2866)]. Buffett invested $60,000 of his personal net worth (representing 20% of his entire capital at the time) without relying on speculative future DCF projections, relying strictly on historical operational data [[00:48:56](/transcripts/vp/VP_Lec02?t=2936)]. Over an 18-year holding period, he invested an additional$1 million into the business and generated a 33% CAGR [[00:48:56–00:49:27](/transcripts/vp/VP_Lec02?t=2936)].
 
 ### Portfolio Allocation & Activity Level
 Avoiding catastrophic risk aligns with Firestone's Law of Forecasting: "Chicken Little only has to be right once" [[00:49:27](/transcripts/vp/VP_Lec02?t=2967)]. Investors must structure portfolios around valuation comfort zones [[00:49:27–00:50:41](/transcripts/vp/VP_Lec02?t=2967)]:
@@ -433,12 +441,12 @@ Avoiding catastrophic risk aligns with Firestone's Law of Forecasting: "Chicken 
 * **Secondary Allocation:** Allocated to companies trading at reasonable valuation multiples [[00:50:04](/transcripts/vp/VP_Lec02?t=3004)].
 * **Minimal Allocation:** Restricted to high or obscene valuation stocks reserved strictly for experimental learning [[00:50:04](/transcripts/vp/VP_Lec02?t=3004)].
 
-While buy-and-hold is necessary for mega-cap funds like Berkshire Hathaway (managing over \$100 billion in cash), individual retail investors benefit from active portfolio rotation [[00:50:41–00:51:27](/transcripts/vp/VP_Lec02?t=3041)]. Between the 1970s and 1990s, Berkshire Hathaway bought and sold between 2,142 and 2,300 stocks, and Buffett traded over 400 stocks during his early partnership days [[00:50:41–00:51:27](/transcripts/vp/VP_Lec02?t=3041)].
+While buy-and-hold is necessary for mega-cap funds like Berkshire Hathaway (managing over $100 billion in cash), individual retail investors benefit from active portfolio rotation [[00:50:41–00:51:27](/transcripts/vp/VP_Lec02?t=3041)]. Between the 1970s and 1990s, Berkshire Hathaway bought and sold between 2,142 and 2,300 stocks, and Buffett traded over 400 stocks during his early partnership days [[00:50:41–00:51:27](/transcripts/vp/VP_Lec02?t=3041)].
 
 c) Examples & case studies
 * **Example:** Midcontinent Tab Card Company / IBM Antitrust Settlement (1950s)  [[00:45:02–00:49:27](/transcripts/vp/VP_Lec02?t=2702)] [Slide 15]
   * **Context:** Demonstrating Warren Buffett's two-filter investment framework and legal pad competitor analysis.
-  * **Data/details:** IBM divested tab card unit (50% profit margin); Midcontinent achieved 40% PAT margin, later stabilizing at 36% PAT margin with 70% growth; Buffett's hurdle rate = 15% CAGR; initial investment = \$60,000 (20% of net worth); total capital invested = \$1M+ over 18 years; realized return = 33% CAGR over 18 years [[00:45:32–00:49:27](/transcripts/vp/VP_Lec02?t=2732)].
+  * **Data/details:** IBM divested tab card unit (50% profit margin); Midcontinent achieved 40% PAT margin, later stabilizing at 36% PAT margin with 70% growth; Buffett's hurdle rate = 15% CAGR; initial investment =$60,000 (20% of net worth); total capital invested = $1M+ over 18 years; realized return = 33% CAGR over 18 years [[00:45:32–00:49:27](/transcripts/vp/VP_Lec02?t=2732)].
   * **Walkthrough:** Buffett rejected the initial startup deal due to capital loss risk (Filter 1). Once the business stabilized at a 36% PAT margin and 70% growth rate, he mapped historical legal-pad data against competitors, verified that his 15% CAGR hurdle rate was met (Filter 2), and committed 20% of his net worth without relying on long-term forecasts.
   * **Takeaway:** Eliminate capital loss risk first; demand a minimum 15% return hurdle rate grounded in historical operating margins and volume growth.
 
@@ -524,8 +532,8 @@ c) Examples & case studies
 
 * **Example:** Tesla Inc. US Market V-Stop Application  [[01:00:06](/transcripts/vp/VP_Lec02?t=3606)] [Slide 17]
   * **Context:** Applying V-Stop with a 2.5x multiplier to volatile US equities.
-  * **Data/details:** Entry in 2011 -> 1st exit in 2019; 2nd entry in Nov 2019 at \$21 -> 2nd exit at \$250 (10-bagger gain) [[01:00:06](/transcripts/vp/VP_Lec02?t=3606)].
-  * **Walkthrough:** Using a 2.5x ATR multiplier on Tesla's monthly chart captured a 10-bagger move from \$21 to \$250 while eliminating emotional stress and daily market monitoring.
+  * **Data/details:** Entry in 2011 -> 1st exit in 2019; 2nd entry in Nov 2019 at$21 -> 2nd exit at $250 (10-bagger gain) [[01:00:06](/transcripts/vp/VP_Lec02?t=3606)].
+  * **Walkthrough:** Using a 2.5x ATR multiplier on Tesla's monthly chart captured a 10-bagger move from$21 to \$250 while eliminating emotional stress and daily market monitoring.
   * **Takeaway:** Automated V-Stop alerts eliminate daily market tracking and emotional trading errors.
 
 * **Example:** Sequent Scientific & Supriya Lifesciences Risk Avoidance  [[01:00:50–01:01:29](/transcripts/vp/VP_Lec02?t=3650)] [Slide 18]
@@ -577,12 +585,16 @@ b) Detailed explanation
 
 ### The PEG Ratio Valuation Framework
 The Price/Earnings-to-Growth (PEG) ratio evaluates stock valuation relative to earnings growth rate [[01:02:52–01:03:58](/transcripts/vp/VP_Lec02?t=3772)] [Slide 19]:
-\\[\text{PEG Ratio} = \frac{\text{P/E Ratio}}{\text{Earnings Growth Rate (\%)}}\\]
+
+$$
+PEG Ratio = \frac{P/E Ratio}{Earnings Growth Rate (\%)}
+$$
+
 
 #### Valuation Categories Defined by PEG Ratio:
-1. **Low Valuation Zone (\\(\\text{PEG} < 1.0\\text{x}\\)):** The market expects zero growth. If actual earnings surprise positively, the stock experiences significant P/E re-rating [[01:03:58](/transcripts/vp/VP_Lec02?t=3838)].
-2. **Reasonable Valuation Zone (\\(\\text{PEG} = 1.0\\text{x}–1.5\\text{x}\\) to \\(1.75\\text{x}\\)):** Earnings growth matches or slightly trails the P/E multiple (e.g., 30x P/E with 30% growth yields a 1.0x PEG; 30x P/E with 20% growth yields a 1.5x PEG) [[01:02:52–01:03:58](/transcripts/vp/VP_Lec02?t=3772)].
-3. **High Valuation / Danger Zone (\\(\\text{PEG} > 1.5\\text{x}–2.0\\text{x}\\)):** The entry price incorporates excessive forward growth expectations, making the odds unfavorable [[01:02:19–01:02:52](/transcripts/vp/VP_Lec02?t=3739)].
+1. **Low Valuation Zone ($\text{PEG} < 1.0\text{x}$):** The market expects zero growth. If actual earnings surprise positively, the stock experiences significant P/E re-rating [[01:03:58](/transcripts/vp/VP_Lec02?t=3838)].
+2. **Reasonable Valuation Zone ($\text{PEG} = 1.0\text{x}–1.5\text{x}$ to $1.75\text{x}$):** Earnings growth matches or slightly trails the P/E multiple (e.g., 30x P/E with 30% growth yields a 1.0x PEG; 30x P/E with 20% growth yields a 1.5x PEG) [[01:02:52–01:03:58](/transcripts/vp/VP_Lec02?t=3772)].
+3. **High Valuation / Danger Zone ($\text{PEG} > 1.5\text{x}–2.0\text{x}$):** The entry price incorporates excessive forward growth expectations, making the odds unfavorable [[01:02:19–01:02:52](/transcripts/vp/VP_Lec02?t=3739)].
 
 ### Case Study: Infosys and Multiple Compression (1999–2009)
 Buying a high-quality, high-growth business at an obscene entry valuation can destroy investment returns through multiple compression [[01:03:58–01:07:42](/transcripts/vp/VP_Lec02?t=3838)] [Slide 20].
@@ -645,22 +657,34 @@ b) Detailed explanation
 The Price-to-Earnings (P/E) ratio measures the price paid for ₹1 of an asset's annual earnings [[01:08:58–01:09:37](/transcripts/vp/VP_Lec02?t=4138)] [Slide 21].
 
 P/E ratio can be calculated using two equivalent formulas [[01:08:58–01:09:37](/transcripts/vp/VP_Lec02?t=4138), [01:12:21](/transcripts/vp/VP_Lec02?t=4341)]:
-\\[\text{P/E Ratio} = \frac{\text{Stock Price}}{\text{Earnings Per Share (EPS)}} = \frac{\text{Market Capitalization}}{\text{Net Profit (PAT)}}\\]
+
+$$
+P/E Ratio = \frac{Stock Price}{Earnings Per Share (EPS)} = \frac{Market Capitalization}{Net Profit (PAT)}
+$$
+
 
 Reversing the P/E ratio yields the **Earning Yield** of an asset [[01:10:47–01:11:32](/transcripts/vp/VP_Lec02?t=4247)]:
-\\[\text{Earning Yield (\%)} = \frac{\text{Net Profit}}{\text{Market Capitalization}} \times 100 = \frac{1}{\text{P/E Ratio}} \times 100\\]
+
+$$
+Earning Yield (\%) = \frac{Net Profit}{Market Capitalization} × 100 = \frac{1}{P/E Ratio} × 100
+$$
+
 
 #### Earning Yield Real Estate and Fixed Income Analogy
 * **Real Estate Plot Example:** Speaker's father purchased a residential plot for ₹2 crore generating ₹2 lakh in annual rent [[01:09:37–01:10:16](/transcripts/vp/VP_Lec02?t=4177)].
-  * \\(\text{P/E Ratio} = \frac{\text{₹2,000,0000}}{\text{₹200,000}} = 100\text{x}\\) [[01:10:16](/transcripts/vp/VP_Lec02?t=4216)].
-  * \\(\text{Earning Yield} = \frac{\text{₹200,000}}{\text{₹2,000,0000}} \times 100 = 1\%\\) [[01:10:47–01:11:32](/transcripts/vp/VP_Lec02?t=4247)].
+  * $\text{P/E Ratio} = \frac{\text{₹2,000,0000}}{\text{₹200,000}} = 100\text{x}$ [[01:10:16](/transcripts/vp/VP_Lec02?t=4216)].
+  * $\text{Earning Yield} = \frac{\text{₹200,000}}{\text{₹2,000,0000}} \times 100 = 1%$ [[01:10:47–01:11:32](/transcripts/vp/VP_Lec02?t=4247)].
 * **Bank Fixed Deposit (FD) Example:** Investing ₹100 in a bank FD yielding ₹7 in annual interest [[01:11:32](/transcripts/vp/VP_Lec02?t=4292)].
-  * \\(\text{P/E Ratio} = \frac{100}{7} = 14.3\text{x}\\) [[01:11:32](/transcripts/vp/VP_Lec02?t=4292)].
-  * \\(\text{Earning Yield} = 7\%\\) [[01:11:32](/transcripts/vp/VP_Lec02?t=4292)].
+  * $\text{P/E Ratio} = \frac{100}{7} = 14.3\text{x}$ [[01:11:32](/transcripts/vp/VP_Lec02?t=4292)].
+  * $\text{Earning Yield} = 7%$ [[01:11:32](/transcripts/vp/VP_Lec02?t=4292)].
 
 ### Macro Liquidity and Interest Rate Drivers of Perception
 The P/E ratio formula can be conceptualized as [[01:11:32–01:12:21](/transcripts/vp/VP_Lec02?t=4292)]:
-\\[\text{P/E Ratio} = \frac{\text{Market Perception}}{\text{Net Profit}}\\]
+
+$$
+P/E Ratio = \frac{Market Perception}{Net Profit}
+$$
+
 
 While fundamental research focuses on Net Profit, Market Perception is governed by macro market liquidity and prevailing interest rates [[01:12:21–01:15:42](/transcripts/vp/VP_Lec02?t=4341)] [Slide 23]:
 1. **Market Liquidity Tracking:** Utilizing screening tools (such as Chartink liquidity indicators) to compare current market liquidity against 1-year prior levels [[01:12:54–01:13:56](/transcripts/vp/VP_Lec02?t=4374)]. When liquidity contracts, market valuation multiples compress across indices (e.g., Nifty P/E contracting to 20.7x and Junior Nifty P/E contracting from 39x to 24x) [[01:13:15–01:13:56](/transcripts/vp/VP_Lec02?t=4395)].
@@ -676,10 +700,10 @@ Historically, Relaxo Footwears traded as a sole listed monopoly in footwear [[01
 ### Practical P/E and Net Profit Calculation Exercises
 1. **IIFL Finance P/E Calculation:**
    * Market Capitalization = ₹17,512 crore; Trailing 12 Months (TTM) Net Profit = ₹1,358 crore [[01:18:25–01:19:21](/transcripts/vp/VP_Lec02?t=4705)].
-   * \\(\text{P/E Ratio} = \frac{\text{₹17,512}}{\text{₹1,358}} = 12.89\text{x} \approx 13\text{x}\\) [[01:18:25–01:19:21](/transcripts/vp/VP_Lec02?t=4705)].
+   * $\text{P/E Ratio} = \frac{\text{₹17,512}}{\text{₹1,358}} = 12.89\text{x} \approx 13\text{x}$ [[01:18:25–01:19:21](/transcripts/vp/VP_Lec02?t=4705)].
 2. **KEI Industries Net Profit Derivation:**
    * Market Capitalization = ₹14,189 crore; P/E Ratio = 31.2x [[01:19:21–01:19:45](/transcripts/vp/VP_Lec02?t=4761)].
-   * \\(\text{TTM Net Profit} = \frac{\text{₹14,189}}{31.2} = \text{₹454.7 crore} \approx \text{₹455 crore}\\) [[01:19:45–01:21:18](/transcripts/vp/VP_Lec02?t=4785)].
+   * $\text{TTM Net Profit} = \frac{\text{₹14,189}}{31.2} = \text{₹454.7 crore} \approx \text{₹455 crore}$ [[01:19:45–01:21:18](/transcripts/vp/VP_Lec02?t=4785)].
 * **Trailing 12 Months (TTM) Definition:** Summing earnings across the most recent 4 quarters (e.g., Q1, Q2, Q3 of FY23 plus Q4 of FY22) [[01:19:45–01:20:42](/transcripts/vp/VP_Lec02?t=4785)].
 
 c) Examples & case studies
@@ -864,7 +888,11 @@ b) Detailed explanation
 
 ### The Sage 1 CAGR Decomposition Framework
 Over long holding periods, a stock’s total price return (CAGR) is driven by two distinct engines [[01:35:40–01:37:02](/transcripts/vp/VP_Lec02?t=5740)] [Slide 29]:
-\\[\text{Total Share Price CAGR} \approx \text{Fundamental EPS Growth CAGR} + \text{P/E Multiple Change (Re-rating / De-rating)}\\]
+
+$$
+Total Share Price CAGR \approx Fundamental EPS Growth CAGR + P/E Multiple Change (Re-rating / De-rating)
+$$
+
 
 Attributed to Summit Sharma and the Sage 1 Investment Advisors team, this framework evaluates whether past multi-bagger returns were driven by fundamental business earnings expansion or by expanding valuation multiples [[01:35:40](/transcripts/vp/VP_Lec02?t=5740)]. 
 
@@ -945,9 +973,17 @@ To calculate the **Core P/E Ratio** of a business, analysts must adjust reported
 1. **Other Income (Treasury/FD Interest):** Cash sitting in bank fixed deposits generates interest income. Because FD interest is not generated by the company's core operations, it must be subtracted from reported PAT [[01:46:06–01:47:31](/transcripts/vp/VP_Lec02?t=6366)].
 2. **One-Off / Non-Recurring Items & Demerged Business Profits:** Non-recurring income (such as contract termination settlements) and profits from business units that have been demerged must be eliminated [[01:48:13–01:51:28](/transcripts/vp/VP_Lec02?t=6493)].
 
-\\[\text{Core Operating PAT} = \text{Reported PAT} - \text{Other Income (Tax Adjusted)} - \text{One-Off Non-Recurring Income} - \text{Demerged Business PAT}\\]
 
-\\[\text{Core P/E Ratio} = \frac{\text{Market Capitalization}}{\text{Core Operating PAT}}\\]
+$$
+Core Operating PAT = Reported PAT - Other Income (Tax Adjusted) - One-Off Non-Recurring Income - Demerged Business PAT
+$$
+
+
+
+$$
+Core P/E Ratio = \frac{Market Capitalization}{Core Operating PAT}
+$$
+
 
 ### Detailed Core P/E Case Studies
 
@@ -955,12 +991,32 @@ To calculate the **Core P/E Ratio** of a business, analysts must adjust reported
 * Reported Metrics: Market Capitalization = ₹6,000 crore; Reported Trailing PAT = ₹91 crore; Screener Headline P/E = **66.4x** [[01:45:25–01:46:06](/transcripts/vp/VP_Lec02?t=6325)].
 * Non-Core Item: Other Income (FD interest) = ₹34 crore [[01:46:06–01:46:46](/transcripts/vp/VP_Lec02?t=6366)].
 * **Method 1 (Gross Unadjusted Deduction):**
-  \\[\text{Core PAT} = \text{₹91 crore} - \text{₹34 crore} = \text{₹57 crore}\\]
-  \\[\text{Core P/E} = \frac{\text{₹6,000 crore}}{\text{₹57 crore}} = \mathbf{105.2x}\\]
+  
+$$
+Core PAT = ₹91 crore - ₹34 crore = ₹57 crore
+$$
+
+  
+$$
+Core P/E = \frac{₹6,000 crore}{₹57 crore} = \mathbf{105.2x}
+$$
+
 * **Method 2 (Tax-Adjusted Deduction at 25% Tax Rate):**
-  \\[\text{Tax-Adjusted Other Income} = \text{₹34 crore} \times (1 - 0.25) = \text{₹25.5 crore}\\]
-  \\[\text{Core PAT} = \text{₹91 crore} - \text{₹25.5 crore} = \text{₹65.5 crore} \approx \text{₹66 crore}\\]
-  \\[\text{Core P/E} = \frac{\text{₹6,000 crore}}{\text{₹66 crore}} = \mathbf{90.9x \ (>\!90x \ P/E)}\\]
+  
+$$
+Tax-Adjusted Other Income = ₹34 crore × (1 - 0.25) = ₹25.5 crore
+$$
+
+  
+$$
+Core PAT = ₹91 crore - ₹25.5 crore = ₹65.5 crore \approx ₹66 crore
+$$
+
+  
+$$
+Core P/E = \frac{₹6,000 crore}{₹66 crore} = \mathbf{90.9x \ (>\!90x \ P/E)}
+$$
+
 
 Adjusting for non-core treasury interest reveals MapmyIndia's core operating business trades above **90x P/E**, rather than the reported 66.4x [[01:47:31–01:48:13](/transcripts/vp/VP_Lec02?t=6451)].
 
@@ -970,9 +1026,17 @@ Adjusting for non-core treasury interest reveals MapmyIndia's core operating bus
   1. **Non-Recurring Termination Income:** Aarti Industries received a ₹631 crore one-off contract termination fee (recorded as ₹631 crore non-recurring income across two quarters, creating an artificial ₹966 crore quarterly EBITDA with 41% margins) [[01:48:45–01:50:07](/transcripts/vp/VP_Lec02?t=6525)].
   2. **Demerged Pharma Business Elimination:** The company demerged its pharma division, which previously contributed ₹100 crore in annual PAT (₹150 crore EBITDA) [[01:48:45](/transcripts/vp/VP_Lec02?t=6525), [01:51:28](/transcripts/vp/VP_Lec02?t=6688)].
 * **Core Operating PAT Calculation:**
-  \\[\text{Core TTM PAT Run-Rate} = \text{₹604 crore} - \text{₹100 crore (Pharma PAT)} = \text{₹504 crore} \approx \mathbf{\text{₹500 crore}}\\]
+  
+$$
+Core TTM PAT Run-Rate = ₹604 crore - ₹100 crore (Pharma PAT) = ₹504 crore \approx \mathbf{₹500 crore}
+$$
+
 * **True Core P/E Calculation:**
-  \\[\text{True Core P/E} = \frac{\text{₹19,059 crore}}{\text{₹504 crore}} = \mathbf{37.8x \ P/E}\\]
+  
+$$
+True Core P/E = \frac{₹19,059 crore}{₹504 crore} = \mathbf{37.8x \ P/E}
+$$
+
 
 By stripping out ₹631 crore in one-off termination income and ₹100 crore from the demerged pharma division, Aarti Industries' true operating P/E rises to **37.8x**, revealing it is not cheap [[01:51:28–01:52:17](/transcripts/vp/VP_Lec02?t=6688)].
 
@@ -1036,7 +1100,11 @@ b) Detailed explanation
 
 ### Forward PEG Ratio Calculation
 The PEG ratio can be calculated on a trailing basis or a forward basis using institutional analyst consensus estimates or independent financial models [[01:54:52–01:58:28](/transcripts/vp/VP_Lec02?t=6892)] [Slide 34]:
-\\[\text{Forward PEG Ratio} = \frac{\text{Current Stock P/E Ratio}}{\text{Projected Forward EPS Growth Rate (\%)}}\\]
+
+$$
+Forward PEG Ratio = \frac{Current Stock P/E Ratio}{Projected Forward EPS Growth Rate (\%)}
+$$
+
 
 #### PEG Valuation Benchmarks:
 * **PEG > 1.5x–2.0x:** Stock is really expensive; odds turn unfavorable [[01:55:29–01:56:19](/transcripts/vp/VP_Lec02?t=6929)].
@@ -1046,10 +1114,18 @@ The PEG ratio can be calculated on a trailing basis or a forward basis using ins
 #### KEI Industries Trailing vs. Forward PEG Analysis
 * **Current Metrics:** Stock P/E = **31x**; 3-Year Trailing PAT Growth = **27%** [[01:56:56](/transcripts/vp/VP_Lec02?t=7016)].
 * **Trailing PEG Calculation:**
-  \\[\text{Trailing PEG} = \frac{31}{27} = \mathbf{1.14x} \ \approx \mathbf{1.1x}\\]
+  
+$$
+Trailing PEG = \frac{31}{27} = \mathbf{1.14x} \ \approx \mathbf{1.1x}
+$$
+
 * **Forward Analyst Estimate (Equirus/Capital Research Report):** Forward FY24 EPS growth projected at 32% (aggressive estimate yielding a 1.0x forward PEG) [[01:57:41–01:58:28](/transcripts/vp/VP_Lec02?t=7061)].
 * **Conservative Forward Adjustment:** Assuming a conservative 20% forward EPS growth rate:
-  \\[\text{Forward PEG} = \frac{31}{20} = \mathbf{1.55x} \ \approx \mathbf{1.5x}\\]
+  
+$$
+Forward PEG = \frac{31}{20} = \mathbf{1.55x} \ \approx \mathbf{1.5x}
+$$
+
 
 Even under conservative assumptions, KEI's forward PEG of 1.5x remains reasonable [[01:58:28–01:59:18](/transcripts/vp/VP_Lec02?t=7108)]. If the stock P/E expands to 40x–50x (pushing PEG above 2.0x), it enters the overvalued zone where exits should be considered [[01:59:18–02:00:33](/transcripts/vp/VP_Lec02?t=7158)].
 

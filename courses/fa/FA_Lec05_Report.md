@@ -26,7 +26,7 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 
 * **Nifty Index Valuation & Trend Criterion:** Nifty 50 P/E stands at 21.9x TTM earnings with slowing growth; breaking its higher-high pattern established in March 2023 signals a near-term trend break [[0:05:21–0:05:45](/transcripts/fa/FA_Lec05?t=321)]. A pull-back to 22,000–22,200 brings P/E below 20x TTM (forward P/E ~19–19.5x), creating a favorable risk-reward threshold for lump-sum index top-ups [[0:06:12–0:07:27](/transcripts/fa/FA_Lec05?t=372)].
 * **Corporate ROE Benchmark vs. Cost of Capital:** Average Indian corporate ROE across the Nifty 500 index is 14% [[0:15:41](/transcripts/fa/FA_Lec05?t=941)]. Against a baseline business cost of capital in India assumed at 10% [[0:14:00](/transcripts/fa/FA_Lec05?t=840)], top-tier capital compounders generate 25%+ ROE (e.g., Thangamayil Jewellery delivering 24.9% ROE with PAT of ₹123 crore on equity of ₹493 crore in FY24) [[0:11:51–0:14:00](/transcripts/fa/FA_Lec05?t=711)].
-* **3-Factor DuPont ROE Breakdown:** Return on Equity decomposes into three operating levers: \\(\text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage} = \left(\frac{\text{Net Profit}}{\text{Sales}}\right) \times \left(\frac{\text{Sales}}{\text{Assets}}\right) \times \left(\frac{\text{Assets}}{\text{Equity}}\right)\\) [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)]. Improving working capital days (e.g., trade receivables dropping from 90 days to 30 days) directly accelerates asset turnover and improves ROE without taking on financial leverage [[0:24:32–0:27:20](/transcripts/fa/FA_Lec05?t=1472)].
+* **3-Factor DuPont ROE Breakdown:** Return on Equity decomposes into three operating levers: $\text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage} = \left$ (\frac{\text{Net Profit}}{\text{Sales}}\right) [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)]. Improving working capital days (e.g., trade receivables dropping from 90 days to 30 days) directly accelerates asset turnover and improves ROE without taking on financial leverage [[0:24:32–0:27:20](/transcripts/fa/FA_Lec05?t=1472)].
 * **Core Fundamental Checklist Thresholds:** Screen for businesses maintaining both Return on Capital Employed (ROCE) and Return on Equity (ROE) strictly above 15% (or showing clear structural triggers to cross 15%) [[1:36:42](/transcripts/fa/FA_Lec05?t=5802)], a Debt-to-Equity (D/E) ratio below 1.0x [[1:38:56](/transcripts/fa/FA_Lec05?t=5936)], and a Cash Flow from Operations to PAT (CFO/PAT) ratio exceeding 80% to ensure cash conversion quality [[2:02:40–2:03:14](/transcripts/fa/FA_Lec05?t=7360)].
 * **Technical Trend & Momentum Confirmation Rules:** Confirm Stage 2 uptrends when a 10-week EMA crosses above a 30-week EMA (Golden Crossover) alongside weekly RSI breaking and sustaining above 50 [[2:23:13–2:27:27](/transcripts/fa/FA_Lec05?t=8593), [2:31:10–2:33:37](/transcripts/fa/FA_Lec05?t=9070)]. Conversely, a multi-year compounder whose monthly RSI falls below 50 signals a multi-year structural top and severe trend breakdown (e.g., Asian Paints falling below 50 monthly RSI in June 2022) [[2:23:13–2:23:59](/transcripts/fa/FA_Lec05?t=8593)].
 * **Forensic Management Evaluation & AI Search Rules:** Audit management integrity using targeted AI search queries ("criminal cases", "fraud", "tax evasion", "SEBI penalties", "audit report omissions") [[1:43:52–1:47:22](/transcripts/fa/FA_Lec05?t=6232)]. Avoid companies where 5-year cumulative CFO to PAT is negative (e.g., Neogen Chemicals PAT of ₹212 crore vs. CFO of -₹13 crore over 5 years) [[1:57:50–2:00:25](/transcripts/fa/FA_Lec05?t=7070)], or where promoters aggressively offload equity during business headwinds (e.g., MTAR Technologies promoter stake falling from 50% to 36%) [[1:48:51–1:51:11](/transcripts/fa/FA_Lec05?t=6531)].
@@ -43,10 +43,10 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 | **1** | Webinar Introduction & Market Overview | [[0:00:03–0:08:07](/transcripts/fa/FA_Lec05?t=3)] | [Slide 1: Title Slide / Intro - image not legible — content taken from transcript] | Nifty 50 Dow Theory trend analysis, lower highs break, Head & Shoulders pattern breakdown risk, 21.9x TTM P/E, 22,000–22,200 index buying level (<20x P/E), adjusting portfolio expectations | Nifty 50, Nifty 500 | [TVGP: Valuation] |
 | **2** | Return on Equity (ROE) Basics & Capital Structure | [[0:08:07–0:14:15](/transcripts/fa/FA_Lec05?t=487)] | [Slide 2: What is ROE?], [Slide 3: Samosa Shop Example] | Definition of ROE (PAT ÷ Total Equity), Net Worth components (Equity Share Capital + Reserves & Surplus), Siddhant's Samosa shop illustration (₹100 equity + ₹100 debt = ₹200 capital; ₹50 profit = 50% ROE vs 25% ROCE), 10% cost of capital baseline | Siddhant's Samosa Shop | [TVGP: Valuation] |
 | **3** | Live ROE Calculations & Industry Benchmarks | [[0:14:15–0:21:20](/transcripts/fa/FA_Lec05?t=855)] | [Slide 4: Examples of ROE] | Calculating live ROE for Thangamayil Jewellery (24.9% ROE) vs. Kalyan Jewellers (14.2% ROE), Nifty 500 average corporate ROE benchmark (14%), high inventory intensity causing lower typical ROE in jewelry retail | Thangamayil Jewellery, Kalyan Jewellers, Nifty 500 | [TVGP: Valuation] |
-| **4** | 3-Factor DuPont Analysis & Levers of ROE | [[0:21:20–0:37:29](/transcripts/fa/FA_Lec05?t=1280)] | [Slide 5: ROE DuPont Breakdown], [Slide 6: How to Improve ROE] | DuPont formula (\\(\text{Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}\\)), impact of working capital receivables drop (90 to 30 days), fixed asset turns, operating leverage, corporate tax cut impact, sector tailwinds vs. headwinds in Aarti Industries | Aarti Industries, Hotel Industry, Power Grid | [TVGP: Growth] |
+| **4** | 3-Factor DuPont Analysis & Levers of ROE | [[0:21:20–0:37:29](/transcripts/fa/FA_Lec05?t=1280)] | [Slide 5: ROE DuPont Breakdown], [Slide 6: How to Improve ROE] | DuPont formula ($\text{Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}$), impact of working capital receivables drop (90 to 30 days), fixed asset turns, operating leverage, corporate tax cut impact, sector tailwinds vs. headwinds in Aarti Industries | Aarti Industries, Hotel Industry, Power Grid | [TVGP: Growth] |
 | **5** | Equity Dilution, QIPs & Promoter Capital Allocation | [[0:37:29–1:00:45](/transcripts/fa/FA_Lec05?t=2249)] | [Slide 7: Homework / Examples] | Impact of fresh QIP share issuance on equity base and ROE dilution, promoter selling vs. QIPs, peak valuation QIPs (IndiaMART at 105x P/E) vs. buybacks, transmission sector demand tailwinds | PI Industries, IndiaMART, Varun Beverages, Deepak Nitrite, R Industries [? R R Kabel / Aarti Industries], Neuland Labs, Laurus Labs, Time Technoplast, Arman Financial Services | [TVGP: Promoter] |
 | **6** | Homework Case Studies, IGI Example & Break | [[1:00:45–1:23:42](/transcripts/fa/FA_Lec05?t=3645)] | [Slide 8: SRF Homework], [Slide 9: Jewellery Homework], [Slide 10: Bharat Shah Quote] | SRF ROE segment decline analysis, jewelry peer comparison (Thangamayil, Senco, Titan, PNG Gadgil, Kalyan), Bharat Shah quote on ROCE, 15-minute webinar break, International Gemological Institute (IGI) low-asset high-margin case study (50% PAT margin, 6x asset turn) | SRF, Thangamayil Jewellery, Senco Gold, Titan, PNG Gadgil, Kalyan Jewellers, International Gemological Institute (IGI) | [TVGP: Valuation] |
-| **7** | ROCE Mechanics, DuPont & Moat Classification | [[1:23:42–1:33:19](/transcripts/fa/FA_Lec05?t=5022)] | [Slide 11: What is ROCE?], [Slide 12: ROCE Formula & DuPont] | ROCE formula (\\(\text{EBIT} \div \text{Capital Employed}\\)), 2-factor ROCE DuPont (\\(\text{EBIT Margin} \times \text{Capital Turnover}\\)), Balance sheet as greater reality than P&L, Eicher Motors Royal Enfield transformation, Borosil Renewables & Waaree Energies anti-dumping policy reliance (transitory vs. permanent moats) | Eicher Motors, Borosil Renewables, Waaree Energies | [TVGP: Theme] |
+| **7** | ROCE Mechanics, DuPont & Moat Classification | [[1:23:42–1:33:19](/transcripts/fa/FA_Lec05?t=5022)] | [Slide 11: What is ROCE?], [Slide 12: ROCE Formula & DuPont] | ROCE formula ($\text{EBIT} \div \text{Capital Employed}$), 2-factor ROCE DuPont ($\text{EBIT Margin} \times \text{Capital Turnover}$), Balance sheet as greater reality than P&L, Eicher Motors Royal Enfield transformation, Borosil Renewables & Waaree Energies anti-dumping policy reliance (transitory vs. permanent moats) | Eicher Motors, Borosil Renewables, Waaree Energies | [TVGP: Theme] |
 | **8** | The Checklist Framework & Fundamentals Checklist | [[1:33:19–1:43:52](/transcripts/fa/FA_Lec05?t=5599)] | [Slide 13: Why Professionals Use Checklists], [Slide 14: Fundamentals Checklist] | Atul Gawande's Checklist Manifesto (aviation, surgery, Boeing 737 MAX failures), Fundamentals Checklist focus areas: Profitability (ROE/ROCE >15%), Operating Dynamics (operating leverage, base effect), Cash Flow & Debt (CFO/PAT, D/E <1.0x), Growth Potential & Variant Perception | Boeing, RateGain Travel Technologies, Entero Healthcare | [TVGP: Growth] |
 | **9** | Management Evaluation Checklist & Forensic AI Auditing | [[1:43:52–2:09:21](/transcripts/fa/FA_Lec05?t=6232)] | [Slide 15: Management Checklist] | 6 focus areas: Negative news / AI forensic prompts (Chat GPT / Perplexity queries for criminal cases, fraud, SEBI orders), Cash Flow Generation (CFO/PAT >80%), Community Insights (ValuePickr), Financial Discipline, Dividend Payouts, Related Party Transactions (RPTs / complex structures) | Rajesh Exports, PC Jeweller, Varun Beverages, Vakrangee, MTAR Technologies, Shivalik Bimetal, InterGlobe Aviation (Indigo), Waaree Technologies, Neogen Chemicals, Avanti Feeds, Just Dial, Aarti Industries | [TVGP: Promoter] |
 | **10** | Technicals Checklist: Trends, EMAs, RSI & Price Volume | [[2:09:21–2:41:54](/transcripts/fa/FA_Lec05?t=7761)] | [Slide 16: Technicals Checklist] | Technicals focus areas: Trend (uptrend, downtrend, sideways), Relative Strength (26-week green/red vs Nifty 50), RSI (>50 trend confirmation, monthly RSI <50 compounder top indicator), Moving Averages (10-week & 30-week EMA Golden Crossover), Price & Sector action (overhead supply vs. blue sky) | Arman Financial Services, Time Technoplast, CarTrade Tech, Deepak Nitrite, SRF, HDFC Bank, Kotak Mahindra Bank, Zomato, PB Fintech, Alkyl Amines, Asian Paints, Wellspun Enterprises, AGI Greenpac, Aarti Pharmalabs, Jubilant FoodWorks, Max Estates, Greaves Cotton, Balaji Amines | [TVGP: Theme] |
@@ -106,7 +106,7 @@ Stage 14: SOIC Curriculum Roadmap & Closing Remarks [[3:13:03–3:21:58](/transc
 
 ### 5. GENERATION PLAN
 
-* **Batch 1 = Stages 1–4 (~45 minutes, [[0:00:03–0:37:29](/transcripts/fa/FA_Lec05?t=3)]):** Macro index valuation (Nifty 50), Return on Equity (ROE) fundamentals, Samosa shop capital structure illustration, live corporate ROE calculations (Thangamayil vs. Kalyan Jewellers), and the 3-Factor DuPont ROE breakdown (\\(\text{Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}\\)).
+* **Batch 1 = Stages 1–4 (~45 minutes, [[0:00:03–0:37:29](/transcripts/fa/FA_Lec05?t=3)]):** Macro index valuation (Nifty 50), Return on Equity (ROE) fundamentals, Samosa shop capital structure illustration, live corporate ROE calculations (Thangamayil vs. Kalyan Jewellers), and the 3-Factor DuPont ROE breakdown ($\text{Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}$).
 * **Batch 2 = Stages 5–7 (~46 minutes, [[0:37:29–1:33:19](/transcripts/fa/FA_Lec05?t=2249)]):** QIP equity dilution vs. share buybacks, promoter capital allocation analysis, homework case studies (SRF, jewelry sector), IGI high-margin asset-light case study, Return on Capital Employed (ROCE) formula/DuPont decomposition, and transitory vs. permanent moat classification.
 * **Batch 3 = Stages 8–10 (~48 minutes, [[1:33:19–2:41:54](/transcripts/fa/FA_Lec05?t=5599)]):** Atul Gawande checklist manifesto framework, Fundamentals Checklist (profitability, operating dynamics, cash flow hygiene, growth potential), Management Evaluation Checklist & AI forensic auditing, and Technicals Checklist (primary trend, relative strength vs. Nifty 50, RSI >50 rule, 10W/30W EMA Golden Crossover, price-volume action).
 * **Batch 4 = Stages 11–14 (~40 minutes, [[2:41:54–3:21:58](/transcripts/fa/FA_Lec05?t=9714)]):** Group moves & thematic momentum drivers, Valuations Checklist (PEG ratio <1.5x, peer comparison), live case studies (PG Electroplast PLI thesis, IIFL Securities broker transition), multi-year historical valuation modeling (Alkyl Amines 2018 capex re-rating), SOIC curriculum roadmap, and closing remarks.
@@ -147,8 +147,8 @@ Broader market character shifts typically occur every 1 to 1.5 years [[0:06:12](
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nifty 50 P/E Multiple (TTM)** | \\(\text{Index Price} \div \text{Trailing Twelve Months Earnings}\\) | Current: 21.9x; Opportunity threshold: <20.0x | Near-term trend broken with slowing earnings growth; <20x P/E (at 22,000–22,200 index level) provides favorable risk-reward | [[0:05:21–0:07:27](/transcripts/fa/FA_Lec05?t=321)] |
-| **Nifty 50 Forward P/E Multiple** | \\(\text{Index Price} \div \text{Estimated Forward Earnings}\\) | Speaker's view: 19.0x–19.5x at 22,000–22,200 level | Represents attractive entry threshold for 3–5 year core portfolio compounding | [[0:07:27](/transcripts/fa/FA_Lec05?t=447)] |
+| **Nifty 50 P/E Multiple (TTM)** | $\text{Index Price} \div \text{Trailing Twelve Months Earnings}$ | Current: 21.9x; Opportunity threshold: <20.0x | Near-term trend broken with slowing earnings growth; <20x P/E (at 22,000–22,200 index level) provides favorable risk-reward | [[0:05:21–0:07:27](/transcripts/fa/FA_Lec05?t=321)] |
+| **Nifty 50 Forward P/E Multiple** | $\text{Index Price} \div \text{Estimated Forward Earnings}$ | Speaker's view: 19.0x–19.5x at 22,000–22,200 level | Represents attractive entry threshold for 3–5 year core portfolio compounding | [[0:07:27](/transcripts/fa/FA_Lec05?t=447)] |
 | **Satellite Position Sizing** | High-risk speculative allocation percentage per stock | 2%–3% per position | High-risk bets must be tempered or reduced when index character shifts | [[0:06:51](/transcripts/fa/FA_Lec05?t=411)] |
 
 #### e) Visual aid
@@ -191,7 +191,11 @@ Prior to building a fundamental stock selection checklist, investors must master
 
 ##### Defining Return on Equity (ROE)
 Return on Equity measures the net return an owner or shareholder generates on the equity capital invested in a business [[0:08:58–0:09:30](/transcripts/fa/FA_Lec05?t=538)]. It signifies how efficiently management deploys capital provided by owners to generate profits [[0:09:30](/transcripts/fa/FA_Lec05?t=570), [0:11:15](/transcripts/fa/FA_Lec05?t=675)]. On financial screeners and balance sheets, total Shareholders' Equity (also termed Net Worth or Owners' Equity) consists of two main line items [[0:09:30](/transcripts/fa/FA_Lec05?t=570), [0:11:51–0:12:25](/transcripts/fa/FA_Lec05?t=711)]:
-\\[\text{Shareholders' Equity} = \text{Equity Share Capital} + \text{Reserves \& Surplus}\\]
+
+$$
+Shareholders' Equity = Equity Share Capital + Reserves \& Surplus
+$$
+
 
 ##### Capital Structure: Equity vs. Borrowed Debt
 To understand ROE versus ROCE, consider a business capital structure [[0:09:30–0:10:50](/transcripts/fa/FA_Lec05?t=570)]. When a business funds its assets using both owner's equity and borrowed debt:
@@ -200,14 +204,18 @@ To understand ROE versus ROCE, consider a business capital structure [[0:09:30�
 
 ##### Formula and Live Calculation Walkthrough
 The mathematical expression for Return on Equity is [[0:11:15](/transcripts/fa/FA_Lec05?t=675)]:
-\\[\text{ROE} = \frac{\text{Profit After Tax (PAT)}}{\text{Shareholders' Equity}} = \frac{\text{PAT}}{\text{Equity Share Capital} + \text{Reserves \& Surplus}}\\]
+
+$$
+ROE = \frac{Profit After Tax (PAT)}{Shareholders' Equity} = \frac{PAT}{Equity Share Capital + Reserves \& Surplus}
+$$
+
 
 Calculating live ROE for Thangamayil Jewellery Limited (FY24 figures) [[0:11:15–0:13:06](/transcripts/fa/FA_Lec05?t=675)]:
 1. **Profit After Tax (PAT):** ₹123 crore [[0:11:51](/transcripts/fa/FA_Lec05?t=711)].
 2. **Equity Share Capital:** ₹27 crore [[0:11:51–0:12:25](/transcripts/fa/FA_Lec05?t=711)].
 3. **Reserves & Surplus:** ₹466 crore [[0:11:51–0:12:25](/transcripts/fa/FA_Lec05?t=711)].
-4. **Total Shareholders' Equity:** \\(\text{₹27 crore} + \text{₹466 crore} = \text{₹493 crore}\\) [[0:12:25](/transcripts/fa/FA_Lec05?t=745)].
-5. **Return on Equity (ROE):** \\(\frac{\text{₹123 crore}}{\text{₹493 crore}} = 24.95\%\\) (rounded to \\(25\%\\)) [[0:13:06](/transcripts/fa/FA_Lec05?t=786)].
+4. **Total Shareholders' Equity:** $\text{₹27 crore} + \text{₹466 crore} = \text{₹493 crore}$ [[0:12:25](/transcripts/fa/FA_Lec05?t=745)].
+5. **Return on Equity (ROE):** $\frac{\text{₹123 crore}}{\text{₹493 crore}} = 24.95%$ (rounded to 25%) [[0:13:06](/transcripts/fa/FA_Lec05?t=786)].
 
 ##### Cost of Capital Benchmark
 Speaker's view: In India, a standard rule of thumb for the baseline cost of capital (or commercial business loan interest rate) is approximately 10% [[0:14:00](/transcripts/fa/FA_Lec05?t=840)]. Evaluating a business's ROE against this 10% benchmark reveals its economic value creation; generating a 25% ROE represents outstanding capital compounding well above the baseline cost of capital [[0:14:00](/transcripts/fa/FA_Lec05?t=840)].
@@ -217,7 +225,7 @@ Speaker's view: In India, a standard rule of thumb for the baseline cost of capi
 * **Example:** Siddhant's Samosa Shop (Hypothetical Scenario)  [[0:09:30–0:10:50](/transcripts/fa/FA_Lec05?t=570)] [Slide 3: Samosa Shop Example]
   * **Context:** Illustrating the conceptual difference between Return on Equity (ROE) and Return on Capital Employed (ROCE) using debt financing.
   * **Data/details:** Owner's equity: ₹100; Borrowed debt (from father): ₹100; Total capital employed: ₹200; Year 1 Net Profit (PAT): ₹50.
-  * **Walkthrough:** Siddhant opens a samosa shop by investing ₹100 of his own equity and borrowing ₹100 from his father, deploying ₹200 total capital. In Year 1, the shop generates ₹50 net profit. Calculating ROE: \\(\frac{\text{₹50 profit}}{\text{₹100 owner equity}} = 50\%\\) [[0:10:03](/transcripts/fa/FA_Lec05?t=603)]. Calculating ROCE: \\(\frac{\text{₹50 profit}}{\text{₹200 total capital}} = 25\%\\) [[0:10:03–0:10:50](/transcripts/fa/FA_Lec05?t=603)].
+  * **Walkthrough:** Siddhant opens a samosa shop by investing ₹100 of his own equity and borrowing ₹100 from his father, deploying ₹200 total capital. In Year 1, the shop generates ₹50 net profit. Calculating ROE: $\frac{\text{₹50 profit}}{\text{₹100 owner equity}} = 50%$ [[0:10:03](/transcripts/fa/FA_Lec05?t=603)]. Calculating ROCE: $\frac{\text{₹50 profit}}{\text{₹200 total capital}} = 25%$ [[0:10:03–0:10:50](/transcripts/fa/FA_Lec05?t=603)].
   * **Takeaway:** ROE isolates the return generated specifically on the owner's capital (50%), whereas ROCE evaluates operational productivity across all capital deployed including debt (25%) [[0:10:03–0:10:50](/transcripts/fa/FA_Lec05?t=603)].
 
 * **Example:** Thangamayil Jewellery Limited  [[0:11:15–0:14:00](/transcripts/fa/FA_Lec05?t=675)] [Slide 2: What is ROE? / Slide 4: Examples of ROE]
@@ -230,9 +238,9 @@ Speaker's view: In India, a standard rule of thumb for the baseline cost of capi
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Return on Equity (ROE)** | \\(\text{PAT} \div \text{Shareholders' Equity}\\) | >15% (India corporate avg: 14%; Cost of capital: ~10%) | Measures annual return generated on owners' net invested capital | [[0:11:15–0:14:00](/transcripts/fa/FA_Lec05?t=675)] |
-| **Shareholders' Equity (Net Worth)** | \\(\text{Equity Share Capital} + \text{Reserves \& Surplus}\\) | N/A | Represents total owner fund value recorded on the balance sheet | [[0:11:15–0:12:25](/transcripts/fa/FA_Lec05?t=675)] |
-| **Return on Capital Employed (ROCE)** | \\(\text{EBIT} \div \text{Total Capital Employed (Equity + Debt)}\\) | >15% | Evaluates total business operational efficiency regardless of debt vs equity financing | [[0:10:03–0:10:50](/transcripts/fa/FA_Lec05?t=603)] |
+| **Return on Equity (ROE)** | $\text{PAT} \div \text{Shareholders' Equity}$ | >15% (India corporate avg: 14%; Cost of capital: ~10%) | Measures annual return generated on owners' net invested capital | [[0:11:15–0:14:00](/transcripts/fa/FA_Lec05?t=675)] |
+| **Shareholders' Equity (Net Worth)** | $\text{Equity Share Capital} + \text{Reserves \& Surplus}$ | N/A | Represents total owner fund value recorded on the balance sheet | [[0:11:15–0:12:25](/transcripts/fa/FA_Lec05?t=675)] |
+| **Return on Capital Employed (ROCE)** | $\text{EBIT} \div \text{Total Capital Employed$ (Equity + Debt) | >15% | Evaluates total business operational efficiency regardless of debt vs equity financing | [[0:10:03–0:10:50](/transcripts/fa/FA_Lec05?t=603)] |
 | **India Baseline Cost of Capital** | Rule of thumb benchmark for business loans/capital | 10% | Minimum hurdle rate a business must comfortably exceed to create economic value | [[0:14:00](/transcripts/fa/FA_Lec05?t=840)] |
 
 #### e) Visual aid
@@ -243,8 +251,8 @@ Speaker's view: In India, a standard rule of thumb for the baseline cost of capi
 | **Borrowed Debt Capital** | ₹100 (Father's loan) | Not factored in ROE denominator |
 | **Total Capital Employed** | **₹200** | Total Assets / Net Capital Employed |
 | **Net Profit (PAT)** | **₹50** | **₹123 crore** |
-| **Return on Equity (ROE)** | **50%** (\\(\frac{50}{100}\\)) | **24.9% / ~25%** (\\(\frac{123}{493}\\)) |
-| **Return on Capital Employed (ROCE)** | **25%** (\\(\frac{50}{200}\\)) | Calculated on EBIT ÷ Total Capital |
+| **Return on Equity (ROE)** | **50%** ($\frac{50}{100}$) | **24.9% / ~25%** ($\frac{123}{493}$) |
+| **Return on Capital Employed (ROCE)** | **25%** ($\frac{50}{200}$) | Calculated on EBIT ÷ Total Capital |
 
 #### f) Speaker's cautions & common mistakes
 * **Omitting Reserves from Equity:** Calculating ROE by dividing PAT solely by Equity Share Capital while ignoring Reserves & Surplus, which drastically understates the true equity base and overstates ROE [[0:11:51–0:12:25](/transcripts/fa/FA_Lec05?t=711)].
@@ -270,8 +278,8 @@ Across the Nifty 500 index (representing India's top 500 listed companies), the 
 ##### Sectoral Working Capital Dynamics: Jewelry Retail
 Evaluating Kalyan Jewellers India Limited provides insight into retail capital intensity [[0:15:41–0:18:55](/transcripts/fa/FA_Lec05?t=941)]:
 * **Kalyan Jewellers FY24 Figures:** PAT of ₹596 crore; Reserves & Surplus of ₹3,159 crore; Equity Share Capital of ₹1,030 crore [[0:18:10–0:18:55](/transcripts/fa/FA_Lec05?t=1090)].
-* **Shareholders' Equity Calculation:** \\(\text{₹3,159 crore} + \text{₹1,030 crore} = \text{₹4,189 crore}\\) [[0:18:10–0:18:55](/transcripts/fa/FA_Lec05?t=1090)].
-* **ROE Calculation:** \\(\frac{\text{₹596 crore}}{\text{₹4,189 crore}} = 14.22\%\\) [[0:18:55](/transcripts/fa/FA_Lec05?t=1135)].
+* **Shareholders' Equity Calculation:** $\text{₹3,159 crore} + \text{₹1,030 crore} = \text{₹4,189 crore}$ [[0:18:10–0:18:55](/transcripts/fa/FA_Lec05?t=1090)].
+* **ROE Calculation:** $\frac{\text{₹596 crore}}{\text{₹4,189 crore}} = 14.22%$ [[0:18:55](/transcripts/fa/FA_Lec05?t=1135)].
 
 Jewelry retail inherently operates with lower baseline ROEs (typically 13%–15%) due to high inventory intensity [[0:15:41–0:16:28](/transcripts/fa/FA_Lec05?t=941)]. Jewelry stores require extensive physical gold inventory display. As gold prices rise, the monetary capital blocked in holding the same physical inventory increases, inflating working capital requirements per store [[0:16:51–0:17:30](/transcripts/fa/FA_Lec05?t=1011)].
 
@@ -306,7 +314,7 @@ When a company enters a severe fundamental decline where its ROE halves (sufferi
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nifty 500 Average Corporate ROE** | \\(\text{Aggregate PAT} \div \text{Aggregate Equity of Nifty 500}\\) | 14% | National baseline corporate hurdle rate for Indian equities | [[0:15:41](/transcripts/fa/FA_Lec05?t=941)] |
+| **Nifty 500 Average Corporate ROE** | $\text{Aggregate PAT} \div \text{Aggregate Equity of Nifty 500}$ | 14% | National baseline corporate hurdle rate for Indian equities | [[0:15:41](/transcripts/fa/FA_Lec05?t=941)] |
 | **Jewelry Retail Sector ROE Baseline** | Average sector ROE for jewelry retailers | 13%–15% | Standard baseline ROE constrained by gold inventory intensity | [[0:15:41–0:16:28](/transcripts/fa/FA_Lec05?t=941)] |
 
 #### e) Visual aid
@@ -333,15 +341,23 @@ What are the three operating levers of ROE in a DuPont breakdown, and how do cha
 
 ##### The 3-Factor DuPont Formula Breakdown
 Return on Equity can be deconstructed into three operational building blocks, known as 3-Factor DuPont Analysis [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)]:
-\\[\text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}\\]
+
+$$
+ROE = Net Profit Margin × Asset Turnover × Financial Leverage
+$$
+
 
 Expressed algebraically:
-\\[\text{ROE} = \left(\frac{\text{Net Profit}}{\text{Sales}}\right) \times \left(\frac{\text{Sales}}{\text{Total Assets}}\right) \times \left(\frac{\text{Total Assets}}{\text{Shareholders' Equity}}\right)\\]
+
+$$
+ROE = ≤ft(\frac{Net Profit}{Sales}\right) × ≤ft(\frac{Sales}{Total Assets}\right) × ≤ft(\frac{Total Assets}{Shareholders' Equity}\right)
+$$
+
 
 Where the three levers represent distinct business functions [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)]:
-1. **Net Profit Margin (\\(\frac{\text{PAT}}{\text{Sales}}\\)):** Operating profitability, pricing power, and cost efficiency.
-2. **Asset Turnover (\\(\frac{\text{Sales}}{\text{Total Assets}}\\)):** Operational efficiency showing how many rupees of sales are generated per rupee of total assets (Fixed Assets + Working Capital).
-3. **Financial Leverage (\\(\frac{\text{Total Assets}}{\text{Shareholders' Equity}}\\)):** Capital structure lever showing how many rupees of assets are supported per rupee of shareholder equity (the excess being funded by debt).
+1. **Net Profit Margin ($\frac{\text{PAT}}{\text{Sales}}$):** Operating profitability, pricing power, and cost efficiency.
+2. **Asset Turnover ($\frac{\text{Sales}}{\text{Total Assets}}$):** Operational efficiency showing how many rupees of sales are generated per rupee of total assets (Fixed Assets + Working Capital).
+3. **Financial Leverage ($\frac{\text{Total Assets}}{\text{Shareholders' Equity}}$):** Capital structure lever showing how many rupees of assets are supported per rupee of shareholder equity (the excess being funded by debt).
 
 ##### Lever 1 & 2: Working Capital Optimization and Asset Turns
 Total business assets are deployed primarily in two areas: Property, Plant, and Equipment (Fixed Assets) and Working Capital (Trade Receivables and Inventory) [[0:23:59](/transcripts/fa/FA_Lec05?t=1439), [0:26:43](/transcripts/fa/FA_Lec05?t=1603)].
@@ -364,10 +380,14 @@ Headwinds (Dumping / Power Costs / Excess Capacity) ──> Margin & Asset Turn 
 ```
 
 ##### Lever 3: Financial Leverage Mechanism, ROA & Open Market Sales
-Financial Leverage (\\(\frac{\text{Assets}}{\text{Equity}}\\)) measures balance sheet debt usage [[0:33:53–0:34:45](/transcripts/fa/FA_Lec05?t=2033)]. A financial leverage ratio of 3.0x means ₹1 of owner equity holds ₹3 of total assets, implying ₹2 is funded via debt [[0:33:53](/transcripts/fa/FA_Lec05?t=2033)]. When borrowed capital generates returns higher than borrowing interest costs, leverage magnifies ROE (as demonstrated in Siddhant's samosa shop generating 50% ROE vs 25% ROCE) [[0:34:45–0:35:23](/transcripts/fa/FA_Lec05?t=2085)].
+Financial Leverage ($\frac{\text{Assets}}{\text{Equity}}$) measures balance sheet debt usage [[0:33:53–0:34:45](/transcripts/fa/FA_Lec05?t=2033)]. A financial leverage ratio of 3.0x means ₹1 of owner equity holds ₹3 of total assets, implying ₹2 is funded via debt [[0:33:53](/transcripts/fa/FA_Lec05?t=2033)]. When borrowed capital generates returns higher than borrowing interest costs, leverage magnifies ROE (as demonstrated in Siddhant's samosa shop generating 50% ROE vs 25% ROCE) [[0:34:45–0:35:23](/transcripts/fa/FA_Lec05?t=2085)].
 
 Multiplying Net Profit Margin by Asset Turnover yields Return on Assets (ROA) [[0:36:02–0:36:38](/transcripts/fa/FA_Lec05?t=2162)]:
-\\[\text{ROA} = \text{Net Profit Margin} \times \text{Asset Turnover} = \frac{\text{Net Profit}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Total Assets}} = \frac{\text{Net Profit}}{\text{Total Assets}}\\]
+
+$$
+ROA = Net Profit Margin × Asset Turnover = \frac{Net Profit}{Sales} × \frac{Sales}{Total Assets} = \frac{Net Profit}{Total Assets}
+$$
+
 
 *Promoter Stake Sale Clarification:* If promoters sell equity shares in the open market (e.g., reducing holding from 60% to 50%), this secondary market transaction transfers existing shares between investors [[0:36:38–0:37:29](/transcripts/fa/FA_Lec05?t=2198)]. It injects no fresh cash into the company and does not change share capital, balance sheet assets, or ROE [[0:37:29](/transcripts/fa/FA_Lec05?t=2249)].
 
@@ -376,7 +396,7 @@ Multiplying Net Profit Margin by Asset Turnover yields Return on Assets (ROA) [[
 * **Example:** Working Capital Optimization Scenario  [[0:23:59–0:27:53](/transcripts/fa/FA_Lec05?t=1439)] [Slide 5: ROE DuPont Breakdown]
   * **Context:** Hypothetical illustration of trade receivable reduction impacting DuPont ratios.
   * **Data/details:** Receivable days reduction: 90 days down to 30 days.
-  * **Walkthrough:** A company improves brand equity and reduces customer credit terms from 90 days to 30 days. Uncollected cash tied up in receivables falls significantly. With smaller total assets required to generate the same sales, Asset Turnover (\\(\frac{\text{Sales}}{\text{Assets}}\\)) increases, driving up ROE.
+  * **Walkthrough:** A company improves brand equity and reduces customer credit terms from 90 days to 30 days. Uncollected cash tied up in receivables falls significantly. With smaller total assets required to generate the same sales, Asset Turnover ($\frac{\text{Sales}}{\text{Assets}}$) increases, driving up ROE.
   * **Takeaway:** Reducing working capital days accelerates Asset Turnover and elevates ROE without taking on financial debt [[0:27:20](/transcripts/fa/FA_Lec05?t=1640)].
 
 * **Example:** Aggressive Retail Expansion Scenario (Paint Stores)  [[0:28:29–0:30:18](/transcripts/fa/FA_Lec05?t=1709)] [Slide 6: How to Improve ROE]
@@ -401,11 +421,11 @@ Multiplying Net Profit Margin by Asset Turnover yields Return on Assets (ROA) [[
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **3-Factor DuPont ROE Formula** | \\(\text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}\\) | N/A | Deconstructs ROE into operational profitability, asset efficiency, and debt leverage | [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)] |
-| **Net Profit Margin (NPM)** | \\(\text{Profit After Tax (PAT)} \div \text{Sales}\\) | Sector dependent (Aarti dropped from 12%–19% to 7%) | Measures pricing power and operational cost control | [[0:21:20](/transcripts/fa/FA_Lec05?t=1280), [0:31:45](/transcripts/fa/FA_Lec05?t=1905)] |
-| **Asset Turnover Ratio** | \\(\text{Sales} \div \text{Total Assets (Fixed Assets + Working Capital)}\\) | Higher is better (e.g., improves when receivable days drop 90 to 30) | Measures revenue generated per rupee of total asset investment | [[0:22:00–0:27:20](/transcripts/fa/FA_Lec05?t=1320)] |
-| **Financial Leverage Ratio** | \\(\text{Total Assets} \div \text{Shareholders' Equity}\\) | >1.0x (3.0x implies ₹1 equity + ₹2 debt) | Measures debt usage used to finance assets | [[0:22:00](/transcripts/fa/FA_Lec05?t=1320), [0:33:53–0:34:45](/transcripts/fa/FA_Lec05?t=2033)] |
-| **Return on Assets (ROA)** | \\(\text{Net Profit (PAT)} \div \text{Total Assets}\\) | N/A | Simplification of DuPont formula (\\(\text{NPM} \times \text{Asset Turnover}\\)) | [[0:36:02–0:36:38](/transcripts/fa/FA_Lec05?t=2162)] |
+| **3-Factor DuPont ROE Formula** | $\text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}$ | N/A | Deconstructs ROE into operational profitability, asset efficiency, and debt leverage | [[0:21:20–0:22:00](/transcripts/fa/FA_Lec05?t=1280)] |
+| **Net Profit Margin (NPM)** | $\text{Profit After Tax$ (PAT) | Sector dependent (Aarti dropped from 12%–19% to 7%) | Measures pricing power and operational cost control | [[0:21:20](/transcripts/fa/FA_Lec05?t=1280), [0:31:45](/transcripts/fa/FA_Lec05?t=1905)] |
+| **Asset Turnover Ratio** | $\text{Sales} \div \text{Total Assets$ (Fixed Assets + Working Capital) | Higher is better (e.g., improves when receivable days drop 90 to 30) | Measures revenue generated per rupee of total asset investment | [[0:22:00–0:27:20](/transcripts/fa/FA_Lec05?t=1320)] |
+| **Financial Leverage Ratio** | $\text{Total Assets} \div \text{Shareholders' Equity}$ | >1.0x (3.0x implies ₹1 equity + ₹2 debt) | Measures debt usage used to finance assets | [[0:22:00](/transcripts/fa/FA_Lec05?t=1320), [0:33:53–0:34:45](/transcripts/fa/FA_Lec05?t=2033)] |
+| **Return on Assets (ROA)** | $\text{Net Profit$ (PAT) | N/A | Simplification of DuPont formula ($\text{NPM} \times \text{Asset Turnover}$) | [[0:36:02–0:36:38](/transcripts/fa/FA_Lec05?t=2162)] |
 
 #### e) Visual aid
 
@@ -515,7 +535,7 @@ For example, when the Indian corporate tax rate was slashed from 33%–34% down 
 
 * **Example:** R Industries (Transmission Supplier / Chemical Peer)  [[0:59:15–0:59:58](/transcripts/fa/FA_Lec05?t=3555)]
   * **Context:** Tracking a 5-year ROE expansion driven by power transmission sector tailwinds.
-  * **Data/details:** FY19 PAT: ₹136 crore; FY19 Shareholders' Equity: ~₹1,200 crore; FY19 ROE: 11%; FY24 PAT: ₹825 crore; FY24 Shareholders' Equity: ~₹3,900 crore; FY24 ROE: 21.15% (\\(\frac{825}{3900}\\)).
+  * **Data/details:** FY19 PAT: ₹136 crore; FY19 Shareholders' Equity: ~₹1,200 crore; FY19 ROE: 11%; FY24 PAT: ₹825 crore; FY24 Shareholders' Equity: ~₹3,900 crore; FY24 ROE: 21.15% ($\frac{825}{3900}$).
   * **Walkthrough:** Driven by surging demand in the transmission sector, R Industries expanded net profit from ₹136 crore in FY19 to ₹825 crore in FY24. Even as shareholders' equity expanded from ₹1,200 crore to ₹3,900 crore, profit growth outpaced equity expansion, driving ROE up from 11% to 21.15%.
   * **Takeaway:** Strong sector tailwinds allow earnings growth to outpace equity expansion, driving sustained multi-year ROE expansion [[0:59:58](/transcripts/fa/FA_Lec05?t=3598)].
 
@@ -524,8 +544,8 @@ For example, when the Indian corporate tax rate was slashed from 33%–34% down 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | **Qualified Institutional Placement (QIP)** | Capital raise issuing fresh equity shares to institutional investors | Signals sentiment peak when executed at >80x–100x P/E | Expands share capital and reserves premium; dilutes ROE and EPS if cash is un-deployed | [[0:37:29–0:39:56](/transcripts/fa/FA_Lec05?t=2249)] |
-| **Earnings Per Share (EPS)** | \\(\text{Profit After Tax (PAT)} \div \text{Total Outstanding Shares}\\) | Decreases when equity dilution outpaces net profit growth | Measures per-share earning power | [[0:39:56](/transcripts/fa/FA_Lec05?t=2396)] |
-| **Corporate Tax Cut Lever** | \\(\text{PAT Expansion} = \text{EBT} \times (1 - \text{Lower Tax Rate})\\) | Slashed from ~34% to ~25% in Sept 2019 | Directly boosts net profit margin and elevates corporate ROE | [[0:55:26–0:56:25](/transcripts/fa/FA_Lec05?t=3326)] |
+| **Earnings Per Share (EPS)** | $\text{Profit After Tax$ (PAT) | Decreases when equity dilution outpaces net profit growth | Measures per-share earning power | [[0:39:56](/transcripts/fa/FA_Lec05?t=2396)] |
+| **Corporate Tax Cut Lever** | $\text{PAT Expansion} = \text{EBT} \times$ (1 - \text{Lower Tax Rate}) | Slashed from ~34% to ~25% in Sept 2019 | Directly boosts net profit margin and elevates corporate ROE | [[0:55:26–0:56:25](/transcripts/fa/FA_Lec05?t=3326)] |
 | **National Electricity Plan (NEP) Capex** | Total projected Indian power transmission capital outlay | ₹9.15 lakh crore | Massive infrastructure demand driving pricing power and ROE expansion in capital goods | [[0:57:33](/transcripts/fa/FA_Lec05?t=3453)] |
 
 #### e) Visual aid
@@ -586,7 +606,7 @@ Evaluating chemical manufacturer SRF Limited demonstrates how unproductive capex
 When compressed net profit margins combine with declining asset turns, the business suffers ROE contraction, confirming the presence of sector headwinds [[1:04:06–1:04:52](/transcripts/fa/FA_Lec05?t=3846)].
 
 ##### Net Profit Margin vs. Return on Equity
-Net profit margin is a single component within the broader ROE equation (\\(\text{ROE} = \text{NPM} \times \text{Asset Turnover} \times \text{Financial Leverage}\\)) [[1:04:52–1:05:42](/transcripts/fa/FA_Lec05?t=3892)]. Margin expansion serves as an operating thesis, but the ultimate investment goal is evaluating total ROE/ROCE expansion [[1:05:42–1:06:09](/transcripts/fa/FA_Lec05?t=3942)].
+Net profit margin is a single component within the broader ROE equation ($\text{ROE} = \text{NPM} \times \text{Asset Turnover} \times \text{Financial Leverage}$) [[1:04:52–1:05:42](/transcripts/fa/FA_Lec05?t=3892)]. Margin expansion serves as an operating thesis, but the ultimate investment goal is evaluating total ROE/ROCE expansion [[1:05:42–1:06:09](/transcripts/fa/FA_Lec05?t=3942)].
 
 ##### Jewelry Sector Peer Benchmark Homework
 To understand competitive dynamics across retail jewelry chains, compare DuPont ROE levers across five listed peers: Thangamayil Jewellery (25% ROE), Senco Gold, Titan Company, PNG Gadgil Jewellers, and Kalyan Jewellers (14.2% ROE) [[1:06:49–1:07:26](/transcripts/fa/FA_Lec05?t=4009)]. Determine whether Thangamayil's superior 25% ROE stems from higher net profit margins, faster asset turnover, or greater financial leverage [[1:06:49–1:07:26](/transcripts/fa/FA_Lec05?t=4009)]. 
@@ -626,7 +646,7 @@ To understand competitive dynamics across retail jewelry chains, compare DuPont 
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fixed Asset Growth vs. Sales Growth** | \\(\% \Delta \text{ Fixed Assets} \text{ vs. } \% \Delta \text{ Sales}\\) | Sales growth must equal or exceed fixed asset growth (SRF: +80% assets vs +60% sales) | When asset growth outpaces sales growth, asset turnover falls and depresses ROE | [[1:04:06](/transcripts/fa/FA_Lec05?t=3846)] |
+| **Fixed Asset Growth vs. Sales Growth** | $% \Delta \text{ Fixed Assets} \text{ vs. } % \Delta \text{ Sales}$ | Sales growth must equal or exceed fixed asset growth (SRF: +80% assets vs +60% sales) | When asset growth outpaces sales growth, asset turnover falls and depresses ROE | [[1:04:06](/transcripts/fa/FA_Lec05?t=3846)] |
 | **Microfinance ROE Cycle Length** | Duration of cyclical expansion vs contraction phases | 2–3 years expansion vs 1 year / 18 months contraction | Standard credit cost cycle duration for lenders like Arman Financial | [[1:02:04](/transcripts/fa/FA_Lec05?t=3724)] |
 
 #### e) Visual aid
@@ -657,9 +677,9 @@ What is Return on Capital Employed (ROCE), how is it decomposed into EBIT margin
 Evaluating International Gemological Institute (IGI) demonstrates how high net profit margins combined with rapid asset turnover produce exceptional ROE [[1:23:42–1:25:30](/transcripts/fa/FA_Lec05?t=5022)]:
 * **Asset Base:** ₹117 crore total assets [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
 * **Revenue (Sales):** ₹639 crore total sales [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
-* **Asset Turnover:** \\(\frac{\text{₹639 crore sales}}{\text{₹117 crore assets}} = 5.46\text{x}\\) (~6 times asset turn) [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
+* **Asset Turnover:** $\frac{\text{₹639 crore sales}}{\text{₹117 crore assets}} = 5.46\text{x}$ (~6 times asset turn) [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
 * **Profit After Tax (PAT):** ₹325–329 crore [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
-* **Net Profit Margin (NPM):** \\(\frac{\text{₹325 crore PAT}}{\text{₹639 crore sales}} = 50.86\%\\) (~50% PAT margin) [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
+* **Net Profit Margin (NPM):** $\frac{\text{₹325 crore PAT}}{\text{₹639 crore sales}} = 50.86%$ (~50% PAT margin) [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
 
 Generating a 50% PAT margin alongside a 6x asset turnover produces exceptionally high balance sheet returns [[1:25:30](/transcripts/fa/FA_Lec05?t=5130)].
 
@@ -669,18 +689,30 @@ Highlighting a quote from market veteran Mr. Bharat Shah [[1:26:24](/transcripts
 Capital turnover encompasses not merely fixed assets, but also working capital [[1:26:45](/transcripts/fa/FA_Lec05?t=5205)]. Connecting these financial metrics allows investors to evaluate business quality [[1:26:45](/transcripts/fa/FA_Lec05?t=5205)].
 
 Return on Capital Employed measures operational earnings generated across all long-term capital provided by both debt and equity holders [[1:26:45–1:27:17](/transcripts/fa/FA_Lec05?t=5205)]:
-\\[\text{ROCE} = \frac{\text{EBIT}}{\text{Capital Employed}} = \frac{\text{Earnings Before Interest \& Taxes}}{\text{Short-Term \& Long-Term Debt} + \text{Shareholders' Equity}}\\]
+
+$$
+ROCE = \frac{EBIT}{Capital Employed} = \frac{Earnings Before Interest \& Taxes}{Short-Term \& Long-Term Debt + Shareholders' Equity}
+$$
+
 
 *(Note: Substituting Net Profit After Tax for EBIT and using Net Invested Capital yields Return on Invested Capital / ROIC) [[1:26:45](/transcripts/fa/FA_Lec05?t=5205)].*
 
 ROCE decomposes into two operational factors [[1:27:17](/transcripts/fa/FA_Lec05?t=5237)]:
-\\[\text{ROCE} = \text{EBIT Margin} \times \text{Capital Employed Turnover} = \left(\frac{\text{EBIT}}{\text{Sales}}\right) \times \left(\frac{\text{Sales}}{\text{Capital Employed}}\right)\\]
+
+$$
+ROCE = EBIT Margin × Capital Employed Turnover = ≤ft(\frac{EBIT}{Sales}\right) × ≤ft(\frac{Sales}{Capital Employed}\right)
+$$
+
 
 Where Capital Employed in simplified balance sheet terms represents [[1:27:17–1:28:01](/transcripts/fa/FA_Lec05?t=5237)]:
-\\[\text{Capital Employed} = \text{Total Debt} + \text{Shareholders' Equity} = \text{Working Capital} + \text{Fixed Assets}\\]
+
+$$
+Capital Employed = Total Debt + Shareholders' Equity = Working Capital + Fixed Assets
+$$
+
 
 ##### Case Study: Eicher Motors EBIT Margin Expansion
-Eicher Motors demonstrates ROCE expansion driven by structural product mix shifts [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)]. Originally a commercial trucking company, Eicher transformed into a premium motorcycle manufacturer following the success of its Royal Enfield Classic 350 series [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)]. Over a 7-year period, higher-margin motorcycle sales raised EBIT margins (\\(\frac{\text{EBIT}}{\text{Sales}}\\)), driving a multi-year expansion in ROCE [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)].
+Eicher Motors demonstrates ROCE expansion driven by structural product mix shifts [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)]. Originally a commercial trucking company, Eicher transformed into a premium motorcycle manufacturer following the success of its Royal Enfield Classic 350 series [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)]. Over a 7-year period, higher-margin motorcycle sales raised EBIT margins ($\frac{\text{EBIT}}{\text{Sales}}$), driving a multi-year expansion in ROCE [[1:28:17](/transcripts/fa/FA_Lec05?t=5297)].
 
 ```
 Eicher Motors: Commercial Trucking Manufacturer ──> Premium Royal Enfield Biking ──> EBIT Margin Surge ──> ROCE Expansion
@@ -736,9 +768,9 @@ To systematic equity research, investors must adopt a disciplined checklist appr
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Return on Capital Employed (ROCE)** | \\(\text{EBIT} \div \text{Capital Employed}\\) | >15% | Evaluates total operational profit generated on debt and equity capital | [[1:26:45–1:27:17](/transcripts/fa/FA_Lec05?t=5205)] |
-| **2-Factor ROCE Decomposition** | \\(\text{EBIT Margin} \times \text{Capital Employed Turnover}\\) | N/A | Deconstructs ROCE into operating margin and capital efficiency | [[1:27:17](/transcripts/fa/FA_Lec05?t=5237)] |
-| **Capital Employed** | \\(\text{Debt} + \text{Equity} = \text{Working Capital} + \text{Fixed Assets}\\) | N/A | Represents total long-term capital deployed in operations | [[1:27:17–1:28:01](/transcripts/fa/FA_Lec05?t=5237)] |
+| **Return on Capital Employed (ROCE)** | $\text{EBIT} \div \text{Capital Employed}$ | >15% | Evaluates total operational profit generated on debt and equity capital | [[1:26:45–1:27:17](/transcripts/fa/FA_Lec05?t=5205)] |
+| **2-Factor ROCE Decomposition** | $\text{EBIT Margin} \times \text{Capital Employed Turnover}$ | N/A | Deconstructs ROCE into operating margin and capital efficiency | [[1:27:17](/transcripts/fa/FA_Lec05?t=5237)] |
+| **Capital Employed** | $\text{Debt} + \text{Equity} = \text{Working Capital} + \text{Fixed Assets}$ | N/A | Represents total long-term capital deployed in operations | [[1:27:17–1:28:01](/transcripts/fa/FA_Lec05?t=5237)] |
 | **Transitory Policy Moat Threshold** | Baseline ROE/ROCE without government anti-dumping protection | <10% (Borosil & Waaree historical baseline) | Signals government policy dependency rather than an intrinsic moat | [[1:29:43–1:31:58](/transcripts/fa/FA_Lec05?t=5383)] |
 
 #### e) Visual aid
@@ -821,9 +853,9 @@ Identify variant perception catalysts that drive revenue growth far above baseli
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Minimum Profitability Benchmark** | \\(\text{ROCE } \& \text{ ROE}\\) | **>15%** (or clear trigger to cross >15%) | Baseline capital efficiency required for inclusion in study list | [[1:36:42](/transcripts/fa/FA_Lec05?t=5802)] |
-| **Debt-to-Equity (D/E) Scrutiny Limit** | \\(\text{Total Debt} \div \text{Shareholders' Equity}\\) | **>1.0x** triggers caution | Financial leverage above 1.0x increases insolvency risk during downturns | [[1:38:56](/transcripts/fa/FA_Lec05?t=5936)] |
-| **Outperformance Revenue Growth** | \\(\% \Delta \text{ Revenue} \text{ over 3 years}\\) | Significantly above GDP growth (e.g. ₹1,700c to ₹4,425c) | High top-line growth signals strong market demand or aggressive consolidation | [[1:41:55](/transcripts/fa/FA_Lec05?t=6115)] |
+| **Minimum Profitability Benchmark** | ROCE & ROE | **>15%** (or clear trigger to cross >15%) | Baseline capital efficiency required for inclusion in study list | [[1:36:42](/transcripts/fa/FA_Lec05?t=5802)] |
+| **Debt-to-Equity (D/E) Scrutiny Limit** | $\text{Total Debt} \div \text{Shareholders' Equity}$ | **>1.0x** triggers caution | Financial leverage above 1.0x increases insolvency risk during downturns | [[1:38:56](/transcripts/fa/FA_Lec05?t=5936)] |
+| **Outperformance Revenue Growth** | $% \Delta \text{ Revenue} \text{ over 3 years}$ | Significantly above GDP growth (e.g. ₹1,700c to ₹4,425c) | High top-line growth signals strong market demand or aggressive consolidation | [[1:41:55](/transcripts/fa/FA_Lec05?t=6115)] |
 
 #### e) Visual aid
 
@@ -947,8 +979,8 @@ Because aggressive working capital requirements consumed all operating profits, 
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **5-Year Cumulative CFO vs PAT Conversion** | \\(\sum \text{CFO}_{5\text{yr}} \div \sum \text{PAT}_{5\text{yr}}\\) | Must be positive (Neogen: **-₹13c CFO vs ₹212c PAT**) | Negative cumulative CFO indicates working capital absorption and reliance on dilution | [[1:57:50–1:58:28](/transcripts/fa/FA_Lec05?t=7070)] |
-| **Minimum Annual CFO/PAT Ratio** | \\(\text{Cash Flow from Operations} \div \text{PAT}\\) | **>80%** (Aarti Industries 10-yr avg: 173%) | Measures percentage of accounting profits converted into real cash | [[2:02:40](/transcripts/fa/FA_Lec05?t=7360)] |
+| **5-Year Cumulative CFO vs PAT Conversion** | $\sum \text{CFO}_{5\text{yr}} \div \sum \text{PAT}_{5\text{yr}}$ | Must be positive (Neogen: **-₹13c CFO vs ₹212c PAT**) | Negative cumulative CFO indicates working capital absorption and reliance on dilution | [[1:57:50–1:58:28](/transcripts/fa/FA_Lec05?t=7070)] |
+| **Minimum Annual CFO/PAT Ratio** | $\text{Cash Flow from Operations} \div \text{PAT}$ | **>80%** (Aarti Industries 10-yr avg: 173%) | Measures percentage of accounting profits converted into real cash | [[2:02:40](/transcripts/fa/FA_Lec05?t=7360)] |
 | **Single-Month Promoter Stake Sale Limit** | Percentage of equity offloaded by promoters in 30 days | **>5% is a major warning** (MTAR: 5% in Dec 2024) | Large short-term promoter sales signal weak insider confidence | [[1:50:00–1:50:50](/transcripts/fa/FA_Lec05?t=6600)] |
 
 #### e) Visual aid
@@ -1078,11 +1110,11 @@ This triple alignment signaled primary trend reversals in Zomato, Jubilant FoodW
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | **Realistic Win Rate Baseline** | Percentage of profitable stock picks in a portfolio | **65%–70% target** (20%–30% error rate is normal) | Standard expectations for equity investors | [[2:09:21–2:10:00](/transcripts/fa/FA_Lec05?t=7761)] |
-| **26-Week Relative Strength (RS)** | \\(\frac{\text{Stock Price Ratio (T / T-26)}}{\text{Nifty 50 Ratio (T / T-26)}}\\) | **Green = Outperforming Nifty**; Red = Underperforming | Measures relative outperformance against the Nifty 50 | [[2:16:31–2:18:09](/transcripts/fa/FA_Lec05?t=8191)] |
+| **26-Week Relative Strength (RS)** | $\frac{\text{Stock Price Ratio$ (T / T-26) | **Green = Outperforming Nifty**; Red = Underperforming | Measures relative outperformance against the Nifty 50 | [[2:16:31–2:18:09](/transcripts/fa/FA_Lec05?t=8191)] |
 | **Monthly RSI Top Indicator** | 14-period RSI on monthly price chart | **<50 signals multi-year top** (Asian Paints June 2022) | Drop below 50 indicates multi-year structural top and zero returns | [[2:22:23–2:23:59](/transcripts/fa/FA_Lec05?t=8543)] |
 | **Weekly RSI Breakout Threshold** | 14-period RSI on weekly price chart | **>50 confirms Stage 2 uptrend** | Crossing 50 confirms trend reversal into an uptrend | [[2:25:24–2:27:27](/transcripts/fa/FA_Lec05?t=8724)] |
-| **Golden Crossover Signal** | \\(\text{10-Week EMA} > \text{30-Week EMA}\\) (both sloping up) | Short-term 50-day EMA crosses above long-term 150-day EMA | Confirms short-term price momentum outpaces long-term trend | [[2:31:10–2:32:51](/transcripts/fa/FA_Lec05?t=9070)] |
-| **Volume Accumulation Spike** | \\(\text{5-Day Avg Volume} \div \text{10-Day Avg Volume}\\) | **>1.50x (+50% volume surge)** | Signals institutional smart money entry or catalyst news | [[2:36:12](/transcripts/fa/FA_Lec05?t=9372)] |
+| **Golden Crossover Signal** | $\text{10-Week EMA} > \text{30-Week EMA}$ (both sloping up) | Short-term 50-day EMA crosses above long-term 150-day EMA | Confirms short-term price momentum outpaces long-term trend | [[2:31:10–2:32:51](/transcripts/fa/FA_Lec05?t=9070)] |
+| **Volume Accumulation Spike** | $\text{5-Day Avg Volume} \div \text{10-Day Avg Volume}$ | **>1.50x (+50% volume surge)** | Signals institutional smart money entry or catalyst news | [[2:36:12](/transcripts/fa/FA_Lec05?t=9372)] |
 
 #### e) Visual aid
 
@@ -1141,7 +1173,11 @@ When evaluating stock valuations, compare peer companies using three core metric
 
 ##### The PEG Ratio Decision Rule
 Calculate the Price-to-Earnings-to-Growth (PEG) ratio to adjust valuation for underlying earnings growth [[2:50:46](/transcripts/fa/FA_Lec05?t=10246)]:
-\\[\text{PEG Ratio} = \frac{\text{P/E Multiple}}{\text{Forward Earnings Growth \%}}\\]
+
+$$
+PEG Ratio = \frac{P/E Multiple}{Forward Earnings Growth \%}
+$$
+
 
 For example, a company trading at a 30x P/E multiple with a 20% forward earnings growth rate has a PEG ratio of 1.5x [[2:50:46](/transcripts/fa/FA_Lec05?t=10246)]. 
 
@@ -1182,8 +1218,8 @@ Speaker's view: Identifying a business trading at 20x–30x P/E with 20%–30% f
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Price-to-Earnings-to-Growth (PEG)** | \\(\text{P/E Multiple} \div \text{Forward Earnings Growth \%}\\) | **1.0x–1.5x target** (e.g., 30x P/E with 20% growth = 1.5x) | Identifies growth stocks trading at reasonable valuations with re-rating potential | [[2:50:46](/transcripts/fa/FA_Lec05?t=10246)] |
-| **Sector Relative Strength Outperformance** | \\(\% \text{ of sector stocks outperforming Nifty 500}\\) | **>90% signals major group move** (Alcohol sector: 91%) | Confirms sector-wide institutional capital inflow | [[2:49:55–2:50:41](/transcripts/fa/FA_Lec05?t=10195)] |
+| **Price-to-Earnings-to-Growth (PEG)** | $\text{P/E Multiple} \div \text{Forward Earnings Growth %}$ | **1.0x–1.5x target** (e.g., 30x P/E with 20% growth = 1.5x) | Identifies growth stocks trading at reasonable valuations with re-rating potential | [[2:50:46](/transcripts/fa/FA_Lec05?t=10246)] |
+| **Sector Relative Strength Outperformance** | $% \text{ of sector stocks outperforming Nifty 500}$ | **>90% signals major group move** (Alcohol sector: 91%) | Confirms sector-wide institutional capital inflow | [[2:49:55–2:50:41](/transcripts/fa/FA_Lec05?t=10195)] |
 
 #### e) Visual aid
 
@@ -1214,8 +1250,16 @@ Reviewing a historical case study (published 6–9 months prior) demonstrates ho
 
 ##### Step 1: Fundamental Guidance & PAT Estimation
 Management guided for 45% top-line revenue growth with a 5% Net Profit Margin (PAT margin) [[2:52:56](/transcripts/fa/FA_Lec05?t=10376)]. Estimating FY25 performance:
-\\[\text{Projected FY25 Sales} = \text{₹4,000 crore}\\]
-\\[\text{Projected FY25 PAT} = \text{₹4,000 crore} \times 5\% = \text{₹200 crore}\\]
+
+$$
+Projected FY25 Sales = ₹4,000 crore
+$$
+
+
+$$
+Projected FY25 PAT = ₹4,000 crore × 5\% = ₹200 crore
+$$
+
 
 Comparing projected FY25 PAT (₹200 crore) against FY24 PAT (₹135 crore) indicated an underlying forward net profit growth rate of **~50%** [[2:52:56–2:54:30](/transcripts/fa/FA_Lec05?t=10376)].
 
@@ -1270,8 +1314,8 @@ Evaluating IIFL Securities (IIFL Capital Services) illustrates a financial trans
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **PG Electroplast Projected PAT** | \\(\text{Projected Sales (₹4,000c)} \times \text{PAT Margin (5\%)}\\) | **₹200 crore PAT** (~50% PAT growth) | Derived from management guidance to build forward valuation model | [[2:52:56](/transcripts/fa/FA_Lec05?t=10376)] |
-| **Forward PEG Ratio (PG Electroplast)** | \\(\text{TTM P/E (45x)} \div \text{Forward PAT Growth (50\%)}\\) | **1.0x–1.2x** (below 1.5x threshold) | Confirmed attractive valuation relative to forward growth | [[2:54:30–2:55:27](/transcripts/fa/FA_Lec05?t=10470)] |
+| **PG Electroplast Projected PAT** | $\text{Projected Sales$ (₹4,000c) | **₹200 crore PAT** (~50% PAT growth) | Derived from management guidance to build forward valuation model | [[2:52:56](/transcripts/fa/FA_Lec05?t=10376)] |
+| **Forward PEG Ratio (PG Electroplast)** | $\text{TTM P/E$ (45x) | **1.0x–1.2x** (below 1.5x threshold) | Confirmed attractive valuation relative to forward growth | [[2:54:30–2:55:27](/transcripts/fa/FA_Lec05?t=10470)] |
 | **Valuation Discipline Exit Multiple** | P/E multiple triggering research exit report | **100x P/E** (at ₹625 per share) | Multiples above 100x reflect euphoria, prompting valuation-based exits | [[2:59:35](/transcripts/fa/FA_Lec05?t=10775)] |
 
 #### e) Visual aid
@@ -1313,13 +1357,13 @@ Analyzing Alkyl Amines Chemicals Limited from 2018 demonstrates how to build a 4
 In 2018, Alkyl Amines reported the following P&L figures [[3:02:11–3:04:40](/transcripts/fa/FA_Lec05?t=10931)]:
 * **Revenue (Sales):** ₹616 crore [[3:02:11](/transcripts/fa/FA_Lec05?t=10931)].
 * **Operating EBITDA Margin:** 19% [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
-* **Total EBITDA:** \\(\text{₹616 crore} \times 19\% = \text{₹118 crore}\\) [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
+* **Total EBITDA:** $\text{₹616 crore} \times 19% = \text{₹118 crore}$ [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
 * **Depreciation Expense:** ₹16 crore [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
 * **Interest Expense:** ₹8 crore [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
 * **Other Income:** ₹2 crore [[3:03:38](/transcripts/fa/FA_Lec05?t=11018)].
-* **Profit Before Tax (PBT):** \\(\text{₹118c EBITDA} - \text{₹16c Depr} - \text{₹8c Interest} + \text{₹2c Other Inc} = \text{₹96 crore}\\) [[3:03:38–3:04:40](/transcripts/fa/FA_Lec05?t=11018)].
+* **Profit Before Tax (PBT):** $\text{₹118c EBITDA} - \text{₹16c Depr} - \text{₹8c Interest} + \text{₹2c Other Inc} = \text{₹96 crore}$ [[3:03:38–3:04:40](/transcripts/fa/FA_Lec05?t=11018)].
 * **Tax Rate:** 33% [[3:04:40](/transcripts/fa/FA_Lec05?t=11080)].
-* **Profit After Tax (PAT):** \\(\text{₹96c PBT} \times (1 - 0.33) = \text{₹64 crore}\\) [[3:04:40](/transcripts/fa/FA_Lec05?t=11080)].
+* **Profit After Tax (PAT):** $\text{₹96c PBT} \times$ (1 - 0.33) [[3:04:40](/transcripts/fa/FA_Lec05?t=11080)].
 * **Market Capitalization:** ₹1,100–₹1,200 crore (trading at 18x–19x P/E) [[3:08:24–3:10:59](/transcripts/fa/FA_Lec05?t=11304)].
 
 ##### Step 2: The Capex Catalyst & Revenue Assumption
@@ -1333,8 +1377,16 @@ Alkyl Amines announced a **₹250 crore capex** to double its gross fixed asset 
 5. **Other Income Assumption:** ₹2–4 crore per annum [[3:07:02](/transcripts/fa/FA_Lec05?t=11222)].
 6. **Tax Rate Assumption:** Slashed to **26%** following the September 2019 corporate tax cut [[3:07:02–3:07:16](/transcripts/fa/FA_Lec05?t=11222)].
 7. **Projected Base PBT & PAT:**
-   \\[\text{Projected PBT} = \text{₹230c EBITDA} - \text{₹32c Depr} - \text{₹20c Interest} + \text{₹4c Other Inc} = \text{₹182 crore}\\]
-   \\[\text{Projected Base PAT} = \text{₹182c PBT} \times (1 - 0.26) = \text{₹143 crore}\\] [[3:07:16–3:08:24](/transcripts/fa/FA_Lec05?t=11236)]
+   
+$$
+Projected PBT = ₹230c EBITDA - ₹32c Depr - ₹20c Interest + ₹4c Other Inc = ₹182 crore
+$$
+
+   
+$$
+Projected Base PAT = ₹182c PBT × (1 - 0.26) = ₹143 crore
+$$
+ [[3:07:16–3:08:24](/transcripts/fa/FA_Lec05?t=11236)]
 
 ```
 ₹250c Capex (Fixed Assets Doubled) ──> Sales Double to ₹1,200c+ ──> Projected PAT = ₹143c (Base Case)
@@ -1342,9 +1394,9 @@ Alkyl Amines announced a **₹250 crore capex** to double its gross fixed asset 
 
 ##### Step 4: Scenario Valuation & Risk-Reward Matrix
 Applying exit P/E multiples to projected Base PAT (₹143 crore) yielded the following market cap scenarios [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)]:
-* **Bear Case (12x Exit P/E):** Projected Market Cap = \\(\text{₹143c PAT} \times 12 = \text{₹1,716 crore}\\) [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
-* **Base Case (15x Exit P/E):** Projected Market Cap = \\(\text{₹143c PAT} \times 15 = \text{₹2,145 crore}\\) [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
-* **Bull Case (20x Exit P/E):** Projected Market Cap = \\(\text{₹143c PAT} \times 20 = \text{₹2,860 crore}\\) [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
+* **Bear Case (12x Exit P/E):** Projected Market Cap = $\text{₹143c PAT} \times 12 = \text{₹1,716 crore}$ [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
+* **Base Case (15x Exit P/E):** Projected Market Cap = $\text{₹143c PAT} \times 15 = \text{₹2,145 crore}$ [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
+* **Bull Case (20x Exit P/E):** Projected Market Cap = $\text{₹143c PAT} \times 20 = \text{₹2,860 crore}$ [[3:09:15–3:09:56](/transcripts/fa/FA_Lec05?t=11355)].
 
 Comparing the Bear Case market cap (₹1,716 crore) against the starting market cap (₹1,100 crore) confirmed that even the worst-case scenario offered upside, establishing positive risk-reward asymmetry [[3:09:56](/transcripts/fa/FA_Lec05?t=11396), [3:10:59](/transcripts/fa/FA_Lec05?t=11459)].
 
@@ -1366,9 +1418,9 @@ Constructing scenario models ensures positive risk-reward asymmetry [[3:10:59–
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Capex Expansion Multiple** | \\(\text{New Capex Amount} \div \text{Existing Gross Fixed Assets}\\) | **>1.0x (100%+ asset expansion)** (Alkyl: ₹250c on ₹220c base) | Signals capacity doubling, setting the baseline for multi-year revenue doubling | [[3:02:59](/transcripts/fa/FA_Lec05?t=10979)] |
-| **Projected Base PAT (Alkyl Amines)** | \\([\text{Sales (₹1,200c)} \times 19\% - \text{Depr (₹32c)} - \text{Int (₹20c)} + \text{Other Inc (₹4c)}] \times (1 - 0.26)\\) | **₹143 crore projected PAT** | Base case earnings model used for scenario valuation | [[3:07:16–3:08:24](/transcripts/fa/FA_Lec05?t=11236)] |
-| **Risk-Reward Asymmetry Condition** | \\(\text{Bear Case Market Cap} > \text{Current Market Cap}\\) | **Bear Case (₹1,716c) > Current (₹1,100c)** | Confirms downside protection, providing positive risk-reward asymmetry | [[3:09:56](/transcripts/fa/FA_Lec05?t=11396)] |
+| **Capex Expansion Multiple** | $\text{New Capex Amount} \div \text{Existing Gross Fixed Assets}$ | **>1.0x (100%+ asset expansion)** (Alkyl: ₹250c on ₹220c base) | Signals capacity doubling, setting the baseline for multi-year revenue doubling | [[3:02:59](/transcripts/fa/FA_Lec05?t=10979)] |
+| **Projected Base PAT (Alkyl Amines)** | $[\text{Sales$ (₹1,200c) | **₹143 crore projected PAT** | Base case earnings model used for scenario valuation | [[3:07:16–3:08:24](/transcripts/fa/FA_Lec05?t=11236)] |
+| **Risk-Reward Asymmetry Condition** | $\text{Bear Case Market Cap} > \text{Current Market Cap}$ | **Bear Case (₹1,716c) > Current (₹1,100c)** | Confirms downside protection, providing positive risk-reward asymmetry | [[3:09:56](/transcripts/fa/FA_Lec05?t=11396)] |
 
 #### e) Visual aid
 
@@ -1447,4 +1499,3 @@ Elevated Market Valuations ──> Moderate Index Returns ──> Temper Portfol
 ---
 
 Batch complete: Batch 4 = Stages 11–14 (~40 minutes, [[2:41:54–3:21:58](/transcripts/fa/FA_Lec05?t=9714)]). All stages complete.
-

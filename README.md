@@ -5,7 +5,7 @@
 [![VitePress](https://img.shields.io/badge/SSG-VitePress%20v1.6-4361ee.svg?style=flat-square&logo=vite)](https://vitepress.dev/)
 [![Vue 3](https://img.shields.io/badge/Framework-Vue%203-42b883.svg?style=flat-square&logo=vuedotjs)](https://vuejs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Styling-Custom%20Tailwind%20Dark-38bdf8.svg?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](#license)
 [![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-success.svg?style=flat-square)]()
 
 ---
@@ -146,6 +146,7 @@ npm run docs:dev
 
 * The development server will start with hot-reloading at **`http://localhost:5173`**.
 * Edits to Markdown files will update immediately in the browser.
+* *Note: Scripts in `package.json` are pre-configured with `--max-old-space-size=8192` (8 GB heap) to comfortably handle full-text indexing and MathJax rendering across all 100+ multi-course documents.*
 
 ---
 
@@ -203,7 +204,7 @@ To maintain full compatibility with the automated pipeline, follow the **Flat St
 
 ### LaTeX Math Formatting Rules
 * To display mathematical formulas, use standard LaTeX enclosed in `$...$` or `$$...$$`.
-* **Important:** If your prose mentions literal currency amounts (e.g., `$100 per kg` or `$1 Billion`), escape the dollar sign with a backslash: `\$100 per kg` or `\$1 Billion`, or place it inside backticks: `` `$100 per kg` ``. This ensures MathJax does not mistake currency figures for LaTeX equations.
+* **Important:** If your prose mentions literal currency amounts (e.g., `$100 per kg` or `$1 Billion`), escape the dollar sign with a backslash: `$100 per kg` or `$1 Billion`, or place it inside backticks: `` `$100 per kg` ``. This ensures MathJax does not mistake currency figures for LaTeX equations.
 * When using `₹` inside LaTeX equations, wrap it as `\text{₹}` (e.g., `$$\text{Gross Block} = \text{₹}2,000\text{ crore}$$`).
 
 ---

@@ -30,14 +30,101 @@ The sub-course directly develops all four pillars of the **TVGP Framework** (The
 
 ### 2. LECTURE INDEX
 
-| Lecture ID | Title | Duration | One-line Focus | TVGP Pillar(s) | Detailed Report |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **FA-Lec01** | Mastering Fundamental Analysis: Frameworks, Forensic Red Flags, Cyclicality, and Earnings Catalysts | 01:51:26 | Forensic elimination of fraudulent/cornered stocks, capital cycle shortage-glut tracking, and identifying "NOS" earnings catalysts for P/E re-rating. | Theme, Valuation, Growth, Promoter | FA_Lec01_Report.docx |
-| **FA-Lec02** | Mastering Financial Statements: Balance Sheet, Income Statement Frameworks & Ratios | 02:47:14 | Evaluating directional rates of change in balance sheet expansion, debt paydown, capacity utilization steps, and quarterly operating leverage. | Growth, Valuation, Promoter, Theme | FA_Lec02_Report.docx |
-| **FA-Lec03** | Connecting Financial Statements: Income Statement, Balance Sheet, and Cash Flow Statement Analysis | 02:10:31 | Three-statement integration linking accrual PAT growth with CFO conversion, working capital lockups, debt deleveraging, and self-funding Capex. | Not TVGP-specific | FA_Lec03_Report.docx |
-| **CC-FA-Lec04** | Mastering Stock Screening: CANSLIM, Relative Strength, Stage Analysis, and Institutional Tracking | 02:10:14 | Automated quantitative screening combining CANSLIM quarterly acceleration, 26-week Relative Strength outperformance, Stan Weinstein Stage 2 breakouts, and institutional tracking. | Theme, Growth, Valuation, Promoter | CC-FA_Lec04_Report.docx |
-| **CC-FA-Lec05** | Step-by-Step Stock Selection, DuPont Analysis & Comprehensive Research Checklist Framework | 03:21:58 | 4-part research checklist integrating 3-factor DuPont ROE decomposition, Stage 2 triple technical confirmation, forensic checks, and scenario valuation modeling. | Theme, Valuation, Growth, Promoter | CC-FA_Lec05_Report.docx |
-| **CC-FA-Lec06** | Market Capsule, Sectoral Rotations, Screening Strategies & Q&A Session | 01:57:02 | Sectoral rotation scans, Post-Earnings Announcement Drift (PEED), weekly VSTOP risk-managed exits, position sizing (2–4–6–8%), and multi-year forward P/E modeling. | Theme, Valuation, Growth, Promoter | CC-FA_Lec06_Report.docx |
+<div class="lecture-grid">
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">FA-Lec01</span>
+      <span class="lecture-duration">⏱️ 01:51:26</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec01_Report">Mastering Fundamental Analysis: Frameworks, Forensic Red Flags, Cyclicality, and Earnings Catalysts</a></h4>
+    <p class="lecture-focus">Forensic elimination of fraudulent/cornered stocks, capital cycle shortage-glut tracking, and identifying "NOS" earnings catalysts for P/E re-rating.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec01_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec01">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">FA-Lec02</span>
+      <span class="lecture-duration">⏱️ 02:47:14</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Theme</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec02_Report">Mastering Financial Statements: Balance Sheet, Income Statement Frameworks & Ratios</a></h4>
+    <p class="lecture-focus">Evaluating directional rates of change in balance sheet expansion, debt paydown, capacity utilization steps, and quarterly operating leverage.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec02_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec02">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">FA-Lec03</span>
+      <span class="lecture-duration">⏱️ 02:10:31</span>
+      <span class="lecture-pillar">Not TVGP-specific</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec03_Report">Connecting Financial Statements: Income Statement, Balance Sheet, and Cash Flow Statement Analysis</a></h4>
+    <p class="lecture-focus">Three-statement integration linking accrual PAT growth with CFO conversion, working capital lockups, debt deleveraging, and self-funding Capex.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec03_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec03">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-FA-Lec04</span>
+      <span class="lecture-duration">⏱️ 02:10:14</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec04_Report">Mastering Stock Screening: CANSLIM, Relative Strength, Stage Analysis, and Institutional Tracking</a></h4>
+    <p class="lecture-focus">Automated quantitative screening combining CANSLIM quarterly acceleration, 26-week Relative Strength outperformance, Stan Weinstein Stage 2 breakouts, and institutional tracking.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec04_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec04">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-FA-Lec05</span>
+      <span class="lecture-duration">⏱️ 03:21:58</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec05_Report">Step-by-Step Stock Selection, DuPont Analysis & Comprehensive Research Checklist Framework</a></h4>
+    <p class="lecture-focus">4-part research checklist integrating 3-factor DuPont ROE decomposition, Stage 2 triple technical confirmation, forensic checks, and scenario valuation modeling.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec05_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec05">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CC-FA-Lec06</span>
+      <span class="lecture-duration">⏱️ 01:57:02</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Promoter</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec06_Report">Market Capsule, Sectoral Rotations, Screening Strategies & Q&A Session</a></h4>
+    <p class="lecture-focus">Sectoral rotation scans, Post-Earnings Announcement Drift (PEED), weekly VSTOP risk-managed exits, position sizing (2–4–6–8%), and multi-year forward P/E modeling.</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec06_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec06">🎙️ Transcript</a>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -89,7 +176,7 @@ Foundation [FA-Lec01] → Core Tools [FA-Lec02, FA-Lec03] → Application [CC-FA
 ```
 
 #### b) Curriculum Progression Narrative
-**FA-Lec01** establishes the foundational mindset by introducing forensic elimination rules (Asset-to-Order anomalies, salary checks), supply-demand capital cycle dynamics, and the TVGP framework (FA-Lec01). This prepares the ground for **FA-Lec02** and **FA-Lec03**, which provide the core statement tools. **FA-Lec02** details the 7-Point Balance Sheet and 7-Point Income Statement frameworks, capacity utilization forecasting, and ratio cutoffs (Debt-to-Equity <0.7x, Asset Turn ``````<2x vs >``````2x) (FA-Lec02). **FA-Lec03** bridges accrual accounting to cash reality through the Three-Statement Integration Framework, establishing mandatory CFO conversion benchmarks (B2B 60–70%, B2C 80–90%) and operating leverage mechanics that link fixed asset growth to PAT expansion (FA-Lec03).
+**FA-Lec01** establishes the foundational mindset by introducing forensic elimination rules (Asset-to-Order anomalies, salary checks), supply-demand capital cycle dynamics, and the TVGP framework (FA-Lec01). This prepares the ground for **FA-Lec02** and **FA-Lec03**, which provide the core statement tools. **FA-Lec02** details the 7-Point Balance Sheet and 7-Point Income Statement frameworks, capacity utilization forecasting, and ratio cutoffs (Debt-to-Equity <0.7x, Asset Turn ```````````<2x vs >```````````2x) (FA-Lec02). **FA-Lec03** bridges accrual accounting to cash reality through the Three-Statement Integration Framework, establishing mandatory CFO conversion benchmarks (B2B 60–70%, B2C 80–90%) and operating leverage mechanics that link fixed asset growth to PAT expansion (FA-Lec03).
 
 With tools established, **CC-FA-Lec04** transitions to automated application by constructing quantitative stock screening engines that combine CANSLIM quarterly acceleration (>15% Sales, >20% PAT), "New" fundamental catalysts, and Stan Weinstein Stage 2 technical breakouts with 26-week Relative Strength (CC-FA-Lec04). **CC-FA-Lec05** synthesizes these pillars into an integrated 4-part research checklist framework (Fundamentals, Technicals, Management, Valuation), applying 3-Factor DuPont ROE decomposition, triple technical confirmation (EMA crossover, RSI >50, green RS), and Bull/Bear/Base scenario valuation modeling (PEG <1.5x) (CC-FA-Lec05). Finally, **CC-FA-Lec06** elevates the curriculum to advanced market execution through Post-Earnings Announcement Drift (PEED) scans, forward capacity P/E modeling, strict weekly VSTOP exit triggers, and 2–4–6–8% portfolio position sizing to navigate real-world market cycles (CC-FA-Lec06).
 
@@ -146,89 +233,70 @@ With tools established, **CC-FA-Lec04** transitions to automated application by 
 
 ### 6. CONSOLIDATED RULES & THRESHOLDS
 
-| Rule / Metric | Benchmark / Condition | Context | Lecture ID |
-| :--- | :--- | :--- | :--- |
-| **CANSLIM Sales & PAT Growth** | YoY Sales > 15%, YoY PAT > 20% | Minimum quarterly acceleration thresholds for screening | CC-FA-Lec04 |
-| **Debt-to-Equity Benchmark / Limit** | Healthy D/E < 0.7x; High Risk > 2.0x (FA-Lec02) \| Ceiling ≤ 1.25x, ideal < 1.0x (0.7x for Aarti) (FA-Lec03) \| Target < 1.0x, caution > 1.0x (CC-FA-Lec05) | Balance sheet solvency evaluation across multiple stages; FA-Lec03 and CC-FA-Lec05 tighten the acceptable ceiling below 1.0x | FA-Lec02, FA-Lec03, CC-FA-Lec05 |
-| **CFO-to-PAT Conversion (B2B)** | CFO ÷ PAT ≥ 60%–70% | Cash conversion efficiency in B2B corporate models | FA-Lec03 |
-| **CFO-to-PAT Conversion (B2C)** | CFO ÷ PAT ≥ 80%–90% (FA-Lec03) \| 10-Year Average CFO/PAT > 80% target (CC-FA-Lec05) | Cash conversion efficiency in B2C and long-term compounder selection | FA-Lec03, CC-FA-Lec05 |
-| **CFO-to-EBITDA Benchmark** | CFO ÷ EBITDA ≥ 60% (FA-Lec02) \| CFO ÷ EBITDA ≥ 80% (FA-Lec03) | Cash conversion against operating earnings; FA-Lec03 tightens the benchmark to 80% for quality cash flows | FA-Lec02, FA-Lec03 |
-| **ROE & ROCE Target Benchmark** | > 15% (India corporate average: 14%–15%) | Return on capital target for high-quality compounders | CC-FA-Lec04, CC-FA-Lec05 |
-| **Fixed Asset Turnover** | < 2x (Asset-Heavy) vs. > 2x (Asset-Light) | Classification of business model capital intensity | FA-Lec02 |
-| **Asset Turn Benchmark** | 1.5x benchmark (Gross Block × Asset Turn = Sales) | Revenue capacity modeling from gross block additions | FA-Lec03 |
-| **Forward PEG Ratio Benchmark** | < 1.5x (Target: 1.0x–1.2x) | Growth valuation cutoff for position commitment | CC-FA-Lec05, CC-FA-Lec06 |
-| **GARP Valuation Band** | P/E Ratio between 15x and 30x (Max 40x) | Entry valuation range for growth-at-a-reasonable-price | CC-FA-Lec04 |
-| **Nifty 50 Entry Valuation Level** | P/E < 20.0x TTM (22,000–22,200 Nifty level) | Macro market entry safety benchmark | CC-FA-Lec05 |
-| **Asset-to-Order Red Flag** | Assets < 1% of orders (e.g., ₹3L vs ₹300 cr) | Forensic fraud detection threshold | FA-Lec01 |
-| **CFO Salary Anomaly** | Salary < ₹50,000/qtr for ₹30,000 cr market cap | Forensic governance red flag | FA-Lec01 |
-| **Promoter Selling Alert** | > 5% equity stake offloaded in 30 days / persistent liquidation | Governance and insider distribution warning | CC-FA-Lec05, CC-FA-Lec06 |
-| **Volume Rocketing Accumulation** | 10-day Avg Vol > 1.5x 20-day Avg Vol (CC-FA-Lec04) \| 5-day volume > 50% above 10-day avg (CC-FA-Lec05) | Institutional accumulation volume surge triggers | CC-FA-Lec04, CC-FA-Lec05 |
-| **Weekly VSTOP Exit Rule** | 2 consecutive negative weekly closes (2x multiplier) | Exit trigger for extended valuations (>100x P/E) or decelerating growth | CC-FA-Lec06 |
-| **Monthly RSI Top Signal** | Monthly RSI < 50 on monthly chart | Structural top warning for long-term compounders | CC-FA-Lec05 |
-| **Position Sizing Framework** | 2%–4% for unproven turnarounds; 6%–8% for high-conviction market leaders | Risk-adjusted portfolio capital allocation framework | CC-FA-Lec06 |
-| **Warrant Regulatory Terms** | 25% cash upfront, 75% within 18 months | Promoter warrant subscription cash flow mechanics | FA-Lec02 |
-| **Cash Conversion Cycle (CCC)** | Receivables + Inventory - Payables | Working capital efficiency metric | FA-Lec02, FA-Lec03 |
-| **Capital Efficiency & Liquidity** | ROCE > 15%, Market Cap > ₹1,000 Cr | Liquidity and baseline quality screening criteria | CC-FA-Lec04 |
-| **Institutional Lapping Query** | FII Change > +1–2% AND DII Change > +1–2% (or FII/DII > +0.5% QoQ) | Quantitative institutional float absorption query | CC-FA-Lec04 |
-| **Earnings Explosion Runway** | 5–6 quarters persistent momentum duration | Forward earnings acceleration horizon | CC-FA-Lec04 |
-| **CANSLIM Acceleration Horizon** | 8 to 12 quarters earnings acceleration | Medium-term operational compounding horizon | FA-Lec02 |
-| **Corporate Tax Baseline** | Standardized 25% tax target | P&L earnings modeling baseline | FA-Lec02 |
-| **Greenfield Hospital Breakeven** | 5–6 years gestation period | Capital project breakeven timeline | FA-Lec03 |
-| **Transmission Capex Multiplier** | 1.75x grid spend per 1x green energy spend | Power sector demand forecasting multiplier | CC-FA-Lec06 |
-| **Mazagon Dock Normalized PBT** | 15% normalized vs 26%–27% peak OPM/PBT | Defense sector peak margin normalization benchmark | CC-FA-Lec06 |
-| **Bank Credit-to-Deposit Ratio** | 85%–87% target vs ~110% post-merger peak | Banking credit growth normalization benchmark | CC-FA-Lec06 |
-| **Stalwart Growth Benchmark** | PBT doubling in 5–6 yrs (10–12% CAGR = GDP) | Peter Lynch Stalwart category classification | FA-Lec01 |
-| **Interest Cost Turnaround** | Interest drop ≥ 75% via debt payoff | Deleveraging turnaround trigger threshold | FA-Lec01 |
-| **Grasim Industry Threat Ratio** | New CAPEX > 50% of industry capital employed | Industry oversupply capital cycle threat benchmark | FA-Lec01 |
-| **VAP EBITDA Margin Delta** | VAP OPM (18.3%) vs Base OPM (12.8%) = +5.5% delta | Product mix margin expansion delta | FA-Lec01 |
-| **Super-Investor Cloning Risk** | Retail allocation > 20–30% vs Fund 1% position | Portfolio risk mismatch in cloning institutional holdings | FA-Lec01 |
+<div class="lecture-grid">
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">Debt-to-Equity Benchmark / Limit</span>
+      <span class="lecture-duration">⏱️ Ceiling ≤ 1.25x, ideal < 1.0x (0.7x for Aarti) (FA-Lec03) \</span>
+      <span class="lecture-pillar">Balance sheet solvency evaluation across multiple stages; FA-Lec03 and CC-FA-Lec05 tighten the acceptable ceiling below 1.0x</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec02_Report">Healthy D/E < 0.7x; High Risk > 2.0x (FA-Lec02) \</a></h4>
+    <p class="lecture-focus">Target < 1.0x, caution > 1.0x (CC-FA-Lec05)</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec02_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec02">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CFO-to-PAT Conversion (B2C)</span>
+      <span class="lecture-duration">⏱️ 10-Year Average CFO/PAT > 80% target (CC-FA-Lec05)</span>
+      <span class="lecture-pillar">FA-Lec03</span>
+      <span class="lecture-pillar">CC-FA-Lec05</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec02_Report">CFO ÷ PAT ≥ 80%–90% (FA-Lec03) \</a></h4>
+    <p class="lecture-focus">Cash conversion efficiency in B2C and long-term compounder selection</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec02_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec02">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">CFO-to-EBITDA Benchmark</span>
+      <span class="lecture-duration">⏱️ CFO ÷ EBITDA ≥ 80% (FA-Lec03)</span>
+      <span class="lecture-pillar">FA-Lec02</span>
+      <span class="lecture-pillar">FA-Lec03</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec01_Report">CFO ÷ EBITDA ≥ 60% (FA-Lec02) \</a></h4>
+    <p class="lecture-focus">Cash conversion against operating earnings; FA-Lec03 tightens the benchmark to 80% for quality cash flows</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec01_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec01">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">Volume Rocketing Accumulation</span>
+      <span class="lecture-duration">⏱️ 5-day volume > 50% above 10-day avg (CC-FA-Lec05)</span>
+      <span class="lecture-pillar">CC-FA-Lec04</span>
+      <span class="lecture-pillar">CC-FA-Lec05</span>
+    </div>
+    <h4 class="lecture-title"><a href="./FA_Lec01_Report">10-day Avg Vol > 1.5x 20-day Avg Vol (CC-FA-Lec04) \</a></h4>
+    <p class="lecture-focus">Institutional accumulation volume surge triggers</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./FA_Lec01_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/fa/FA_Lec01">🎙️ Transcript</a>
+    </div>
+  </div>
+</div>
 
 ---
 
 ### 7. CASE STUDY MATRIX
 
-| Company / Example | Sector | Concepts Demonstrated | Lecture ID(s) |
-| :--- | :--- | :--- | :--- |
-| **Aarti Industries** | Chemicals / Specialty Chemicals | Downcycle operating deleverage, Three-Statement Integration (CFO ₹1,310 cr vs ₹545 cr PAT), revenue potential calculation at 1.5x asset turn on ₹9,300 cr gross block, Debt-to-Equity cutoff (0.7x). | FA-Lec03 |
-| **Apar Industries** | Power / Industrial Goods | Segmental profitability analysis, specialty oil unit margins offsetting conductor/cable margin softness. | FA-Lec02 |
-| **Ashiana Housing** | Real Estate | Project completion accounting delays profit recognition; upcoming deliveries trigger operating leverage to restore 20% historical PAT margins. | CC-FA-Lec06 |
-| **Asian Paints** | Paints / Consumer | Monthly RSI falling below 50 in June 2022 signaling structural multi-year top and 5-year return stagnation (CC-FA-Lec05); Stage 4 technical distribution and falling knife trap (CC-FA-Lec06). | CC-FA-Lec05, CC-FA-Lec06 |
-| **Avanti Feeds** | Aquaculture / Animal Feed | Unproductive cash hoarding (₹1,300 cr in cash/MFs >50% of balance sheet at ~5% yields), ROE dilution from 24% down to 13%. | FA-Lec03 |
-| **Bartronics & Opto Circuits** | Technology / Medical Devices | Uncollected sales, debtor days expanding 10–13 years, receivable write-offs, negative reserves, and bankruptcy. | FA-Lec03 |
-| **Bharat Global** | Agricultural / Trading | Forensic fraud indicator: claiming ₹300 cr potato orders with ₹3 lakh office computers. | FA-Lec01 |
-| **Borosil Renewables & Waaree Energies** | Solar / Renewable Energy | Transitory policy moats: mistaking government anti-dumping duties for permanent structural moats. | CC-FA-Lec05 |
-| **CCL Products** | Coffee / FMCG | Working capital choke during raw material price spikes (green coffee \$95 to \$120), short-term debt expansion while end-demand remained intact. | FA-Lec02 |
-| **DHFL & Yes Bank** | Financials / Banking | Blind institutional cloning risk into distressed stocks without matching portfolio allocation percentages. | FA-Lec01 |
-| **DMart (Avenue Supermarts)** | Retail | Sales growth slowing to 14% (12-quarter low) due to quick-commerce disruption, triggering Stage 4 price markdown. | FA-Lec02 |
-| **EaseMyTrip** | Travel / Technology | Persistent promoter stake liquidation into flat revenue growth as an immediate exclusion filter. | CC-FA-Lec06 |
-| **Glenmark & Usha Martin** | Pharmaceuticals / Steel | Selling loss-making assets/subsidiaries, debt payoff dropping interest cost ≥75%, triggering profit turnarounds. | FA-Lec01 |
-| **GNFC** | Chemicals / Fertilizers | Balance sheet deleveraging from ₹2,000 cr debt (2.5x D/E) down to ₹34 cr, accumulating ₹1,000 cr cash to fund ₹7,000 cr Capex. | FA-Lec02 |
-| **Grasim Industries** | Textiles / Materials | Capital cycle industry threat ratio: new CapEx > 50% of industry capital employed creating oversupply risks. | FA-Lec01 |
-| **Greaves Cotton / Ampere EV** | Auto / Electric Vehicles | Volume Rocketing flagging Vijay Kedia's entry into a ₹5,600 cr EV turnaround vs peer Ola Electric at ₹42,000 cr. | CC-FA-Lec04 |
-| **HDFC Bank** | Banking | Credit-to-Deposit (CD) ratio normalization trap (~110% post-merger capping loan growth at 3% YoY for 2–3 years). | CC-FA-Lec06 |
-| **HEG & Laurus Labs** | Commodities / Pharmaceuticals | Peak shortage margin traps: extrapolating peak cyclical operating margins without multi-year OPM baseline checks. | FA-Lec01 |
-| **IndiaMart InterMESH** | Internet / B2B Platform | Stock dropping 20% despite 100% PAT growth due to customer churn and slowing deferred revenue renewals (CC-FA-Lec04); peak valuation QIP at 105x P/E causing long-term multiple compression losses (CC-FA-Lec05). | CC-FA-Lec04, CC-FA-Lec05 |
-| **Indian Hotels & SAMHI Hotels** | Hospitality / Hotels | SAMHI at 14x EV/EBITDA stagnated due to PE fund selling (Goldman to 0%), while Indian Hotels at 48x EV/EBITDA rallied on 46% institutional holding. | CC-FA-Lec04 |
-| **Mazagon Dock** | Defense / Shipbuilding | Peak operating margin normalization: 26%–27% current peak PBT margin vs 15% normalized management guidance. | CC-FA-Lec06 |
-| **MTAR Technologies & Waaree Tech** | Capital Goods / Renewable Energy | Promoter stake offloading >5% during operational headwinds or speculative narrative rallies. | CC-FA-Lec05 |
-| **Natco Pharma** | Pharmaceuticals | Single-molecule exclusivity cliff: 60% of profits dependent on generic Revlimid facing Q1 FY26 competitor entries. | CC-FA-Lec06 |
-| **NCC** | Infrastructure | Credit rating reports verifying order book (₹48,028 cr vs ₹17,000 cr market cap) and SPV guarantee restrictions. | FA-Lec01 |
-| **Neogen Chemicals** | Specialty Chemicals | Working-capital-heavy cash drain: inventory (₹293 cr) and receivables (₹177 cr) lockup yielding 5-year CFO of ₹16 cr vs ₹176 cr PAT forcing QIP dilution (FA-Lec03); 5-year cumulative PAT of ₹212 cr producing -₹13 cr cumulative CFO (CC-FA-Lec05). | FA-Lec03, CC-FA-Lec05 |
-| **Newgen Software** | Technology / Software | Soft operating leverage: flat Q2 cost base (₹212 cr) against seasonal Q3/Q4 sales surges expanding PAT margins to 28%–36%. | FA-Lec03 |
-| **PG Electroplast** | Consumer Electronics / EMS | Multi-bagger re-rating combining 50% forward PAT growth, 1.1x PEG, PLI incentives, and Stage 2 base breakout @ ₹233–₹244 (CC-FA-Lec05); high P/E multiple drawdown risks in EMS stocks above 150x P/E (CC-FA-Lec06). | CC-FA-Lec05, CC-FA-Lec06 |
-| **PI Industries** | Agrochemicals | Bloated QIP cash (~₹1,000 cr from ₹500+ cr QIP) left un-deployed, diluting ROE from 22.37% down to 13.47%. | CC-FA-Lec05 |
-| **Pricol** | Auto Ancillaries | Shutting loss-making Brazilian units producing ₹477 cr 3-year CFO vs ₹218 cr PAT, de-leveraging debt to 0.16x equity, and self-funding ₹400 cr Capex. | FA-Lec03 |
-| **Rajesh Exports** | Gems & Jewellery | Forensic red flags: paying CFO ₹50,000/qtr at ₹30,000 cr market cap and omitting Cash Flow Statements before stock collapse. | FA-Lec01 |
-| **Sarda Energy & Minerals** | Metals & Mining / Power | IBC acquisition of SKS Power (600 MW thermal) converting unutilized coal blocks into a ₹2,500 cr EBITDA catalyst. | CC-FA-Lec04 |
-| **Shilchar Technologies** | Capital Goods / Transformers | Solar/wind export demand unlocking extreme operating leverage (10x asset turn: ₹400 cr sales on ₹38 cr fixed assets), eliminating debt. | FA-Lec03 |
-| **SRF Limited** | Fluorochemicals / Conglomerate | Muted earnings causing Relative Strength degradation and artificial P/E expansion (CC-FA-Lec04); unproductive Capex expansion (+80% assets vs +60% sales) destroying asset turns and contracting ROE (CC-FA-Lec05). | CC-FA-Lec04, CC-FA-Lec05 |
-| **Sting (Varun Beverages)** | Beverages / FMCG | Fundamental revenue expansion catalyst: 21x sales growth in 4 years (₹100 cr to ₹2,100 cr). | FA-Lec01 |
-| **TCI Express** | Logistics | Stage 4 technical distribution and margin contraction; falling knife trap in declining stocks. | CC-FA-Lec06 |
-| **Thangamayil Jewellery** | Retail / Jewellery | High asset turnover delivering 24.9% ROE vs Kalyan Jewellery's 14.2%, proving operational inventory management beats sector averages. | CC-FA-Lec05 |
-| **Time Technoplast** | Industrial Packaging | Expanding Value-Added Product (VAP) mix toward 35% lifting corporate OPM via a 5.5% OPM delta over base items. | FA-Lec01 |
-| **TRIL (Transformers & Rectifiers India)** | Capital Goods | Tracking concalls for industry capacity additions (top players doubling capacity) before oversupply margin collapse. | FA-Lec01 |
-| **Yasho Industries** | Specialty Chemicals | Fixed block tripling via ₹400 cr Capex depressing PAT via interest/depreciation until plant utilization ramps from 20% to 90%. | FA-Lec02 |
-| **Zen Technologies** | Defense / Technology | Multi-quarter 200%–300% PAT explosion (12x total) compressing 70–75x trailing P/E multiples during Stage 2 breakouts. | CC-FA-Lec06 |
+<div class="lecture-grid">
+</div>
 
 ---
 
@@ -273,4 +341,3 @@ Upon completing the **Mastering Fundamental Analysis** sub-course, an investor p
 *   The summary references explicitly note that this module builds on **Basic business common sense, supply-demand economics, price-volume technicals, and Graham/Munger case-study valuation principles** (FA-Lec01), as well as the **SOIC Technicals course, Variant Perception Class 1, CANSLIM methodology by William O'Neil, and Stan Weinstein 4-Stage Analysis** (CC-FA-Lec04).
 
 ---
-

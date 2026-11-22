@@ -7,14 +7,67 @@ Within the TVGP (Theme, Valuation, Growth, Promoter) framework, this module touc
 
 ## 2. LECTURE INDEX
 
-| Lecture ID | Title | Duration | One-line Focus | TVGP Pillar(s) | Detailed Report |
-| --- | --- | --- | --- | --- | --- |
-| BF-Lec01 | System 1 Can Shake You Out: Behavioural Finance, Portfolio-Level Thinking, and Objective Exit Rules | 00:26:52 | Replacing "reptile brain" panic with portfolio-level anchoring and V-Stop/30-WMA crash checks | Promoter, Valuation | BF_Lec01_Report.md |
-| BF-Lec02 | System 2 Will Clear the Air: Narrative Traps, False Precision ("Physics Envy"), and Bottom-Up Research | 00:25:49 | Rejecting media narratives and valuation precision ("50%–60% art") in favour of System 2 bottom-up research | Theme, Valuation | BF_Lec02_Report.md |
-| BF-Lec03 | Do You Suffer from FOMO? Super Deprival Reaction, Anchor Bias, Endowment Bias, and Incentive-Caused Bias | 00:28:06 | Detecting 200 EMA FOMO peaks, avoiding F&O/price anchors and Endowment Bias, and auditing management incentives | Valuation, Promoter, Growth | BF_Lec03_Report.md |
-| BF-Lec04 | The Power of Incentives: Warrants, Perverse Incentives, 4-Level PLI Thinking, and Course Roadmap | 00:20:57 | Triangulating promoter warrants and capex, spotting perverse/cyclical traps, and 4-level PLI thinking | Promoter, Growth, Theme, Valuation | BF_Lec04_Report.md |
-
-
+<div class="lecture-grid">
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">BF-Lec01</span>
+      <span class="lecture-duration">⏱️ 00:26:52</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Valuation</span>
+    </div>
+    <h4 class="lecture-title"><a href="./BF_Lec01_Report">System 1 Can Shake You Out: Behavioural Finance, Portfolio-Level Thinking, and Objective Exit Rules</a></h4>
+    <p class="lecture-focus">Replacing "reptile brain" panic with portfolio-level anchoring and V-Stop/30-WMA crash checks</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./BF_Lec01_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/bf/BF_Lec01">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">BF-Lec02</span>
+      <span class="lecture-duration">⏱️ 00:25:49</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+    </div>
+    <h4 class="lecture-title"><a href="./BF_Lec02_Report">System 2 Will Clear the Air: Narrative Traps, False Precision ("Physics Envy"), and Bottom-Up Research</a></h4>
+    <p class="lecture-focus">Rejecting media narratives and valuation precision ("50%–60% art") in favour of System 2 bottom-up research</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./BF_Lec02_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/bf/BF_Lec02">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">BF-Lec03</span>
+      <span class="lecture-duration">⏱️ 00:28:06</span>
+      <span class="lecture-pillar">Valuation</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Growth</span>
+    </div>
+    <h4 class="lecture-title"><a href="./BF_Lec03_Report">Do You Suffer from FOMO? Super Deprival Reaction, Anchor Bias, Endowment Bias, and Incentive-Caused Bias</a></h4>
+    <p class="lecture-focus">Detecting 200 EMA FOMO peaks, avoiding F&O/price anchors and Endowment Bias, and auditing management incentives</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./BF_Lec03_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/bf/BF_Lec03">🎙️ Transcript</a>
+    </div>
+  </div>
+  <div class="lecture-card">
+    <div class="lecture-header">
+      <span class="lecture-id">BF-Lec04</span>
+      <span class="lecture-duration">⏱️ 00:20:57</span>
+      <span class="lecture-pillar">Promoter</span>
+      <span class="lecture-pillar">Growth</span>
+      <span class="lecture-pillar">Theme</span>
+      <span class="lecture-pillar">Valuation</span>
+    </div>
+    <h4 class="lecture-title"><a href="./BF_Lec04_Report">The Power of Incentives: Warrants, Perverse Incentives, 4-Level PLI Thinking, and Course Roadmap</a></h4>
+    <p class="lecture-focus">Triangulating promoter warrants and capex, spotting perverse/cyclical traps, and 4-level PLI thinking</p>
+    <div class="lecture-links">
+      <a class="lecture-btn primary" href="./BF_Lec04_Report">📖 Read Report →</a>
+      <a class="lecture-btn secondary" href="/transcripts/bf/BF_Lec04">🎙️ Transcript</a>
+    </div>
+  </div>
+</div>
 
 ## 3. CORE PILLARS OF THE MODULE
 ### Pillar 1: System 1 vs. System 2 & Emotional Discipline (EQ)
@@ -46,14 +99,17 @@ Within the TVGP (Theme, Valuation, Growth, Promoter) framework, this module touc
 
 ## 4. CURRICULUM PROGRESSION MAP
 ### a) Flow Diagram
-```Foundation [BF-Lec01: EQ Primacy, System 1 Traps, Portfolio Anchoring]
+```text
+Foundation [BF-Lec01: EQ Primacy, System 1 Traps, Portfolio Anchoring]
 ↓
 Core Tools [BF-Lec02: Anti-"Physics Envy" (50–60% Art), Lumpy Returns, System 2 Bottom-Up Filtering]
 ↓
 Application [BF-Lec03: FOMO (200 EMA Peak, SEBI F&O Base Rates), Positive Anchoring, Skin in the Game]
 ↓
 Advanced/Integration [BF-Lec04: Warrant/Capex Triangulation, Perverse/Cyclical Traps, 4-Level PLI & Course Filters]
-### ```b) Narrative Progression
+```
+
+### b) Narrative Progression
 BF-Lec01 establishes why psychology precedes stock picking and introduces System 1 vs. System 2 alongside portfolio-level anchoring and crash checklists. BF-Lec02 builds on that foundation by dismantling two major cognitive illusions—linear bull-market expectations and "physics envy"—while showing how deliberate System 2 research filters sector tailwinds bottom-up.
 
 BF-Lec03 then targets the four sharpest retail capital destroyers (FOMO, destructive Anchor Bias, Endowment Bias, and Incentive-Caused Bias), introducing concrete peak-exit and management-alignment checks. Finally, BF-Lec04 deepens incentive analysis into warrant mechanics, balance-sheet CWIP triangulation, perverse incentives, cyclical mean-reversion warnings, and 4-level PLI policy thinking, bridging directly into the upcoming fundamental, technical, valuation, and position-sizing modules.
@@ -70,50 +126,13 @@ BF-Lec03 then targets the four sharpest retail capital destroyers (FOMO, destruc
 
 ## 6. CONSOLIDATED RULES & THRESHOLDS
 
-| Rule/Metric | Benchmark/Condition | Context | Lecture ID |
-| --- | --- | --- | --- |
-| Triangle skimming error rate | 85%–90% failed first read | Demonstrates System 1 automatic reading errors | BF-Lec01 |
-| Bat-and-ball cognitive check | Bat + Ball = ₹110, ₹100 diff → ₹5 (50%–60% picked ₹10) | Exposes intuitive System 1 math trap | BF-Lec01 |
-| Indian market base rate | Every 5-year horizon over 20–35 years positive/strong | Anchors long-term holding through interim drops | BF-Lec01 |
-| Crash hold/exit rule | Hold if valuations cheap & 30-WMA / V-Stop untriggered | Prevents emotional "reptile brain" crash selling | BF-Lec01 |
-| Composition of finance | 50%–60% art, 40%–50% science | Rejects "physics envy" and false valuation precision | BF-Lec02 |
-| Extreme retail valuation (DMart) | ~279x P/E [? verify]; >5 SD / 5x above retail peers | Rough signal of "very expensive" valuation | BF-Lec02 |
-| Sector tailwind signal | Broad sector charts at 52-week highs | Triggers System 2 bottom-up local research | BF-Lec02 |
-| Lily pad exponential check | 48 days to fill → Day 47 is half-full (not Day 24) | Exposes linear guessing on compounding | BF-Lec02 |
-| 200 EMA peak stretch | Price >70%–80% (especially >80%) above 200 EMA | Signals "Eiffel Tower" FOMO peak (with selling vol & Reverse DCF) | BF-Lec03 |
-| SEBI F&O loss base rate | 89%–90% of retail F&O traders lose money | Quantifies negative odds in F&O | BF-Lec03 |
-| Broker / exchange F&O share | Zerodha ~₹2,000 Cr PAT; NSE 80%–85% options revenue | Shows who captures F&O profits | BF-Lec03 |
-| Auditor incentive bias | 31% more likely to accept dubious accounting for company | Empirical proof of incentive-caused bias | BF-Lec03 |
-| Promoter skin in the game | High (80%–100% / 3%–4% buy) vs. Low (2%–3%, 0 ESOPs) | Separates hungry operators from complacent managers | BF-Lec01, BF-Lec03 |
-| Promoter warrant window | 15% upfront (₹15 Cr), 85% over 18 months (₹85 Cr) [? verify] | Signals promoter expectation of 18-month tailwinds | BF-Lec04 |
-| Open-market + capex check | Rising promoter stake + doubling FA/CWIP + 3x AGM capacity | Corroborates insider buying with physical expansion | BF-Lec04 |
-| Crash course scope | 50–60 hr SOIC membership condensed to 24–25 hrs (6–7 wks) | Full curriculum scope beyond Behavioural Finance | BF-Lec04 |
-
-
+<div class="lecture-grid">
+</div>
 
 ## 7. CASE STUDY MATRIX
 
-| Company/Example | Sector | Concepts Demonstrated | Lecture ID(s) |
-| --- | --- | --- | --- |
-| Pricol | Auto Ancillaries | 12% rumor drop near 21-WMA vs. 3%–4% promoter buy & ~50% rally; open-market buying (~₹50 Cr, 36.53%→38.51% [? verify]) | BF-Lec01, BF-Lec04 |
-| IIFL Securities vs. IIFL Finance | BFSI (Broking / Lending) | Conflating sister entities on SEBI ban; ~30% rally (₹470→₹616 [? verify]) | BF-Lec01 |
-| Joint family portfolio & India–Pakistan cricket | Portfolio / Analogy | Loss fixation on 1 red stock (-3% to -4%) vs. aggregate portfolio return | BF-Lec01 |
-| APL [?] / APL Apollo | Unspecified [?] / Steel Pipes | Valuation re-rating (12–17x → ~65x P/E); warrant issue at ₹2,000 before split | BF-Lec02, BF-Lec04 |
-| DMart | Retail | Rough extreme valuation (~279x P/E [? verify], >5 SD above peers) | BF-Lec02 |
-| Real estate (Delhi & Mumbai vs. pan-India) | Real Estate | Applying System 2 to 52-week-high tailwinds via localized bottom-up selection | BF-Lec02 |
-| Donald Trump & S&P 500 (2016–2017) | US Equities / Macro | Same-day price recovery flipping media narrative overnight | BF-Lec02 |
-| IRCTC | Railways / Travel | >80% above 200 EMA ("Eiffel Tower") peak, Reverse DCF excess, emotional attachment | BF-Lec03 |
-| Zerodha, NSE & ₹1.9 Cr P&L fraud | Broking / Exchange / F&O | 89%–90% F&O loss base rate vs. ₹2,000 Cr PAT & 80%–85% options revenue | BF-Lec03 |
-| Wolf of Wall Street (Aerotyne) & Graviton | Media / Quant | Manufactured penny-stock & retail algo FOMO vs. proprietary quant edge | BF-Lec03, BF-Lec04 |
-| Ramdeo Agarwal / Pentamedia [?] & Lay's ₹10 | IT / FMCG | Tax anchoring delaying exit; ₹10 shrinkflation under 6%–7% inflation | BF-Lec03 |
-| Warren Buffett (Dexter Shoes, Chevron, Airlines) | Diversified | $6–8B share-swap loss; cutting losses without Endowment Bias | BF-Lec03 |
-| Unlisted mfg (Nightway [?]) & financier vs. low-stake firm | Mfg / NBFC | 100% family stake (₹100→₹1,000 Cr sales) & 80% collection discipline vs. 2%–3% / 0 ESOPs | BF-Lec03 |
-| HCG, HLE Glascoat [?], Mold-Tek [?], IOL, Care Health | Healthcare / Engg / Packaging / Chem / Insurance | 1.5-yr warrant & Burman takeover thread ahead of 18-month tailwinds | BF-Lec04 |
-| HEG & Graphite India | Graphite Electrodes | Heavy 2017 promoter buying + "specialty" narrative ending in -90% cyclical crash | BF-Lec04 |
-| Galaxy Bearings [?] | Bearings | Promoter stake 48.46%→55% + doubling FA/CWIP + 3x AGM capacity | BF-Lec04 |
-| Vietnam rat-tail bounty & India PLI (Dielectric films [?]) | Historical / Electronics | Perverse incentives vs. 4-level policy value-chain thinking (How Asia Works) | BF-Lec04 |
-
-
+<div class="lecture-grid">
+</div>
 
 ## 8. COMMON MISTAKES & RED FLAGS ACROSS THE MODULE
 **Letting System 1 react to headlines, rumors, and short-term price drops**: Panic selling unrelated group entities (IIFL Finance), reacting to Telegram rumors near moving averages (Pricol), or trading sensational macro/media narratives (BF-Lec01, BF-Lec02).

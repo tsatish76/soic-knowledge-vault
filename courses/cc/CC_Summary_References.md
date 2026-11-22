@@ -28,12 +28,12 @@ Long-term multibaggers stem from identifying asymmetric operating inflections—
 | Rule/Formula | Value/Condition | Stage |
 | :---: | :---: | :---: |
 | **Idea Frequency Hurdle** | 1 to 2 high-conviction ideas every 1 to 2 years | Stage 2 |
-| **Sector Beta Attribution** | \$\\approx 60%\$ of total individual equity performance | Stage 7 |
-| **Stage 2 Trend Filter** | \$\\text{Price} \> \\text{EMA}\_{30\\text{-Week}}\$ (positive slope) AND \$\\text{Relative Strength} \> 0\$ | Stage 10 |
-| **Market Cap Sweet Spot** | ₹1,000 Cr \$\<\$ Market Cap \$\<\$ ₹15,000 Cr; \$0%\$ promoter pledge | Stage 11 |
-| **Deleveraging Screen** | \$\\text{Debt}*{\\text{Current}} \< \\text{Debt}*{3\\text{Yrs Prior}}\$, 3Yr PAT CAGR \$\>15%\$, ROCE rising, \$\\text{P/E} \< 30\\times\$ | Stage 11 |
-| **PEAD Drift Condition** | Quarterly YoY Sales Growth \$\>20%\$ AND PAT Growth \$\>20%\$, \$\\text{P/E} \< 30\\times\$ | Stage 11 |
-| **CWIP Capex Trigger** | \$\\text{CWIP} \> \\text{Net Block}\$ (indicates \$\\ge 100%\$ capacity expansion underway) | Stage 12 |
+| **Sector Beta Attribution** | $\approx 60%$ of total individual equity performance | Stage 7 |
+| **Stage 2 Trend Filter** | $\text{Price} \> \text{EMA}\_{30\text{-Week}}$ (positive slope) AND $\text{Relative Strength} \> 0$ | Stage 10 |
+| **Market Cap Sweet Spot** | ₹1,000 Cr $\<$ Market Cap $\<$ ₹15,000 Cr; $0%$ promoter pledge | Stage 11 |
+| **Deleveraging Screen** | $\text{Debt}*{\text{Current}} \< \text{Debt}*{3\text{Yrs Prior}}$, 3Yr PAT CAGR $\>15%$, ROCE rising, $\text{P/E} \< 30\times$ | Stage 11 |
+| **PEAD Drift Condition** | Quarterly YoY Sales Growth $\>20%$ AND PAT Growth $\>20%$, $\text{P/E} \< 30\times$ | Stage 11 |
+| **CWIP Capex Trigger** | $\text{CWIP} \> \text{Net Block}$ (indicates $\ge 100%$ capacity expansion underway) | Stage 12 |
 | **Portfolio Concentration** | 15–25 stocks total (ceiling: 30); Core 6–8%, Satellite 2–4% | Stage 12, 14 |
 
 ### 4\. Key examples
@@ -83,23 +83,23 @@ Superior investment returns require generating variant perception by identifying
 
 | Rule/Formula | Value/Condition | Stage |
 | :---: | :---: | :---: |
-| **Promoter Warrant Terms** | 15% cash upfront; 85% conversion window within \$\\le\$ 18 months | Stage 2 |
-| **Operating Leverage Heuristic** | Depr. Growth \$\>\$ Sales Growth; Latent Value \= Target Gross Block \$\\times\$ Asset Turn | Stage 7 |
+| **Promoter Warrant Terms** | 15% cash upfront; 85% conversion window within $\le$ 18 months | Stage 2 |
+| **Operating Leverage Heuristic** | Depr. Growth $\>$ Sales Growth; Latent Value \= Target Gross Block $\times$ Asset Turn | Stage 7 |
 | **Capex Inflection Threshold** | Discretionary Capex triggers when capacity utilization crosses 70%–75% | Stage 6 |
 | **Cable Volume Multiplier** | Baseline cable volume growth \= 1.5x to 2.0x Real GDP growth | Stage 6 |
 | **EPFO Expansion Rate** | Headcount expansion of \+30% to \+40% YoY signals operational scaling | Stage 8 |
-| **Specialty API Pricing Floor** | Realizations \$\>\$ \$2,000–\$5,000/kg (commodity APIs priced \$\<\$ \$100/kg) | Stage 12 |
-| **Power Sector Capital Efficiency** | Transformer/Ancillary RoE (15%–20%+) \$\>\$ Utility Genco RoE (10%–12%) | Stage 13 |
-| **Stage 2 Technical Filter** | Stock price above rising 30-WEMA \+ Mansfield Relative Strength \$\>\$ 0 | Stage 4 |
+| **Specialty API Pricing Floor** | Realizations $\>$ $2,000–$5,000/kg (commodity APIs priced $\<$ $100/kg) | Stage 12 |
+| **Power Sector Capital Efficiency** | Transformer/Ancillary RoE (15%–20%+)$\>$Utility Genco RoE (10%–12%) | Stage 13 |
+| **Stage 2 Technical Filter** | Stock price above rising 30-WEMA + Mansfield Relative Strength$\>$0 | Stage 4 |
 
 ### 4\. Key examples
 
-- **Laurus Labs** → 40% idle gross block in FY19 produced massive operating leverage and a 10x PAT advance into Stage 2, followed by operating deleverage when the \$1B revenue guidance failed → Stage 4 `[00:33:56–00:45:25]`.  
+- **Laurus Labs** → 40% idle gross block in FY19 produced massive operating leverage and a 10x PAT advance into Stage 2, followed by operating deleverage when the$1B revenue guidance failed → Stage 4 `[00:33:56–00:45:25]`.  
 - **RACL Geartech** → Maintained 20%–25% OPM, sweated the Shakti plant to 95% utilization, and de-risked debt by 50% via internal cash generation backed by ZF Commercial's 3x sourcing agreement → Stage 5 `[00:48:34–01:05:32]`.  
 - **Polycab India** → Served as a macroeconomic bellwether, tracking public budgetary Capex absorption (target 80% by December), private Capex recovery, and real estate execution → Stage 6 `[01:08:25–01:20:36]`.  
 - **Aarti Industries** → Ongoing ₹3,000+ Cr Capex downcycle creates a ₹9,000 Cr gross block, structurally capable of delivering ₹13,500 Cr sales and ₹3,000+ Cr operating profit at normalized 1.5x asset turn → Stage 7 `[01:34:26–01:42:32]`.  
 - **Arman Financial & SRF** → EPFO portal filings verified field branch expansion (headcount grew 635 to 789\) and plant-level chemical staffing growth (2,484 to 2,858 personnel) → Stage 8 `[02:10:21–02:14:36]`.  
-- **Usha Martin & LG Balakrishnan** → Credit rating reports revealed balance sheet de-risking, promoter share accumulation, and LGB's 60% market share with \$\>\$30% high-margin aftermarket sales protecting cash flows → Stage 11 `[02:32:41–02:44:30]`.  
+- **Usha Martin & LG Balakrishnan** → Credit rating reports revealed balance sheet de-risking, promoter share accumulation, and LGB's 60% market share with $\>$30% high-margin aftermarket sales protecting cash flows → Stage 11 `[02:32:41–02:44:30]`.  
 - **Astec LifeSciences** → Surging earnings represented an "over-earning trap" driven by temporary 3-year peak realizations in propiconazole rather than structural volume growth → Stage 12 `[03:01:08–03:02:34]`.
 
 ### 5\. Cautions & red flags
@@ -134,7 +134,7 @@ Fundamental analysis determines *what* to buy (business quality, forensic hygien
 
 - **Weinstein Price-Volume Duality & 4 Regimes:** Treat price as the trend former and volume as the weight of the evidence; require expanding green volume on breakouts, low volume during sideways pauses (strong hands holding), and treat multi-year high volume after a prolonged downtrend as a selling climax ("ditch") → CC-Lec03 – Stage 3 & Stage 4\.  
 - **9 Fundamental Growth Catalysts & Inversion Rule:** Map breakouts to 9 earnings drivers (new product, geography, end-user Capex, client mining, market share, sector growth, new brand, distribution, or acquisitions at \~1/3rd replacement cost) and invert them (e.g., rival Capex glut or client slowdown) to trigger structural exits → CC-Lec03 – Stage 5\.  
-- **Multi-Timeframe Relative Strength (Modulus vs. `NSE:CNX500`):** Track comparative performance above the `0` baseline using lookbacks of 3/6 months (Monthly), 13/26 or 6–7 weeks (Weekly), and 30/61–62 days (Daily), paired with MarketSmith `Growth 50` (\$\\text{RS} \\ge 80\$) and `Blue Dot` (\$\\text{RS} \\ge 75\$) screens → CC-Lec03 – Stage 6, Stage 7 & Stage 8\.  
+- **Multi-Timeframe Relative Strength (Modulus vs. `NSE:CNX500`):** Track comparative performance above the `0` baseline using lookbacks of 3/6 months (Monthly), 13/26 or 6–7 weeks (Weekly), and 30/61–62 days (Daily), paired with MarketSmith `Growth 50` ($\text{RS} \ge 80$) and `Blue Dot` ($\text{RS} \ge 75$) screens → CC-Lec03 – Stage 6, Stage 7 & Stage 8\.  
 - **Circle of Expectations & Weinstein 4-Stage Darvas Box Analysis:** Align entries with Stage 2 high-volume breakouts from 2–5 year rectangular Stage 1 Darvas bases ("longer the base, bigger the breakout") while strictly avoiding Stage 4 downtrends → CC-Lec03 – Stage 10\.  
 - **3-Tier EMA & V-Stop Exit System:** Harvest parabolic "Eiffel Tower" runners using the daily 200-EMA extension rule (`>80%–100%+` stretch) or `10-week EMA` (50% on 1st break, 100% on 2nd), and exit core holdings 50/50 via `Volatility Stop (Length 10, Multiplier 2.0)` turning red and `30-week EMA` breakdown → CC-Lec03 – Stage 9 & Stage 11\.  
 - **4-Part Stage 2 Buying Setup (`SOIC LTI`) & Pyramiding:** Enter when weekly Price \> upward-sloping `30-week EMA`, `26-week RS > 0`, `RSI > 50`, and `ADX > 20`; pyramid via `Donchian Channels (20)` upper-band cuts or `Parabolic SAR (0.02, 0.2)` → CC-Lec03 – Stage 12\.
@@ -145,12 +145,12 @@ Fundamental analysis determines *what* to buy (business quality, forensic hygien
 | :---: | :---: | :---: |
 | **Levy 26-Week RS Spread & Sector Rule** | Top 10% RS \= **\+9.6%** vs Bottom 10% \= **\+2.9%** (26W); **60%** of return \= sector | Stage 6 |
 | **RS (Modulus vs `NSE:CNX500`) Lookbacks** | **\> 0** outperform; Monthly **3/6**, Weekly **13/26** (adv **6–7**; IPO **3**), Daily **30/61–62** | Stage 7, 11 |
-| **MarketSmith RS Screening Cutoffs** | `Growth 50` **RS Rating \$\\ge 80\$**; `Blue Dot` **RS Rating \$\\ge 75\$** | Stage 8 |
+| **MarketSmith RS Screening Cutoffs** | `Growth 50` **RS Rating $\ge 80$**; `Blue Dot` **RS Rating $\ge 75$** | Stage 8 |
 | **Climax Top `200-Day EMA` Extension** | Daily Price **\> 80% to 100%+** above 200-DMA \+ 80–120x P/E \+ climax volume → Exit 100% | Stage 9 |
 | **Parabolic `10-Week EMA` Exit** | 2–3x in 3M or 5–6x in 1Y → **Sell 50%** on 1st break, **100%** on 2nd break | Stage 9 |
 | **Core 50/50 Dual Exit (`V-Stop` \+ `30-W EMA`)** | **Sell 50%** when W/M `V-Stop (10, 2.0/2.5)` turns red \+ **50%** on `30-W EMA` break | Stage 9, 11 |
 | **Last-Cycle Winner & Stage 4 Rules** | **88%** of cycle winners lag next cycle (**4–5 yr** recovery); **Never buy Stage 4** | Stage 10, 11 |
-| **4-Part Weekly Buy Setup & Pyramiding** | `30-W EMA` \$\\uparrow\$ \+ `RS > 0` \+ `RSI > 50` \+ `ADX > 20`; pyramid on `Donchian (20)` upper cut | Stage 12 |
+| **4-Part Weekly Buy Setup & Pyramiding** | `30-W EMA` $\uparrow$ \+ `RS > 0` \+ `RSI > 50` \+ `ADX > 20`; pyramid on `Donchian (20)` upper cut | Stage 12 |
 
 ### 4\. Key examples
 
@@ -193,22 +193,22 @@ Accrual P\&L profits alone deceive investors unless bridged to the Balance Sheet
 
 - **5-Year CFO vs. PAT & Debt-to-3Yr-CFO Solvency Test:** Compare cumulative CFO against PAT and total debt to spot working-capital traps and predict QIP equity dilution → CC-Lec04 – Stage 2\.  
 - **Concall-to-Internal-Accrual Capex Audit:** Verify management's revenue CAGR guidance against Net Block doubling and 3-year projected CFO run-rate → CC-Lec04 – Stage 4\.  
-- **Operating Leverage & Gross Block Revenue Power:** Track idle-asset drag during gestation (5–6 years in hospitals), flat cost bases in IT, and \$(\\text{Gross Block} \+ \\text{Capex}) \\times \\text{Asset Turn}\$ for upcycle earnings → CC-Lec04 – Stage 5, Stage 6 & Stage 8\.  
+- **Operating Leverage & Gross Block Revenue Power:** Track idle-asset drag during gestation (5–6 years in hospitals), flat cost bases in IT, and $(\text{Gross Block} + \text{Capex}) \times \text{Asset Turn}$ for upcycle earnings → CC-Lec04 – Stage 5, Stage 6 & Stage 8\.  
 - **3-Statement Capital Allocation Lens:** Trace share buybacks (CFF outflow, ↑ EPS, ↓ Equity → ↑ ROE) vs. unproductive cash hoarding compressing ROE → CC-Lec04 – Stage 9 & Stage 10\.  
-- **DuPont ROCE & NWC Days Link:** Connect \$\\text{NWC Days} \= \\text{Receivable} \+ \\text{Inventory} \- \\text{Payable Days}\$ to lower Capital Employed and higher ROCE → CC-Lec04 – Stage 11\.
+- **DuPont ROCE & NWC Days Link:** Connect $\text{NWC Days} = \text{Receivable} + \text{Inventory} - \text{Payable Days}$ to lower Capital Employed and higher ROCE → CC-Lec04 – Stage 11\.
 
 ### 3\. Rules, thresholds & formulas
 
 | Rule/Formula | Value/Condition | Stage |
 | :---: | :---: | :---: |
 | **B2B / B2C CFO-to-PAT Floor** | **B2B: ≥ 60%–70%**; **B2C: ≥ 80%–90%** | Stage 12 |
-| **Debt-to-Equity Cap (Neogen)** | \$\< 1.25\\text{x}\$ (ideally \$\< 1.0\\text{x}\$); check Debt vs. 3-Yr CFO | Stage 2 |
+| **Debt-to-Equity Cap (Neogen)** | $\< 1.25\text{x}$ (ideally $\< 1.0\text{x}$); check Debt vs. 3-Yr CFO | Stage 2 |
 | **Asset-Light Fixed Asset Turn** | \~10x Sales ÷ Fixed Assets (including brownfield debottlenecking) | Stage 5 |
 | **Greenfield Hospital Breakeven** | **5 to 6 years** before operating leverage unlocks | Stage 6 |
-| **Net Working Capital (NWC) Days** | \$\\text{Receivable Days} \+ \\text{Inventory Days} \- \\text{Payable Days}\$ | Stage 11 |
-| **DuPont ROCE** | \$(\\text{EBIT} \\div \\text{Sales}) \\times (\\text{Sales} \\div \\text{Capital Employed})\$ | Stage 11 |
-| **Future Revenue Power** | \$(\\text{Current Gross Block} \+ \\text{Capex}) \\times \\text{Guided Asset Turn}\$ | Stage 8 |
-| **P\&L Margin Waterfall** | \$\\text{Sales} \\rightarrow \\text{GP} \\rightarrow \\text{EBITDA} \\rightarrow \\text{EBIT} \\rightarrow \\text{PBT} \\rightarrow \\text{PAT} \\rightarrow \\text{EPS}\$ | Stage 12 |
+| **Net Working Capital (NWC) Days** | $\text{Receivable Days} + \text{Inventory Days} - \text{Payable Days}$ | Stage 11 |
+| **DuPont ROCE** | $(\text{EBIT} \div \text{Sales}) \times (\text{Sales} \div \text{Capital Employed})$ | Stage 11 |
+| **Future Revenue Power** | $(\text{Current Gross Block} + \text{Capex}) \times \text{Guided Asset Turn}$ | Stage 8 |
+| **P\&L Margin Waterfall** | $\text{Sales} \rightarrow \text{GP} \rightarrow \text{EBITDA} \rightarrow \text{EBIT} \rightarrow \text{PBT} \rightarrow \text{PAT} \rightarrow \text{EPS}$ | Stage 12 |
 
 ### 4\. Key examples
 
@@ -260,11 +260,11 @@ Starting valuations govern multi-year odds: paying 70x–230x P/E on peak margin
 
 | Rule/Formula | Value/Condition | Stage |
 | :---: | :---: | :---: |
-| **PEG Buy Zone** | \$\\text{P/E} \\div \\text{Growth %} \< \\mathbf{1.5x\\text{–}2.0x}\$ (ideal **0.6x**; **\<1.0x** on surprises) | Stage 3, 8 |
+| **PEG Buy Zone** | $\text{P/E} \div \text{Growth %} \< \mathbf{1.5x\text{–}2.0x}$ (ideal **0.6x**; **\<1.0x** on surprises) | Stage 3, 8 |
 | **High-P/E Danger Zone** | **\> 40x–45x P/E** risky for most businesses; **220–230x** retail ceiling | Stage 3, 5 |
-| **Earnings Yield** | \$(1 \\div \\text{P/E}) \\times 100\$ (10x \= 10%; 20x \= 5%) | Stage 6 |
-| **Core Adjusted P/E** | \$\\text{Market Cap} \\div (\\text{Reported PAT} \- \\text{One-Off PAT})\$ | Stage 8 |
-| **Forward P/E Horizon** | \$\\text{Current Mcap} \\div \\text{Year-2 Est. PAT}\$ (max **2 years**) | Stage 9 |
+| **Earnings Yield** | $(1 \div \text{P/E}) \times 100$ (10x \= 10%; 20x \= 5%) | Stage 6 |
+| **Core Adjusted P/E** | $\text{Market Cap} \div (\text{Reported PAT} - \text{One-Off PAT})$ | Stage 8 |
+| **Forward P/E Horizon** | $\text{Current Mcap} \div \text{Year-2 Est. PAT}$ (max **2 years**) | Stage 9 |
 | **Governance Rejection** | Missing CFO or shady governance → avoid even at 10x P/E | Stage 7 |
 | **Market Cycle Cadence** | \~1.5–2 bull (3–4 yr) & \~2 bear (2–2.5 yr) markets per 10 years | Stage 4 |
 | **Exorbitant PEG** | 100x P/E on 10% growth \= **10x PEG** | Stage 10 |
@@ -320,9 +320,9 @@ Multi-bagger compounding fires both engines—earnings growth (capped around 34%
 | :---: | :---: | :---: |
 | **Five Valuation Guardrails** | **PEG \< 1.5–2x**, **P/S \< 3x**, **P/E \< 35x**, **P/CF \< 22–23x**, **EV/EBITDA \< 20–22x** | Stage 7 |
 | **10-Yr Earnings Ceiling** | **34%–35% CAGR** max; mega-winners start at **10x–25x** (rarely \>35x) | Stage 3 |
-| **Enterprise Value (EV)** | \$\\text{Market Cap} \+ \\text{Total Debt} \- \\text{Cash}\$ | Stage 5 |
+| **Enterprise Value (EV)** | $\text{Market Cap} + \text{Total Debt} - \text{Cash}$ | Stage 5 |
 | **EV/EBITDA Asset Filter** | Use for asset-heavy (hospitals, cement, steel); skip for CDSL/IEX (\~4% depr.) | Stage 5 |
-| **PEG Entry Ceiling** | \$\\text{P/E} \\div \\text{EPS Growth %} \\le \\mathbf{2.0x}\$ (sweet spot **1.0x–1.5x**) | Stage 4, 7 |
+| **PEG Entry Ceiling** | $\text{P/E} \div \text{EPS Growth %} \le \mathbf{2.0x}$ (sweet spot **1.0x–1.5x**) | Stage 4, 7 |
 | **V-Stop Timeframes** | Weekly \= early entry/exit (more whipsaws); Monthly \= trend ride (1.5x momentum) | Stage 7 |
 
 ### 4\. Key examples
@@ -364,8 +364,8 @@ Buying quality companies at \>50x–60x P/E ("Buy at Any Price") underperforms t
 ### 2\. Frameworks & methods
 
 - **Capital Cycle & Multiples Mismatch:** Track QIP/IPO inflows (euphoria) vs. Capex deferrals (consolidation); pair low relative P/E, P/B, P/S, or EV/EBITDA with ROE/ROIC/growth inflections and DII-friendly governance → CC-Lec07 – Stage 2\.  
-- **Bull/Base/Bear P\&L Scenario Modeling:** Project 3–4 yr Sales and EBITDA from concalls/credit ratings, deduct Capex depreciation (\$\\text{Capex} \\div 10\\text{ yrs}\$ or fixed % of sales) and 9% incremental debt interest, apply exit P/Es, and demand **\>15% Base Case CAGR** for Margin of Safety → CC-Lec07 – Stage 3\.  
-- **10-Year DCF & Reverse DCF Mindset:** Discount 10-yr Owner's Earnings (\$\\text{CFO} \- \\text{Maintenance Capex}\$) plus Gordon Growth Terminal Value (\$g \= 4%\$, \~60% of value) at \$r \= 10%\$ (vs. 6% FII rate); use Reverse DCF to expose aggressive implied growth at 125x P/E → CC-Lec07 – Stage 4 & Stage 5\.  
+- **Bull/Base/Bear P\&L Scenario Modeling:** Project 3–4 yr Sales and EBITDA from concalls/credit ratings, deduct Capex depreciation ($\text{Capex} \div 10\text{ yrs}$ or fixed % of sales) and 9% incremental debt interest, apply exit P/Es, and demand **\>15% Base Case CAGR** for Margin of Safety → CC-Lec07 – Stage 3\.  
+- **10-Year DCF & Reverse DCF Mindset:** Discount 10-yr Owner's Earnings ($\text{CFO} - \text{Maintenance Capex}$) plus Gordon Growth Terminal Value ($g = 4%$, \~60% of value) at $r = 10%$ (vs. 6% FII rate); use Reverse DCF to expose aggressive implied growth at 125x P/E → CC-Lec07 – Stage 4 & Stage 5\.  
 - **Wyckoff Stages, Late-Stage Bases & 6 Exits:** Count Stage 2 bases (Bases ≥ 3–5 carry post-QIP topping risk) and enforce 6 mechanical exits (10/20/30-W EMA, Weekly/Monthly V-Stop, \>80% gap above 150 EMA, or selling into \+120%–130% 2-month spikes) → CC-Lec07 – Stage 6\.  
 - **Cyclical Trough-to-Peak Valuation:** Multiply post-Capex Gross Block by asset turnover and up-cycle OPM to value Peak EBITDA at 7x–10x EV/EBITDA (or 2x P/S), entering on a high-volume 30-W EMA breakout → CC-Lec07 – Stage 7\.
 
@@ -375,20 +375,24 @@ Buying quality companies at \>50x–60x P/E ("Buy at Any Price") underperforms t
 | :---: | :---: | :---: |
 | **PEG & Starting P/E Rule** | **PEG ≤ 1.5x** (**≤ 2.0x** consumer only); **30x–40x P/E** sweet spot (\>50x–75x \= \-8% alpha) | Stage 1 |
 | **Base Case MoS Hurdle** | **Base Case CAGR \> 15%** via Excel `RATE(nper, 0, -Current_MCap, Future_MCap)` | Stage 3 |
-| **Depreciation & Debt Shortcuts** | \$\\text{Depr.} \= \\text{Capex} \\div 10\\text{–}15\\text{ yrs}\$ (or constant % of sales); \$\\text{Debt Interest} \= \\mathbf{9%}\$ | Stage 3 |
-| **Owner's Earnings & Terminal Value** | \$\\text{FCF} \= \\text{CFO} \- \\text{Depr.}\$; \$\\text{TV}*{10} \= \[\\text{CF}*{10} \\times (1+g)\] \\div (r-g)\$ at \$g \= \\mathbf{4%}\$, \$r \= \\mathbf{10%}\$ (FII **6%**) | Stage 4 |
+| **Depreciation & Debt Shortcuts** | $\text{Depr.} = \text{Capex} \div 10\text{–}15\text{ yrs}$ (or constant % of sales); $\text{Debt Interest} = \mathbf{9%}$ | Stage 3 |
+| **Owner's Earnings & Terminal Value** | $\text{FCF} = \text{CFO} - \text{Depr.}$; \$\\text{TV}*{10} \= 
+$$
+CF*{10} × (1+g)
+$$
+ \\div (r-g)$at$g \= \\mathbf{4%}$,$r \= \\mathbf{10%}$(FII **6%**) | Stage 4 |
 | **Terminal Cap & SME Sizing** | **20x–25x P/E** cap for EV-disrupted ancillaries; **≤ 10%–12%** PF weight in SME/froth | Stage 5 |
-| **Late-Stage Base & 2-4-6-8% Rule** | **Base ≥ 3–5** \= high failure risk; **20–25 stocks max** (**4% min, 6% core, 8%–10% max**) | Stage 6 |
-| **6 Technical Exit Triggers** | \+120%–130% 2M spike; **10/20/30-W EMA** breaks; **W/M V-Stop** (1.5x–2x); **\>80% above 150 EMA** | Stage 6 |
-| **Cyclical Peak Valuation** | \$\\text{Gross Block} \\times \\text{Turn} \\times \\text{Peak OPM} \\times \\mathbf{7x\\text{–}10x\\text{ EV/EBITDA}}\$ (or **2x P/S**) \+ **30-W EMA** break | Stage 7 |
+| **Late-Stage Base & 2-4-6-8% Rule** | **Base ≥ 3–5** = high failure risk; **20–25 stocks max** (**4% min, 6% core, 8%–10% max**) | Stage 6 |
+| **6 Technical Exit Triggers** | +120%–130% 2M spike; **10/20/30-W EMA** breaks; **W/M V-Stop** (1.5x–2x); **\>80% above 150 EMA** | Stage 6 |
+| **Cyclical Peak Valuation** |$\\text{Gross Block} \\times \\text{Turn} \\times \\text{Peak OPM} \\times \\mathbf{7x\\text{–}10x\\text{ EV/EBITDA}}$(or **2x P/S**) + **30-W EMA** break | Stage 7 |
 
 ### 4\. Key examples
 
 - **21-Stock BAP Basket & Fine Organics** → FY19 \>50x–60x P/E basket returned 94% vs. Nifty's 97.8%; Fine Organics de-rated from 81x to \~45x normalized P/E on a 2-yr SEZ Capex delay and 34%–36% peak margins → Stage 1 & Stage 2 `[00:03:34–00:08:13, 00:47:40–00:51:34]`.  
 - **Balaji Amines, Garware Hi-Tech & APL Apollo** → Unrelated hotel (Balaji 37x vs. Alkyl 68x) and ₹50 Cr subsidiary charge (Garware Hi-Tech) triggered DII vetoes, while Apollo Tricoat merger re-rated APL Apollo from 30x to 60x–70x P/E → Stage 2 `[00:52:22–00:58:30]`.  
 - **RACL Geartech vs. Technocraft Industries** → RACL (₹1,323 Cr MCap) gave 9% Base CAGR (needs 15%–18% dip to ₹1,000–1,100 Cr for 16% Base CAGR); Technocraft (CRISIL A+, 82% value-added mix) gave 24% Base and 52% Bull CAGR → Stage 3 `[01:00:47–01:44:20]`.  
-- **Varun Beverages & Kaynes Technology** → VBL 10-yr DCF valued ₹1,300 Cr FCF at ₹66,388 Cr (₹510/sh @ 10% \$r\$) vs. ₹2,26,808 Cr (₹1,744/sh @ 6% FII \$r\$); Kaynes (125x P/E, ₹121 Cr PAT) Reverse DCF required 53%–60% 5-yr CAGR for 20%–25% returns → Stage 4 & Stage 5 `[02:16:47–02:51:25]`.  
-- **Borosil Renewables, Rajratan, Sequent, Apar & Thirumalai** → V-Stop saved 15M pain in Rajratan (40x P/E, 21% OPM) whereas ignoring exits round-tripped Sequent (₹160 \$\\rightarrow\$ ₹340 \$\\rightarrow\$ ₹160); Thirumalai (₹1,500 Cr Gross Block \$\\times\$ 3x turn \$\\times\$ 20% OPM \= ₹900 Cr Peak EBITDA) valued at ₹6,300–9,000 Cr → Stage 6 & Stage 7 `[02:55:15–03:26:23]`.
+- **Varun Beverages & Kaynes Technology** → VBL 10-yr DCF valued \text{₹}1,300 Cr FCF at \text{₹}66,388 Cr (\text{₹}510/sh @ 10%$r$) vs. \text{₹}2,26,808 Cr (\text{₹}1,744/sh @ 6% FII$r$); Kaynes (125x P/E, \text{₹}121 Cr PAT) Reverse DCF required 53%–60% 5-yr CAGR for 20%–25% returns → Stage 4 & Stage 5 `[02:16:47–02:51:25]`.  
+- **Borosil Renewables, Rajratan, Sequent, Apar & Thirumalai** → V-Stop saved 15M pain in Rajratan (40x P/E, 21% OPM) whereas ignoring exits round-tripped Sequent (\text{₹}160 → \text{₹}340 → \text{₹}160); Thirumalai (\text{₹}1,500 Cr Gross Block$\\times$3x turn$\\times\$ 20% OPM \= ₹900 Cr Peak EBITDA) valued at ₹6,300–9,000 Cr → Stage 6 & Stage 7 `[02:55:15–03:26:23]`.
 
 ### 5\. Cautions & red flags
 

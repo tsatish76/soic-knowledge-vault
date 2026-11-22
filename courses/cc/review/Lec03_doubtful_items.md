@@ -11,11 +11,11 @@
 
 ### A. Concepts Only Briefly Mentioned (Not Elaborated in the Lecture)
 
-- **Balaji Amines' Solapur Manufacturing Plant Geography \[00:03:30–00:04:15\]:** Mentioned briefly during the attendee roll-call when a participant joined from Solapur, Maharashtra.  
-- **SOIC Level 4 (L4) & Level 5 (L5) Advanced Technical Backtesting Modules \[00:07:08–00:08:27, 03:31:45–03:33:39\]:** Referenced as the advanced courses where the 4-part buying setup was backtested in detail.  
-- **Screener.in Fundamental Filtration Queries & Operating Leverage Mechanics \[00:06:37, 00:54:59–00:55:30, 02:00:37\]:** Referenced as having been covered in the preceding Crash Course session (Class 4).  
-- **Upcoming Valuation Workshop for Real Estate (Kolte-Patil) & Retail (DMart) \[01:56:19–01:56:40, 02:53:33–02:54:00\]:** Deferred to Classes 7–9 (Valuation Part 1–3).  
-- **Macroeconomic View Discussion \[03:49:45–03:50:15\]:** Deferred to a 15–20 minute segment at the upcoming Sunday offline workshop in Delhi.
+- **Balaji Amines' Solapur Manufacturing Plant Geography [00:03:30–00:04:15]:** Mentioned briefly during the attendee roll-call when a participant joined from Solapur, Maharashtra.  
+- **SOIC Level 4 (L4) & Level 5 (L5) Advanced Technical Backtesting Modules [00:07:08–00:08:27, 03:31:45–03:33:39]:** Referenced as the advanced courses where the 4-part buying setup was backtested in detail.  
+- **Screener.in Fundamental Filtration Queries & Operating Leverage Mechanics [00:06:37, 00:54:59–00:55:30, 02:00:37]:** Referenced as having been covered in the preceding Crash Course session (Class 4).  
+- **Upcoming Valuation Workshop for Real Estate (Kolte-Patil) & Retail (DMart) [01:56:19–01:56:40, 02:53:33–02:54:00]:** Deferred to Classes 7–9 (Valuation Part 1–3).  
+- **Macroeconomic View Discussion [03:49:45–03:50:15]:** Deferred to a 15–20 minute segment at the upcoming Sunday offline workshop in Delhi.
 
 ### B. Items Marked `[?]`, `[? verify]` or `[? Hindi segment unclear]` (To Verify Against Video Recording)
 

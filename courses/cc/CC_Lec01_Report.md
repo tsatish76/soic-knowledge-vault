@@ -378,8 +378,8 @@ Sources of Earnings Growth:
 
 ##### 1. New Product Introduction and Category Layering
 Leading businesses layer new high-margin revenue engines on top of legacy infrastructure:
-* **The Amazon Model:** Began with online book retailing, scaling its core retail marketplace from \$76.86 billion to \$220 billion by 2022 [[00:31:28](/transcripts/cc/CC_Lec01?t=1888)] [Slide 6]. Crucially, Amazon incubated Amazon Web Services (AWS) cloud infrastructure, which expanded from \$10 billion to \$80 billion within seven years [[00:32:04](/transcripts/cc/CC_Lec01?t=1924)] [Slide 6]. AWS transformed from an internal experiment into Amazon's primary operating profit driver, alongside its high-margin digital advertising and Amazon Prime subscription units [[00:32:04](/transcripts/cc/CC_Lec01?t=1924)] [Slide 6].
-* **The Apple Model:** While the iPhone generated \$205 billion (over 52% of total revenues) in 2022, Apple built a complementary ecosystem contributing the remaining ~48% of sales: Services (\$78 billion / 19.81%), Wearables, Home & Accessories (\$41 billion / 10.46%), Mac (\$40 billion / 10.19%), and iPad (\$29 billion / 7.43%) [[00:32:40](/transcripts/cc/CC_Lec01?t=1960)] [Slide 7].
+* **The Amazon Model:** Began with online book retailing, scaling its core retail marketplace from $76.86 billion to$220 billion by 2022 [[00:31:28](/transcripts/cc/CC_Lec01?t=1888)] [Slide 6]. Crucially, Amazon incubated Amazon Web Services (AWS) cloud infrastructure, which expanded from $10 billion to$80 billion within seven years [[00:32:04](/transcripts/cc/CC_Lec01?t=1924)] [Slide 6]. AWS transformed from an internal experiment into Amazon's primary operating profit driver, alongside its high-margin digital advertising and Amazon Prime subscription units [[00:32:04](/transcripts/cc/CC_Lec01?t=1924)] [Slide 6].
+* **The Apple Model:** While the iPhone generated $205 billion (over 52% of total revenues) in 2022, Apple built a complementary ecosystem contributing the remaining ~48% of sales: Services ($78 billion / 19.81%), Wearables, Home & Accessories ($41 billion / 10.46%), Mac ($40 billion / 10.19%), and iPad ($29 billion / 7.43%) [[00:32:40](/transcripts/cc/CC_Lec01?t=1960)] [Slide 7].
 
 ##### 2. Geographical Expansion
 Scaling operations across fresh geographical territories unlocks massive demographic addressable markets:
@@ -402,12 +402,12 @@ Scaling operations across fresh geographical territories unlocks massive demogra
   * **Takeaway:** Broad industry tailwinds must be paired with competitive entry barriers and durable ROCE.
 * **Example:** Amazon Inc. Product Layering  [[00:31:28–00:32:40](/transcripts/cc/CC_Lec01?t=1888)] [Slide 6]
   * **Context:** Scaling earnings via continuous new product and service additions.
-  * **Data/details:** Online retail grew to \$220B by 2022; AWS grew from \$10B to \$80B in 7 years; high-margin digital advertising scaling rapidly.
+  * **Data/details:** Online retail grew to$220B by 2022; AWS grew from $10B to$80B in 7 years; high-margin digital advertising scaling rapidly.
   * **Walkthrough:** AWS emerged as an internal infrastructure experiment and evolved into Amazon's primary operating profit engine, transforming the margin profile of the consolidated enterprise.
   * **Takeaway:** Exceptional capital compounders use cash flows from core assets to incubate high-ROIC adjacent business lines.
 * **Example:** Apple Inc. Ecosystem Diversification  [[00:32:40–00:33:11](/transcripts/cc/CC_Lec01?t=1960)] [Slide 7]
   * **Context:** Product line diversification around a single customer relationship.
-  * **Data/details:** \$394B total FY22 revenue; iPhone (\$205B / 52.11%), Services (\$78B / 19.81%), Wearables/Home (\$41B / 10.46%), Mac (\$40B / 10.19%), iPad (\$29B / 7.43%).
+  * **Data/details:** $394B total FY22 revenue; iPhone ($205B / 52.11%), Services ($78B / 19.81%), Wearables/Home ($41B / 10.46%), Mac ($40B / 10.19%), iPad ($29B / 7.43%).
   * **Walkthrough:** Apple monetizes hardware customer loyalty via recurring high-margin digital services and companion wearable hardware.
   * **Takeaway:** Product diversification expands customer lifetime value without requiring proportionate customer acquisition costs.
 * **Example:** Monster Beverage Corp (NASDAQ: MNST)  [[00:34:41–00:41:29](/transcripts/cc/CC_Lec01?t=2081)] [Slide 8]

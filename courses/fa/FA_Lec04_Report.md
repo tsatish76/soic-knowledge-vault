@@ -23,7 +23,7 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 4. **MarketSmith Growth 50 & Blue Dot List Frameworks:** Institutional momentum screening relies on the Growth 50 screen (high EPS and RS ratings > 87%) and the Blue Dot List (stocks making 52-week highs in the Relative Strength line versus Nifty 50). Outperformance in the RS line signals superior forward earnings growth expectations and institutional buying commitment before major price advances [[01:04:29–01:05:27](/transcripts/fa/FA_Lec04?t=3869), [01:11:27–01:15:43](/transcripts/fa/FA_Lec04?t=4287)].
 5. **Institutional & Promoter Lapping Screen:** Smart money accumulation is tracked on screener platforms by filtering equities where FII holding increased by > 1% (or > 2%), DII holding increased by > 1% (or > 2%), and promoter holding increased by > 1–2% QoQ or YoY through open market purchases, preferential allotments, or warrant conversions [[01:27:32–01:30:37](/transcripts/fa/FA_Lec04?t=5252), [01:33:13–01:34:25](/transcripts/fa/FA_Lec04?t=5593)].
 6. **Stan Weinstein's 4-Stage Analysis Lifecycle:** Equities move through four distinct structural phases: Stage 1 (Horizontal Basing, oscillating around the 30-week moving average, deep value accumulation), Stage 2 (Advancing/Markup, driven by positive earnings surprises and EPS momentum), Stage 3 (Consolidation/Topping, flattening 30-week MA, loss of EPS momentum), and Stage 4 (Breakdown/Downtrend below 200 DMA; strict rule: never buy in Stage 4) [[01:38:51–01:42:19](/transcripts/fa/FA_Lec04?t=5931)].
-7. **Relative Strength (RS) as a Fundamental Outperformance Metric:** RS measures a stock's price performance ratio relative to the benchmark index (\\(\text{Price of Stock} / \text{Price of Nifty}\\)). Based on Robert A. Levy’s 26-week empirical study, stocks in the top decile of 26-week RS generate an average 20.1% annualized outperformance; a rising RS line during market corrections identifies future market and sector leaders [[01:11:27–01:15:43](/transcripts/fa/FA_Lec04?t=4287), [01:44:56–01:47:15](/transcripts/fa/FA_Lec04?t=6296), [01:55:19–01:56:28](/transcripts/fa/FA_Lec04?t=6919)].
+7. **Relative Strength (RS) as a Fundamental Outperformance Metric:** RS measures a stock's price performance ratio relative to the benchmark index ($\text{Price of Stock} / \text{Price of Nifty}$). Based on Robert A. Levy’s 26-week empirical study, stocks in the top decile of 26-week RS generate an average 20.1% annualized outperformance; a rising RS line during market corrections identifies future market and sector leaders [[01:11:27–01:15:43](/transcripts/fa/FA_Lec04?t=4287), [01:44:56–01:47:15](/transcripts/fa/FA_Lec04?t=6296), [01:55:19–01:56:28](/transcripts/fa/FA_Lec04?t=6919)].
 8. **Sector Group Performance Influence (37% + 12% Rule):** Approximately 37% of an individual stock's price appreciation is directly tied to the performance of its specific industry group, and 12% is driven by its broader sector (total 49%); over 60% of major winning stocks advance as part of coordinated sector group rallies [Slide 12, 01:20:43–01:23:38, 01:47:15–01:47:56].
 9. **Return on Equity (RoE) Structural Multiplier in India:** India produces a high concentration of multi-bagger equities because corporate cash RoE averages 14–15% alongside fast nominal GDP growth, whereas economies like China achieve weak equity returns (Shanghai index flat over 15 years) due to state-owned enterprises operating at 8–9% RoE prioritizing employment over return metrics [[00:20:16–00:22:15](/transcripts/fa/FA_Lec04?t=1216)].
 10. **B2B & B2G Order/Inventory Trajectory:** B2B and B2G businesses experience multi-quarter demand upfronting (e.g., ₹9.2 lakh crore transmission CapEx under the National Electricity Plan), where tender wins and inventory stocking cycles generate 5–6 consecutive quarters of earnings explosions [[00:11:15–00:17:08](/transcripts/fa/FA_Lec04?t=675), [00:22:15–00:22:59](/transcripts/fa/FA_Lec04?t=1335)].
@@ -482,8 +482,16 @@ When a business consolidates sideways near all-time or multi-month highs (Stage 
 
 ##### Complete Screener.in Query Formulation
 To operationalize these principles, the speaker constructs a refined, free quantitative screen on Screener.in [[00:41:57–00:42:52](/transcripts/fa/FA_Lec04?t=2517)]:
-\\[\text{Sales Growth YoY \%} > 15\% \quad \text{AND} \quad \text{PAT Growth YoY \%} > 20\% \quad \text{AND} \quad \text{ROCE \%} > 15\%\\]
-\\[\text{AND} \quad \text{Market Cap} > \text{₹1,000 Cr} \quad \text{AND} \quad \text{P/E Ratio} < 40\text{x}\\]
+
+$$
+Sales Growth YoY \% > 15\% \quad AND \quad PAT Growth YoY \% > 20\% \quad AND \quad ROCE \% > 15\%
+$$
+
+
+$$
+AND \quad Market Cap > ₹1,000 Cr \quad AND \quad P/E Ratio < 40x
+$$
+
 
 Running this stringent query across 5,000 listed equities isolates approximately **63 liquid, high-conviction companies** for detailed qualitative review [[00:42:15–00:42:52](/transcripts/fa/FA_Lec04?t=2535)].
 
@@ -597,7 +605,11 @@ A critical technical error made by retail investors is relying on **percentage d
 
 ##### Technical Volume Screening Benchmark
 To screen for institutional volume rocketing across screening tools (StockScans, StockEdge, Trendlyne, MarketSmith India), apply the following quantitative benchmark [[00:53:34–00:54:01](/transcripts/fa/FA_Lec04?t=3214), [01:01:08–01:01:52](/transcripts/fa/FA_Lec04?t=3668)]:
-\\[\text{Average 10-Day Trading Volume} > 1.5 \times \text{Average 20-Day Trading Volume}\\]
+
+$$
+Average 10-Day Trading Volume > 1.5 × Average 20-Day Trading Volume
+$$
+
 *(Alternative short-term filter: Average 5-day volume significantly exceeding 10-day average volume)* [[00:01:08–01:01:52](/transcripts/fa/FA_Lec04?t=68)].
 
 #### c) Examples & case studies
@@ -702,7 +714,11 @@ The CANSLIM engine powered by William O'Neil’s MarketSmith India provides two 
 A common mistake made by market participants is viewing Relative Strength strictly as a technical price-chart indicator [[01:12:49–01:14:20](/transcripts/fa/FA_Lec04?t=4369)]. In reality, Relative Strength is as much a **fundamental metric** as it is a technical one [[01:12:49–01:15:43](/transcripts/fa/FA_Lec04?t=4369)].
 
 * **Mathematical Definition of Relative Strength:**
-  \\[\text{Relative Strength Ratio} = \frac{\text{Price of Individual Stock}}{\text{Price of Nifty 50 Index}}\\]
+  
+$$
+Relative Strength Ratio = \frac{Price of Individual Stock}{Price of Nifty 50 Index}
+$$
+
   * **Example Mechanics:** If the benchmark index moves from 100 to 111 (+11% return) while a stock with positive news moves from 100 to 120 (+20% return), the stock exhibits an absolute outperformance of 9% [[01:11:27–01:12:11](/transcripts/fa/FA_Lec04?t=4287)]. The stock's RS line trends upward, making a 52-week high [[01:11:27](/transcripts/fa/FA_Lec04?t=4287)].
 
 * **The Fundamental Reasoning:**
@@ -840,12 +856,20 @@ A fundamental mistake made by investors is selecting equities based solely on lo
 To screen for smart money accumulation on Screener.in, investors construct queries tracking YoY and QoQ holding shifts [[01:27:32–01:30:37](/transcripts/fa/FA_Lec04?t=5252)]:
 
 * **Baseline Institutional Lapping Query:**
-  \\[\text{Change in FII Holding YoY \%} > 1\% \quad \text{AND} \quad \text{Change in DII Holding YoY \%} > 1\%\\]
-  *(Refined threshold: \\(>2\%\\) for FIIs and \\(>2\%\\) for DIIs isolates ~15 high-conviction companies)* [[01:28:03–01:28:37](/transcripts/fa/FA_Lec04?t=5283)].
+  
+$$
+Change in FII Holding YoY \% > 1\% \quad AND \quad Change in DII Holding YoY \% > 1\%
+$$
+
+  *(Refined threshold: > 2% for FIIs and > 2% for DIIs isolates ~15 high-conviction companies)* [[01:28:03–01:28:37](/transcripts/fa/FA_Lec04?t=5283)].
 
 * **Tracking Insider Promoter Buying:**
-  \\[\text{Change in Promoter Holding YoY \%} > 2\% \quad \text{AND} \quad \text{Market Cap} > \text{₹1,000 Cr}\\]
-  When promoter holding increases by \\(>2\%\\), due diligence must verify the underlying funding mechanism [[01:28:37–01:29:35](/transcripts/fa/FA_Lec04?t=5317)]:
+  
+$$
+Change in Promoter Holding YoY \% > 2\% \quad AND \quad Market Cap > ₹1,000 Cr
+$$
+
+  When promoter holding increases by > 2%, due diligence must verify the underlying funding mechanism [[01:28:37–01:29:35](/transcripts/fa/FA_Lec04?t=5317)]:
   1. **Open Market Purchases:** Promoters buying shares directly from the exchange using personal capital—the strongest signal of insider confidence [[01:29:35–01:30:03](/transcripts/fa/FA_Lec04?t=5375)].
   2. **Preferential Allotments & Warrant Conversions:** Fund infusions or warrant conversions where promoters inject fresh capital into the business to fund CapEx or deleveraging [[01:29:35–01:30:03](/transcripts/fa/FA_Lec04?t=5375)].
 
@@ -854,8 +878,16 @@ To screen for smart money accumulation on Screener.in, investors construct queri
 
 ##### StockScans Smart Money Screening Filter
 On paid scanning platforms like StockScans, institutional accumulation is combined with relative price strength [[01:33:13–01:34:25](/transcripts/fa/FA_Lec04?t=5593)]:
-\\[\text{QoQ FII Holding Change} > +0.5\% \quad \text{AND} \quad \text{QoQ DII Holding Change} > +0.5\%\\]
-\\[\text{AND} \quad \text{3-Month Return vs. Nifty 50} > +2\%\\]
+
+$$
+QoQ FII Holding Change > +0.5\% \quad AND \quad QoQ DII Holding Change > +0.5\%
+$$
+
+
+$$
+AND \quad 3-Month Return vs. Nifty 50 > +2\%
+$$
+
 This query isolates relatively strong equities undergoing concurrent FII and DII accumulation [[01:33:42–01:34:25](/transcripts/fa/FA_Lec04?t=5622)].
 
 #### c) Examples & case studies
@@ -999,7 +1031,7 @@ Price-volume interaction on weekly charts reveals trend health [[01:42:19](/tran
 ##### Relative Strength (RS) vs. RSI Oscillator
 Relative Strength (RS) is fundamentally distinct from the Relative Strength Index (RSI) [[01:44:56](/transcripts/fa/FA_Lec04?t=6296)]:
 * **RSI (Relative Strength Index):** A momentum oscillator bounded between 0 and 100 measuring internal price speed [[01:44:56](/transcripts/fa/FA_Lec04?t=6296)].
-* **RS (Relative Strength Ratio):** Comparative price performance of an individual stock divided by a benchmark index (\\(\text{Price of Stock} / \text{Price of Nifty}\\)) [[01:44:56–01:46:42](/transcripts/fa/FA_Lec04?t=6296)].
+* **RS (Relative Strength Ratio):** Comparative price performance of an individual stock divided by a benchmark index ($\text{Price of Stock} / \text{Price of Nifty}$) [[01:44:56–01:46:42](/transcripts/fa/FA_Lec04?t=6296)].
 
 * **Stan Weinstein's RS Rule:**
   As Stan Weinstein outlined in his work, if Stock XYZ rises 10% while the S&P 500 advances 20%, XYZ is lagging the market [[01:45:28–01:46:08](/transcripts/fa/FA_Lec04?t=6328)]. When the overall market turns down, XYZ will collapse [[01:46:08](/transcripts/fa/FA_Lec04?t=6368)]. Conversely, if Stock XYZ drops only 10% while the market plummets 20%, XYZ exhibits superior Relative Strength and will lead the market when a rally resumes [[01:46:08](/transcripts/fa/FA_Lec04?t=6368)].
@@ -1009,7 +1041,11 @@ Relative Strength (RS) is fundamentally distinct from the Relative Strength Inde
 
 ##### Capital Work In Progress (CWIP) Acceleration
 A key balance sheet metric for detecting impending Stage 2 breakouts is comparing Capital Work In Progress (CWIP) against the Net Fixed Asset Block [[02:00:37–02:02:13](/transcripts/fa/FA_Lec04?t=7237)]:
-\\[\text{CWIP Ratio \%} = \frac{\text{Capital Work In Progress (₹)}}{\text{Net Fixed Asset Block (₹)}}\\]
+
+$$
+CWIP Ratio \% = \frac{Capital Work In Progress (₹)}{Net Fixed Asset Block (₹)}
+$$
+
 When CWIP approaches or exceeds 50%–100% of the existing Net Block, the company is on the verge of commissioning massive new capacity [[02:00:37–02:01:22](/transcripts/fa/FA_Lec04?t=7237)]. Comparing management's annual revenue targets against H1 actual revenues reveals the exact growth percentage required in H2 to achieve guidance [[02:01:22–02:02:13](/transcripts/fa/FA_Lec04?t=7282)].
 
 ##### Tracking Smart Investors via Google Alerts
@@ -1065,7 +1101,7 @@ Investors can track market participants (e.g., Ashish Kacholia, Mukul Agrawal, V
 | :--- | :--- | :--- | :--- | :--- |
 | Robert A. Levy RS Outperformance | Annualized total return outperformance of top decile RS stocks | +20.1% annualized outperformance | Backtested proof that buying top 26-week RS equities yields excess returns | [[01:46:42–01:47:15](/transcripts/fa/FA_Lec04?t=6402)] |
 | Comparative RS Timeframe | Lookback duration for comparative Relative Strength line | 26 Weeks (Weekly Chart) | Ideal medium-term horizon for identifying stock and sector outperformance | [[01:48:32](/transcripts/fa/FA_Lec04?t=6512), [01:55:19](/transcripts/fa/FA_Lec04?t=6919)] |
-| Ice Make Required H2 Revenue | \\(\text{Target FY Revenue} - \text{H1 Revenue}\\) | ₹500 Cr - ₹188 Cr = ₹312 Cr | Implies a required ~45%–50% H2 revenue acceleration to hit guidance | [[02:01:22–02:02:13](/transcripts/fa/FA_Lec04?t=7282)] |
+| Ice Make Required H2 Revenue | $\text{Target FY Revenue} - \text{H1 Revenue}$ | ₹500 Cr - ₹188 Cr = ₹312 Cr | Implies a required ~45%–50% H2 revenue acceleration to hit guidance | [[02:01:22–02:02:13](/transcripts/fa/FA_Lec04?t=7282)] |
 | StockEdge Price RS Scan | Short-term price outperformance filter | Outperforming benchmark for last 21 Days | Identifies near-term price momentum across sub-sector groups | [[02:03:31](/transcripts/fa/FA_Lec04?t=7411)] |
 | Greaves Cotton vs Ola Electric MCap | Comparative Market Capitalization Valuation Disparity | ₹5,600 Cr vs ₹42,000 Cr | Highlights valuation mismatch for EV subsidiary Ampere | [[02:08:43](/transcripts/fa/FA_Lec04?t=7723)] |
 
@@ -1089,7 +1125,7 @@ Investors can track market participants (e.g., Ashish Kacholia, Mukul Agrawal, V
 ```
 
 #### f) Speaker's cautions & common mistakes
-* **Confusing Relative Strength (RS) with RSI:** Mistaking comparative RS (\\(\text{Stock}/\text{Nifty}\\)) for the 0–100 RSI momentum oscillator [[01:44:56](/transcripts/fa/FA_Lec04?t=6296)].
+* **Confusing Relative Strength (RS) with RSI:** Mistaking comparative RS ($\text{Stock}/\text{Nifty}$) for the 0–100 RSI momentum oscillator [[01:44:56](/transcripts/fa/FA_Lec04?t=6296)].
 * **Buying or Averaging Down in Stage 4 Breakdown:** Purchasing stocks trading below a declining 30-week moving average under the assumption that they are "cheap" [[01:41:47–01:42:19](/transcripts/fa/FA_Lec04?t=6107)].
 * **Falling for P/E Expansion Traps During Earnings Declines:** Assuming a stock is stable because its price hasn't fallen, while ignoring that falling earnings cause artificial P/E expansion and RS degradation (e.g., SRF) [[01:49:21–01:51:45](/transcripts/fa/FA_Lec04?t=6561)].
 
@@ -1155,4 +1191,3 @@ The speaker pauses the formal recording, announces the video upload to the L5 co
 ---
 
 Batch complete: **Batch 3 = Stages 8–10** [[01:23:38–02:10:24](/transcripts/fa/FA_Lec04?t=5018), ~47 minutes]. Next: All stages complete.
-

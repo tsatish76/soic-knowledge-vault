@@ -17,16 +17,16 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 
 ### 2. KEY LEARNINGS
 
-* **Accrual Net Profit to Operating Cash Flow (\\(CFO\\)) Conversion Thresholds:** For B2B businesses, a minimum of 60%–70% of profit after tax (\\(PAT\\)) must convert into cash flow from operations, whereas for B2C businesses, the minimum cash conversion threshold is 80%–90% [[02:04:16–02:05:02](/transcripts/fa/FA_Lec03?t=7456)].
-* **Balance Sheet Fundamental Accounting Identity & Retained Earnings:** Total Liabilities plus Shareholders' Equity equals Total Assets (\\(Liabilities + Equity = Total\ Assets\\)). Net accrual profit after tax (\\(PAT\\)) earned in a financial year, less dividends paid, is added directly to next year's equity as retained earnings within reserves [[00:05:11–00:05:48](/transcripts/fa/FA_Lec03?t=311), [00:09:29–00:11:11](/transcripts/fa/FA_Lec03?t=569)].
-* **Financial Reconciliation for Working Capital Heavy Manufacturing Models:** When 5-year cumulative \\(CFO\\) (₹16 crore) severely lags cumulative accrual \\(PAT\\) (₹176 crore) due to heavy capital lockup in inventory (₹293 crore) and trade receivables (₹177 crore) relative to sales (₹686 crore), funding ongoing Capex (₹300–400 crore) requires taking debt or diluting equity via QIP and preferential issues [[00:11:54–00:13:24](/transcripts/fa/FA_Lec03?t=714), [00:15:02–00:20:04](/transcripts/fa/FA_Lec03?t=902), [00:21:37–00:22:39](/transcripts/fa/FA_Lec03?t=1297)].
-* **Operating Leverage Mechanics & Fixed Cost Distribution:** Operating leverage occurs when fixed operational costs remain constant while sales expand, allowing top-line growth to flow directly to operating margins and \\(PAT\\); conversely, holding unutilized expansion capacity creates high depreciation drag and depresses Return on Capital Employed (\\(ROCE\\)) until sales volume absorbs the fixed overheads [[00:47:34–00:53:52](/transcripts/fa/FA_Lec03?t=2854), [01:07:00–01:09:49](/transcripts/fa/FA_Lec03?t=4020)].
+* **Accrual Net Profit to Operating Cash Flow (CFO) Conversion Thresholds:** For B2B businesses, a minimum of 60%–70% of profit after tax (PAT) must convert into cash flow from operations, whereas for B2C businesses, the minimum cash conversion threshold is 80%–90% [[02:04:16–02:05:02](/transcripts/fa/FA_Lec03?t=7456)].
+* **Balance Sheet Fundamental Accounting Identity & Retained Earnings:** Total Liabilities plus Shareholders' Equity equals Total Assets ($Liabilities + Equity = Total\ Assets$). Net accrual profit after tax (PAT) earned in a financial year, less dividends paid, is added directly to next year's equity as retained earnings within reserves [[00:05:11–00:05:48](/transcripts/fa/FA_Lec03?t=311), [00:09:29–00:11:11](/transcripts/fa/FA_Lec03?t=569)].
+* **Financial Reconciliation for Working Capital Heavy Manufacturing Models:** When 5-year cumulative CFO (₹16 crore) severely lags cumulative accrual PAT (₹176 crore) due to heavy capital lockup in inventory (₹293 crore) and trade receivables (₹177 crore) relative to sales (₹686 crore), funding ongoing Capex (₹300–400 crore) requires taking debt or diluting equity via QIP and preferential issues [[00:11:54–00:13:24](/transcripts/fa/FA_Lec03?t=714), [00:15:02–00:20:04](/transcripts/fa/FA_Lec03?t=902), [00:21:37–00:22:39](/transcripts/fa/FA_Lec03?t=1297)].
+* **Operating Leverage Mechanics & Fixed Cost Distribution:** Operating leverage occurs when fixed operational costs remain constant while sales expand, allowing top-line growth to flow directly to operating margins and PAT; conversely, holding unutilized expansion capacity creates high depreciation drag and depresses Return on Capital Employed ($ROCE$) until sales volume absorbs the fixed overheads [[00:47:34–00:53:52](/transcripts/fa/FA_Lec03?t=2854), [01:07:00–01:09:49](/transcripts/fa/FA_Lec03?t=4020)].
 * **Operating Deleverage Mechanics in Demand Downcycles:** Operating deleverage occurs during industry downcycles when overhead expenses, depreciation, and interest costs grow faster than revenue, causing severe operating margin compression despite expanding gross block [[01:17:34–01:19:00](/transcripts/fa/FA_Lec03?t=4654)].
-* **Three-Statement Accounting Impact of Share Buybacks:** Executing a share buyback creates a cash outflow under Financing Activities (\\(CFF\\)), reduces share capital and reserves on the balance sheet (lowering net worth), reduces outstanding shares to boost Earnings Per Share (\\(EPS\\)), and automatically elevates Return on Equity (\\(ROE = \frac{PAT}{Equity}\\)) [[01:28:40–01:37:56](/transcripts/fa/FA_Lec03?t=5320)].
-* **Net Working Capital Formula & Direct ROCE Impact:** Net Working Capital Days equals \\(Receivable\ Days + Inventory\ Days - Payable\ Days\\). Reducing working capital days directly elevates Return on Capital Employed (\\(ROCE\\)) under the DuPont/EBIT decomposition (\\(ROCE = \frac{EBIT}{Sales} \times \frac{Sales}{Capital\ Employed}\\)), as working capital forms a key component of Capital Employed [[01:47:49–01:50:35](/transcripts/fa/FA_Lec03?t=6469)].
-* **Unproductive Capital Allocation Drag on Return on Equity:** Retaining excess unproductive cash and mutual fund investments on the balance sheet (>50% of total assets yielding ~5%) depresses overall \\(ROE\\) (e.g., dropping from 24% to 13%), even when core operations generate robust cash flows [[01:38:27–01:42:36](/transcripts/fa/FA_Lec03?t=5907), [01:53:33–01:54:12](/transcripts/fa/FA_Lec03?t=6813)].
-* **Three-Part Cash Flow Structure & Non-Cash Reconciliation:** Cash flows are structured into Operating (\\(CFO\\)), Investing (\\(CFI\\)), and Financing (\\(CFF\\)) activities. Non-cash expenses (depreciation) and non-operating expenses (interest) are added back to \\(PAT\\) to compute operating cash flow before working capital adjustments [[00:36:15–00:40:05](/transcripts/fa/FA_Lec03?t=2175), [01:19:16–01:21:00](/transcripts/fa/FA_Lec03?t=4756), [02:02:10–02:02:46](/transcripts/fa/FA_Lec03?t=7330)].
-* **Structural Drivers of Corporate Effective Tax Rate Variance:** Variance between reported Profit Before Tax (\\(PBT\\)) and corporate tax paid arises from 3 specific accounting mechanisms: (1) 5-to-10 year tax holiday incentives in Special Economic Zones (\\(SEZ\\)), (2) Minimum Alternate Tax (\\(MAT\\)) credit utilization, or (3) carry-forward of unabsorbed tax losses from past loss-making years [[01:21:43–01:23:57](/transcripts/fa/FA_Lec03?t=4903)].
+* **Three-Statement Accounting Impact of Share Buybacks:** Executing a share buyback creates a cash outflow under Financing Activities (CFF), reduces share capital and reserves on the balance sheet (lowering net worth), reduces outstanding shares to boost Earnings Per Share (EPS), and automatically elevates Return on Equity ($ROE = \frac{PAT}{Equity}$) [[01:28:40–01:37:56](/transcripts/fa/FA_Lec03?t=5320)].
+* **Net Working Capital Formula & Direct ROCE Impact:** Net Working Capital Days equals $Receivable\ Days + Inventory\ Days - Payable\ Days$. Reducing working capital days directly elevates Return on Capital Employed ($ROCE$) under the DuPont/EBIT decomposition ($ROCE = \frac{EBIT}{Sales} \times \frac{Sales}{Capital\ Employed}$), as working capital forms a key component of Capital Employed [[01:47:49–01:50:35](/transcripts/fa/FA_Lec03?t=6469)].
+* **Unproductive Capital Allocation Drag on Return on Equity:** Retaining excess unproductive cash and mutual fund investments on the balance sheet (>50% of total assets yielding ~5%) depresses overall ROE (e.g., dropping from 24% to 13%), even when core operations generate robust cash flows [[01:38:27–01:42:36](/transcripts/fa/FA_Lec03?t=5907), [01:53:33–01:54:12](/transcripts/fa/FA_Lec03?t=6813)].
+* **Three-Part Cash Flow Structure & Non-Cash Reconciliation:** Cash flows are structured into Operating (CFO), Investing (CFI), and Financing (CFF) activities. Non-cash expenses (depreciation) and non-operating expenses (interest) are added back to PAT to compute operating cash flow before working capital adjustments [[00:36:15–00:40:05](/transcripts/fa/FA_Lec03?t=2175), [01:19:16–01:21:00](/transcripts/fa/FA_Lec03?t=4756), [02:02:10–02:02:46](/transcripts/fa/FA_Lec03?t=7330)].
+* **Structural Drivers of Corporate Effective Tax Rate Variance:** Variance between reported Profit Before Tax (PBT) and corporate tax paid arises from 3 specific accounting mechanisms: (1) 5-to-10 year tax holiday incentives in Special Economic Zones ($SEZ$), (2) Minimum Alternate Tax (MAT) credit utilization, or (3) carry-forward of unabsorbed tax losses from past loss-making years [[01:21:43–01:23:57](/transcripts/fa/FA_Lec03?t=4903)].
 
 ---
 
@@ -34,17 +34,17 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 
 | Stage # | Stage Title | Timestamp Range | Slides | Core Concepts | Examples/Companies Used | TVGP Tag |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | **Introduction & Three-Statement Accounting Integration** | [[00:00:00–00:02:15](/transcripts/fa/FA_Lec03?t=0)] | [Slide N: image not legible — content taken from transcript] | Connecting Income Statement, Balance Sheet, and Cash Flow Statement; learning through practical company examples; basic P&L formula (\\(Sales - Expenses = Profit\\)); Consolidated vs. Standalone financials. | Screener.in | None |
-| **2** | **Case Study 1 — Neogen Chemicals: Working Capital Drag, Cash Conversion Deficit & Capital Dilution** | [[00:02:15–00:23:51](/transcripts/fa/FA_Lec03?t=135)] | [Slide N: image not legible — content taken from transcript] | Fixed asset expansion (24x–25x growth); debt vs. equity financing; balance sheet identity (\\(Liabilities + Equity = Total\ Assets\\)); working capital lockup (₹293 cr inventory, ₹177 cr trade receivables); 5-year CFO (₹16 cr) vs accrual PAT (₹176 cr); reliance on debt/QIP equity dilution for Capex; enabling resolutions for ₹1000 cr borrowing limit and equity fundraise. | Neogen Chemicals (IPO, 2022 preferential issue, QIP enabling resolution, electrolyte salts order) | None |
-| **3** | **Case Study 2 — Pricol: Turnaround, De-leveraging, Cash Conversion & Internal Accrual Capex** | [[00:23:51–00:47:34](/transcripts/fa/FA_Lec03?t=1431)] | [Slide N: image not legible — content taken from transcript] | Operating margin expansion (single to double digits); EBITDA growth (₹13 cr to ₹239 cr); interest reduction (₹43 cr to ₹18 cr); debt-to-equity reduction (1x+ down to 0.16x); rights issue dilution; overseas unit shutdown/write-offs; depreciation as non-cash expense (\\(Cash\ Profit > Accrual\ PAT\\)); CFO conversion (₹477 cr CFO vs ₹218 cr PAT over 3 years); 22%–27% organic revenue CAGR guidance; ₹600 cr Capex funded 100% via internal accruals (~₹170 cr annual CFO). | Pricol (Brazil subsidiary shutdown, organic/inorganic guidance) | None |
+| **1** | **Introduction & Three-Statement Accounting Integration** | [[00:00:00–00:02:15](/transcripts/fa/FA_Lec03?t=0)] | [Slide N: image not legible — content taken from transcript] | Connecting Income Statement, Balance Sheet, and Cash Flow Statement; learning through practical company examples; basic P&L formula ($Sales - Expenses = Profit$); Consolidated vs. Standalone financials. | Screener.in | None |
+| **2** | **Case Study 1 — Neogen Chemicals: Working Capital Drag, Cash Conversion Deficit & Capital Dilution** | [[00:02:15–00:23:51](/transcripts/fa/FA_Lec03?t=135)] | [Slide N: image not legible — content taken from transcript] | Fixed asset expansion (24x–25x growth); debt vs. equity financing; balance sheet identity ($Liabilities + Equity = Total\ Assets$); working capital lockup (₹293 cr inventory, ₹177 cr trade receivables); 5-year CFO (₹16 cr) vs accrual PAT (₹176 cr); reliance on debt/QIP equity dilution for Capex; enabling resolutions for ₹1000 cr borrowing limit and equity fundraise. | Neogen Chemicals (IPO, 2022 preferential issue, QIP enabling resolution, electrolyte salts order) | None |
+| **3** | **Case Study 2 — Pricol: Turnaround, De-leveraging, Cash Conversion & Internal Accrual Capex** | [[00:23:51–00:47:34](/transcripts/fa/FA_Lec03?t=1431)] | [Slide N: image not legible — content taken from transcript] | Operating margin expansion (single to double digits); EBITDA growth (₹13 cr to ₹239 cr); interest reduction (₹43 cr to ₹18 cr); debt-to-equity reduction (1x+ down to 0.16x); rights issue dilution; overseas unit shutdown/write-offs; depreciation as non-cash expense ($Cash\ Profit > Accrual\ PAT$); CFO conversion (₹477 cr CFO vs ₹218 cr PAT over 3 years); 22%–27% organic revenue CAGR guidance; ₹600 cr Capex funded 100% via internal accruals (~₹170 cr annual CFO). | Pricol (Brazil subsidiary shutdown, organic/inorganic guidance) | None |
 | **4** | **Case Study 3 — Shilchar Technologies: Operating Leverage in Asset-Light Solar/Wind Transformers** | [[00:47:34–01:00:51](/transcripts/fa/FA_Lec03?t=2854)] | [Slide N: image not legible — content taken from transcript] | Demand cyclicality; 10x capacity expansion; idle asset drag vs turnaround upon US export approvals; operating leverage mechanics (flat expenses, surging revenue); debt elimination; high asset turnover (~10x asset turn: ₹400 cr sales on ₹38 cr fixed assets); incremental brownfield Capex (₹10 cr Capex for ₹100 cr revenue potential). | Shilchar Technologies | None |
 | **5** | **Case Studies 4 & 5 — Narayana Hrudayalaya & Newgen Software: Greenfield Asset Gestation vs Soft Operating Leverage** | [[01:00:51–01:09:49](/transcripts/fa/FA_Lec03?t=3651)] | [Slide N: image not legible — content taken from transcript] | Greenfield hospital Capex breakeven period (5–6 years); debt accumulation vs de-leveraging when Capex slows; depreciation add-back creating cash earnings; software product operating leverage (flat Q2 cost base of ₹212 cr flowing into Q3/Q4 seasonal revenue surge); margin expansion from 25% to 28%–36%. | Narayana Hrudayalaya, Newgen Software Technologies (Laurus Labs referenced) | None |
 | **6** | **Case Studies 6 & 7 — Indo Count Industries & Aarti Industries: Turnaround vs Operating Deleverage in Downcycles** | [[01:09:49–01:28:40](/transcripts/fa/FA_Lec03?t=4189)] | [Slide N: image not legible — content taken from transcript] | Fixed asset doubling/CWIP resolution in textile exports; working capital release during US inventory de-stocking; chemical downcycle (Stage 4 technical trend); operating deleverage mechanics (expenses rising faster than sales); depreciation and interest escalation; contract termination exceptional item; CFO (₹1310 cr) vs PAT (₹545 cr) due to depreciation add-back; ₹3000 cr Capex expansion aiming for ₹14,000 cr revenue potential at 1.5x asset turn. | Indo Count Industries (GHCL textile acquisition), Aarti Industries, Polycab India, Apcotex Industries | None |
-| **7** | **Share Buybacks & Three-Statement Interconnection Framework** | [[01:28:40–01:38:27](/transcripts/fa/FA_Lec03?t=5320)] | [Slide N: image not legible — content taken from transcript] | Three-statement impact of share buybacks: CFF cash outflow in Cash Flow Statement; reduced share count boosting EPS in Income Statement; reduced share capital/reserves lowering net worth and elevating Return on Equity (\\(ROE = \frac{PAT}{Equity}\\)) on Balance Sheet. | Godawari Power & Ispat Ltd (GPIL), Infosys, TCS | None |
-| **8** | **Case Studies 8 & 9 — Avanti Feeds, Garware Hi-Tech Films & Polycab: Capital Allocation Drag, Premiumization & Working Capital Optimization** | [[01:38:27–01:53:33](/transcripts/fa/FA_Lec03?t=5907)] | [Slide N: image not legible — content taken from transcript] | Excess unproductive cash drag on ROE (50% of balance sheet in cash/mutual funds, ROE dropping from 24% to 13%); capacity utilization ramp-up in high-margin products (Paint Protection Films / PPF) driving operating leverage and PAT/CFO expansion; Net Working Capital formula (\\(Receivable\ Days + Inventory\ Days - Payable\ Days\\)); NWC reduction (65 days to 51 days) driving ROCE expansion (\\(ROCE = \frac{EBIT}{Sales} \times \frac{Sales}{Capital\ Employed}\\)). | Avanti Feeds, Garware Hi-Tech Films, Polycab India | None |
+| **7** | **Share Buybacks & Three-Statement Interconnection Framework** | [[01:28:40–01:38:27](/transcripts/fa/FA_Lec03?t=5320)] | [Slide N: image not legible — content taken from transcript] | Three-statement impact of share buybacks: CFF cash outflow in Cash Flow Statement; reduced share count boosting EPS in Income Statement; reduced share capital/reserves lowering net worth and elevating Return on Equity ($ROE = \frac{PAT}{Equity}$) on Balance Sheet. | Godawari Power & Ispat Ltd (GPIL), Infosys, TCS | None |
+| **8** | **Case Studies 8 & 9 — Avanti Feeds, Garware Hi-Tech Films & Polycab: Capital Allocation Drag, Premiumization & Working Capital Optimization** | [[01:38:27–01:53:33](/transcripts/fa/FA_Lec03?t=5907)] | [Slide N: image not legible — content taken from transcript] | Excess unproductive cash drag on ROE (50% of balance sheet in cash/mutual funds, ROE dropping from 24% to 13%); capacity utilization ramp-up in high-margin products (Paint Protection Films / PPF) driving operating leverage and PAT/CFO expansion; Net Working Capital formula ($Receivable\ Days + Inventory\ Days - Payable\ Days$); NWC reduction (65 days to 51 days) driving ROCE expansion ($ROCE = \frac{EBIT}{Sales} \times \frac{Sales}{Capital\ Employed}$). | Avanti Feeds, Garware Hi-Tech Films, Polycab India | None |
 | **9** | **Three-Statement Sensitivity Scenarios & Financial Impact Framework** | [[01:53:33–01:58:13](/transcripts/fa/FA_Lec03?t=6813)] | [Slide N: image not legible — content taken from transcript] | Scenario testing across 3 statements: (1) Excess cash depresses ROE; (2) Disproportionate trade receivable growth spikes working capital, forces short-term debt, increases interest cost, and destroys CFO; (3) Margin expansion increases retained earnings, cash, and CFO; (4) Large Capex increases initial depreciation, boosts fixed assets, creates CFI outflow, and sets up future operating leverage upon commercialization. | Apcotex Industries | None |
 | **10** | **SOIC Course Structure, Learning Roadmap & Pedagogical Framework** | [[01:58:13–02:02:10](/transcripts/fa/FA_Lec03?t=7093)] | [Slide N: image not legible — content taken from transcript] | SOIC 5-level curriculum: L1 Financial Literacy, SOIC Crash Course (30 hours), L2 Fundamental Analysis & Forensics, L3 Valuation, L4 Technical Analysis (8–9 hours), L5 Idea Generation; upcoming valuation workshop for bull/bear/base scenarios. | SOIC Courses & Research Platform | None |
-| **11** | **Theoretical Foundations of Three Financial Statements & Case Study Forensics** | [[02:02:10–02:09:47](/transcripts/fa/FA_Lec03?t=7330)] | [Slide N: image not legible — content taken from transcript] | Cash flow statement 3-part classification (CFO, CFI, CFF); bridging accrual accounting vs real cash flows; B2B conversion threshold (60–70%) vs B2C conversion threshold (80–90%); forensic red flags (Bartronics, Opto Circuits, Billcare bankruptcy due to receivable inflation and cash deficit); Balance sheet identity (\\(Assets = Liabilities + Equity\\)); Income statement margin hierarchy (Gross Profit, EBITDA/OPM, EBIT, PBT, PAT) and accrual principles; tax variance factors (SEZ tax holidays, MAT credits, loss carry-forward). | Bartronics, Opto Circuits, Billcare, Aarti Industries, Usha Martin, Bharat Wires | None |
+| **11** | **Theoretical Foundations of Three Financial Statements & Case Study Forensics** | [[02:02:10–02:09:47](/transcripts/fa/FA_Lec03?t=7330)] | [Slide N: image not legible — content taken from transcript] | Cash flow statement 3-part classification (CFO, CFI, CFF); bridging accrual accounting vs real cash flows; B2B conversion threshold (60–70%) vs B2C conversion threshold (80–90%); forensic red flags (Bartronics, Opto Circuits, Billcare bankruptcy due to receivable inflation and cash deficit); Balance sheet identity (Assets = Liabilities + Equity); Income statement margin hierarchy (Gross Profit, EBITDA/OPM, EBIT, PBT, PAT) and accrual principles; tax variance factors (SEZ tax holidays, MAT credits, loss carry-forward). | Bartronics, Opto Circuits, Billcare, Aarti Industries, Usha Martin, Bharat Wires | None |
 | **12** | **Lecture Conclusion & Student Book Giveaway Competition** | [[02:09:47–02:10:31](/transcripts/fa/FA_Lec03?t=7787)] | [Slide N: image not legible — content taken from transcript] | Summary of three-statement integration; student book giveaway competition rules (copies of *The Zurich Axioms* and *How I Made \$2,000,000 in the Stock Market* awarded for best key learnings submitted); wrap-up. | None | None |
 
 ---
@@ -184,8 +184,8 @@ d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | Balance Sheet Identity | Liabilities + Shareholders' Equity = Total Assets | Strict accounting equality | Balance sheet must always balance | [[00:05:11](/transcripts/fa/FA_Lec03?t=311)] |
-| Debt-to-Equity Ratio | \\(\text{Total Borrowings} \div \text{Shareholders' Equity}\\) | Ceiling: 1.25x (ideal target: < 1.0x) | Measures leverage and solvency risk | [[00:20:04–00:20:39](/transcripts/fa/FA_Lec03?t=1204)] |
-| Cash Conversion Efficiency | \\(\text{Cumulative CFO} \div \text{Cumulative Accrual PAT}\\) | Severe deficit observed (₹16 cr CFO / ₹176 cr PAT = ~9.1%) | Low conversion signals heavy working capital lockup | [[00:15:02–00:16:28](/transcripts/fa/FA_Lec03?t=902)] |
+| Debt-to-Equity Ratio | $\text{Total Borrowings} \div \text{Shareholders' Equity}$ | Ceiling: 1.25x (ideal target: < 1.0x) | Measures leverage and solvency risk | [[00:20:04–00:20:39](/transcripts/fa/FA_Lec03?t=1204)] |
+| Cash Conversion Efficiency | $\text{Cumulative CFO} \div \text{Cumulative Accrual PAT}$ | Severe deficit observed (₹16 cr CFO / ₹176 cr PAT = ~9.1%) | Low conversion signals heavy working capital lockup | [[00:15:02–00:16:28](/transcripts/fa/FA_Lec03?t=902)] |
 
 e) Visual aid
 *Decision Checklist: Evaluating Working Capital Heavy Manufacturing Businesses*
@@ -244,9 +244,9 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Revenue CAGR | \\(\text{CAGR} = \left(\frac{\text{FV}}{\text{PV}}\right)^{\frac{1}{n}} - 1\\) | 22% organic CAGR (₹1,959 cr to ₹3,600 cr over 3 yrs) | Measures required annual top-line growth rate | [[00:42:24–00:43:13](/transcripts/fa/FA_Lec03?t=2544)] |
-| Debt-to-Equity Trajectory | \\(\text{Borrowings} \div \text{Shareholders' Equity}\\) | De-leveraging from >1.0x down to 0.16x | Reflects balance sheet de-risking and financial strength | [[00:33:37–00:35:09](/transcripts/fa/FA_Lec03?t=2017)] |
-| Internal Accrual Coverage | \\(\frac{\text{Annual CFO} \times \text{Years}}{\text{Total Planned Capex}}\\) | \\(\frac{₹170\text{ cr} \times 3}{₹400\text{ cr}} = 127.5\%\\) (>100%) | Indicates complete self-funding ability without debt/dilution | [[00:45:04–00:46:33](/transcripts/fa/FA_Lec03?t=2704)] |
+| Revenue CAGR | CAGR = ≤ft (\frac{FV}{PV}\right) | 22% organic CAGR (₹1,959 cr to ₹3,600 cr over 3 yrs) | Measures required annual top-line growth rate | [[00:42:24–00:43:13](/transcripts/fa/FA_Lec03?t=2544)] |
+| Debt-to-Equity Trajectory | $\text{Borrowings} \div \text{Shareholders' Equity}$ | De-leveraging from >1.0x down to 0.16x | Reflects balance sheet de-risking and financial strength | [[00:33:37–00:35:09](/transcripts/fa/FA_Lec03?t=2017)] |
+| Internal Accrual Coverage | $\frac{\text{Annual CFO} \times \text{Years}}{\text{Total Planned Capex}}$ | $\frac{\text{₹}170\text{ cr} \times 3}{\text{₹}400\text{ cr}} = 127.5%$ (>100%) | Indicates complete self-funding ability without debt/dilution | [[00:45:04–00:46:33](/transcripts/fa/FA_Lec03?t=2704)] |
 
 e) Visual aid
 *Comparison Table: Working Capital & Financing Profile — Neogen vs Pricol*
@@ -310,8 +310,8 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Fixed Asset Turnover | \\(\text{Sales} \div \text{Net Fixed Assets}\\) | ~10x (₹400 cr sales / ₹38 cr fixed assets) | High asset turn indicates an asset-light, capital-efficient model | [[00:57:36–00:58:29](/transcripts/fa/FA_Lec03?t=3456)] |
-| Incremental Asset Turn | \\(\Delta \text{Revenue Potential} \div \Delta \text{Brownfield Capex}\\) | 10x (₹100 cr incremental sales / ₹10 cr Capex) | Measures efficiency of brownfield de-bottlenecking | [[01:00:00–01:00:51](/transcripts/fa/FA_Lec03?t=3600)] |
+| Fixed Asset Turnover | $\text{Sales} \div \text{Net Fixed Assets}$ | ~10x (₹400 cr sales / ₹38 cr fixed assets) | High asset turn indicates an asset-light, capital-efficient model | [[00:57:36–00:58:29](/transcripts/fa/FA_Lec03?t=3456)] |
+| Incremental Asset Turn | $\Delta \text{Revenue Potential} \div \Delta \text{Brownfield Capex}$ | 10x (₹100 cr incremental sales / ₹10 cr Capex) | Measures efficiency of brownfield de-bottlenecking | [[01:00:00–01:00:51](/transcripts/fa/FA_Lec03?t=3600)] |
 
 e) Visual aid
 *Text Flow Diagram: Idle Capacity Drag to Operating Leverage Turnaround*
@@ -382,7 +382,7 @@ d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | Greenfield Breakeven Period | Time required for new infrastructure/hospital to reach profitability | 5 to 6 years | Measures gestation lag during heavy capital deployment | [[01:03:22–01:04:07](/transcripts/fa/FA_Lec03?t=3802)] |
-| Operating Leverage Multiplier | \\(\frac{\% \Delta \text{Operating Profit}}{\% \Delta \text{Sales}}\\) | Incremental sales above fixed cost base flow directly to profit | Quantifies profit elasticity relative to top-line growth | [[01:09:12–01:09:49](/transcripts/fa/FA_Lec03?t=4152)] |
+| Operating Leverage Multiplier | $\frac{% \Delta \text{Operating Profit}}{% \Delta \text{Sales}}$ | Incremental sales above fixed cost base flow directly to profit | Quantifies profit elasticity relative to top-line growth | [[01:09:12–01:09:49](/transcripts/fa/FA_Lec03?t=4152)] |
 
 e) Visual aid
 *Decision Checklist: Distinguishing Greenfield Infrastructure vs Software Operating Leverage*
@@ -461,8 +461,8 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Debt-to-Equity Ceiling Guidance | \\(\text{Borrowings} \div \text{Reserves \& Equity}\\) | Cap: 0.7x (Max ₹3,500 cr debt on ₹5,000 cr equity) | Sets maximum prudent borrowing boundary during Capex | [[01:24:44–01:25:36](/transcripts/fa/FA_Lec03?t=5084)] |
-| Peak Revenue Potential | \\(\text{Total Gross Block} \times \text{Asset Turn Benchmark}\\) | ₹14,000 cr potential (₹9,300 cr gross block × 1.5x turn) | Models total revenue capacity once Capex is fully commercialized | [[01:27:05–01:28:01](/transcripts/fa/FA_Lec03?t=5225)] |
+| Debt-to-Equity Ceiling Guidance | $\text{Borrowings} \div \text{Reserves \& Equity}$ | Cap: 0.7x (Max ₹3,500 cr debt on ₹5,000 cr equity) | Sets maximum prudent borrowing boundary during Capex | [[01:24:44–01:25:36](/transcripts/fa/FA_Lec03?t=5084)] |
+| Peak Revenue Potential | $\text{Total Gross Block} \times \text{Asset Turn Benchmark}$ | ₹14,000 cr potential (₹9,300 cr gross block × 1.5x turn) | Models total revenue capacity once Capex is fully commercialized | [[01:27:05–01:28:01](/transcripts/fa/FA_Lec03?t=5225)] |
 
 e) Visual aid
 *Comparison Table: Operating Leverage (Shilchar / Indo Count) vs Operating Deleverage (Aarti Industries)*
@@ -501,9 +501,9 @@ Because all three financial statements are "joined at the hip," a share buyback 
 
 1. **Cash Flow Statement Impact:** The buyback amount (including transaction costs and buyback tax) is recorded as a cash outflow under Cash Flow from Financing Activities (CFF), reducing total cash balances [[01:33:28–01:34:59](/transcripts/fa/FA_Lec03?t=5608)].
 2. **Income Statement Impact (EPS Accretion):** Shares purchased in a buyback are extinguished, reducing the total number of outstanding shares [[01:34:59–01:36:05](/transcripts/fa/FA_Lec03?t=5699)]. If executed at fair valuations, a buyback is highly Earnings Per Share (EPS) accretive [[01:36:05](/transcripts/fa/FA_Lec03?t=5765)]. 
-   * *Numerical Illustration:* Assume a company earns a net profit of ₹10 and has 2 outstanding shares. Its EPS is ₹5 (\\(\text{EPS} = \frac{\text{Net Profit}}{\text{Outstanding Shares}} = \frac{10}{2} = 5\\)) [[01:34:59–01:35:52](/transcripts/fa/FA_Lec03?t=5699)]. If the company buys back and extinguishes 1 share while net profit remains flat at ₹10, the outstanding share count drops to 1, causing EPS to double to ₹10 (\\(\text{EPS} = \frac{10}{1} = 10\\)) [[01:35:52–01:36:05](/transcripts/fa/FA_Lec03?t=5752)].
+   * *Numerical Illustration:* Assume a company earns a net profit of ₹10 and has 2 outstanding shares. Its EPS is ₹5 ($\text{EPS} = \frac{\text{Net Profit}}{\text{Outstanding Shares}} = \frac{10}{2} = 5$) [[01:34:59–01:35:52](/transcripts/fa/FA_Lec03?t=5699)]. If the company buys back and extinguishes 1 share while net profit remains flat at ₹10, the outstanding share count drops to 1, causing EPS to double to ₹10 ($\text{EPS} = \frac{10}{1} = 10$) [[01:35:52–01:36:05](/transcripts/fa/FA_Lec03?t=5752)].
 3. **Balance Sheet & Return on Equity (ROE) Impact:** On the asset side, cash decreases by the buyback amount [[01:36:05–01:37:22](/transcripts/fa/FA_Lec03?t=5765)]. On the equity/liabilities side, share capital decreases due to share extinguishment, and reserves decrease to absorb the cash payout [[01:36:05–01:37:22](/transcripts/fa/FA_Lec03?t=5765)]. Total shareholders' equity (Net Worth = Share Capital + Reserves) shrinks [[01:36:05–01:37:22](/transcripts/fa/FA_Lec03?t=5765)]. 
-   * *ROE Expansion Mechanics:* Return on Equity is calculated as Profit After Tax divided by Shareholders' Equity (\\(\text{ROE} = \frac{\text{PAT}}{\text{Shareholders' Equity}}\\)) [[01:37:22–01:37:56](/transcripts/fa/FA_Lec03?t=5842)]. Because the denominator (shareholders' equity) decreases due to the buyback while the numerator (PAT) remains constant or grows, total Return on Equity automatically improves [[01:36:05–01:37:56](/transcripts/fa/FA_Lec03?t=5765)].
+   * *ROE Expansion Mechanics:* Return on Equity is calculated as Profit After Tax divided by Shareholders' Equity ($\text{ROE} = \frac{\text{PAT}}{\text{Shareholders' Equity}}$) [[01:37:22–01:37:56](/transcripts/fa/FA_Lec03?t=5842)]. Because the denominator (shareholders' equity) decreases due to the buyback while the numerator (PAT) remains constant or grows, total Return on Equity automatically improves [[01:36:05–01:37:56](/transcripts/fa/FA_Lec03?t=5765)].
 
 c) Examples & case studies
 * Example: Godawari Power & Ispat Ltd. (GPIL)  [[01:30:12–01:31:02](/transcripts/fa/FA_Lec03?t=5412)] [Slide N: image not legible — content taken from transcript]
@@ -522,8 +522,8 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Earnings Per Share (EPS) | \\(\frac{\text{Net Profit (PAT)}}{\text{Number of Outstanding Shares}}\\) | Numerical example: ₹10 PAT / 2 shares = ₹5 → 1 share = ₹10 | Measures profit per share; increases when share count drops via buybacks | [[01:34:59–01:36:05](/transcripts/fa/FA_Lec03?t=5699)] |
-| Return on Equity (ROE) | \\(\frac{\text{Profit After Tax (PAT)}}{\text{Shareholders' Equity}}\\) | Higher is better | Measures return on net worth; expands when buybacks contract equity | [[01:37:22–01:37:56](/transcripts/fa/FA_Lec03?t=5842)] |
+| Earnings Per Share (EPS) | $\frac{\text{Net Profit$ (PAT) | Numerical example: ₹10 PAT / 2 shares = ₹5 → 1 share = ₹10 | Measures profit per share; increases when share count drops via buybacks | [[01:34:59–01:36:05](/transcripts/fa/FA_Lec03?t=5699)] |
+| Return on Equity (ROE) | $\frac{\text{Profit After Tax$ (PAT) | Higher is better | Measures return on net worth; expands when buybacks contract equity | [[01:37:22–01:37:56](/transcripts/fa/FA_Lec03?t=5842)] |
 
 e) Visual aid
 *Step-by-Step Process List: Three-Statement Chain Reaction of a Share Buyback*
@@ -570,7 +570,11 @@ Garware Hi-Tech Films invested ₹500–600 crore in Capex to construct a manufa
 
 *Polycab India: Net Working Capital Optimization & ROCE Expansion*
 Net Working Capital (NWC) duration is calculated using the formula [[01:48:28–01:49:57](/transcripts/fa/FA_Lec03?t=6508)]:
-\\[\text{Net Working Capital Days} = \text{Receivable Days} + \text{Inventory Days} - \text{Payable Days}\\]
+
+$$
+Net Working Capital Days = Receivable Days + Inventory Days - Payable Days
+$$
+
 
 Polycab systematically reduced its Net Working Capital cycle from 65 days down to 51 days [[01:49:57–01:50:35](/transcripts/fa/FA_Lec03?t=6597)].
 
@@ -578,7 +582,11 @@ Polycab systematically reduced its Net Working Capital cycle from 65 days down t
 1. **Balance Sheet:** Working capital becomes lighter as inventory and trade receivables drop, reducing working-capital-related short-term debt [[01:47:49–01:48:28](/transcripts/fa/FA_Lec03?t=6469)].
 2. **Cash Flow Statement:** Releasing locked working capital generates immediate cash inflows into CFO [[01:47:49–01:48:28](/transcripts/fa/FA_Lec03?t=6469)].
 3. **ROCE Expansion Mechanics:** Return on Capital Employed is decomposed as [[01:49:57–01:50:35](/transcripts/fa/FA_Lec03?t=6597)]:
-\\[\text{ROCE} = \frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}\\]
+
+$$
+ROCE = \frac{EBIT}{Sales} × \frac{Sales}{Capital Employed}
+$$
+
 Because Capital Employed consists of Fixed Assets plus Net Working Capital, compressing working capital days shrinks Capital Employed, directly elevating ROCE [[01:49:57–01:50:35](/transcripts/fa/FA_Lec03?t=6597)].
 4. **Seasonality:** Polycab exhibits strong H2 seasonality, consistently delivering higher sales in H2 compared to H1 (H1 recorded 27%–42% growth) [[01:50:35–01:51:09](/transcripts/fa/FA_Lec03?t=6635)].
 
@@ -610,7 +618,7 @@ d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | Net Working Capital Days | Receivable Days + Inventory Days − Payable Days | Compression: 65 days down to 51 days (Polycab) | Quantifies working capital cycle duration | [[01:48:28–01:49:57](/transcripts/fa/FA_Lec03?t=6508)] |
-| DuPont ROCE Decomposition | \\(\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}\\) | Higher is better | Shows how reducing Capital Employed (via lower NWC) elevates ROCE | [[01:49:57–01:50:35](/transcripts/fa/FA_Lec03?t=6597)] |
+| DuPont ROCE Decomposition | $\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}$ | Higher is better | Shows how reducing Capital Employed (via lower NWC) elevates ROCE | [[01:49:57–01:50:35](/transcripts/fa/FA_Lec03?t=6597)] |
 
 e) Visual aid
 *Comparison Table: Avanti Feeds (Cash Hoarding Drag) vs Polycab India (Working Capital Efficiency)*
@@ -639,7 +647,7 @@ To master fundamental analysis, investors must develop mental "tube lights" that
 *Scenario 1: Accumulating Excessive Unproductive Cash*
 * **Balance Sheet:** Cash and investment balances inflate shareholders' equity [[01:53:33–01:54:12](/transcripts/fa/FA_Lec03?t=6813)].
 * **Income Statement:** Other income increases moderately from ~5% mutual fund yields [[01:40:02](/transcripts/fa/FA_Lec03?t=6002), [01:53:33](/transcripts/fa/FA_Lec03?t=6813)].
-* **Return Metric:** Return on Equity (\\(\text{ROE} = \frac{\text{PAT}}{\text{Equity}}\\)) drops because total equity expands much faster than low-yielding interest income [[01:53:33–01:54:12](/transcripts/fa/FA_Lec03?t=6813)].
+* **Return Metric:** Return on Equity ($\text{ROE} = \frac{\text{PAT}}{\text{Equity}}$) drops because total equity expands much faster than low-yielding interest income [[01:53:33–01:54:12](/transcripts/fa/FA_Lec03?t=6813)].
 
 *Scenario 2: Disproportionate Spikes in Trade Receivables (Debtors)*
 * **Income Statement:** Reported revenues may increase initially, but unpaid invoices force the company to borrow short-term working capital debt, driving interest costs up and depressing net profit [[01:54:27–01:55:29](/transcripts/fa/FA_Lec03?t=6867)].
@@ -670,8 +678,8 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Interest Cost Sensitivity | \\(\text{Short-term Borrowings} \times \text{Interest Rate \%}\\) | High debt increases interest expense | Explains why trade receivable spikes depress net profit | [[01:54:27–01:55:29](/transcripts/fa/FA_Lec03?t=6867)] |
-| Post-Capex Depreciation Jump | \\(\frac{\text{New Asset Base}}{\text{Useful Asset Life}}\\) | Apcotex example: ₹14 cr → ₹23 cr | Direct non-cash P&L expense following asset commissioning | [[01:56:06–01:57:33](/transcripts/fa/FA_Lec03?t=6966)] |
+| Interest Cost Sensitivity | $\text{Short-term Borrowings} \times \text{Interest Rate %}$ | High debt increases interest expense | Explains why trade receivable spikes depress net profit | [[01:54:27–01:55:29](/transcripts/fa/FA_Lec03?t=6867)] |
+| Post-Capex Depreciation Jump | $\frac{\text{New Asset Base}}{\text{Useful Asset Life}}$ | Apcotex example: ₹14 cr → ₹23 cr | Direct non-cash P&L expense following asset commissioning | [[01:56:06–01:57:33](/transcripts/fa/FA_Lec03?t=6966)] |
 
 e) Visual aid
 *Decision Checklist: Three-Statement Scenario Audit Matrix*
@@ -702,10 +710,10 @@ Let's double check grounding rules from the persona prompt:
 7. No meta-language ("In this lecture", "The speaker talks about"). State facts directly. Attribute opinions ("Speaker's view:").
 8. Format rules from `1B_prompt.md`:
    For EACH stage:
-   STAGE ```````<N>```````: ```````<Stage Title>```````  [hh:mm:ss–hh:mm:ss]  [TVGP: ```````<pillar>``````` if applicable]
+   STAGE ````````````<N>````````````: ````````````<Stage Title>````````````  [hh:mm:ss–hh:mm:ss]  [TVGP: ````````````<pillar>```````````` if applicable]
    a) What this stage answers (One sentence)
    b) Detailed explanation (Engaging paragraphs, sub-headings)
-   c) Examples & case studies (* Example: ```````<name>``````` [timestamp] [Slide N], Context, Data/details, Walkthrough, Takeaway)
+   c) Examples & case studies (* Example: ````````````<name>```````````` [timestamp] [Slide N], Context, Data/details, Walkthrough, Takeaway)
    d) Formulas, metrics & thresholds (Table)
    e) Visual aid (Choose the most useful ONE)
    f) Speaker's cautions & common mistakes
@@ -810,7 +818,7 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Crash Course Efficiency | \\(\frac{\text{Full Course Hours}}{\text{Crash Course Hours}}\\) | \\(\frac{60\text{ hours}}{24\text{--}30\text{ hours}}\\) (~50% time saving) | Measures curriculum condensation for rapid learning | [[01:59:41](/transcripts/fa/FA_Lec03?t=7181)] |
+| Crash Course Efficiency | $\frac{\text{Full Course Hours}}{\text{Crash Course Hours}}$ | $\frac{60\text{ hours}}{24\text{--}30\text{ hours}}$ (~50% time saving) | Measures curriculum condensation for rapid learning | [[01:59:41](/transcripts/fa/FA_Lec03?t=7181)] |
 
 e) Visual aid
 *Step-by-Step Process List: SOIC 5-Level Learning Progression*
@@ -851,13 +859,21 @@ Automated financial spreadsheets evaluate corporate health via key forensic metr
 
 *Balance Sheet Fundamental Principles*
 The Balance Sheet is governed by the accounting identity [[02:06:59–02:07:47](/transcripts/fa/FA_Lec03?t=7619)]:
-\\[\text{Total Assets} = \text{Total Liabilities} + \text{Shareholders' Equity}\\]
-\\[\text{Shareholders' Equity} = \text{Total Assets} - \text{Total Liabilities}\\]
+
+$$
+Total Assets = Total Liabilities + Shareholders' Equity
+$$
+
+
+$$
+Shareholders' Equity = Total Assets - Total Liabilities
+$$
+
 A balance sheet must always balance [[02:06:59–02:07:47](/transcripts/fa/FA_Lec03?t=7619)].
 
 *Income Statement Margin Hierarchy*
 The Income Statement follows strict sequential accrual steps [[02:07:47–02:09:05](/transcripts/fa/FA_Lec03?t=7667)]:
-1. **Gross Profit Margin:** \\(\text{Sales} - \text{Raw Material Costs}\\) [[02:07:47](/transcripts/fa/FA_Lec03?t=7667)].
+1. **Gross Profit Margin:** $\text{Sales} - \text{Raw Material Costs}$ [[02:07:47](/transcripts/fa/FA_Lec03?t=7667)].
 2. **EBITDA Margin / Operating Profit Margin (OPM):** Gross Profit minus General & Administrative (G&A), sales, and marketing expenses [[02:07:47–02:08:24](/transcripts/fa/FA_Lec03?t=7667)].
 3. **EBIT Margin:** EBITDA minus Depreciation & Amortization (D&A) [[02:08:24](/transcripts/fa/FA_Lec03?t=7704)].
 4. **Profit Before Tax (PBT):** EBIT minus Interest Expenses [[02:08:24](/transcripts/fa/FA_Lec03?t=7704)].
@@ -893,10 +909,10 @@ d) Formulas, metrics & thresholds
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| B2B Cash Conversion Benchmark | \\(\text{Cumulative CFO} \div \text{Cumulative PAT}\\) | Minimum 60%–70% | Required cash conversion rate for B2B models | [[02:04:16](/transcripts/fa/FA_Lec03?t=7456)] |
-| B2C Cash Conversion Benchmark | \\(\text{Cumulative CFO} \div \text{Cumulative PAT}\\) | Minimum 80%–90% | Required cash conversion rate for B2C models | [[02:04:16](/transcripts/fa/FA_Lec03?t=7456)] |
-| CFO-to-EBITDA Benchmark | \\(\text{CFO} \div \text{EBITDA}\\) | 80% or higher | Measures cash conversion from operating profit | [[02:05:41](/transcripts/fa/FA_Lec03?t=7541)] |
-| Balance Sheet Identity | \\(\text{Assets} = \text{Liabilities} + \text{Equity}\\) | Strict equality | Foundation of double-entry accounting | [[02:06:59](/transcripts/fa/FA_Lec03?t=7619)] |
+| B2B Cash Conversion Benchmark | $\text{Cumulative CFO} \div \text{Cumulative PAT}$ | Minimum 60%–70% | Required cash conversion rate for B2B models | [[02:04:16](/transcripts/fa/FA_Lec03?t=7456)] |
+| B2C Cash Conversion Benchmark | $\text{Cumulative CFO} \div \text{Cumulative PAT}$ | Minimum 80%–90% | Required cash conversion rate for B2C models | [[02:04:16](/transcripts/fa/FA_Lec03?t=7456)] |
+| CFO-to-EBITDA Benchmark | $\text{CFO} \div \text{EBITDA}$ | 80% or higher | Measures cash conversion from operating profit | [[02:05:41](/transcripts/fa/FA_Lec03?t=7541)] |
+| Balance Sheet Identity | Assets = Liabilities + Equity | Strict equality | Foundation of double-entry accounting | [[02:06:59](/transcripts/fa/FA_Lec03?t=7619)] |
 
 e) Visual aid
 *Step-by-Step Process List: Sequential P&L Margin Extraction Hierarchy*
@@ -931,7 +947,7 @@ c) Examples & case studies
 * Context: Awarding classic investment literature to incentivize student synthesis.
 * Data/details: 
   * Book 1: *The Zurich Axioms* by Max Gunther [[02:09:47](/transcripts/fa/FA_Lec03?t=7787)].
-  * Book 2: *How I Made \$2,000,000 in the Stock Market* by Nicolas Darvas [[02:09:47](/transcripts/fa/FA_Lec03?t=7787)].
+  * Book 2: *How I Made $2,000,000 in the Stock Market* by Nicolas Darvas [[02:09:47](/transcripts/fa/FA_Lec03?t=7787)].
 * Walkthrough: The speaker presents copies of *The Zurich Axioms* and Nicolas Darvas's classic stock trading text, detailing the submission criteria for student key takeaways.
 * Takeaway: Thorough synthesis and structured note-taking reinforce fundamental analysis concepts.
 
@@ -942,7 +958,7 @@ e) Visual aid
 *Decision Checklist: Student Competition & Webinar Wrap-Up*
 * [ ] Summarize all 12 stages of three-statement financial integration.
 * [ ] Highlight core rules of thumb (CFO conversion benchmarks, working capital formulas, operating leverage mechanics).
-* [ ] Submit elaborate key learnings to enter the book competition for *The Zurich Axioms* and *How I Made \$2,000,000 in the Stock Market*.
+* [ ] Submit elaborate key learnings to enter the book competition for *The Zurich Axioms* and *How I Made$2,000,000 in the Stock Market*.
 
 f) Speaker's cautions & common mistakes
 * None stated [[02:09:47–02:10:31](/transcripts/fa/FA_Lec03?t=7787)].

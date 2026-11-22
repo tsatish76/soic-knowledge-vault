@@ -11,8 +11,8 @@
 
 ### A. Concepts Only Briefly Mentioned
 
-- **Life Insurance Valuation (Price-to-Embedded Value) & Banking P/B:** Deferred due to 2–3 hour complexity \[01:32:31, 02:34:20, 02:52:41\].  
-- **Manual Reverse DCF (Goal Seek) & Terminal Value:** Deferred to Part 3 \[02:51:52, 03:00:33\].
+- **Life Insurance Valuation (Price-to-Embedded Value) & Banking P/B:** Deferred due to 2–3 hour complexity [01:32:31, 02:34:20, 02:52:41].  
+- **Manual Reverse DCF (Goal Seek) & Terminal Value:** Deferred to Part 3 [02:51:52, 03:00:33].
 
 ### B. Items Marked `[?]`, `[? verify]` or `[? Hindi segment unclear]`
 

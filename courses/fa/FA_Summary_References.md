@@ -73,7 +73,7 @@ Evaluating directional rates of change in business fundamentals takes priority o
 4. Key examples
 - **Yasho Industries** → ₹400 crore capex tripled fixed block, depressing PAT via interest/depreciation until plant utilization ramps from 20% to 90% → Stage 3, Stage 11 [0:17:56, 2:14:10].
 - **GNFC** → Deleveraged debt from ₹2,000 crore (2.5x D/E) down to ₹34 crore, accumulating ₹1,000 crore cash to fund ₹7,000 crore capex → Stage 8 [1:13:14].
-- **CCL Products** → Green coffee bean price spike (\$95 to \$120) choked working capital, expanding short-term debt while end-demand remained intact → Stage 9 [1:31:21].
+- **CCL Products** → Green coffee bean price spike ($95 to$120) choked working capital, expanding short-term debt while end-demand remained intact → Stage 9 [1:31:21].
 - **Apar Industries** → Segmental analysis showed expanding specialty oil unit margins offsetting conductor/cable margin softness → Stage 13 [2:40:03].
 - **DMart** → Sales growth slowing to 14% (12-quarter low) due to quick-commerce disruption triggered a Stage 4 price markdown → Stage 12, Stage 13 [2:23:36, 2:38:30].
 
@@ -105,7 +105,7 @@ Accrual accounting P&L growth can conceal severe cash starvation, rising debt, a
 - **Operating Leverage Mechanics:** Evaluates fixed overhead absorption where flat operating costs during top-line growth accelerate operating margin and PAT expansion → Report Stage 4, 5 & 8.
 - **Operating Deleverage Framework:** Analyzes downcycle margin compression where rising depreciation and interest outpace slowing sales growth → Report Stage 6.
 - **Three-Statement Buyback Interconnection:** Traces how share repurchases decrease CFF cash, contract net worth, increase EPS via share cancellation, and expand ROE → Report Stage 7.
-- **DuPont ROCE & NWC Optimization:** Decomposes ROCE into \\(\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}\\) to show how compressing Net Working Capital days shrinks Capital Employed to expand ROCE → Report Stage 8.
+- **DuPont ROCE & NWC Optimization:** Decomposes ROCE into $\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}$ to show how compressing Net Working Capital days shrinks Capital Employed to expand ROCE → Report Stage 8.
 
 3. Rules, thresholds & formulas (compact table)
 
@@ -115,7 +115,7 @@ Accrual accounting P&L growth can conceal severe cash starvation, rising debt, a
 | B2C Cash Conversion Benchmark | CFO ÷ PAT ≥ 80%–90% | Stage 11 |
 | CFO-to-EBITDA Benchmark | CFO ÷ EBITDA ≥ 80% | Stage 11 |
 | Net Working Capital Days | Receivable Days + Inventory Days − Payable Days | Stage 8 |
-| DuPont ROCE | \\(\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}\\) | Stage 8 |
+| DuPont ROCE | $\frac{\text{EBIT}}{\text{Sales}} \times \frac{\text{Sales}}{\text{Capital Employed}}$ | Stage 8 |
 | Debt-to-Equity Cap | Ceiling ≤ 1.25x (ideal < 1.0x; 0.7x for Aarti) | Stage 2 & 6 |
 | Greenfield Hospital Breakeven | 5–6 years gestation period | Stage 5 |
 | Asset Turn Revenue Potential | Total Gross Block × Asset Turn (1.5x benchmark) | Stage 6 |
@@ -200,8 +200,8 @@ Detailed report: CC-FA_Lec05_Report.docx
 Systematic equity investing requires a structured, multi-checklist approach combining fundamental quality, technical trend confirmation, forensic management auditing, and scenario-based valuations [0:08:07, 1:33:19, 2:09:21, 2:50:46]. Relying on unverified narrative growth without verifying cash flow conversion, balance sheet equity dilution, or technical relative strength exposes portfolios to severe capital impairment during market regime shifts [0:05:21, 1:57:50, 2:18:09]. A 4-part checklist framework eliminates cognitive bias and filters compounders with positive risk-reward asymmetry [1:33:19, 3:10:59].
 
 **2. Frameworks & methods**  
-* **3-Factor DuPont Analysis:** Deconstructs ROE into Net Profit Margin \\(\left(\frac{\text{PAT}}{\text{Sales}}\right)\\), Asset Turnover \\(\left(\frac{\text{Sales}}{\text{Assets}}\right)\\), and Financial Leverage \\(\left(\frac{\text{Assets}}{\text{Equity}}\right)\\) [0:21:20]. Applied to pinpoint operational efficiency drivers or identify structural ROE decay → Report Stages 4, 6 [0:31:45, 1:04:06].
-* **2-Factor ROCE Decomposition:** Breaks down ROCE into EBIT Margin \\(\left(\frac{\text{EBIT}}{\text{Sales}}\right)\\) and Capital Employed Turnover \\(\left(\frac{\text{Sales}}{\text{Capital Employed}}\right)\\) [1:27:17]. Used to isolate pricing power from asset efficiency and evaluate moat permanence → Report Stage 7 [1:28:17, 1:29:43].
+* **3-Factor DuPont Analysis:** Deconstructs ROE into Net Profit Margin $\left$ (\frac{\text{PAT}}{\text{Sales}}\right), Asset Turnover $\left$ (\frac{\text{Sales}}{\text{Assets}}\right), and Financial Leverage $\left$ (\frac{\text{Assets}}{\text{Equity}}\right) [0:21:20]. Applied to pinpoint operational efficiency drivers or identify structural ROE decay → Report Stages 4, 6 [0:31:45, 1:04:06].
+* **2-Factor ROCE Decomposition:** Breaks down ROCE into EBIT Margin $\left$ (\frac{\text{EBIT}}{\text{Sales}}\right) and Capital Employed Turnover $\left$ (\frac{\text{Sales}}{\text{Capital Employed}}\right) [1:27:17]. Used to isolate pricing power from asset efficiency and evaluate moat permanence → Report Stage 7 [1:28:17, 1:29:43].
 * **Stage 2 Technical & Triple Confirmation:** Integrates 10-week/30-week EMA Golden Crossover, weekly RSI >50, and 26-week green Relative Strength vs Nifty 50 [2:18:09, 2:27:27, 2:32:12]. Applied to verify institutional accumulation and time momentum entries → Report Stage 10 [2:32:51].
 * **Scenario Valuation Modeling:** Models Bull, Bear, and Base exit P/E multiples against 3–4 year forward PAT estimates [2:52:56, 3:07:16]. Applied to calculate PEG ratios (<1.5x) and verify that Bear case scenarios preserve capital → Report Stages 11, 12, 13 [2:50:46, 3:09:56].
 
@@ -287,4 +287,3 @@ Deploy forward capacity P/E and PEG modeling alongside Post Earnings Announcemen
 - **Keywords:** VSTOP Exit Framework, PEED Strategy, Credit-to-Deposit Ratio, Transmission Capex Multiplier, Peak Operating Margin, Revlimid Exclusivity Cliff, Forward P/E Modeling, Zen Technologies, Natco Pharma, HDFC Bank.
 
 ---
-

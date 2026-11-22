@@ -73,15 +73,15 @@ Media narratives chase price action rather than fundamentals, and bull markets b
 | Rule/Formula | Value/Condition | Stage |
 | :---- | :---- | :---- |
 | Composition of finance | 50%–60% art, 40%–50% science | Stage 4 |
-| Extreme retail valuation (DMart) | \~279x P/E \[? verify\]; \>5 SD / 5x above retail peers | Stage 4 |
+| Extreme retail valuation (DMart) | \~279x P/E [? verify]; \>5 SD / 5x above retail peers | Stage 4 |
 | Sector tailwind signal | Broad sector charts hitting 52-week highs | Stage 7 |
-| System 2 company toolkit | Bull/Bear/Base cases, forward P/E \[?\], risks, thesis pointers | Stage 7 |
+| System 2 company toolkit | Bull/Bear/Base cases, forward P/E [?], risks, thesis pointers | Stage 7 |
 
 ### 4\. Key examples
 
 - **2016–2017 Donald Trump & S\&P 500** → S\&P 500 fell on anti-trade fears, recovered the same day, and media flipped to "pro-business" → `Stage 1` `[00:02:35–00:03:46]`  
 - **Sunny-day tree & 10–15 yr investors** → Minds imagine a perfect tree, whereas real compounding is lumpy with troughs and monsoons → `Stage 2` `[00:05:53–00:10:31]`  
-- **APL \[?\] & DMart** → APL re-rated from 12–17x (2020) to \~65x P/E; DMart hit \~279x P/E \[? verify\], proving rough valuation \+ exit systems beat exact models → `Stage 4` `[00:15:40–00:18:29]`  
+- **APL [?] & DMart** → APL re-rated from 12–17x (2020) to \~65x P/E; DMart hit \~279x P/E [? verify], proving rough valuation \+ exit systems beat exact models → `Stage 4` `[00:15:40–00:18:29]`  
 - **Lily pad lake puzzle** → Doubling daily to fill a lake in 48 days means Day 47 is half-full, exposing linear Day-24 traps → `Stage 5` `[00:20:30–00:22:06]`  
 - **Real estate bottom-up selection** → On 52-week-high tailwinds, bypassed pan-India players for Delhi (special situation) and Mumbai (highest appreciation) → `Stage 7` `[00:23:49–00:25:49]`
 
@@ -133,9 +133,9 @@ Retail investors routinely destroy capital through four behavioural traps: FOMO 
 
 - **IRCTC** → \>80% above 200 EMA ("Eiffel Tower"), selling volume, Reverse DCF excess, and "500% PSU" articles marked a multi-year peak → `Stage 2` `[00:03:49–00:06:08]`  
 - **₹1.9 Cr P\&L fraud & *Wolf of Wall Street*** → Fake F\&O screenshots and Aerotyne penny-stock urgency manufacture FOMO → `Stages 3–4` `[00:08:04, 00:11:10–00:13:07]`  
-- **Ramdeo Agarwal / Pentamedia \[?\] & Lay's ₹10** → Tax anchoring delayed exits; Lay's shrank packet content over 10 yrs (6%–7% inflation) to preserve ₹10 anchor → `Stage 5` `[00:15:55–00:19:00]`  
+- **Ramdeo Agarwal / Pentamedia [?] & Lay's ₹10** → Tax anchoring delayed exits; Lay's shrank packet content over 10 yrs (6%–7% inflation) to preserve ₹10 anchor → `Stage 5` `[00:15:55–00:19:00]`  
 - **Warren Buffett (Dexter Shoes, Chevron, Airlines)** → \$6–8B share-swap loss; sold Chevron/Airlines at a loss without Endowment Bias → `Stage 6` `[00:21:08–00:22:13]`  
-- **Unlisted mfg (`Nightway` \[?\]) & financier vs. low-stake listed firm** → 100% family stake grew ₹100→₹1,000 Cr sales in 5 yrs; 80% financier enforced daily collection stops; 2%–3% stake \+ zero ESOPs bred complacency → `Stage 7` `[00:24:02–00:28:06]`
+- **Unlisted mfg (`Nightway` [?]) & financier vs. low-stake listed firm** → 100% family stake grew ₹100→₹1,000 Cr sales in 5 yrs; 80% financier enforced daily collection stops; 2%–3% stake \+ zero ESOPs bred complacency → `Stage 7` `[00:24:02–00:28:06]`
 
 ### 5\. Cautions & red flags
 
@@ -175,16 +175,16 @@ Incentives drive corporate, policy, and market-intermediary behaviour—creating
 
 | Rule/Formula | Value/Condition | Stage |
 | :---- | :---- | :---- |
-| Promoter warrant window | 15% upfront (`₹15 Cr`), 85% over 18 months (`₹85 Cr`) \[? verify\] | Stage 1 |
+| Promoter warrant window | 15% upfront (`₹15 Cr`), 85% over 18 months (`₹85 Cr`) [? verify] | Stage 1 |
 | Open-market \+ capex check | Rising promoter stake \+ doubling FA/CWIP \+ 3x AGM capacity | Stage 2 |
 | Crash course scope | 50–60 hr SOIC membership condensed to 24–25 hrs (6–7 weeks) | Stage 7 |
 
 ### 4\. Key examples
 
-- **Warrant thread (APL Apollo, HCG, HLE Glascoat \[?\], Mold-Tek \[?\], IOL, Care Health)** → Warrants/takeovers ahead of 18-month tailwinds preceded sharp re-ratings → `Stage 1` `[00:00:17–00:01:41]`  
+- **Warrant thread (APL Apollo, HCG, HLE Glascoat [?], Mold-Tek [?], IOL, Care Health)** → Warrants/takeovers ahead of 18-month tailwinds preceded sharp re-ratings → `Stage 1` `[00:00:17–00:01:41]`  
 - **HEG & Graphite India** → Heavy 2017 promoter buying \+ "specialty electrodes" hype ended in a \-90% cyclical crash → `Stage 1` `[00:01:41–00:03:42]`  
-- **Pricol & Galaxy Bearings \[?\]** → Pricol promoters bought \~₹50 Cr (36.53%→38.51%); Galaxy Bearings rose 48.46%→55% alongside doubling FA (`₹12 Cr + ₹12 Cr CWIP`) and 3x capacity → `Stage 2` `[00:03:42–00:04:48]`  
-- **Vietnam rat-tail bounty & India PLI** → Rat-tail bounties caused rat breeding (perverse incentives); India PLI 4-level thinking leads to niche dielectric-film \[?\] suppliers → `Stages 3–4` `[00:04:48–00:11:54]`  
+- **Pricol & Galaxy Bearings [?]** → Pricol promoters bought \~₹50 Cr (36.53%→38.51%); Galaxy Bearings rose 48.46%→55% alongside doubling FA (`₹12 Cr + ₹12 Cr CWIP`) and 3x capacity → `Stage 2` `[00:03:42–00:04:48]`  
+- **Vietnam rat-tail bounty & India PLI** → Rat-tail bounties caused rat breeding (perverse incentives); India PLI 4-level thinking leads to niche dielectric-film [?] suppliers → `Stages 3–4` `[00:04:48–00:11:54]`  
 - **Graviton vs. retail algo platforms** → Elite quants never sell their edge; immature traders sell F\&O algos → `Stage 5` `[00:13:16–00:14:41]`
 
 ### 5\. Cautions & red flags

@@ -18,15 +18,15 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 ### 2. KEY LEARNINGS
 
 * **7-Point Balance Sheet Analysis Framework**: Evaluate balance sheet strength through seven sequential criteria: (1) overall strength/weakness via leverage metrics, (2) capex expansion trends in fixed assets and CWIP, (3) working capital dynamics, (4) business classification as asset-light vs. asset-heavy, (5) liquidity and cash reserves, (6) total debt burden, and (7) the directional rate of change in balance sheet strength over time [Slide 6/7, Slide 26/27; 0:03:32–0:04:05, 1:12:46–1:13:14, 1:52:16–1:53:00].
-* **Asset-Light vs. Asset-Heavy Classification Rule**: Calculate the Fixed Asset Turnover ratio as \\(\text{Sales} \div \text{Fixed Assets}\\). Speaker's rule of thumb: If a business generates less than ₹2 of sales for every ₹1 of net fixed assets (\\(\text{Fixed Asset Turns} < 2\text{x}\\)), it is an asset-heavy business (e.g., Tata Steel at 1.53x [[0:03:32–0:04:05](/transcripts/fa/FA_Lec02?t=212), [1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)], Aarti Industries at 1.1x [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)]); if it generates significantly higher turnover, it is asset-light (e.g., IEX at 4.4x [[1:43:28–1:44:53](/transcripts/fa/FA_Lec02?t=6208)], Awfis / Holiteck at ~30x [[1:44:53–1:46:20](/transcripts/fa/FA_Lec02?t=6293)]).
-* **Debt-to-Equity Threshold & Deleveraging Signal**: Speaker's view: A healthy balance sheet generally maintains a Debt-to-Equity ratio below \\(0.7\text{x}\\) (\\(D/E < 0.7\\)) [[1:52:16–1:53:00](/transcripts/fa/FA_Lec02?t=6736)]. Highly leveraged balance sheets (\\(D/E > 1\text{x}\\)–\\(2.5\text{x}\\)) carry elevated financial risk unless sustained by rapid earnings growth [[1:12:46–1:14:47](/transcripts/fa/FA_Lec02?t=4366)], while a management commitment to pay down debt toward a net-cash position serves as a primary fundamental turnaround catalyst [[1:23:00–1:25:41](/transcripts/fa/FA_Lec02?t=4980), [1:53:00–1:54:21](/transcripts/fa/FA_Lec02?t=6780)].
-* **Cash Flow Conversion Thresholds**: On the Cash Flow statement, test profit quality using two fixed operational conversion benchmarks: Cash Flow from Operations to EBITDA must exceed 60% (\\(\text{CFO}/\text{EBITDA} > 60\%\\)), and Cash Flow from Operations to PAT must exceed 90% (\\(\text{CFO}/\text{PAT} > 90\%\\)) [Slide 22/23, Slide 34/35; 0:03:32–0:04:05, 1:43:28–1:44:07].
-* **Working Capital Choke & Debt Impact**: The Cash Conversion Cycle (\\(\text{Receivables} + \text{Inventory} - \text{Payables}\\)) dictates short-term funding needs. Inflation in raw material costs (e.g., green coffee beans rising from \$95 to \$120 for CCL Products [[1:38:03–1:39:45](/transcripts/fa/FA_Lec02?t=5883)]) forces companies to take on short-term working capital debt to hold inventory, ballooning the balance sheet even when customer demand remains fully intact [[0:26:57–0:28:43](/transcripts/fa/FA_Lec02?t=1617), [1:38:03–1:40:34](/transcripts/fa/FA_Lec02?t=5883)].
+* **Asset-Light vs. Asset-Heavy Classification Rule**: Calculate the Fixed Asset Turnover ratio as $\text{Sales} \div \text{Fixed Assets}$. Speaker's rule of thumb: If a business generates less than ₹2 of sales for every ₹1 of net fixed assets ($\text{Fixed Asset Turns} < 2\text{x}$), it is an asset-heavy business (e.g., Tata Steel at 1.53x [[0:03:32–0:04:05](/transcripts/fa/FA_Lec02?t=212), [1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)], Aarti Industries at 1.1x [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)]); if it generates significantly higher turnover, it is asset-light (e.g., IEX at 4.4x [[1:43:28–1:44:53](/transcripts/fa/FA_Lec02?t=6208)], Awfis / Holiteck at ~30x [[1:44:53–1:46:20](/transcripts/fa/FA_Lec02?t=6293)]).
+* **Debt-to-Equity Threshold & Deleveraging Signal**: Speaker's view: A healthy balance sheet generally maintains a Debt-to-Equity ratio below 0.7x (D/E < 0.7) [[1:52:16–1:53:00](/transcripts/fa/FA_Lec02?t=6736)]. Highly leveraged balance sheets (D/E > 1x–2.5x) carry elevated financial risk unless sustained by rapid earnings growth [[1:12:46–1:14:47](/transcripts/fa/FA_Lec02?t=4366)], while a management commitment to pay down debt toward a net-cash position serves as a primary fundamental turnaround catalyst [[1:23:00–1:25:41](/transcripts/fa/FA_Lec02?t=4980), [1:53:00–1:54:21](/transcripts/fa/FA_Lec02?t=6780)].
+* **Cash Flow Conversion Thresholds**: On the Cash Flow statement, test profit quality using two fixed operational conversion benchmarks: Cash Flow from Operations to EBITDA must exceed 60% ($\text{CFO}/\text{EBITDA} > 60%$), and Cash Flow from Operations to PAT must exceed 90% ($\text{CFO}/\text{PAT} > 90%$) [Slide 22/23, Slide 34/35; 0:03:32–0:04:05, 1:43:28–1:44:07].
+* **Working Capital Choke & Debt Impact**: The Cash Conversion Cycle ($\text{Receivables} + \text{Inventory} - \text{Payables}$) dictates short-term funding needs. Inflation in raw material costs (e.g., green coffee beans rising from $95 to$120 for CCL Products [[1:38:03–1:39:45](/transcripts/fa/FA_Lec02?t=5883)]) forces companies to take on short-term working capital debt to hold inventory, ballooning the balance sheet even when customer demand remains fully intact [[0:26:57–0:28:43](/transcripts/fa/FA_Lec02?t=1617), [1:38:03–1:40:34](/transcripts/fa/FA_Lec02?t=5883)].
 * **Promoter Bullishness Signaling via Warrants**: Promoter warrant issuance locks in the current share price for an 18-month execution window, requiring an immediate 25% cash deposit and the remaining 75% within 18 months [[1:06:40–1:08:17](/transcripts/fa/FA_Lec02?t=4000)]. Speaker's view: Promoters infusing funds through warrants, rights issues, or preferential allotments acts as an explicit insider bullish signal reflecting high skin in the game [[1:08:17–1:12:46](/transcripts/fa/FA_Lec02?t=4097)].
 * **7-Point Income Statement Analysis Framework**: Track P&L performance across seven parameters: (1) yearly and quarterly sales growth trajectory, (2) gross profit margin trends, (3) EBITDA margin stability or expansion, (4) past and recent quarterly PAT growth, (5) interest expense coverage relative to EBITDA, (6) depreciation trajectory following capex completion, and (7) divisional growth and segmental margin contributions [Slide 8/9, Slide 24/25; 2:20:36–2:22:13, 2:37:20–2:38:12].
 * **Inflection Point Forecasting post-Capex**: During major capex cycles, reported PAT declines temporarily due to upfront interest and depreciation charges hitting the P&L before commercial production starts [[2:14:10–2:16:07](/transcripts/fa/FA_Lec02?t=8050)]. Identifying the operational inflection point requires tracking plant capacity utilization targets (e.g., Yasho Industries stepping from 20% to 90% utilization across FY25–FY26) to forecast operational leverage and PAT recovery [[0:17:56–0:26:00](/transcripts/fa/FA_Lec02?t=1076), [2:16:07–2:20:36](/transcripts/fa/FA_Lec02?t=8167)].
 * **Segmental Profitability Analysis Principle**: Consolidated profit figures frequently mask divisional performance shifts. Evaluating unit-level EBITDA margins across distinct divisions (e.g., Apar Industries' conductor vs. cable vs. specialty oil divisions [[2:40:03–2:41:58](/transcripts/fa/FA_Lec02?t=9603)], or Laurus Labs' CDMO vs. API/formulation divisions [[2:38:12–2:38:30](/transcripts/fa/FA_Lec02?t=9492)]) reveals whether corporate growth is being driven by higher-margin structural business lines [[2:38:12–2:42:00](/transcripts/fa/FA_Lec02?t=9492)].
-* **EPIC Ratios Filter Set**: Key decision ratios for stock selection comprise Return on Equity (ROE), Return on Capital Employed (ROCE), Gross and Operating Margins, Debt-to-Equity \\(< 0.7\text{x}\\), EBITDA-to-Debt \\(< 3\text{x}\\), Fixed Asset Turnover, CFO/EBITDA \\(> 60\%\\), and CWIP relative to Net Fixed Assets to gauge the scale of upcoming capex [Slide 34/35; 1:52:16–1:53:00].
+* **EPIC Ratios Filter Set**: Key decision ratios for stock selection comprise Return on Equity (ROE), Return on Capital Employed (ROCE), Gross and Operating Margins, Debt-to-Equity < 0.7x, EBITDA-to-Debt < 3x, Fixed Asset Turnover, CFO/EBITDA > 60%, and CWIP relative to Net Fixed Assets to gauge the scale of upcoming capex [Slide 34/35; 1:52:16–1:53:00].
 
 ---
 
@@ -36,15 +36,15 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | Introduction, Disclaimers & Financial Statement Book Recommendations | [[0:00:08–0:03:32](/transcripts/fa/FA_Lec02?t=8)] | [Slide 2/3], [Slide 4/5] | Investor vs. accountant details; 4 core objectives (Income Statement, Balance Sheet, Cash Flows, Key Ratios); 5 essential finance books (*Romancing the Balance Sheet*, *Interpretation of Financial Statements*, *Five Rules for Successful Stock Investing*, *Capital Returns*, *Masterclass with Super Investors*). | None | Briefly mentioned only — not elaborated in the lecture. |
 | **2** | Balance Sheet Fundamentals & 7-Point Analysis Framework | [[0:03:32–0:17:56](/transcripts/fa/FA_Lec02?t=212)] | [Slide 6/7], [Slide 14/15] | Balance sheet as an "almira" (cupboard); Sources of capital (Liabilities & Equity) vs. Application of capital (Assets); Current vs. Non-Current assets/liabilities (<1 yr vs. >1 yr rule); advances, deferred revenue, inventory, trade payables, short-term debt. | Financial Times (subscription example) [[0:10:24–0:11:26](/transcripts/fa/FA_Lec02?t=624)], Asian Paints / Birla (paint shop example) [[0:12:10–0:14:26](/transcripts/fa/FA_Lec02?t=730)]. | Briefly mentioned only — not elaborated in the lecture. |
-| **3** | Real Balance Sheet Analysis: Yasho Industries & Capex Stretches | [[0:17:56–0:29:28](/transcripts/fa/FA_Lec02?t=1076)] | [Slide 6/7] | Balance sheet expansion via ₹400 crore capex (3x fixed block expansion); debt expansion to 60% of balance sheet; low cash reserves (1.4%); short-term debt for working capital vs. long-term debt for capex; Cash Conversion Cycle (\\(\text{Receivables} + \text{Inventory} - \text{Payables}\\)). | Yasho Industries [[0:17:56–0:26:30](/transcripts/fa/FA_Lec02?t=1076)], Asian Paints [[0:27:30–0:28:43](/transcripts/fa/FA_Lec02?t=1650)]. | [TVGP: Growth], [TVGP: Valuation] |
+| **3** | Real Balance Sheet Analysis: Yasho Industries & Capex Stretches | [[0:17:56–0:29:28](/transcripts/fa/FA_Lec02?t=1076)] | [Slide 6/7] | Balance sheet expansion via ₹400 crore capex (3x fixed block expansion); debt expansion to 60% of balance sheet; low cash reserves (1.4%); short-term debt for working capital vs. long-term debt for capex; Cash Conversion Cycle ($\text{Receivables} + \text{Inventory} - \text{Payables}$). | Yasho Industries [[0:17:56–0:26:30](/transcripts/fa/FA_Lec02?t=1076)], Asian Paints [[0:27:30–0:28:43](/transcripts/fa/FA_Lec02?t=1650)]. | [TVGP: Growth], [TVGP: Valuation] |
 | **4** | Business Models: Asset-Light vs. Asset-Heavy & Reinvestment Gestation | [[0:29:28–0:37:52](/transcripts/fa/FA_Lec02?t=1768)] | Briefly mentioned slides | Asset-heavy vs. asset-light spectrum; contract manufacturing, IT services, steel plants, banks vs. asset management/exchanges; gestation period for growth; valuation premiums for high-ROE asset-light compounding models. | SOIC [[0:29:58–0:30:34](/transcripts/fa/FA_Lec02?t=1798)], HDFC AMC vs. HDFC Bank [[0:32:46–0:33:20](/transcripts/fa/FA_Lec02?t=1966)], CAMS, KFintech, IEX, MCX, BSE, NSE [[0:33:20–0:37:32](/transcripts/fa/FA_Lec02?t=2000)]. | [TVGP: Theme], [TVGP: Growth] |
 | **5** | Capital Work-In-Progress (CWIP), Depreciation & Financial Statement Mechanics | [[0:37:52–0:46:21](/transcripts/fa/FA_Lec02?t=2272)] | [Slide 14/15] | Capital Work-In-Progress (CWIP) under construction moving to fixed assets upon commercialization; wear and tear / depreciation reducing net block; gross block vs. net block accumulated depreciation; consolidated vs. standalone statement rule. | Yasho Industries [[0:37:52–0:43:03](/transcripts/fa/FA_Lec02?t=2272)], Divgi TorqTransfer [[0:44:54–0:46:21](/transcripts/fa/FA_Lec02?t=2694)]. | Briefly mentioned only — not elaborated in the lecture. |
-| **6** | Shareholders' Equity Structure: Face Value, Premium, Dilution & Book Value | [[0:46:21–1:06:40](/transcripts/fa/FA_Lec02?t=2781)] | [Slide 16/17] | Equity share capital formula (\\(\text{Face Value} \times \text{Shares Outstanding}\\)); Securities Premium; Retained Earnings (\\(\text{Profit} - \text{Dividends}\\)); Book Value / Net Worth (\\(\text{Assets} - \text{Liabilities}\\)); equity dilution mechanisms (IPO, QIP, Rights Issue, Preferential Issue); pizza slice analogy. | Divgi TorqTransfer [[0:46:21–0:52:51](/transcripts/fa/FA_Lec02?t=2781)], Deepak Fertilisers [[0:53:33–0:54:52](/transcripts/fa/FA_Lec02?t=3213)], PI Industries [[0:54:52–0:56:04](/transcripts/fa/FA_Lec02?t=3292)], Technopack/Techno Plast, KIMS, Axis Bank, Deepak Nitrite [[0:56:04–0:57:56](/transcripts/fa/FA_Lec02?t=3364)], KEI Industries [[1:04:47–1:06:40](/transcripts/fa/FA_Lec02?t=3887)], Nestle India [[1:01:56–1:02:41](/transcripts/fa/FA_Lec02?t=3716)]. | [TVGP: Promoter], [TVGP: Valuation] |
+| **6** | Shareholders' Equity Structure: Face Value, Premium, Dilution & Book Value | [[0:46:21–1:06:40](/transcripts/fa/FA_Lec02?t=2781)] | [Slide 16/17] | Equity share capital formula ($\text{Face Value} \times \text{Shares Outstanding}$); Securities Premium; Retained Earnings ($\text{Profit} - \text{Dividends}$); Book Value / Net Worth ($\text{Assets} - \text{Liabilities}$); equity dilution mechanisms (IPO, QIP, Rights Issue, Preferential Issue); pizza slice analogy. | Divgi TorqTransfer [[0:46:21–0:52:51](/transcripts/fa/FA_Lec02?t=2781)], Deepak Fertilisers [[0:53:33–0:54:52](/transcripts/fa/FA_Lec02?t=3213)], PI Industries [[0:54:52–0:56:04](/transcripts/fa/FA_Lec02?t=3292)], Technopack/Techno Plast, KIMS, Axis Bank, Deepak Nitrite [[0:56:04–0:57:56](/transcripts/fa/FA_Lec02?t=3364)], KEI Industries [[1:04:47–1:06:40](/transcripts/fa/FA_Lec02?t=3887)], Nestle India [[1:01:56–1:02:41](/transcripts/fa/FA_Lec02?t=3716)]. | [TVGP: Promoter], [TVGP: Valuation] |
 | **7** | Corporate Actions: Warrants, Preferential Allotments & Insider Signals | [[1:06:40–1:12:46](/transcripts/fa/FA_Lec02?t=4000)] | Briefly mentioned slides | Warrants as call options for promoters; pricing lock-in for 18 months (25% upfront, 75% later); warrants/preferential allotment as a bullish insider signal [kamaata zyada, kharcha kam]; screening for upcoming warrants on Screeners. | KEI Industries [[1:06:40–1:08:17](/transcripts/fa/FA_Lec02?t=4000)], Goodluck India [[1:08:17–1:09:27](/transcripts/fa/FA_Lec02?t=4097)], Ganesha Ecosphere [[1:09:41–1:10:17](/transcripts/fa/FA_Lec02?t=4181)], APL Apollo [[1:10:17–1:10:57](/transcripts/fa/FA_Lec02?t=4217)], Kilburn Engineering [[1:10:57–1:11:59](/transcripts/fa/FA_Lec02?t=4257)], Power Mech Projects [[1:11:59–1:12:46](/transcripts/fa/FA_Lec02?t=4319)]. | [TVGP: Promoter] |
-| **8** | Balance Sheet Transformations: Deleveraging vs. Unsustainable Debt Traps | [[1:12:46–1:31:21](/transcripts/fa/FA_Lec02?t=4366)] | [Slide 6/7], [Slide 26/27] | Debt-to-Equity ratio (\\(D/E < 0.7\\) threshold); net cash balance sheet (\\(\text{Cash} - \text{Debt}\\)); corporate turnaround via massive deleveraging; negative reserves / accumulated losses; tax loss carry-forward benefits; unsustainable debt traps. | GNFC / Gujarat Pipavav / GP [[1:12:46–1:17:31](/transcripts/fa/FA_Lec02?t=4366)], Lemon Tree Hotels [[1:17:31–1:22:33](/transcripts/fa/FA_Lec02?t=4651)], Glenmark Pharmaceuticals / Glenmark Life Sciences [[1:22:33–1:26:15](/transcripts/fa/FA_Lec02?t=4953)], Adani Enterprises [[1:26:15–1:27:34](/transcripts/fa/FA_Lec02?t=5175)], Future Enterprises [[1:27:34–1:28:20](/transcripts/fa/FA_Lec02?t=5254)], Reliance Communications [[1:27:34–1:28:20](/transcripts/fa/FA_Lec02?t=5254)], Vodafone Idea [[1:28:20–1:29:53](/transcripts/fa/FA_Lec02?t=5300)], SpiceJet [[1:29:53–1:31:21](/transcripts/fa/FA_Lec02?t=5393)]. | [TVGP: Valuation], [TVGP: Growth], [TVGP: Promoter] |
-| **9** | Working Capital Cycles & Asset-Light Ratios (Fixed Asset Turns) | [[1:31:21–1:52:16](/transcripts/fa/FA_Lec02?t=5481)] | [Slide 6/7], [Slide 30/31] | Working capital choke during raw material price spikes; fixed asset turnover ratio formula (\\(\text{Sales} \div \text{Fixed Assets}\\)); thumb rule (\\(< 2\text{x}\\) asset-heavy, \\(> 2\text{x}\\) asset-light); cash-rich SME/tech business models; government PLI incentives for low-margin asset-heavy assembling. | CCL Products [[1:31:21–1:40:34](/transcripts/fa/FA_Lec02?t=5481)], Tata Steel [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)], Aarti Industries [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)], IEX [[1:43:28–1:44:53](/transcripts/fa/FA_Lec02?t=6208)], Awfis / Holiteck [[1:44:53–1:46:20](/transcripts/fa/FA_Lec02?t=6293)], Infolian [[1:46:20–1:50:10](/transcripts/fa/FA_Lec02?t=6380)], Dixon Technologies, PG Electroplast, Epack Durable [[1:50:10–1:52:16](/transcripts/fa/FA_Lec02?t=6610)]. | [TVGP: Growth], [TVGP: Theme] |
-| **10** | Rate of Change in Balance Sheet & 7-Point Summary | [[1:52:16–2:03:27](/transcripts/fa/FA_Lec02?t=6736)] | [Slide 6/7], [Slide 26/27], [Slide 34/35] | Fundamental analysis as spotting the rate of change in business fundamentals (\\(2 \to 4 \to 16\\)); management deleveraging stance as a lead indicator of cash flow turn; summary of the 7-point balance sheet checklist; break & video assignment. | LT Foods [[1:56:45–1:59:09](/transcripts/fa/FA_Lec02?t=7005)]. | [TVGP: Valuation], [TVGP: Growth] |
-| **11** | Income Statement Mechanics & P&L Forecasting Homework | [[2:03:27–2:20:36](/transcripts/fa/FA_Lec02?t=7407)] | [Slide 8/9], [Slide 12/13], [Slide 24/25] | Top line (Sales) to Gross Profit (\\(\text{Sales} - \text{COGS}\\)); SG&A expenses; EBITDA (\\(\text{Earnings Before Interest, Taxes, Depreciation & Amortization}\\)); EBIT; PBT; Bottom line (PAT); Amortization vs. Depreciation of intangibles; quarterly results tracking; Yasho Industries con-call forecasting exercise. | Time Technoplast [[2:04:04–2:06:54](/transcripts/fa/FA_Lec02?t=7444)], Shakti Pumps [[2:10:16–2:11:16](/transcripts/fa/FA_Lec02?t=7816)], PG Electroplast, Newland Laboratories, Aarti Industries, Marksans Pharma [[2:11:16–2:13:22](/transcripts/fa/FA_Lec02?t=7876)], Yasho Industries [[2:14:10–2:20:36](/transcripts/fa/FA_Lec02?t=8050)]. | [TVGP: Growth], [TVGP: Valuation] |
+| **8** | Balance Sheet Transformations: Deleveraging vs. Unsustainable Debt Traps | [[1:12:46–1:31:21](/transcripts/fa/FA_Lec02?t=4366)] | [Slide 6/7], [Slide 26/27] | Debt-to-Equity ratio (D/E < 0.7 threshold); net cash balance sheet ($\text{Cash} - \text{Debt}$); corporate turnaround via massive deleveraging; negative reserves / accumulated losses; tax loss carry-forward benefits; unsustainable debt traps. | GNFC / Gujarat Pipavav / GP [[1:12:46–1:17:31](/transcripts/fa/FA_Lec02?t=4366)], Lemon Tree Hotels [[1:17:31–1:22:33](/transcripts/fa/FA_Lec02?t=4651)], Glenmark Pharmaceuticals / Glenmark Life Sciences [[1:22:33–1:26:15](/transcripts/fa/FA_Lec02?t=4953)], Adani Enterprises [[1:26:15–1:27:34](/transcripts/fa/FA_Lec02?t=5175)], Future Enterprises [[1:27:34–1:28:20](/transcripts/fa/FA_Lec02?t=5254)], Reliance Communications [[1:27:34–1:28:20](/transcripts/fa/FA_Lec02?t=5254)], Vodafone Idea [[1:28:20–1:29:53](/transcripts/fa/FA_Lec02?t=5300)], SpiceJet [[1:29:53–1:31:21](/transcripts/fa/FA_Lec02?t=5393)]. | [TVGP: Valuation], [TVGP: Growth], [TVGP: Promoter] |
+| **9** | Working Capital Cycles & Asset-Light Ratios (Fixed Asset Turns) | [[1:31:21–1:52:16](/transcripts/fa/FA_Lec02?t=5481)] | [Slide 6/7], [Slide 30/31] | Working capital choke during raw material price spikes; fixed asset turnover ratio formula ($\text{Sales} \div \text{Fixed Assets}$); thumb rule (< 2x asset-heavy, > 2x asset-light); cash-rich SME/tech business models; government PLI incentives for low-margin asset-heavy assembling. | CCL Products [[1:31:21–1:40:34](/transcripts/fa/FA_Lec02?t=5481)], Tata Steel [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)], Aarti Industries [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)], IEX [[1:43:28–1:44:53](/transcripts/fa/FA_Lec02?t=6208)], Awfis / Holiteck [[1:44:53–1:46:20](/transcripts/fa/FA_Lec02?t=6293)], Infolian [[1:46:20–1:50:10](/transcripts/fa/FA_Lec02?t=6380)], Dixon Technologies, PG Electroplast, Epack Durable [[1:50:10–1:52:16](/transcripts/fa/FA_Lec02?t=6610)]. | [TVGP: Growth], [TVGP: Theme] |
+| **10** | Rate of Change in Balance Sheet & 7-Point Summary | [[1:52:16–2:03:27](/transcripts/fa/FA_Lec02?t=6736)] | [Slide 6/7], [Slide 26/27], [Slide 34/35] | Fundamental analysis as spotting the rate of change in business fundamentals ($2 \to 4 \to 16$); management deleveraging stance as a lead indicator of cash flow turn; summary of the 7-point balance sheet checklist; break & video assignment. | LT Foods [[1:56:45–1:59:09](/transcripts/fa/FA_Lec02?t=7005)]. | [TVGP: Valuation], [TVGP: Growth] |
+| **11** | Income Statement Mechanics & P&L Forecasting Homework | [[2:03:27–2:20:36](/transcripts/fa/FA_Lec02?t=7407)] | [Slide 8/9], [Slide 12/13], [Slide 24/25] | Top line (Sales) to Gross Profit ($\text{Sales} - \text{COGS}$); SG&A expenses; EBITDA ($\text{Earnings Before Interest, Taxes, Depreciation & Amortization}$); EBIT; PBT; Bottom line (PAT); Amortization vs. Depreciation of intangibles; quarterly results tracking; Yasho Industries con-call forecasting exercise. | Time Technoplast [[2:04:04–2:06:54](/transcripts/fa/FA_Lec02?t=7444)], Shakti Pumps [[2:10:16–2:11:16](/transcripts/fa/FA_Lec02?t=7816)], PG Electroplast, Newland Laboratories, Aarti Industries, Marksans Pharma [[2:11:16–2:13:22](/transcripts/fa/FA_Lec02?t=7876)], Yasho Industries [[2:14:10–2:20:36](/transcripts/fa/FA_Lec02?t=8050)]. | [TVGP: Growth], [TVGP: Valuation] |
 | **12** | 7-Point Income Statement Analysis, CANSLIM & Quarterly Acceleration | [[2:20:36–2:38:12](/transcripts/fa/FA_Lec02?t=8436)] | [Slide 8/9], [Slide 24/25] | 7-point Income Statement framework; sales growth acceleration; gross/operating margin expansion; corporate tax rate normalization towards 25%; capital goods seasonality (H2 > H1); CANSLIM earnings momentum (8–12 quarter window); stage analysis (stage 4 waterfall to stage 2 breakout). | Vimta Labs [[2:22:13–2:22:49](/transcripts/fa/FA_Lec02?t=8533)], Arvind SmartSpaces [[2:22:49–2:23:36](/transcripts/fa/FA_Lec02?t=8569)], DMart (Avenue Supermarts) [[2:23:36–2:25:03](/transcripts/fa/FA_Lec02?t=8616)], MTAR Technologies [[2:25:03–2:26:19](/transcripts/fa/FA_Lec02?t=8703)], Jash Engineering [[2:26:19–2:29:21](/transcripts/fa/FA_Lec02?t=8779)], PDS Ltd [[2:34:14–2:35:47](/transcripts/fa/FA_Lec02?t=9254)], Varun Beverages (VBL) [[2:35:47–2:37:20](/transcripts/fa/FA_Lec02?t=9347)]. | [TVGP: Growth], [TVGP: Theme] |
 | **13** | Segmental Profitability, Peer-to-Peer Comparisons & Conclusion | [[2:38:12–2:47:22](/transcripts/fa/FA_Lec02?t=9492)] | [Slide 10/11], [Slide 32/33], [Slide 34/35] | Segmental profitability analysis (evaluating EBITDA margins across product divisions); unit-level profitability in investor presentations; quick-commerce impact on traditional retail; peer-to-peer comparison; tracking Twitter/research profiles for strong result screeners; concluding remarks & student homework. | Laurus Labs [[2:38:12–2:38:30](/transcripts/fa/FA_Lec02?t=9492)], Apar Industries [[2:40:03–2:41:58](/transcripts/fa/FA_Lec02?t=9603)], SRF [[2:41:58–2:42:49](/transcripts/fa/FA_Lec02?t=9718)], Privi Speciality Chemicals, Deepak Fertilisers [[2:42:49–2:44:19](/transcripts/fa/FA_Lec02?t=9769)], DMart [[2:38:30–2:40:03](/transcripts/fa/FA_Lec02?t=9510)], Radico Khaitan, JSW Infra, Time Technoplast, KPIT Technologies, PIX Transmissions, Varun Beverages, Cholamandalam Investment, Himatsingka Seide, Piramal Pharma [[2:46:50–2:47:22](/transcripts/fa/FA_Lec02?t=10010)]. | [TVGP: Growth], [TVGP: Theme], [TVGP: Valuation] |
 
@@ -91,7 +91,7 @@ Stage 13: Segmental Profitability & Peer-to-Peer Analysis [[2:38:12–2:47:22](/
 * **Batch 2 (Stages 5–8, 0:37:52–1:31:21, ~53 minutes)**
   * **Focus**: CWIP conversion and gross vs. net block depreciation; equity capital breakdown (face value, securities premium, retained earnings, net worth); equity dilution mechanisms (IPO, QIP, rights/preferential issues); warrants as insider bullish signals; balance sheet transformation case studies (deleveraging turnarounds vs. debt trap disasters).
 * **Batch 3 (Stages 9–10, 1:31:21–2:03:27, ~32 minutes)**
-  * **Focus**: Working capital choke and raw material price spikes (CCL Products case); Fixed Asset Turnover ratio (\\(< 2\text{x}\\) vs. \\(> 2\text{x}\\) rule) across industrial and cash-rich SME models; government PLI schemes; rate of change principle in balance sheet analysis; 7-point balance sheet summary.
+  * **Focus**: Working capital choke and raw material price spikes (CCL Products case); Fixed Asset Turnover ratio (< 2x vs. > 2x rule) across industrial and cash-rich SME models; government PLI schemes; rate of change principle in balance sheet analysis; 7-point balance sheet summary.
 * **Batch 4 (Stages 11–13, 2:03:27–2:47:22, ~44 minutes)**
   * **Focus**: Income statement structure (top line, COGS, EBITDA, EBIT, PBT, bottom line); P&L forecasting and operating leverage exercise (Yasho Industries con-calls); 7-point P&L analysis framework; CANSLIM earnings acceleration and stage analysis; divisional segmental profitability and peer-to-peer comparative analysis.
 
@@ -175,7 +175,7 @@ A balance sheet is conceptually identical to a household cupboard [almirah], whe
 ##### Fundamental Accounting Identity: Sources vs. Applications of Capital
 * **Liabilities & Shareholders' Equity = Sources of Capital**: Where the funds were raised from [[0:08:30–0:09:06](/transcripts/fa/FA_Lec02?t=510)].
 * **Assets = Application / Usage of Capital**: Where the raised funds were deployed [[0:08:30–0:09:06](/transcripts/fa/FA_Lec02?t=510)].
-By accounting design, Sources must always equal Applications (\\(\text{Assets} = \text{Liabilities} + \text{Equity}\\)) [Slide 6; 0:44:24–0:44:54].
+By accounting design, Sources must always equal Applications (Assets = Liabilities + Equity) [Slide 6; 0:44:24–0:44:54].
 
 ##### 1-Year Classification Threshold
 * **Current Assets**: Assets expected to be realized, sold, or consumed within 1 year (e.g., trade receivables, short-term advances, cash/mutual fund holdings) [[0:05:18–0:06:28](/transcripts/fa/FA_Lec02?t=318), [0:08:30–0:09:46](/transcripts/fa/FA_Lec02?t=510)].
@@ -220,8 +220,8 @@ Businesses subject to intense seasonal demand (e.g., wedding event management) t
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Current vs. Non-Current Boundary | Time horizon for asset conversion or liability settlement | 1 Year (12 months) | \\(< 1\text{ year} = \text{Current}\\\\ > 1\text{ year} = \text{Non-Current}\\) | [[0:05:18–0:05:51](/transcripts/fa/FA_Lec02?t=318)] |
-| Balance Sheet Identity | \\(\text{Assets} = \text{Liabilities} + \text{Shareholders' Equity}\\) | Always Equal | Sources of capital equal application of capital | [[0:08:30–0:09:06](/transcripts/fa/FA_Lec02?t=510)] |
+| Current vs. Non-Current Boundary | Time horizon for asset conversion or liability settlement | 1 Year (12 months) | $< 1\text{ year} = \text{Current}\\\\ > 1\text{ year} = \text{Non-Current}$ | [[0:05:18–0:05:51](/transcripts/fa/FA_Lec02?t=318)] |
+| Balance Sheet Identity | Assets = Liabilities + Shareholders' Equity | Always Equal | Sources of capital equal application of capital | [[0:08:30–0:09:06](/transcripts/fa/FA_Lec02?t=510)] |
 
 #### e) Visual aid
 | Sources of Capital (Liabilities & Equity) | Application of Capital (Assets) |
@@ -258,7 +258,11 @@ To resolve a stretched balance sheet post-capex, management must rapidly ramp up
 
 ##### Cash Conversion Cycle Mechanics
 The Cash Conversion Cycle is expressed as:
-\\[\text{CCC} = \text{Receivables Days} + \text{Inventory Days} - \text{Payables Days}\\] [[0:26:57–0:27:30](/transcripts/fa/FA_Lec02?t=1617)].
+
+$$
+CCC = Receivables Days + Inventory Days - Payables Days
+$$
+ [[0:26:57–0:27:30](/transcripts/fa/FA_Lec02?t=1617)].
 When inventory holding (e.g., 60 days) and customer collection periods (e.g., 90 days) far exceed supplier payment terms (e.g., 2 days), capital remains trapped for 148 days, requiring short-term working capital borrowings to sustain operations [[0:27:30–0:28:43](/transcripts/fa/FA_Lec02?t=1650)].
 
 #### c) Examples & case studies
@@ -277,9 +281,9 @@ When inventory holding (e.g., 60 days) and customer collection periods (e.g., 90
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Cash Conversion Cycle (CCC) | \\(\text{Receivables Days} + \text{Inventory Days} - \text{Payables Days}\\) | Lower is better (Negative CCC is ideal) | Days capital is trapped in operating cycle | [[0:26:57–0:28:07](/transcripts/fa/FA_Lec02?t=1617)] |
-| Debt-to-Balance-Sheet Ratio | \\(\text{Total Borrowings} \div \text{Total Balance Sheet Assets}\\) | \\(> 50\%–60\%\\) indicates heavy leverage | High financial risk during capex gestation | [[0:24:39–0:25:18](/transcripts/fa/FA_Lec02?t=1479)] |
-| Cash-to-Balance-Sheet Ratio | \\(\text{Cash \& Cash Equivalents} \div \text{Total Assets}\\) | \\(< 2\%\\) indicates tight liquidity | Cash buffer available for operational stress | [[0:22:07–0:22:46](/transcripts/fa/FA_Lec02?t=1327)] |
+| Cash Conversion Cycle (CCC) | $\text{Receivables Days} + \text{Inventory Days} - \text{Payables Days}$ | Lower is better (Negative CCC is ideal) | Days capital is trapped in operating cycle | [[0:26:57–0:28:07](/transcripts/fa/FA_Lec02?t=1617)] |
+| Debt-to-Balance-Sheet Ratio | $\text{Total Borrowings} \div \text{Total Balance Sheet Assets}$ | > 50%–60% indicates heavy leverage | High financial risk during capex gestation | [[0:24:39–0:25:18](/transcripts/fa/FA_Lec02?t=1479)] |
+| Cash-to-Balance-Sheet Ratio | $\text{Cash \& Cash Equivalents} \div \text{Total Assets}$ | < 2% indicates tight liquidity | Cash buffer available for operational stress | [[0:22:07–0:22:46](/transcripts/fa/FA_Lec02?t=1327)] |
 
 #### e) Visual aid
 ```
@@ -349,7 +353,7 @@ Because these models generate strong free cash flow without long reinvestment ge
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | Capacity Gestation Period | Time required to build incremental capital capacity | Asset-Light: Minimal / Immediate\\\\Asset-Heavy: 3–4 Years | Delay before reinvestment translates into revenue growth | [[0:35:14–0:36:24](/transcripts/fa/FA_Lec02?t=2114)] |
-| Ideal Compounding Business | \\(\text{Asset-Light Structure} + \text{High ROE} + \text{Fast Growth}\\) | Rare compounding ideal | Premium valuation multiple sustained by high FCF | [[0:36:24–0:36:48](/transcripts/fa/FA_Lec02?t=2184)] |
+| Ideal Compounding Business | $\text{Asset-Light Structure} + \text{High ROE} + \text{Fast Growth}$ | Rare compounding ideal | Premium valuation multiple sustained by high FCF | [[0:36:24–0:36:48](/transcripts/fa/FA_Lec02?t=2184)] |
 
 #### e) Visual aid
 | Metric / Feature | Asset-Light Models (CAMS, IEX, BSE, AMC) | Asset-Heavy Models (Steel, Hotels, Banks) |
@@ -380,7 +384,7 @@ When a plant commercializes, its accumulated costs move out of CWIP into Fixed A
 Accounting rules require spreading an asset's historical acquisition cost across its useful economic life [[0:40:36–0:41:40](/transcripts/fa/FA_Lec02?t=2436)].
 * **Gross Block**: The total historical cost paid to acquire all existing operational assets [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)].
 * **Accumulated Depreciation**: The cumulative wear-and-tear charges recorded against those assets over time [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)].
-* **Net Block (Net Fixed Assets)**: Calculated as \\(\text{Gross Block} - \text{Accumulated Depreciation}\\) [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)]. Even when an asset is fully depreciated to zero net block at the end of its useful life, its original purchase cost remains fully visible in the Gross Block because accumulated depreciation is added back [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)].
+* **Net Block (Net Fixed Assets)**: Calculated as $\text{Gross Block} - \text{Accumulated Depreciation}$ [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)]. Even when an asset is fully depreciated to zero net block at the end of its useful life, its original purchase cost remains fully visible in the Gross Block because accumulated depreciation is added back [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)].
 
 ##### Balance Sheet Structure & Key Line Items
 A standard corporate balance sheet organizes capital items into distinct asset and liability categories [[0:43:03–0:44:24](/transcripts/fa/FA_Lec02?t=2583)]:
@@ -413,8 +417,8 @@ Investors must evaluate Consolidated financial statements rather than Standalone
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Net Fixed Assets (Net Block) | \\(\text{Gross Block} - \text{Accumulated Depreciation}\\) | Accounting value of active assets | Residual carrying value of property, plant & equipment | [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)] |
-| Gross Block | \\(\text{Net Block} + \text{Accumulated Depreciation}\\) | Original historical purchase cost | Total unadjusted capital invested in existing assets | [[0:42:07–0:42:53](/transcripts/fa/FA_Lec02?t=2527)] |
+| Net Fixed Assets (Net Block) | $\text{Gross Block} - \text{Accumulated Depreciation}$ | Accounting value of active assets | Residual carrying value of property, plant & equipment | [[0:41:40–0:42:53](/transcripts/fa/FA_Lec02?t=2500)] |
+| Gross Block | $\text{Net Block} + \text{Accumulated Depreciation}$ | Original historical purchase cost | Total unadjusted capital invested in existing assets | [[0:42:07–0:42:53](/transcripts/fa/FA_Lec02?t=2527)] |
 | Statement Selection Rule | Consolidated vs. Standalone Statements | Always use Consolidated | Evaluates total business entity including subsidiaries | [[0:46:21–0:46:48](/transcripts/fa/FA_Lec02?t=2781)] |
 
 #### e) Visual aid
@@ -440,14 +444,18 @@ What are the core components of Shareholders' Equity, how do equity dilution mec
 #### b) Detailed explanation
 ##### Shareholders' Equity Breakdown
 Shareholders' Equity (also termed Net Worth or Book Value) represents total residual capital belonging to equity owners [[0:44:24–0:45:29](/transcripts/fa/FA_Lec02?t=2664), [0:51:30–0:52:51](/transcripts/fa/FA_Lec02?t=3090)]. It comprises three distinct components:
-1. **Equity Share Capital**: Calculated as \\(\text{Face Value} \times \text{Total Shares Outstanding}\\) [[0:49:30–0:50:53](/transcripts/fa/FA_Lec02?t=2970)]. Face value (e.g., ₹1, ₹2, ₹5, ₹10) is an arbitrary accounting figure used to establish legal nominal value [[0:49:09–0:50:53](/transcripts/fa/FA_Lec02?t=2949)].
+1. **Equity Share Capital**: Calculated as $\text{Face Value} \times \text{Total Shares Outstanding}$ [[0:49:30–0:50:53](/transcripts/fa/FA_Lec02?t=2970)]. Face value (e.g., ₹1, ₹2, ₹5, ₹10) is an arbitrary accounting figure used to establish legal nominal value [[0:49:09–0:50:53](/transcripts/fa/FA_Lec02?t=2949)].
 2. **Securities Premium**: The premium collected when issuing shares above face value [[0:52:51–0:54:52](/transcripts/fa/FA_Lec02?t=3171)]. When a share with a ₹10 face value is issued at ₹100 via an IPO or QIP, ₹10 enters Equity Share Capital, while the remaining ₹90 enters the Securities Premium account within Reserves & Surplus [[0:52:51–0:54:52](/transcripts/fa/FA_Lec02?t=3171)].
 3. **Retained Earnings**: Cumulative historical net profits retained inside the business after paying out cash dividends [[0:44:54–0:45:29](/transcripts/fa/FA_Lec02?t=2694), [0:51:30–0:52:51](/transcripts/fa/FA_Lec02?t=3090)].
 
 ##### Book Value / Net Worth Identity
 Net Worth is defined as:
-\\[\text{Net Worth (Book Value)} = \text{Total Assets} - \text{Total Liabilities}\\]
-Alternatively, \\(\text{Net Worth} = \text{Equity Share Capital} + \text{Reserves \& Surplus}\\) [[0:44:24–0:44:54](/transcripts/fa/FA_Lec02?t=2664), [0:51:30–0:52:51](/transcripts/fa/FA_Lec02?t=3090)].
+
+$$
+Net Worth (Book Value) = Total Assets - Total Liabilities
+$$
+
+Alternatively, $\text{Net Worth} = \text{Equity Share Capital} + \text{Reserves \& Surplus}$ [[0:44:24–0:44:54](/transcripts/fa/FA_Lec02?t=2664), [0:51:30–0:52:51](/transcripts/fa/FA_Lec02?t=3090)].
 
 ##### Equity Dilution Mechanics & Pizza Analogy
 Equity dilution occurs when a company issues new shares to outside investors through Initial Public Offerings (IPOs), Qualified Institutional Placements (QIPs), Rights Issues, or Preferential Allotments [[0:54:52–0:57:56](/transcripts/fa/FA_Lec02?t=3292)]. 
@@ -499,9 +507,9 @@ To visualize dilution, consider a pizza cut into 4 equal slices (representing 4 
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Equity Share Capital | \\(\text{Face Value} \times \text{Total Shares Outstanding}\\) | Nominal legal share capital | Accounting baseline for share capital | [[0:49:30–0:50:16](/transcripts/fa/FA_Lec02?t=2970)] |
-| Net Worth (Book Value) | \\(\text{Total Assets} - \text{Total Liabilities}\\) | Capital belonging to equity owners | Residual value of company assets | [[0:44:24–0:44:54](/transcripts/fa/FA_Lec02?t=2664)] |
-| Issue Price per Share | \\(\text{Face Value} + \text{Securities Premium per Share}\\) | Pricing for IPOs, QIPs & Rights | Fresh capital per share entering balance sheet | [[0:52:51–0:54:52](/transcripts/fa/FA_Lec02?t=3171)] |
+| Equity Share Capital | $\text{Face Value} \times \text{Total Shares Outstanding}$ | Nominal legal share capital | Accounting baseline for share capital | [[0:49:30–0:50:16](/transcripts/fa/FA_Lec02?t=2970)] |
+| Net Worth (Book Value) | $\text{Total Assets} - \text{Total Liabilities}$ | Capital belonging to equity owners | Residual value of company assets | [[0:44:24–0:44:54](/transcripts/fa/FA_Lec02?t=2664)] |
+| Issue Price per Share | $\text{Face Value} + \text{Securities Premium per Share}$ | Pricing for IPOs, QIPs & Rights | Fresh capital per share entering balance sheet | [[0:52:51–0:54:52](/transcripts/fa/FA_Lec02?t=3171)] |
 
 #### e) Visual aid
 | Capital Source | Balance Sheet Classification | Impact on Share Count | Impact on Net Worth |
@@ -599,14 +607,18 @@ How do investors distinguish between value-creating deleveraging turnarounds and
 #### b) Detailed explanation
 ##### Debt-to-Equity Ratio Benchmark
 Debt-to-Equity is defined as:
-\\[\text{Debt-to-Equity (D/E)} = \frac{\text{Total Borrowings}}{\text{Shareholders' Equity}}\\] [[1:13:14–1:13:59](/transcripts/fa/FA_Lec02?t=4394)].
+
+$$
+Debt-to-Equity (D/E) = \frac{Total Borrowings}{Shareholders' Equity}
+$$
+ [[1:13:14–1:13:59](/transcripts/fa/FA_Lec02?t=4394)].
 A D/E ratio above 2.0x–2.5x indicates high leverage and elevated financial risk [[1:13:59](/transcripts/fa/FA_Lec02?t=4439)]. Speaker's view: A healthy balance sheet maintains a Debt-to-Equity ratio below 0.7x [[1:52:16–1:53:00](/transcripts/fa/FA_Lec02?t=6736)].
 
 ##### Deleveraging Rerating Dynamics
 When a heavily indebted business (e.g., 2.5x D/E) uses operational cash flows or asset sales to pay down debt toward zero, it triggers a powerful fundamental rerating [[1:13:14–1:16:34](/transcripts/fa/FA_Lec02?t=4394), [1:23:00–1:25:41](/transcripts/fa/FA_Lec02?t=4980)]. Repaying debt reduces annual interest expenses, allowing savings to flow directly into Net Profit (PAT) and Cash Flow from Operations [[1:25:04–1:25:41](/transcripts/fa/FA_Lec02?t=5104)].
 
 ##### Net Debt vs. Net Cash Status
-* **Net Debt Formula**: Calculated as \\(\text{Total Borrowings} - (\text{Cash} + \text{Cash Equivalents} + \text{Liquid Investments})\\) [[1:15:38–1:16:34](/transcripts/fa/FA_Lec02?t=4538)].
+* **Net Debt Formula**: Calculated as $\text{Total Borrowings} -$ (\text{Cash} + \text{Cash Equivalents} + \text{Liquid Investments}) [[1:15:38–1:16:34](/transcripts/fa/FA_Lec02?t=4538)].
 * **Net Cash Balance Sheet**: When liquid cash reserves exceed total debt, Net Debt becomes negative (Net Cash) [[1:16:27–1:16:34](/transcripts/fa/FA_Lec02?t=4587)]. A net cash balance sheet eliminates insolvency risk and provides internal capital to fund capex [[1:16:34–1:17:31](/transcripts/fa/FA_Lec02?t=4594)].
 
 ##### Accumulated Losses, Negative Reserves & Tax Benefits
@@ -663,8 +675,8 @@ When debt keeps ballooning while reserves remain negative and operational cash f
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Debt-to-Equity (D/E) | \\(\text{Total Borrowings} \div \text{Shareholders' Equity}\\) | \\(< 0.7\text{x}\text{ (Healthy)}\\\\ > 2.0\text{x}\text{ (High Risk)}\\) | Assesses financial leverage and solvency risk | [[1:13:14–1:13:59](/transcripts/fa/FA_Lec02?t=4394), [1:52:16](/transcripts/fa/FA_Lec02?t=6736)] |
-| Net Debt | \\(\text{Total Borrowings} - \text{Cash \& Liquid Investments}\\) | \\(\le 0\text{ (Net Cash Ideal)}\\) | Measures true debt burden after liquid reserves | [[1:15:38–1:16:34](/transcripts/fa/FA_Lec02?t=4538)] |
+| Debt-to-Equity (D/E) | $\text{Total Borrowings} \div \text{Shareholders' Equity}$ | $< 0.7\text{x}\text{$ (Healthy) | Assesses financial leverage and solvency risk | [[1:13:14–1:13:59](/transcripts/fa/FA_Lec02?t=4394), [1:52:16](/transcripts/fa/FA_Lec02?t=6736)] |
+| Net Debt | $\text{Total Borrowings} - \text{Cash \& Liquid Investments}$ | $\le 0\text{$ (Net Cash Ideal) | Measures true debt burden after liquid reserves | [[1:15:38–1:16:34](/transcripts/fa/FA_Lec02?t=4538)] |
 | Tax Loss Carry-Forward | Offsetting current profits against historical losses | Zero tax rate until offset | Preserves operational cash flow during turnarounds | [[1:21:15–1:22:16](/transcripts/fa/FA_Lec02?t=4875)] |
 
 #### e) Visual aid
@@ -691,7 +703,7 @@ How do raw material price spikes choke corporate working capital requirements, h
 ##### Working Capital Choke Mechanics: CCL Products Case
 When analyzing a balance sheet undergoing capacity expansion, investors must evaluate how working capital changes interact with raw material inflation [[1:31:21–1:34:14](/transcripts/fa/FA_Lec02?t=5481)]. CCL Products (a major instant coffee manufacturer) illustrates a working capital choke caused by commodity price spikes [[1:31:21–1:38:33](/transcripts/fa/FA_Lec02?t=5481)].
 
-Under CCL Products' business model, end-customers place bulk orders 6 months in advance [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. To lock in its operating margin, CCL immediately procures the required raw material—green coffee beans [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. When international green coffee bean prices surged from \$95 to \$120 per unit, procuring the exact same volume of inventory required 25% higher cash outlay [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. For instance, procuring 100 units at ₹100 costs ₹10,000, whereas procuring 100 units at ₹120 requires ₹12,000 [[1:39:11](/transcripts/fa/FA_Lec02?t=5951)]. 
+Under CCL Products' business model, end-customers place bulk orders 6 months in advance [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. To lock in its operating margin, CCL immediately procures the required raw material—green coffee beans [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. When international green coffee bean prices surged from $95 to$120 per unit, procuring the exact same volume of inventory required 25% higher cash outlay [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)]. For instance, procuring 100 units at ₹100 costs ₹10,000, whereas procuring 100 units at ₹120 requires ₹12,000 [[1:39:11](/transcripts/fa/FA_Lec02?t=5951)]. 
 
 Because inventory costs jumped while customer payment collection cycles remained unchanged, the company's working capital requirement expanded rapidly [[1:34:14](/transcripts/fa/FA_Lec02?t=5654), [1:37:02–1:38:03](/transcripts/fa/FA_Lec02?t=5822)]. To finance this high-priced inventory and growing trade receivables, CCL Products took on short-term working capital debt, driving its overall Debt-to-Equity ratio up from 0.5x to 1.1x–1.2x [[1:34:14](/transcripts/fa/FA_Lec02?t=5654), [1:37:02–1:37:50](/transcripts/fa/FA_Lec02?t=5822)]. 
 
@@ -699,14 +711,18 @@ This presents a critical diagnostic lesson: the rise in debt was driven by short
 
 ##### Fixed Asset Turnover Ratio & Classification Rule of Thumb
 To determine whether a business is asset-heavy or asset-light, calculate the Fixed Asset Turnover ratio (Fixed Asset Turns) [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)]:
-\\[\text{Fixed Asset Turnover} = \frac{\text{Sales}}{\text{Net Fixed Assets}}\\] [[1:42:06–1:42:52](/transcripts/fa/FA_Lec02?t=6126)].
+
+$$
+Fixed Asset Turnover = \frac{Sales}{Net Fixed Assets}
+$$
+ [[1:42:06–1:42:52](/transcripts/fa/FA_Lec02?t=6126)].
 
 Speaker's rule of thumb:
-* **Asset-Heavy Threshold**: If a company generates less than ₹2 of sales for every ₹1 of net fixed assets (\\(\text{Fixed Asset Turns} < 2\text{x}\\)), it is classified as an asset-heavy business [[1:43:28](/transcripts/fa/FA_Lec02?t=6208)].
-  * *Tata Steel*: FY24 Sales of ₹2,30,000 crore against Net Fixed Assets of ₹1,50,000 crore yields a Fixed Asset Turnover of \\(230,000 \div 150,000 = 1.53\text{x}\\) [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)].
-  * *Aarti Industries*: FY24 Sales of ₹6,372 crore against Net Fixed Assets of ₹5,649 crore yields a Fixed Asset Turnover of \\(6,372 \div 5,649 = 1.1\text{x}\\) (generating ₹1.1 of sales per ₹1 of fixed asset) [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)].
-* **Asset-Light Threshold**: If a company generates significantly higher sales relative to its net fixed asset block (\\(\text{Fixed Asset Turns} \gg 2\text{x}\\)), it operates an asset-light model [[1:43:28–1:46:20](/transcripts/fa/FA_Lec02?t=6208)].
-  * *Indian Energy Exchange (IEX)*: FY24 Sales of ₹449 crore against physical fixed assets of ₹100 crore yields a Fixed Asset Turnover of \\(449 \div 100 = 4.4\text{x}\\) [[1:44:07–1:44:53](/transcripts/fa/FA_Lec02?t=6247)]. IEX's primary capital is held in intangible assets—software platform intellectual property and trading architecture [[1:44:07–1:44:53](/transcripts/fa/FA_Lec02?t=6247)].
+* **Asset-Heavy Threshold**: If a company generates less than ₹2 of sales for every ₹1 of net fixed assets ($\text{Fixed Asset Turns} < 2\text{x}$), it is classified as an asset-heavy business [[1:43:28](/transcripts/fa/FA_Lec02?t=6208)].
+  * *Tata Steel*: FY24 Sales of ₹2,30,000 crore against Net Fixed Assets of ₹1,50,000 crore yields a Fixed Asset Turnover of $230,000 \div 150,000 = 1.53\text{x}$ [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)].
+  * *Aarti Industries*: FY24 Sales of ₹6,372 crore against Net Fixed Assets of ₹5,649 crore yields a Fixed Asset Turnover of $6,372 \div 5,649 = 1.1\text{x}$ (generating ₹1.1 of sales per ₹1 of fixed asset) [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)].
+* **Asset-Light Threshold**: If a company generates significantly higher sales relative to its net fixed asset block ($\text{Fixed Asset Turns} \gg 2\text{x}$), it operates an asset-light model [[1:43:28–1:46:20](/transcripts/fa/FA_Lec02?t=6208)].
+  * *Indian Energy Exchange (IEX)*: FY24 Sales of ₹449 crore against physical fixed assets of ₹100 crore yields a Fixed Asset Turnover of $449 \div 100 = 4.4\text{x}$ [[1:44:07–1:44:53](/transcripts/fa/FA_Lec02?t=6247)]. IEX's primary capital is held in intangible assets—software platform intellectual property and trading architecture [[1:44:07–1:44:53](/transcripts/fa/FA_Lec02?t=6247)].
   * *Awfis / Holiteck*: FY24 Fixed Asset Turnover reaches ~30x [[1:45:35–1:46:20](/transcripts/fa/FA_Lec02?t=6335)]. The company carries zero debt and holds a cash-rich balance sheet where liquid cash accounts for a major portion of total assets [[1:45:35–1:46:20](/transcripts/fa/FA_Lec02?t=6335)].
 
 ##### Cash-Rich SME Platform Models: Infolian
@@ -722,20 +738,20 @@ To make these capital-heavy, low-margin manufacturing models economically viable
 #### c) Examples & case studies
 * **Example**: CCL Products Working Capital Stretch [[1:31:21–1:40:34](/transcripts/fa/FA_Lec02?t=5481)] [Slide 6/7, Slide 30/31]
   * **Context**: Analyzing working capital inflation caused by raw material price spikes.
-  * **Data/details**: Green coffee bean prices spiked from \$95 to \$120 per unit; Debt-to-Equity rose from 0.5x to 1.1x–1.2x; short-term debt increased to fund inventory and receivables; CWIP remains high due to ongoing plant capex.
+  * **Data/details**: Green coffee bean prices spiked from $95 to$120 per unit; Debt-to-Equity rose from 0.5x to 1.1x–1.2x; short-term debt increased to fund inventory and receivables; CWIP remains high due to ongoing plant capex.
   * **Walkthrough**: CCL locks in 6-month order prices for coffee supply. When green coffee bean prices surged 25%, procuring inventory required higher short-term debt. Because customer demand remains intact and capex is ending, the working capital stretch is temporary.
   * **Takeaway**: Raw material price spikes force short-term working capital debt expansion even when core business demand is strong [TVGP: Growth].
 
 * **Example**: Tata Steel Fixed Asset Turnover [[1:41:21–1:42:06](/transcripts/fa/FA_Lec02?t=6081)]
   * **Context**: Calculating asset turnover for an integrated industrial manufacturer.
   * **Data/details**: FY24 Sales = ₹2,30,000 crore; Net Fixed Assets = ₹1,50,000 crore.
-  * **Walkthrough**: Fixed Asset Turnover \\(= 2,30,000 \div 150,000 = 1.53\text{x}\\). Because 1.53x is well below the 2x threshold, Tata Steel is an asset-heavy business.
+  * **Walkthrough**: Fixed Asset Turnover $= 2,30,000 \div 150,000 = 1.53\text{x}$. Because 1.53x is well below the 2x threshold, Tata Steel is an asset-heavy business.
   * **Takeaway**: Integrated steel manufacturing requires massive physical capital per unit of sales.
 
 * **Example**: Aarti Industries Fixed Asset Turnover [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)]
   * **Context**: Applying the 2x asset turnover rule of thumb to specialty chemicals.
   * **Data/details**: FY24 Sales = ₹6,372 crore; Net Fixed Assets = ₹5,649 crore.
-  * **Walkthrough**: Fixed Asset Turnover \\(= 6,372 \div 5,649 = 1.1\text{x}\\). Generating ₹1.1 of revenue per ₹1 of fixed asset confirms an asset-heavy chemical manufacturing setup.
+  * **Walkthrough**: Fixed Asset Turnover $= 6,372 \div 5,649 = 1.1\text{x}$. Generating ₹1.1 of revenue per ₹1 of fixed asset confirms an asset-heavy chemical manufacturing setup.
   * **Takeaway**: Specialty chemical synthesis requires heavy physical plant investment.
 
 * **Example**: Indian Energy Exchange (IEX) Asset-Light Model [[1:44:07–1:44:53](/transcripts/fa/FA_Lec02?t=6247)]
@@ -765,9 +781,9 @@ To make these capital-heavy, low-margin manufacturing models economically viable
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Fixed Asset Turnover Ratio | \\(\text{Sales} \div \text{Net Fixed Assets}\\) | \\(< 2\text{x}\text{ (Asset-Heavy)}\\\\ \gg 2\text{x}\text{ (Asset-Light)}\\) | Measures sales generated per rupee of physical fixed block | [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)] |
+| Fixed Asset Turnover Ratio | $\text{Sales} \div \text{Net Fixed Assets}$ | $< 2\text{x}\text{$ (Asset-Heavy) | Measures sales generated per rupee of physical fixed block | [[1:42:06–1:43:28](/transcripts/fa/FA_Lec02?t=6126)] |
 | Raw Material Inflation Impact | Percentage rise in raw material purchase price | Direct multiplier on inventory capital | Spikes short-term working capital debt needs | [[1:38:33–1:39:11](/transcripts/fa/FA_Lec02?t=5913)] |
-| SME Platform Net Cash Ratio | \\(\text{Cash \& Cash Equivalents} \div \text{Total Assets}\\) | 60%–70% Cash on Balance Sheet | Signifies asset-light, high cash conversion model | [[1:46:20–1:47:53](/transcripts/fa/FA_Lec02?t=6380)] |
+| SME Platform Net Cash Ratio | $\text{Cash \& Cash Equivalents} \div \text{Total Assets}$ | 60%–70% Cash on Balance Sheet | Signifies asset-light, high cash conversion model | [[1:46:20–1:47:53](/transcripts/fa/FA_Lec02?t=6380)] |
 
 #### e) Visual aid
 | Feature / Metric | Asset-Heavy Manufacturing (Tata Steel, Aarti Inds) | Asset-Light Platform / Software (IEX, Holiteck, Infolian) |
@@ -792,12 +808,12 @@ How do investors apply the "rate of change" principle to balance sheet dynamics,
 #### b) Detailed explanation
 ##### Healthy Debt-to-Equity Threshold & Interest Coverage Link
 To maintain a strong financial position, a company should satisfy key leverage ratios [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)]:
-* **Debt-to-Equity Threshold**: Speaker's benchmark: A healthy balance sheet maintains a Debt-to-Equity ratio below 0.7x (\\(D/E < 0.7\text{x}\\)) [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)].
-* **Interest Coverage Link**: A lower Debt-to-Equity ratio reduces annual interest charges, increasing the Interest Coverage ratio (\\(\text{EBITDA} \div \text{Interest Expense}\\)) on the Income Statement [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)].
+* **Debt-to-Equity Threshold**: Speaker's benchmark: A healthy balance sheet maintains a Debt-to-Equity ratio below 0.7x (D/E < 0.7x) [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)].
+* **Interest Coverage Link**: A lower Debt-to-Equity ratio reduces annual interest charges, increasing the Interest Coverage ratio ($\text{EBITDA} \div \text{Interest Expense}$) on the Income Statement [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)].
 * **Rainy Day Cash Buffer**: Maintaining cash reserves on the balance sheet ensures operational survival during unexpected industry downturns [[1:51:41–1:52:16](/transcripts/fa/FA_Lec02?t=6701)].
 
 ##### Core Principle: Fundamental Analysis is Spotting the "Rate of Change"
-Speaker's core thesis: Fundamental analysis is not about becoming an accountant or reviewing static financial numbers [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)]. Fundamental analysis is about **spotting the directional rate of change in business fundamentals** (e.g., compounding shifts like \\(2 \to 4 \to 16\\)) [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)]. 
+Speaker's core thesis: Fundamental analysis is not about becoming an accountant or reviewing static financial numbers [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)]. Fundamental analysis is about **spotting the directional rate of change in business fundamentals** (e.g., compounding shifts like $2 \to 4 \to 16$) [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)]. 
 
 Tracking incremental fundamental changes reveals operational inflections before they appear in headline earnings [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)]. When management states in conference calls that the company will commit to deleveraging (paying down debt), it serves as a leading indicator that internal cash flow generation is improving and better operational times lie ahead [[1:53:36–1:54:21](/transcripts/fa/FA_Lec02?t=6816)].
 
@@ -813,7 +829,7 @@ The complete 7-point balance sheet checklist comprises seven sequential diagnost
 3. How does the working capital situation look? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
 4. Is the business model asset-light or asset-heavy? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
 5. Is there cash on the balance sheet for a rainy day? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
-6. What is the debt burden on the balance sheet (is Debt-to-Equity \\(< 0.7\text{x}\\))? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
+6. What is the debt burden on the balance sheet (is Debt-to-Equity < 0.7x)? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
 7. Is the balance sheet getting directionally stronger or weaker over time (rate of change)? [[2:00:22](/transcripts/fa/FA_Lec02?t=7222)]
 
 ##### Class Assignment & Literature Preparation
@@ -847,9 +863,9 @@ Before proceeding to Class 3 (scheduled 12–13 days later to cover ratio analys
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Healthy Debt-to-Equity | \\(\text{Total Borrowings} \div \text{Shareholders' Equity}\\) | \\(< 0.7\text{x}\\) | Baseline benchmark for a strong balance sheet | [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)] |
-| LT Foods Deleveraging Metric | \\(\text{Debt} \div \text{Equity}\\) Reduction | From 1.0x (2021) down to 0.3x (FY24) | Directional solidification of balance sheet | [[1:57:31–1:58:21](/transcripts/fa/FA_Lec02?t=7051)] |
-| Fundamental Rate of Change | Directional shift in operational metrics | Compounding progression (\\(2 \to 4 \to 16\\)) | Core objective of fundamental analysis | [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)] |
+| Healthy Debt-to-Equity | $\text{Total Borrowings} \div \text{Shareholders' Equity}$ | < 0.7x | Baseline benchmark for a strong balance sheet | [[1:52:16](/transcripts/fa/FA_Lec02?t=6736)] |
+| LT Foods Deleveraging Metric | $\text{Debt} \div \text{Equity}$ Reduction | From 1.0x (2021) down to 0.3x (FY24) | Directional solidification of balance sheet | [[1:57:31–1:58:21](/transcripts/fa/FA_Lec02?t=7051)] |
+| Fundamental Rate of Change | Directional shift in operational metrics | Compounding progression ($2 \to 4 \to 16$) | Core objective of fundamental analysis | [[1:53:00–1:53:36](/transcripts/fa/FA_Lec02?t=6780)] |
 
 #### e) Visual aid
 ```
@@ -884,9 +900,9 @@ How is an Income Statement structured from top-line revenue down to bottom-line 
 An Income Statement (Profit and Loss Statement) evaluates operational revenue generation and expense structure across sequential tiers [[2:03:27–2:07:49](/transcripts/fa/FA_Lec02?t=7407)]:
 1. **Top Line / Revenue from Operations (Sales)**: The starting line item representing total gross sales generated by the business [[2:04:04–2:04:28](/transcripts/fa/FA_Lec02?t=7444)].
 2. **Cost of Goods Sold (COGS)**: Comprises raw material consumption, direct component costs, and inventory adjustments for finished goods and work-in-progress [[2:04:28–2:05:30](/transcripts/fa/FA_Lec02?t=7468), [2:09:40–2:10:16](/transcripts/fa/FA_Lec02?t=7780)].
-3. **Gross Profit & Gross Profit Margin %**: Calculated as \\(\text{Sales} - \text{COGS}\\) [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)]. For example, if raw material expenses consume 72% of sales, the Gross Profit Margin is 28% (\\(100\% - 72\% = 28\%\\)) [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)].
+3. **Gross Profit & Gross Profit Margin %**: Calculated as $\text{Sales} - \text{COGS}$ [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)]. For example, if raw material expenses consume 72% of sales, the Gross Profit Margin is 28% ($100% - 72% = 28%$) [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)].
 4. **SG&A (Selling, General & Administrative Expenses)**: All non-material operating costs, including employee salaries, manufacturing overheads, logistics, and administrative expenses [[2:05:30–2:06:27](/transcripts/fa/FA_Lec02?t=7530), [2:10:16](/transcripts/fa/FA_Lec02?t=7816)].
-5. **EBITDA (Earnings Before Interest, Taxes, Depreciation & Amortization)**: Calculated as \\(\text{Gross Profit} - \text{SG\&A}\\) [[2:05:30–2:06:27](/transcripts/fa/FA_Lec02?t=7530)]. EBITDA Margin % is calculated as \\(\text{EBITDA} \div \text{Sales}\\) [[2:06:27](/transcripts/fa/FA_Lec02?t=7587)].
+5. **EBITDA (Earnings Before Interest, Taxes, Depreciation & Amortization)**: Calculated as $\text{Gross Profit} - \text{SG\&A}$ [[2:05:30–2:06:27](/transcripts/fa/FA_Lec02?t=7530)]. EBITDA Margin % is calculated as $\text{EBITDA} \div \text{Sales}$ [[2:06:27](/transcripts/fa/FA_Lec02?t=7587)].
 6. **Depreciation & Amortization**: Annual non-cash accounting charges deducted from EBITDA to arrive at EBIT (Earnings Before Interest & Taxes) [[2:06:54](/transcripts/fa/FA_Lec02?t=7614)].
 7. **Finance Costs (Interest Expense) & Other Income**: Subtracting interest expenses and adding non-core Other Income yields Profit Before Tax (PBT) [[2:06:54](/transcripts/fa/FA_Lec02?t=7614), [2:09:40](/transcripts/fa/FA_Lec02?t=7780), [2:10:16](/transcripts/fa/FA_Lec02?t=7816)].
 8. **Bottom Line / Profit After Tax (PAT) / Net Profit**: Deducting corporate income taxes from PBT yields PAT—the final residual line item belonging to equity owners [[2:06:54–2:07:49](/transcripts/fa/FA_Lec02?t=7614)].
@@ -937,9 +953,9 @@ As utilization rises from 20% to 90%, fixed depreciation and interest costs rema
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Gross Profit Margin % | \\((\text{Sales} - \text{COGS}) \div \text{Sales} \times 100\\) | Industry dependent | Profitability after direct material costs | [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)] |
-| EBITDA Margin % | \\(\text{EBITDA} \div \text{Sales} \times 100\\) | Operational efficiency baseline | Core operating cash margin | [[2:06:27](/transcripts/fa/FA_Lec02?t=7587)] |
-| Bottom Line (Net Profit / PAT) | \\(\text{PBT} - \text{Corporate Income Tax}\\) | Final residual equity earnings | Profit available for reinvestment or dividends | [[2:06:54–2:07:49](/transcripts/fa/FA_Lec02?t=7614)] |
+| Gross Profit Margin % | $$ (\text{Sales} - \text{COGS}) | Industry dependent | Profitability after direct material costs | [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)] |
+| EBITDA Margin % | $\text{EBITDA} \div \text{Sales} \times 100$ | Operational efficiency baseline | Core operating cash margin | [[2:06:27](/transcripts/fa/FA_Lec02?t=7587)] |
+| Bottom Line (Net Profit / PAT) | $\text{PBT} - \text{Corporate Income Tax}$ | Final residual equity earnings | Profit available for reinvestment or dividends | [[2:06:54–2:07:49](/transcripts/fa/FA_Lec02?t=7614)] |
 | Capacity Utilization Trajectory | Plant production output vs. maximum capacity | Ramping from 20% to 90% | Forecasts operating leverage inflection point | [[2:17:26–2:18:38](/transcripts/fa/FA_Lec02?t=8246)] |
 
 #### e) Visual aid
@@ -1051,7 +1067,7 @@ When operating margin contraction stops and quarterly earnings stabilize, a stoc
 | :--- | :--- | :--- | :--- | :--- |
 | CANSLIM Analysis Horizon | Evaluation window for quarterly acceleration | 8 to 12 Quarters | Window to track quarterly growth acceleration | [[2:13:22](/transcripts/fa/FA_Lec02?t=8002)] |
 | Standard Corporate Tax Rate | Normalized Indian corporate income tax baseline | 25% | Target tax rate for domestic corporate earnings | [[2:31:46–2:32:52](/transcripts/fa/FA_Lec02?t=9106)] |
-| Earnings Per Share (EPS) | \\(\text{Profit After Tax (PAT)} \div \text{Total Shares Outstanding}\\) | Continuous quarterly growth | Per-share earnings metric driving stock prices | [[2:28:04–2:29:21](/transcripts/fa/FA_Lec02?t=8884)] |
+| Earnings Per Share (EPS) | $\text{Profit After Tax$ (PAT) | Continuous quarterly growth | Per-share earnings metric driving stock prices | [[2:28:04–2:29:21](/transcripts/fa/FA_Lec02?t=8884)] |
 
 #### e) Visual aid
 | Diagnostic Criterion | Strong P&L Performance (VBL, Jash, Vimta) | Deteriorating P&L Performance (DMart) |
@@ -1157,8 +1173,8 @@ Applying these frameworks enables independent stock selection across diverse mar
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Segment EBITDA Margin % | \\(\text{Segment EBITDA} \div \text{Segment Revenue} \times 100\\) | Varies by product line | Evaluates divisional unit profitability | [[2:40:03–2:41:58](/transcripts/fa/FA_Lec02?t=9603)] |
-| Unit EBITDA Metrics | \\(\text{EBITDA} \div \text{Volume Metric (MT or KL)}\\) | Industry benchmark (e.g., ₹37,702/mt) | Tracks real pricing power per unit sold | [[2:40:50–2:41:03](/transcripts/fa/FA_Lec02?t=9650)] |
+| Segment EBITDA Margin % | $\text{Segment EBITDA} \div \text{Segment Revenue} \times 100$ | Varies by product line | Evaluates divisional unit profitability | [[2:40:03–2:41:58](/transcripts/fa/FA_Lec02?t=9603)] |
+| Unit EBITDA Metrics | $\text{EBITDA} \div \text{Volume Metric$ (MT or KL) | Industry benchmark (e.g., ₹37,702/mt) | Tracks real pricing power per unit sold | [[2:40:50–2:41:03](/transcripts/fa/FA_Lec02?t=9650)] |
 | Quick-Commerce Premium | Delivery charge / markup for 10-minute delivery | 3%–4% Price Premium | Price threshold consumers pay for speed | [[2:39:11–2:40:03](/transcripts/fa/FA_Lec02?t=9551)] |
 | Core Stock Rerating Principle | Stock price trajectory relative to earnings | "Share price is a slave to earnings growth" | Fundamental driver of long-term stock returns | [[2:44:19](/transcripts/fa/FA_Lec02?t=9859), [2:45:09](/transcripts/fa/FA_Lec02?t=9909)] |
 
@@ -1178,4 +1194,3 @@ Applying these frameworks enables independent stock selection across diverse mar
 ---
 
 Batch complete: Batch 4 (Stages 11–13, 2:03:27–2:47:22, ~44 minutes). Next: All stages complete.
-

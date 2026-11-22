@@ -33,14 +33,19 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'CHK (Checklist)', link: '/courses/chk/' },
-      { text: 'CC (Crash Course)', link: '/courses/cc/' },
-      { text: 'FA (Fundamentals)', link: '/courses/fa/' },
-      { text: 'V&P (Valuation & Portfolio)', link: '/courses/vp/' },
-      { text: 'BF (Behavioural Finance)', link: '/courses/bf/' },
-      { text: '🎙️ Transcripts & Audio', link: '/transcripts/' },
+      {
+        text: '📚 Courses',
+        items: [
+          { text: 'CHK: TVGP Framework Checklist', link: '/courses/chk/' },
+          { text: 'CC: TVGP Crash Course', link: '/courses/cc/' },
+          { text: 'FA: Fundamental Analysis', link: '/courses/fa/' },
+          { text: 'V&P: Valuation & Portfolio Construction', link: '/courses/vp/' },
+          { text: 'BF: Behavioural Finance & Biases', link: '/courses/bf/' }
+        ]
+      },
+      { text: '🎙️ Transcripts', link: '/transcripts/' },
       { text: '🛡️ Verification Queue', link: '/verification-queue/' },
-      { text: '📈 Sanchay App', link: 'https://portfolio-tracker-frontend-iota.vercel.app' }
+      { text: '📈 Sanchay App ↗', link: 'https://portfolio-tracker-frontend-iota.vercel.app' }
     ],
 
     sidebar: dynamicSidebar,

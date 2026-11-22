@@ -175,7 +175,7 @@ Which psychological biases cause investors to hold losing stocks indefinitely wh
 #### b) Detailed explanation
 
 ##### Endowment Effect & Subjective Valuation Bias
-Emotional and psychological biases systematically subvert rational portfolio allocation [[00:03:44–00:04:13](/transcripts/vp/VP_Lec05?t=224)]. The **Endowment Effect** dictates that individuals ascribe higher value to items simply because they own them [[00:04:13–00:05:01](/transcripts/vp/VP_Lec05?t=253)]. Commercial establishments exploit this subconscious bias; for example, coffee shops write customer names on cups to establish immediate emotional ownership and customized feel-good perception [[00:04:13–00:05:01](/transcripts/vp/VP_Lec05?t=253), [00:07:42–00:08:02](/transcripts/vp/VP_Lec05?t=462)]. In transactions, owners anchor on what they paid—such as valuing a lightly used \$500 laptop at \$450, whereas prospective buyers quote its fair market value at \$300 [[00:05:27–00:05:53](/transcripts/vp/VP_Lec05?t=327)]. 
+Emotional and psychological biases systematically subvert rational portfolio allocation [[00:03:44–00:04:13](/transcripts/vp/VP_Lec05?t=224)]. The **Endowment Effect** dictates that individuals ascribe higher value to items simply because they own them [[00:04:13–00:05:01](/transcripts/vp/VP_Lec05?t=253)]. Commercial establishments exploit this subconscious bias; for example, coffee shops write customer names on cups to establish immediate emotional ownership and customized feel-good perception [[00:04:13–00:05:01](/transcripts/vp/VP_Lec05?t=253), [00:07:42–00:08:02](/transcripts/vp/VP_Lec05?t=462)]. In transactions, owners anchor on what they paid—such as valuing a lightly used $500 laptop at$450, whereas prospective buyers quote its fair market value at $300 [[00:05:27–00:05:53](/transcripts/vp/VP_Lec05?t=327)]. 
 
 Controlled experiments demonstrate that when subjects are randomly gifted either a coffee mug or a chocolate bar and offered a free swap, statistical expectations dictate a 50% exchange rate; however, due to the Endowment Effect, only 10% choose to swap, as subjects assign immediate premium value to their assigned item [[00:05:53–00:06:18](/transcripts/vp/VP_Lec05?t=353)]. Businesses utilize this via free trial and money-back refund guarantees, knowing that once an item enters a customer's possession, endowment bias makes them reluctant to return it [[00:07:15–00:07:42](/transcripts/vp/VP_Lec05?t=435)]. In stock investing, endowment bias causes investors to view their owned holdings as fundamentally superior to alternative market opportunities, holding decayed businesses for 2 to 3 years waiting to break even [[00:12:58–00:13:27](/transcripts/vp/VP_Lec05?t=778)].
 
@@ -183,8 +183,8 @@ Controlled experiments demonstrate that when subjects are randomly gifted either
 Human emotional responses to financial outcomes are asymmetrical: the psychological misery inflicted by a loss is roughly **twice as intense** as the joy derived from an equivalent gain (2:1 pain-to-pleasure ratio) [[00:06:18–00:06:47](/transcripts/vp/VP_Lec05?t=378), [00:13:27–00:13:45](/transcripts/vp/VP_Lec05?t=807)]. Losing ₹1,000 creates emotional pain equivalent to the positive emotion of gaining ₹2,000 [[00:13:27–00:13:45](/transcripts/vp/VP_Lec05?t=807)]. 
 
 Academic research by Daniel Kahneman and Amos Tversky reveals that human decision-making shifts dramatically based on whether prospective choices are framed as gains or losses [[00:08:49–00:09:50](/transcripts/vp/VP_Lec05?t=529)]:
-- **Positive Prospects (Gain Frame):** Presented with Choice A (80% chance of winning \$4,000; Expected Value = \$3,200) versus Choice B (100% chance of winning \$3,000; Expected Value = \$3,000), decision-makers overwhelmingly choose Choice B [[00:08:49–00:09:12](/transcripts/vp/VP_Lec05?t=529)]. Investors display **risk aversion** when sitting on gains, locking in a guaranteed smaller profit rather than accepting minor probability risk for a mathematically superior expected yield [[00:09:12](/transcripts/vp/VP_Lec05?t=552), [00:09:50](/transcripts/vp/VP_Lec05?t=590)].
-- **Negative Prospects (Loss Frame):** Reversing the scenario to Choice A (80% chance of losing \$4,000; Expected Value = -\$3,200) versus Choice B (100% chance of losing \$3,000; Expected Value = -\$3,000), decision-makers invert their behavior and overwhelmingly select Choice A [[00:09:28–00:09:50](/transcripts/vp/VP_Lec05?t=568)]. To avoid accepting a guaranteed \$3,000 loss, individuals become irrationally **risk-seeking**, risking a larger \$4,000 loss for a small mathematical chance of breaking even [[00:09:28–00:10:11](/transcripts/vp/VP_Lec05?t=568)].
+- **Positive Prospects (Gain Frame):** Presented with Choice A (80% chance of winning$4,000; Expected Value = $3,200) versus Choice B (100% chance of winning$3,000; Expected Value = $3,000), decision-makers overwhelmingly choose Choice B [[00:08:49–00:09:12](/transcripts/vp/VP_Lec05?t=529)]. Investors display **risk aversion** when sitting on gains, locking in a guaranteed smaller profit rather than accepting minor probability risk for a mathematically superior expected yield [[00:09:12](/transcripts/vp/VP_Lec05?t=552), [00:09:50](/transcripts/vp/VP_Lec05?t=590)].
+- **Negative Prospects (Loss Frame):** Reversing the scenario to Choice A (80% chance of losing$4,000; Expected Value = -$3,200) versus Choice B (100% chance of losing$3,000; Expected Value = -$3,000), decision-makers invert their behavior and overwhelmingly select Choice A [[00:09:28–00:09:50](/transcripts/vp/VP_Lec05?t=568)]. To avoid accepting a guaranteed$3,000 loss, individuals become irrationally **risk-seeking**, risking a larger $4,000 loss for a small mathematical chance of breaking even [[00:09:28–00:10:11](/transcripts/vp/VP_Lec05?t=568)].
 
 ##### Disposition Effect & Market Trading Performance
 Empirical research by Terence Odeon analyzing stock trading accounts from 1987 to 1993 confirmed that real-world investors systematically suffer from the **Disposition Effect**: rapidly selling profitable winning stocks while holding losing positions for extended periods in the hope of recovering losses [[00:10:11–00:10:57](/transcripts/vp/VP_Lec05?t=611)]. Odeon tracked subsequent stock performance and established that the winning stocks sold by investors outperformed the held losing stocks by an average of **3.5% over the following year** [[00:10:28–00:10:57](/transcripts/vp/VP_Lec05?t=628)]. Winning stocks continued to compound upwards, whereas losing stocks suffered further operational and price decay [[00:10:28–00:10:57](/transcripts/vp/VP_Lec05?t=628)]. This loss-chasing behavior mirrors casino gambling, where players exacerbate losses trying to recover initial sums, exploited by casinos offering "free bets" to keep losing players active [[00:10:57–00:11:20](/transcripts/vp/VP_Lec05?t=657)].
@@ -203,10 +203,10 @@ When an investor acknowledges a dead investment thesis and executes a sell order
   - **Walkthrough:** Coffee shops assign personal ownership cues to standard products. Customers perceive named cups as distinct and inherently more valuable than identical blank cups.
   - **Takeaway:** Assigning personal attachment to an item distorts objective valuation.
 
-- **Example:** \$500 Laptop Resale Scenario [[00:05:27–00:05:53](/transcripts/vp/VP_Lec05?t=327)] [Slide 3]
+- **Example:**$500 Laptop Resale Scenario [[00:05:27–00:05:53](/transcripts/vp/VP_Lec05?t=327)] [Slide 3]
   - **Context:** Illustrating disparity between owner valuation and buyer market value.
-  - **Data/details:** Purchase price: \$500; Owner listing quote: \$450; Buyer offer quote: \$300.
-  - **Walkthrough:** The owner believes the laptop retains \$450 in value because it is theirs. Prospective buyers evaluate used market utility and bid \$300.
+  - **Data/details:** Purchase price: $500; Owner listing quote:$450; Buyer offer quote: $300.
+  - **Walkthrough:** The owner believes the laptop retains$450 in value because it is theirs. Prospective buyers evaluate used market utility and bid $300.
   - **Takeaway:** Ownership creates an unwarranted valuation premium over market clearing prices.
 
 - **Example:** Kahneman Mug vs. Chocolate Bar Experiment [[00:05:53–00:06:18](/transcripts/vp/VP_Lec05?t=353)] [Slide 3]
@@ -217,8 +217,8 @@ When an investor acknowledges a dead investment thesis and executes a sell order
 
 - **Example:** Kahneman & Tversky Prospect Theory Experiment [[00:08:49–00:09:50](/transcripts/vp/VP_Lec05?t=529)] [Slide 3]
   - **Context:** Demonstrating risk-averse gain-taking versus risk-seeking loss-chasing.
-  - **Data/details:** Gain Choice: 80% chance of \$4,000 (\$3,200 EV) vs. 100% chance of \$3,000 (\$3,000 EV). Loss Choice: 80% chance of -\$4,000 (-\$3,200 EV) vs. 100% chance of -\$3,000 (-\$3,000 EV).
-  - **Walkthrough:** Subjects chose \$3,000 guaranteed gain over \$3,200 expected value (risk-averse), but chose -\$3,200 expected loss over -\$3,000 guaranteed loss (risk-seeking).
+  - **Data/details:** Gain Choice: 80% chance of$4,000 ($3,200 EV) vs. 100% chance of$3,000 ($3,000 EV). Loss Choice: 80% chance of -$4,000 (-$3,200 EV) vs. 100% chance of -$3,000 (-$3,000 EV).
+  - **Walkthrough:** Subjects chose$3,000 guaranteed gain over $3,200 expected value (risk-averse), but chose -$3,200 expected loss over -\$3,000 guaranteed loss (risk-seeking).
   - **Takeaway:** Loss aversion forces irrationally high risk-taking when facing losses.
 
 - **Example:** Terence Odeon Trading Study (1987–1993) [[00:10:11–00:10:57](/transcripts/vp/VP_Lec05?t=611)] [Slide 3]
@@ -237,11 +237,11 @@ When an investor acknowledges a dead investment thesis and executes a sell order
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Loss Aversion Misery-to-Happiness Ratio | \\(\text{Ratio} = \frac{\text{Psychological Misery of Loss}}{\text{Psychological Happiness of Equivalent Gain}}\\) | \\(2 : 1\\) | The pain of losing ₹1,000 requires a ₹2,000 gain to emotionally offset | [[00:06:18–00:06:47](/transcripts/vp/VP_Lec05?t=378)] |
-| Endowment Experiment Swap Rate | \\(\text{Swap Rate} = \frac{\text{Actual Swaps Executed}}{\text{Total Participants}}\\) | 10% actual vs. 50% expected | Confirms immediate emotional overvaluation of owned assets | [[00:05:53–00:06:18](/transcripts/vp/VP_Lec05?t=353)] |
-| Prospect Theory Gain Expected Value | \\(E(V)_{\text{Gain}} = 0.80 \times \$4,000 = \$3,200\\) | EV = \$3,200 vs. \$3,000 risk-free | Investors reject higher EV to secure guaranteed smaller gain | [[00:08:49–00:09:12](/transcripts/vp/VP_Lec05?t=529)] |
-| Prospect Theory Loss Expected Value | \\(E(V)_{\text{Loss}} = 0.80 \times (-\$4,000) = -\$3,200\\) | EV = -\$3,200 vs. -\$3,000 guaranteed loss | Investors select worse EV to gamble on avoiding guaranteed loss | [[00:09:28–00:09:50](/transcripts/vp/VP_Lec05?t=568)] |
-| Odeon Study Return Differential | \\(\Delta \text{Return} = \text{Return}_{\text{Winners Sold}} - \text{Return}_{\text{Losers Held}}\\) | \\(+3.5\%\\) per annum | Proves that holding losing stocks directly degrades annual portfolio returns | [[00:10:28–00:10:57](/transcripts/vp/VP_Lec05?t=628)] |
+| Loss Aversion Misery-to-Happiness Ratio | $\text{Ratio} = \frac{\text{Psychological Misery of Loss}}{\text{Psychological Happiness of Equivalent Gain}}$ | $2 : 1$ | The pain of losing ₹1,000 requires a ₹2,000 gain to emotionally offset | [[00:06:18–00:06:47](/transcripts/vp/VP_Lec05?t=378)] |
+| Endowment Experiment Swap Rate | $\text{Swap Rate} = \frac{\text{Actual Swaps Executed}}{\text{Total Participants}}$ | 10% actual vs. 50% expected | Confirms immediate emotional overvaluation of owned assets | [[00:05:53–00:06:18](/transcripts/vp/VP_Lec05?t=353)] |
+| Prospect Theory Gain Expected Value | $E$ (V) | EV = $3,200 vs.$3,000 risk-free | Investors reject higher EV to secure guaranteed smaller gain | [[00:08:49–00:09:12](/transcripts/vp/VP_Lec05?t=529)] |
+| Prospect Theory Loss Expected Value | $E$ (V) | EV = -$3,200 vs. -$3,000 guaranteed loss | Investors select worse EV to gamble on avoiding guaranteed loss | [[00:09:28–00:09:50](/transcripts/vp/VP_Lec05?t=568)] |
+| Odeon Study Return Differential | $\Delta \text{Return} = \text{Return}_{\text{Winners Sold}} - \text{Return}_{\text{Losers Held}}$ | +3.5% per annum | Proves that holding losing stocks directly degrades annual portfolio returns | [[00:10:28–00:10:57](/transcripts/vp/VP_Lec05?t=628)] |
 
 #### e) Visual aid
 
@@ -291,7 +291,7 @@ Data analysis of Peter Lynch's execution during his tenure managing the Fidelity
 
 ##### Buffett & Munger 1997 AGM Masterclass on Concentration
 During the 1997 Berkshire Hathaway Annual General Meeting, Warren Buffett and Charlie Munger addressed portfolio concentration [[00:21:26–00:26:56](/transcripts/vp/VP_Lec05?t=1286)]:
-- ** Berkshire Portfolio Mechanics:** Buffett clarified that smaller positions were omitted from public reports due to reporting thresholds (listing only holdings exceeding \$600 million) or active accumulation/disposal [[00:22:21–00:22:46](/transcripts/vp/VP_Lec05?t=1341)]. Berkshire maintained no rigid 5% or 10% position sizing rule, preferring heavy capital concentration in top ideas [[00:22:21–00:23:16](/transcripts/vp/VP_Lec05?t=1341)].
+- ** Berkshire Portfolio Mechanics:** Buffett clarified that smaller positions were omitted from public reports due to reporting thresholds (listing only holdings exceeding $600 million) or active accumulation/disposal [[00:22:21–00:22:46](/transcripts/vp/VP_Lec05?t=1341)]. Berkshire maintained no rigid 5% or 10% position sizing rule, preferring heavy capital concentration in top ideas [[00:22:21–00:23:16](/transcripts/vp/VP_Lec05?t=1341)].
 - **Diversification as Protection Against Ignorance:** Diversification is an effective strategy for investors unable to evaluate business economics, guaranteeing average market performance [[00:23:16–00:23:51](/transcripts/vp/VP_Lec05?t=1396)]. However, for skilled business analysts, holding 30, 40, or 50 stocks is irrational [[00:23:16–00:23:51](/transcripts/vp/VP_Lec05?t=1396)]. Allocating capital to the 30th or 35th preferred stock instead of allocating more to the top-ranked idea represents "madness," driven by institutional job-preservation motives [[00:23:51–00:24:14](/transcripts/vp/VP_Lec05?t=1431)].
 - **Wealth Creation via Concentration:** Personal wealth is rarely built through 50-stock portfolios; historical fortunes originate from concentrated ownership of exceptional businesses (e.g., Coca-Cola) [[00:24:14–00:25:36](/transcripts/vp/VP_Lec05?t=1454)]. Owning 3 easy-to-identify, highly moated, wonderful businesses carries significantly less real-world risk than holding 50 average large-cap companies [[00:24:39–00:26:03](/transcripts/vp/VP_Lec05?t=1479)].
 - **Charlie Munger on Modern Portfolio Theory (MPT):** Munger criticized Modern Portfolio Theory taught in academic corporate finance as "twaddle" lacking practical value [[00:26:31–00:26:56](/transcripts/vp/VP_Lec05?t=1591)]. Munger stated that MPT uses complex Greek parameters to mask a form of intellectual "dementia," adding zero alpha beyond basic fifth-grade arithmetic [[00:26:31–00:26:56](/transcripts/vp/VP_Lec05?t=1591)].
@@ -318,7 +318,7 @@ During the 1997 Berkshire Hathaway Annual General Meeting, Warren Buffett and Ch
 
 - **Example:** Berkshire Hathaway 1997 AGM (Mark Hake Query) [[00:21:26–00:26:56](/transcripts/vp/VP_Lec05?t=1286)] [Slide 3]
   - **Context:** Public Q&A regarding Berkshire's historical holding concentration.
-  - **Data/details:** Disclosure threshold = positions >\$600 million; 1987 portfolio concentrated in 3 primary stocks.
+  - **Data/details:** Disclosure threshold = positions >$600 million; 1987 portfolio concentrated in 3 primary stocks.
   - **Walkthrough:** Buffett and Munger explained that diversification protects passive investors against ignorance, but active stock pickers degrade returns by allocating capital to their 30th-best idea.
   - **Takeaway:** Owning 3 outstanding, understandable businesses carries lower risk and yields higher returns than owning 50 average companies.
 
@@ -333,11 +333,11 @@ During the 1997 Berkshire Hathaway Annual General Meeting, Warren Buffett and Ch
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
 | Magellan Fund Peak Stock Count | Total discrete stock positions held in fund | 1,400–1,500 stocks | High stock count offset by strict asymmetric position sizing | [[00:18:51–00:19:14](/transcripts/vp/VP_Lec05?t=1131)] |
-| Magellan Average Position Weight | \\(\text{Weight} = \frac{\text{Position Market Value}}{\text{Total Fund AUM}}\\) | \\(<0.5\%\\) average position weight | Prevents non-core bets from causing fund-level portfolio damage | [[00:19:14](/transcripts/vp/VP_Lec05?t=1154)] |
+| Magellan Average Position Weight | $\text{Weight} = \frac{\text{Position Market Value}}{\text{Total Fund AUM}}$ | < 0.5% average position weight | Prevents non-core bets from causing fund-level portfolio damage | [[00:19:14](/transcripts/vp/VP_Lec05?t=1154)] |
 | Magellan Top 10 Concentration | Cumulative weight of top 10 holdings relative to AUM | 10%–15% fund weight | Exceptionally low top-10 concentration compared to 30–40% industry norms | [[00:19:14–00:19:35](/transcripts/vp/VP_Lec05?t=1154)] |
 | Magellan Core Position Cap | Maximum allowable capital weight in individual core holding | 2%–3% max position size | Hard ceiling applied even to highest-conviction holdings | [[00:19:35](/transcripts/vp/VP_Lec05?t=1175)] |
-| Magellan CAGR vs Index CAGR | \\(29\% \text{ Fund CAGR} \text{ vs. } 15\text{–}16\% \text{ S\&P 500 CAGR}\\) | +13% to +14% annual alpha | Multi-year alpha generated via asymmetric core/satellite structuring | [[00:20:11–00:20:40](/transcripts/vp/VP_Lec05?t=1211)] |
-| Berkshire Disclosure Threshold | Minimum position size listed in public annual reports | \\(>\$600 \text{ million}\\) | Hides smaller satellite positions from public regulatory view | [[00:22:21](/transcripts/vp/VP_Lec05?t=1341)] |
+| Magellan CAGR vs Index CAGR | $29% \text{ Fund CAGR} \text{ vs. } 15\text{–}16% \text{ S\&P 500 CAGR}$ | +13% to +14% annual alpha | Multi-year alpha generated via asymmetric core/satellite structuring | [[00:20:11–00:20:40](/transcripts/vp/VP_Lec05?t=1211)] |
+| Berkshire Disclosure Threshold | Minimum position size listed in public annual reports | $>\$600 \text{ million}$ | Hides smaller satellite positions from public regulatory view | [[00:22:21](/transcripts/vp/VP_Lec05?t=1341)] |
 | Core Business Concentration Minimum | Minimum number of wonderful businesses needed for lifetime wealth | 3 wonderful businesses | Lower risk and higher compounding potential than 50 average businesses | [[00:24:39–00:26:03](/transcripts/vp/VP_Lec05?t=1479)] |
 
 #### e) Visual aid
@@ -430,10 +430,10 @@ Prominent Indian blue-chip compounders—including Kotak Mahindra Bank, HDFC Ban
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Divi's Lab Shock Drawdown | \\(\text{Drawdown} = \frac{₹543 - ₹1,140}{₹1,140}\\) | \\(-52.37\%\\) in 6 months | Severe price collapse triggered by unexpected US FDA import alert | [[00:28:15–00:28:35](/transcripts/vp/VP_Lec05?t=1695)] |
-| Relaxo Structural Drawdown | \\(\text{Drawdown} = \frac{P_{\text{Bottom}} - P_{\text{Peak}}}{P_{\text{Peak}}}\\) | \\(-70\%\\) to \\(-80\%\\) decline | Prolonged wealth destruction caused by structural competitive entry | [[00:30:13](/transcripts/vp/VP_Lec05?t=1813)] |
-| Delta Corp Tax Shock Drawdown | \\(\text{Drawdown} = \frac{₹120 - ₹240}{₹240}\\) | \\(-50.00\%\\) in 2–3 months | Instant halving of stock value caused by retrospective GST tax ruling | [[00:33:12](/transcripts/vp/VP_Lec05?t=1992)] |
-| Intel ESOP Value Erosion | \\(\text{Drawdown} = \frac{P_{\text{Current}} - P_{\text{Peak}}}{P_{\text{Peak}}}\\) | \\(-80.00\%\\) over 3–4 years | Demonstrates severe wealth destruction from single-stock ESOP concentration | [[00:34:48](/transcripts/vp/VP_Lec05?t=2088)] |
+| Divi's Lab Shock Drawdown | $\text{Drawdown} = \frac{\text{₹}543 - \text{₹}1,140}{\text{₹}1,140}$ | -52.37% in 6 months | Severe price collapse triggered by unexpected US FDA import alert | [[00:28:15–00:28:35](/transcripts/vp/VP_Lec05?t=1695)] |
+| Relaxo Structural Drawdown | $\text{Drawdown} = \frac{P_{\text{Bottom}} - P_{\text{Peak}}}{P_{\text{Peak}}}$ | -70% to -80% decline | Prolonged wealth destruction caused by structural competitive entry | [[00:30:13](/transcripts/vp/VP_Lec05?t=1813)] |
+| Delta Corp Tax Shock Drawdown | $\text{Drawdown} = \frac{\text{₹}120 - \text{₹}240}{\text{₹}240}$ | -50.00% in 2–3 months | Instant halving of stock value caused by retrospective GST tax ruling | [[00:33:12](/transcripts/vp/VP_Lec05?t=1992)] |
+| Intel ESOP Value Erosion | $\text{Drawdown} = \frac{P_{\text{Current}} - P_{\text{Peak}}}{P_{\text{Peak}}}$ | -80.00% over 3–4 years | Demonstrates severe wealth destruction from single-stock ESOP concentration | [[00:34:48](/transcripts/vp/VP_Lec05?t=2088)] |
 | Blue-Chip Stagnation Window | Duration of market underperformance for institutional compounders | 4 years (2020–2024) | Illustrates the failure of passive "coffee can" concentration across market regime shifts | [[00:35:11–00:35:50](/transcripts/vp/VP_Lec05?t=2111)] |
 
 #### e) Visual aid
@@ -519,11 +519,11 @@ Position sizing must adapt dynamically to investor net worth and career stage [[
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Helios "Good Stocks" Allocation | \\(\text{Weight}_{\text{Good}} = \sum \text{Core Moat Holdings}\\) | 40%–60% PF weight; 3%–7% position size | Stable compounding core tranche focused on earnings growth | [[00:36:33](/transcripts/vp/VP_Lec05?t=2193), [00:37:22](/transcripts/vp/VP_Lec05?t=2242)] |
-| Helios "Emerging Stocks" Allocation | \\(\text{Weight}_{\text{Emerging}} = \sum \text{Alpha Discovery Bets}\\) | 40%–60% PF weight; 1.5%–3% position size | Tightly sized high-risk discovery tranche focused on alpha | [[00:37:00](/transcripts/vp/VP_Lec05?t=2220), [00:38:12](/transcripts/vp/VP_Lec05?t=2292)] |
+| Helios "Good Stocks" Allocation | $\text{Weight}_{\text{Good}} = \sum \text{Core Moat Holdings}$ | 40%–60% PF weight; 3%–7% position size | Stable compounding core tranche focused on earnings growth | [[00:36:33](/transcripts/vp/VP_Lec05?t=2193), [00:37:22](/transcripts/vp/VP_Lec05?t=2242)] |
+| Helios "Emerging Stocks" Allocation | $\text{Weight}_{\text{Emerging}} = \sum \text{Alpha Discovery Bets}$ | 40%–60% PF weight; 1.5%–3% position size | Tightly sized high-risk discovery tranche focused on alpha | [[00:37:00](/transcripts/vp/VP_Lec05?t=2220), [00:38:12](/transcripts/vp/VP_Lec05?t=2292)] |
 | Weekly EMA Stop-Loss Threshold | Exponential Moving Average exit trigger on weekly chart | 30-week or 40-week EMA | Technical exit rule to prevent catastrophic single-stock drawdowns | [[00:38:35–00:39:16](/transcripts/vp/VP_Lec05?t=2315)] |
-| Russian Roulette Ruin Probability | \\(P(\text{Ruin}) = \frac{1}{\text{Chamber Count}}\\) | 1/6 (16.67% per trade) | Unmanaged concentration creates fatal terminal risk over repeated trades | [[00:40:32–00:40:56](/transcripts/vp/VP_Lec05?t=2432)] |
-| Retail High-Risk Portfolio Threshold | Maximum portfolio size for high risk-seeking behavior | \\(< ₹50 \text{ lakh}\\) | Sizing threshold where high risk-taking is culturally acceptable | [[00:46:13](/transcripts/vp/VP_Lec05?t=2773)] |
+| Russian Roulette Ruin Probability | $P$ (\text{Ruin}) | 1/6 (16.67% per trade) | Unmanaged concentration creates fatal terminal risk over repeated trades | [[00:40:32–00:40:56](/transcripts/vp/VP_Lec05?t=2432)] |
+| Retail High-Risk Portfolio Threshold | Maximum portfolio size for high risk-seeking behavior | $< \text{₹}50 \text{ lakh}$ | Sizing threshold where high risk-taking is culturally acceptable | [[00:46:13](/transcripts/vp/VP_Lec05?t=2773)] |
 
 #### e) Visual aid
 
@@ -569,10 +569,18 @@ Human analytical bandwidth limits effective tracking [[00:49:37–00:50:35](/tra
 ##### Position Sizing Math: 0.2% Micro-Bets vs. 4.0% Conviction Positions
 Position sizing dictates aggregate portfolio outcomes, as illustrated by the speaker's mathematical comparison [[00:50:35–00:51:35](/transcripts/vp/VP_Lec05?t=3035)]:
 - **0.2% Position Sizing Scenario:** A 0.2% portfolio weight in a stock that becomes a 5-bagger (400% gain) yields a portfolio-level return of:
-  \\[\text{Portfolio Impact} = 0.2\% \times 4 = 0.8\%\\]
+  
+$$
+Portfolio Impact = 0.2\% × 4 = 0.8\%
+$$
+
   An 0.8% aggregate portfolio return provides negligible financial impact [[00:50:35–00:51:04](/transcripts/vp/VP_Lec05?t=3035)].
 - **4.0% Position Sizing Scenario:** A 4.0% portfolio weight in a stock that becomes a 5-bagger (400% gain) yields a portfolio-level return of:
-  \\[\text{Portfolio Impact} = 4.0\% \times 4 = 16.0\%\\]
+  
+$$
+Portfolio Impact = 4.0\% × 4 = 16.0\%
+$$
+
   A 16.0% aggregate return meaningfully transforms portfolio performance [[00:51:04](/transcripts/vp/VP_Lec05?t=3064)].
 
 ##### Speaker's Personal Allocation Architecture
@@ -610,10 +618,10 @@ Real-world NAV movements during the Indian Energy Exchange (IEX) regulatory cris
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
 | Optimal Diversification Stock Ceiling | Academic limit where unsystematic risk reduction flattens | 20–30 stocks (15–25 optimal) | Beyond 25 stocks, additional holdings provide zero risk reduction | [[00:47:05–00:47:33](/transcripts/vp/VP_Lec05?t=2825)] |
-| Sector Exposure Cap | \\(\text{Weight}_{\text{Sector}} = \frac{\sum \text{Sector Positions}}{\text{Total Portfolio Value}}\\) | 15%–20% (25% max conviction) | Prevents single-factor industry over-concentration | [[00:48:41–00:49:11](/transcripts/vp/VP_Lec05?t=2921)] |
+| Sector Exposure Cap | $\text{Weight}_{\text{Sector}} = \frac{\sum \text{Sector Positions}}{\text{Total Portfolio Value}}$ | 15%–20% (25% max conviction) | Prevents single-factor industry over-concentration | [[00:48:41–00:49:11](/transcripts/vp/VP_Lec05?t=2921)] |
 | Maximum Quarterly Con-Call Tracking Depth | Upper cognitive limit for active transcript analysis | 20–25 con-calls per quarter | Cognitive ceiling for maintaining deep fundamental tracking | [[00:50:12](/transcripts/vp/VP_Lec05?t=3012)] |
-| Micro-Bet Portfolio Yield | \\(\text{Yield} = 0.2\% \text{ weight} \times 400\% \text{ gain}\\) | \\(+0.8\%\\) aggregate return | Demonstrates return dilution from undersized positions | [[00:50:35–00:51:04](/transcripts/vp/VP_Lec05?t=3035)] |
-| Conviction Position Portfolio Yield | \\(\text{Yield} = 4.0\% \text{ weight} \times 400\% \text{ gain}\\) | \\(+16.0\%\\) aggregate return | Demonstrates portfolio transformation from sized positions | [[00:51:04](/transcripts/vp/VP_Lec05?t=3064)] |
+| Micro-Bet Portfolio Yield | $\text{Yield} = 0.2% \text{ weight} \times 400% \text{ gain}$ | +0.8% aggregate return | Demonstrates return dilution from undersized positions | [[00:50:35–00:51:04](/transcripts/vp/VP_Lec05?t=3035)] |
+| Conviction Position Portfolio Yield | $\text{Yield} = 4.0% \text{ weight} \times 400% \text{ gain}$ | +16.0% aggregate return | Demonstrates portfolio transformation from sized positions | [[00:51:04](/transcripts/vp/VP_Lec05?t=3064)] |
 | Speaker's Core Allocation Weight | Cumulative weight of top 15 core positions | 70%–75% of total portfolio | Forms the primary compounding engine of the portfolio | [[00:51:51](/transcripts/vp/VP_Lec05?t=3111)] |
 
 #### e) Visual aid
@@ -813,13 +821,13 @@ Winning positions compound naturally from their 4% cost base to 8%–12%+ of tot
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Kohli Satellite Position Weight | \\(\text{Weight}_{\text{Satellite}} = \frac{\text{Experimental Capital}}{\text{Total Portfolio Value}}\\) | 2% weight at cost price | Caps capital at risk in unproven or special-situation bets | [[01:06:50](/transcripts/vp/VP_Lec05?t=4010)] |
-| Kohli Medium Conviction Weight | \\(\text{Weight}_{\text{Medium}} = \frac{\text{Validated Capital}}{\text{Total Portfolio Value}}\\) | 4%–5% weight at cost price | Position size for validated businesses building conviction | [[01:13:42](/transcripts/vp/VP_Lec05?t=4422)] |
-| Kohli High Conviction Weight | \\(\text{Weight}_{\text{High}} = \frac{\text{High Conviction Capital}}{\text{Total Portfolio Value}}\\) | 6%–7% weight at cost price | Position size for high-quality businesses with strong visibility | [[01:13:58](/transcripts/vp/VP_Lec05?t=4438)] |
-| Kohli Core Holding Weight | \\(\text{Weight}_{\text{Core}} = \frac{\text{Core Capital}}{\text{Total Portfolio Value}}\\) | 8% weight at cost price | Maximum initial position size for low-risk, deep-research compounders | [[01:14:00](/transcripts/vp/VP_Lec05?t=4440)] |
+| Kohli Satellite Position Weight | $\text{Weight}_{\text{Satellite}} = \frac{\text{Experimental Capital}}{\text{Total Portfolio Value}}$ | 2% weight at cost price | Caps capital at risk in unproven or special-situation bets | [[01:06:50](/transcripts/vp/VP_Lec05?t=4010)] |
+| Kohli Medium Conviction Weight | $\text{Weight}_{\text{Medium}} = \frac{\text{Validated Capital}}{\text{Total Portfolio Value}}$ | 4%–5% weight at cost price | Position size for validated businesses building conviction | [[01:13:42](/transcripts/vp/VP_Lec05?t=4422)] |
+| Kohli High Conviction Weight | $\text{Weight}_{\text{High}} = \frac{\text{High Conviction Capital}}{\text{Total Portfolio Value}}$ | 6%–7% weight at cost price | Position size for high-quality businesses with strong visibility | [[01:13:58](/transcripts/vp/VP_Lec05?t=4438)] |
+| Kohli Core Holding Weight | $\text{Weight}_{\text{Core}} = \frac{\text{Core Capital}}{\text{Total Portfolio Value}}$ | 8% weight at cost price | Maximum initial position size for low-risk, deep-research compounders | [[01:14:00](/transcripts/vp/VP_Lec05?t=4440)] |
 | Kohli Maximum Portfolio Count | Upper limit of total individual stock positions | 20–25 stocks maximum | Prevents return dilution while maintaining satellite exploration | [[01:16:46](/transcripts/vp/VP_Lec05?t=4606)] |
-| Tendulkar Equi-Weighted Sizing (25 Stocks) | \\(\text{Weight}_{i} = \frac{100\%}{25 \text{ Stocks}}\\) | 4% equal weight per stock | Eliminates conviction-ranking errors across 25 holdings | [[01:18:35](/transcripts/vp/VP_Lec05?t=4715)] |
-| Tendulkar Equi-Weighted Sizing (20 Stocks) | \\(\text{Weight}_{i} = \frac{100\%}{20 \text{ Stocks}}\\) | 5% equal weight per stock | Eliminates conviction-ranking errors across 20 holdings | [[01:18:35](/transcripts/vp/VP_Lec05?t=4715)] |
+| Tendulkar Equi-Weighted Sizing (25 Stocks) | $\text{Weight}_{i} = \frac{100%}{25 \text{ Stocks}}$ | 4% equal weight per stock | Eliminates conviction-ranking errors across 25 holdings | [[01:18:35](/transcripts/vp/VP_Lec05?t=4715)] |
+| Tendulkar Equi-Weighted Sizing (20 Stocks) | $\text{Weight}_{i} = \frac{100%}{20 \text{ Stocks}}$ | 5% equal weight per stock | Eliminates conviction-ranking errors across 20 holdings | [[01:18:35](/transcripts/vp/VP_Lec05?t=4715)] |
 
 #### e) Visual aid
 
@@ -908,12 +916,12 @@ The stage closes with a structured comparison between variable conviction-sized 
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Rohit 10-on-10 Position Weight | \\(\text{Weight}_{i} = \frac{100\%}{10 \text{ Stocks}}\\) | 10% weight per stock | Concentrates capital into 10 closely monitored core holdings | [[01:21:43](/transcripts/vp/VP_Lec05?t=4903)] |
-| Rohit Single Sector Cap | \\(\text{Weight}_{\text{Sector}} = \sum \text{Sector Holdings}\\) | 20% max (2 stocks max) | Prevents single-industry concentration in a 10-stock portfolio | [[01:24:58](/transcripts/vp/VP_Lec05?t=5098)] |
+| Rohit 10-on-10 Position Weight | $\text{Weight}_{i} = \frac{100%}{10 \text{ Stocks}}$ | 10% weight per stock | Concentrates capital into 10 closely monitored core holdings | [[01:21:43](/transcripts/vp/VP_Lec05?t=4903)] |
+| Rohit Single Sector Cap | $\text{Weight}_{\text{Sector}} = \sum \text{Sector Holdings}$ | 20% max (2 stocks max) | Prevents single-industry concentration in a 10-stock portfolio | [[01:24:58](/transcripts/vp/VP_Lec05?t=5098)] |
 | Rohit Review Frequency | Portfolio monitoring and rebalancing interval | Every 2–3 months | Tighter review window required to catch operational lapses early | [[01:24:05](/transcripts/vp/VP_Lec05?t=5045)] |
-| Sehwag T20 Position Weight | \\(\text{Weight}_{i} = \frac{100\%}{5 \text{ Stocks}}\\) | 20% weight per stock | Ultra-concentrated capital deployment across 5 high-conviction bets | [[01:25:14](/transcripts/vp/VP_Lec05?t=5114)] |
-| T20 Multi-Bagger Portfolio Impact | \\(\text{Impact} = 20\% \text{ weight} \times 500\% \text{ gain}\\) | \\(+100.0\%\\) portfolio return | A single 6-bagger stock doubles total portfolio net worth | [[01:25:40](/transcripts/vp/VP_Lec05?t=5140)] |
-| T20 Drawdown Portfolio Impact | \\(\text{Impact} = 20\% \text{ weight} \times (-50\%) \text{ loss}\\) | \\(-10.0\%\\) portfolio loss | A 50% price collapse in one stock cuts portfolio value by 10% | [[01:25:40–01:26:19](/transcripts/vp/VP_Lec05?t=5140)] |
+| Sehwag T20 Position Weight | $\text{Weight}_{i} = \frac{100%}{5 \text{ Stocks}}$ | 20% weight per stock | Ultra-concentrated capital deployment across 5 high-conviction bets | [[01:25:14](/transcripts/vp/VP_Lec05?t=5114)] |
+| T20 Multi-Bagger Portfolio Impact | $\text{Impact} = 20% \text{ weight} \times 500% \text{ gain}$ | +100.0% portfolio return | A single 6-bagger stock doubles total portfolio net worth | [[01:25:40](/transcripts/vp/VP_Lec05?t=5140)] |
+| T20 Drawdown Portfolio Impact | $\text{Impact} = 20% \text{ weight} \times$ (-50\%) | -10.0% portfolio loss | A 50% price collapse in one stock cuts portfolio value by 10% | [[01:25:40–01:26:19](/transcripts/vp/VP_Lec05?t=5140)] |
 
 #### e) Visual aid
 
@@ -1007,7 +1015,7 @@ The core-satellite architecture also accommodates Exchange Traded Funds (ETFs) a
 |---|---|---|---|---|
 | Wealth Management Low Valuation Multiple | Trailing Price-to-Earnings ratio for core entry | 20–23x P/E | Core entry valuation threshold for wealth management equities | [[01:31:04](/transcripts/vp/VP_Lec05?t=5464)] |
 | Wealth Management High Valuation Multiple | Trailing Price-to-Earnings ratio for satellite demotion | 35–40x P/E | Profit-booking valuation threshold for trimming core back to satellite | [[01:31:04–01:31:32](/transcripts/vp/VP_Lec05?t=5464)] |
-| Fundamental Time Stop-Loss Ceiling | \\(\text{Max Gestation Window} = 8 \text{ Quarters} \quad (24 \text{ Months})\\) | 8 quarters (3–4 quarters in bull market) | Maximum allowable duration of price/relative stagnation before mandatory exit | [[01:35:13–01:36:05](/transcripts/vp/VP_Lec05?t=5713)] |
+| Fundamental Time Stop-Loss Ceiling | $\text{Max Gestation Window} = 8 \text{ Quarters}$ (24 \text{ Months}) | 8 quarters (3–4 quarters in bull market) | Maximum allowable duration of price/relative stagnation before mandatory exit | [[01:35:13–01:36:05](/transcripts/vp/VP_Lec05?t=5713)] |
 | Tactical Index Valuation Entry (Nifty 50) | Trailing P/E multiple for index ETF accumulation | 18–19x P/E | Valuation benchmark for tactical ETF satellite allocation | [[01:37:16–01:37:42](/transcripts/vp/VP_Lec05?t=5836)] |
 | Tactical Index Valuation Entry (MicroCap 250) | Trailing P/E multiple for micro-cap ETF accumulation | 21–22x P/E | Valuation benchmark for tactical micro-cap ETF satellite allocation | [[01:37:16–01:37:42](/transcripts/vp/VP_Lec05?t=5836)] |
 
@@ -1099,9 +1107,9 @@ Yash demonstrates the live construction and operation of the automated Google Sh
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| Single-Stock Upper Rebalancing Ceiling | \\(\text{Weight}_{\text{Max}} = \frac{\text{Single Stock Market Value}}{\text{Total Live Portfolio Value}}\\) | 22%–28% live market weight | Triggers mandatory profit booking and rebalancing back to 8%–16% | [[01:39:40–01:40:08](/transcripts/vp/VP_Lec05?t=5980)] |
-| Target Share Purchase Quantity | \\(\text{Quantity} = \frac{\text{Total Capital} \times \text{Target Allocation \%}}{\text{Current Market Price}}\\) | Calculated exact integer | Pre-calculates exact share purchase count for target allocation | [[01:47:31–01:49:24](/transcripts/vp/VP_Lec05?t=6451)] |
-| Portfolio XIRR Formula | \\(\text{XIRR}(\text{Values}, \text{Dates})\\) | Internal Rate of Return | True performance metric accounting for staggered cash injections | [[01:49:24–01:51:18](/transcripts/vp/VP_Lec05?t=6564)] |
+| Single-Stock Upper Rebalancing Ceiling | $\text{Weight}_{\text{Max}} = \frac{\text{Single Stock Market Value}}{\text{Total Live Portfolio Value}}$ | 22%–28% live market weight | Triggers mandatory profit booking and rebalancing back to 8%–16% | [[01:39:40–01:40:08](/transcripts/vp/VP_Lec05?t=5980)] |
+| Target Share Purchase Quantity | $\text{Quantity} = \frac{\text{Total Capital} \times \text{Target Allocation %}}{\text{Current Market Price}}$ | Calculated exact integer | Pre-calculates exact share purchase count for target allocation | [[01:47:31–01:49:24](/transcripts/vp/VP_Lec05?t=6451)] |
+| Portfolio XIRR Formula | $\text{XIRR}$ (\text{Values}, \text{Dates}) | Internal Rate of Return | True performance metric accounting for staggered cash injections | [[01:49:24–01:51:18](/transcripts/vp/VP_Lec05?t=6564)] |
 | Core Rebalancing Schedule | Review frequency for 4–8% core holdings | Half-yearly (Post Q2 / Q4) | Scheduled review window for core position adjustments | [[02:03:32–02:04:01](/transcripts/vp/VP_Lec05?t=7412)] |
 | Satellite Rebalancing Schedule | Review frequency for 2% satellite holdings | Quarterly (Post Q1–Q4) | Scheduled review window for recycling satellite bets | [[02:02:40](/transcripts/vp/VP_Lec05?t=7360)] |
 
@@ -1203,7 +1211,7 @@ The webinar concludes with a macro outlook on Indian equity markets [[02:07:29�
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 |---|---|---|---|---|
-| SME Exposure Portfolio Ceiling | \\(\text{Weight}_{\text{SME}} = \frac{\sum \text{SME Holdings}}{\text{Total Portfolio Value}}\\) | \\(\le 10\%\\) max total portfolio weight | Hard ceiling to prevent account-level illiquidity damage | [[02:00:57–02:01:26](/transcripts/vp/VP_Lec05?t=7257)] |
+| SME Exposure Portfolio Ceiling | $\text{Weight}_{\text{SME}} = \frac{\sum \text{SME Holdings}}{\text{Total Portfolio Value}}$ | ≤ 10% max total portfolio weight | Hard ceiling to prevent account-level illiquidity damage | [[02:00:57–02:01:26](/transcripts/vp/VP_Lec05?t=7257)] |
 | Single-Day Cleanup Duration | Total time allocated to purge dead-thesis holdings | 1 single day (1 session) | Mandatory single-session execution to prevent perpetual bloat | [[02:04:28](/transcripts/vp/VP_Lec05?t=7468)] |
 | Generational Wealth Time Horizon | Long-term investment compounding horizon | 10–15 years (20–30 years optimal) | Multi-decade mindset required for generational wealth accumulation | [[02:09:05](/transcripts/vp/VP_Lec05?t=7745)] |
 
@@ -1232,4 +1240,3 @@ The webinar concludes with a macro outlook on Indian equity markets [[02:07:29�
 - **Short-Term Horizon Chasing:** Rebuilding portfolios every 2 to 3 months based on quarterly newsflows instead of maintaining a 10 to 15-year compounding horizon [[02:09:05–02:09:25](/transcripts/vp/VP_Lec05?t=7745)].
 
 ---
-

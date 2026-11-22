@@ -422,11 +422,11 @@ Investors should calculate and track forward valuation multiples across four dis
 ##### 2-Year PAT CAGR Calculation
 * Base Year PAT (FY26) = ₹176 crore [[00:43:01](/transcripts/chk/CHK_Lec13?t=2581)].
 * Year-2 Projected PAT (FY28) = ₹249 crore [[00:43:01](/transcripts/chk/CHK_Lec13?t=2581)].
-* **2-Year PAT CAGR**: Applying the compound annual growth rate formula \\([(\text{End PAT} / \text{Start PAT})^{1/2} - 1]\\) via a financial calculator yields a **2-year PAT CAGR of 20.74%** (~20.8%) [[00:42:22–00:43:01](/transcripts/chk/CHK_Lec13?t=2542)].
+* **2-Year PAT CAGR**: Applying the compound annual growth rate formula $[$ (\text{End PAT} / \text{Start PAT}) via a financial calculator yields a **2-year PAT CAGR of 20.74%** (~20.8%) [[00:42:22–00:43:01](/transcripts/chk/CHK_Lec13?t=2542)].
 
 ##### 2-Year Forward PEG Ratio Calculation
 SJS currently trades at a trailing P/E multiple of 33x [[00:43:45](/transcripts/chk/CHK_Lec13?t=2625)]. 
-* **2-Year Forward PEG Formula**: \\(\text{PEG Ratio} = \text{Current Trailing P/E Multiple} \div \text{Forward PAT CAGR (\%)} [[00:43:45](/transcripts/chk/CHK_Lec13?t=2625)]\\).
+* **2-Year Forward PEG Formula**: $\text{PEG Ratio} = \text{Current Trailing P/E Multiple} \div \text{Forward PAT CAGR$ (\%).
 * **SJS PEG Calculation**: Dividing current trailing P/E (33x) by the 2-year forward PAT CAGR (20.8%) yields a **2-year forward PEG ratio of 1.58x** (33 ÷ 20.8) [[00:43:45](/transcripts/chk/CHK_Lec13?t=2625)].
 
 ##### Interpreting Forward PEG Ratios
@@ -448,7 +448,7 @@ A forward PEG ratio of 1.58x indicates fair valuation with moderate growth prici
 | Metric / Formula | Definition or Expression | Speaker's Benchmark / Threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | **Forward P/E Ratio** | Current Market Cap ÷ Projected Forward PAT | ₹5,200 Cr ÷ ₹249 Cr = 20.88x FY28 P/E | Evaluates future earnings multiple at today's price | [[00:41:21](/transcripts/chk/CHK_Lec13?t=2481)] |
-| **Earnings CAGR (%)** | \\([(\text{Ending PAT} \div \text{Starting PAT})^{1 \div \text{Years}} - 1] \times 100\\) | \\([(249 \div 176)^{1/2} - 1] \times 100 = 20.74\%\\) CAGR | Quantifies compound annual bottom-line growth velocity | [[00:43:01](/transcripts/chk/CHK_Lec13?t=2581)] |
+| **Earnings CAGR (%)** | $[$ (\text{Ending PAT} \div \text{Starting PAT}) | $[$ (249 \div 176) CAGR | Quantifies compound annual bottom-line growth velocity | [[00:43:01](/transcripts/chk/CHK_Lec13?t=2581)] |
 | **2-Year Forward PEG Ratio** | Trailing P/E Multiple ÷ Forward PAT CAGR (%) | 33 ÷ 20.8% growth = 1.58x PEG ratio | Benchmark: PEG < 1.5x provides strong margin of safety | [[00:43:45–00:44:31](/transcripts/chk/CHK_Lec13?t=2625)] |
 
 #### e) Visual aid
@@ -670,7 +670,7 @@ Uploading CreditAccess Grameen's Q3 FY26 financial results PDF and investor pres
 #### d) Formulas, metrics & thresholds
 | Metric / Formula | Definition or Expression | Speaker's Benchmark / Threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Return on Assets (ROA) Tree** | \\(\text{NIM} + \text{Other Income} - \text{Opex \%} - \text{Credit Costs \%}\\) | Core profitability equation for banks and NBFCs | Deconstructs net yield generated per unit of total assets | [[00:59:46–01:01:32](/transcripts/chk/CHK_Lec13?t=3586)] |
+| **Return on Assets (ROA) Tree** | $\text{NIM} + \text{Other Income} - \text{Opex %} - \text{Credit Costs %}$ | Core profitability equation for banks and NBFCs | Deconstructs net yield generated per unit of total assets | [[00:59:46–01:01:32](/transcripts/chk/CHK_Lec13?t=3586)] |
 | **Book Value Multiple (P/BV)** | Current Market Price ÷ Book Value Per Share | Primary valuation metric for financial lenders | Measures premium/discount paid relative to net asset backing | [[01:01:32](/transcripts/chk/CHK_Lec13?t=3692)] |
 
 #### e) Visual aid
@@ -723,7 +723,7 @@ Policy changes highlighted in annual government budgets can create strong operat
 #### d) Formulas, metrics & thresholds
 | Metric / Formula | Definition or Expression | Speaker's Benchmark / Threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| **Reverse DCF Implied Growth Rate** | Growth rate parameter where \\(\text{DCF Value} = \text{Current Market Price}\\) | Target hurdle rate = 12.0% required annual return | Quantifies growth expectation currently priced in by market | [[01:04:45](/transcripts/chk/CHK_Lec13?t=3885)] |
+| **Reverse DCF Implied Growth Rate** | Growth rate parameter where $\text{DCF Value} = \text{Current Market Price}$ | Target hurdle rate = 12.0% required annual return | Quantifies growth expectation currently priced in by market | [[01:04:45](/transcripts/chk/CHK_Lec13?t=3885)] |
 | **Digital Payment Incentive Multiplier** | Post-Budget Incentive ÷ Pre-Budget Incentive | 2.5x increase in government subsidy incentives | Quantifies policy tailwind for payment aggregators | [[01:10:48](/transcripts/chk/CHK_Lec13?t=4248)] |
 
 #### e) Visual aid

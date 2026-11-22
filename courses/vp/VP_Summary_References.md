@@ -111,7 +111,7 @@ Stock selection fails to generate durable portfolio returns without systematic e
 - **5-Year P&L Financial Modeling:** Projects sales via guidance, applies straight-line depreciation (20-yr plant, 30-yr building), and caps interest expense by debt-to-equity limits [00:07:47–00:36:06]. → Report Stage 3
 - **Technical Timing Matrix:** Uses ADX > 20–25 and positive Parabolic SAR dots for entry; trailing Volatility Stop (VStop) automates exits during institutional dumping [00:40:30–00:49:25]. → Report Stages 4–5
 - **SOTP Conglomerate Valuation:** Values multi-segment divisions independently using peer group multiples before applying holding company discounts [01:15:51–01:17:06]. → Report Stage 7
-- **Two-Stage DCF Model:** Discounts 10-year explicit free cash flows and terminal value [\\(TV_{10} = FCF_{11} \div (r - g)\\)] at a 7–10% opportunity cost discount rate [01:44:20–02:06:14]. → Report Stage 8
+- **Two-Stage DCF Model:** Discounts 10-year explicit free cash flows and terminal value [$TV_{10} = FCF_{11} \div$ (r - g)] at a 7–10% opportunity cost discount rate [01:44:20–02:06:14]. → Report Stage 8
 - **Reverse DCF (Expectations Investing):** Inverts DCF to derive the 10-year implied FCF CAGR required for target returns at 40–50x exit P/E caps [02:15:09–02:22:48]. → Report Stage 9
 - **Portfolio Sizing Rules (2-4-6-8 & 3-6-9-12):** Caps cost basis across emerging (2–3%), core (4–9%), and maximum position tiers (8% Family / 12% Personal PF) across 17–19 holdings [02:24:29–02:28:53]. → Report Stage 10
 
@@ -122,7 +122,7 @@ Stock selection fails to generate durable portfolio returns without systematic e
 | ADX Activation | ADX > 20–25 confirms active trend entry | Stage 4 |
 | Standard VStop | 2.5x–3.0x multiplier (length 10) for compounders | Stage 5 |
 | Tightened VStop | 2.0x multiplier when Reverse DCF implied FCF CAGR > 20–25% | Stage 5, 9 |
-| Cement EV/ton | Pan-India: \$190–205/ton EV; Regional: \$45–76/ton EV | Stage 6 |
+| Cement EV/ton | Pan-India: $190–205/ton EV; Regional:$45–76/ton EV | Stage 6 |
 | Terminal Growth (g) | Capped at 2%–4% matching long-term GDP growth | Stage 8 |
 | Equity Discount Rate (r) | 10% standard opportunity cost (7% bond yield baseline) | Stage 8 |
 | Margin of Safety | ≥ 30%–50% discount between market price and intrinsic value | Stage 8 |
@@ -131,7 +131,7 @@ Stock selection fails to generate durable portfolio returns without systematic e
 4. Key examples
 - **Laurus Labs [00:01:17]:** Lack of exit discipline trapped investors at peak valuations; monthly VStop triggered automated exit at ₹520–550 [00:50:44]. → Report Stage 1, 5
 - **Neogen Chemicals [00:07:24]:** ₹450 crore capex depreciated at ₹22.5 crore/year (450 ÷ 20) derived a 15.89x 4-year forward P/E on ₹198 crore PAT [00:20:17–00:36:06]. → Report Stage 3
-- **Dalmia Bharat [00:59:13]:** Regional-to-national expansion traded at \$121/ton EV vs \$190–205/ton pan-India peers, offering re-rating upside [00:59:59]. → Report Stage 6
+- **Dalmia Bharat [00:59:13]:** Regional-to-national expansion traded at $121/ton EV vs$190–205/ton pan-India peers, offering re-rating upside [00:59:59]. → Report Stage 6
 - **ITC Limited [01:12:18]:** SOTP model showed non-cigarette FMCG EBIT growth (₹144 crore to ₹352 crore) and dividend shifts drive re-rating [01:14:36–01:15:51]. → Report Stage 7
 - **Asian Paints [01:55:18]:** Two-stage DCF proved overvaluation at ₹2,194–2,723 intrinsic value; rate hikes compressed P/E from 119x to 70.4x [01:52:51] [02:08:16]. → Report Stage 7, 8
 - **Pidilite Industries [02:17:48]:** Reverse DCF revealed an unrealistic 23.5% 10-year FCF CAGR required at 50x exit P/E, mandating a 2.0x VStop setting [02:18:57–02:19:28]. → Report Stage 9
@@ -212,7 +212,7 @@ Applying universal Price-to-Earnings (P/E) multiples across diverse market secto
 - **Sector-Tailored Multiples Selection:** Matching ratios (P/E, EV/EBITDA, P/S, P/B, EV/Tonne) to an industry's operational model rather than relying on blanket P/E. → Report Stage 2 & Stage 5.
 - **PEG Multi-Bagger Formula:** Combining P/E with profit CAGR to evaluate valuation growth justification and catch accelerating earnings inflections. → Report Stage 3.
 - **Enterprise Value Operating Earnings (EV/EBITDA):** Stripping out net debt (Debt - Cash) and non-cash depreciation noise to evaluate true cash-generating power. → Report Stage 4 & Stage 5.
-- **Dual Expansion (\\(X_1 \to Y_2\\)):** Underwriting margin expansion from trough (\\(X_1\\)) to peak (\\(Y_2\\)) combined with multiple re-rating as operating leverage kicks in. → Report Stage 1 & Stage 8.
+- **Dual Expansion (X₁ → Y₂):** Underwriting margin expansion from trough (X₁) to peak (Y₂) combined with multiple re-rating as operating leverage kicks in. → Report Stage 1 & Stage 8.
 - **SaaS Growth & Product Graduation:** Tracking baby/teenager product graduation into mature 30% EBITDA margin tiers alongside Rule of 40 benchmarks. → Report Stage 4 & Stage 6.
 - **Cement EV/Tonne & Replacement Cost:** Benchmarking enterprise value per installed capacity against USD 100–110/tonne replacement cost and oligopolistic pricing discipline. → Report Stage 10 & Stage 11.
 - **Depository Lead Indicator:** Monitoring CDSL transaction charges as the primary leading metric for capital market cycle tops and bottoms. → Report Stage 10.
@@ -313,7 +313,7 @@ Detailed report: SOIC_Lec08_Report.docx
 Financial modeling makes an investor roughly right rather than precisely wrong, quantifying risk-reward profiles rather than predicting exact decimals [00:03:29]. Overpaying for high-growth sunrise companies at extreme entry P/E multiples creates catastrophic drawdown risk when multiples de-rate to sector norms [00:00:50–00:04:13]. Translating concall guidance, debt paydown, and capacity expansion into line-item P&L forecasts reveals mispricings before market consensus [00:07:37, 00:46:26].
 
 ### 2. Frameworks & methods
-* **Forward P/E & Exit Multiple Drawdown Framework**: Projects EPS compounding over 2–3 years (\\(\text{EPS}_0 \times (1+g)^n\\)) to evaluate valuation compression against sector exit multiples [00:00:40–00:04:13] → Report Stage 1.
+* **Forward P/E & Exit Multiple Drawdown Framework**: Projects EPS compounding over 2–3 years ($\text{EPS}_0 \times$ (1+g)) to evaluate valuation compression against sector exit multiples [00:00:40–00:04:13] → Report Stage 1.
 * **Unit Economics P&L Modeling**: Translates volume, realization, and unit costs into top-line sales, PBT, tax, and PAT to derive market capitalization [00:13:16–00:16:40] → Report Stage 4.
 * **Cyclical Industry Exit Scenario Matrix**: Maps 3-year forward PAT across Bull (40x), Base (30x), and Bear (20x) exit P/E multiples to evaluate IRR risk-reward profiles [00:28:59–00:31:25] → Report Stage 7.
 * **De-leveraging & Margin Expansion Model**: Combines revenue doubling, EBITDA margin expansion (+700 bps), and zero debt interest savings to derive net PAT expansion [00:38:14–00:43:09] → Report Stage 9.
@@ -322,7 +322,7 @@ Financial modeling makes an investor roughly right rather than precisely wrong, 
 ### 3. Rules, thresholds & formulas
 | Rule/Formula | Value/Condition | Stage |
 | :--- | :--- | :--- |
-| **Forward P/E** | Price ÷ \\(\text{EPS}_{t+n}\\) | Stage 1 [00:02:23] |
+| **Forward P/E** | Price ÷ $\text{EPS}_{t+n}$ | Stage 1 [00:02:23] |
 | **PEG Ratio Entry Threshold** | < 1.5x–1.6x (P/E ÷ PAT growth %) | Stage 10 [00:54:18] |
 | **"Malai" Trailing P/E Sweet Spot** | 20x–30x TTM P/E with 15%–25% PAT growth | Stage 12 [01:07:36] |
 | **Depreciation Ratio** | 0.75% of sales (KEI model benchmark) | Stage 10 [00:50:43] |
@@ -360,8 +360,8 @@ Single valuation metrics fail across multi-segment or cyclical businesses; inves
 
 ### 2. Frameworks & methods
 * **Sum-of-the-Parts (SOTP) Valuation:** Disaggregates conglomerates into divisions to value each on pure-play peer multiples. Applied by taking division forward EBITDA, multiplying by peer EV/EBITDA, adding cash, and deducting net debt → Report Stage 2 [00:04:12, 00:09:59].
-* **Enterprise Value (EV) & EV/EBITDA Payback:** Measures total operational acquisition cost (\\(\text{Market Cap} + \text{Debt} - \text{Cash}\\)) relative to operating cash profit. Applied in asset-heavy, high-depreciation sectors to calculate payback years → Report Stage 4 [00:17:10, 00:20:24].
-* **DuPont Banking Compounding Engine:** Governs bank equity compounding (\\(\text{ROE} = \text{ROA} \times \text{Leverage}\\)). Applied by tracking Net Interest Margins and Gross NPA stabilization to ensure non-dilutive book value growth → Report Stage 7 [00:40:56, 00:42:30].
+* **Enterprise Value (EV) & EV/EBITDA Payback:** Measures total operational acquisition cost ($\text{Market Cap} + \text{Debt} - \text{Cash}$) relative to operating cash profit. Applied in asset-heavy, high-depreciation sectors to calculate payback years → Report Stage 4 [00:17:10, 00:20:24].
+* **DuPont Banking Compounding Engine:** Governs bank equity compounding ($\text{ROE} = \text{ROA} \times \text{Leverage}$). Applied by tracking Net Interest Margins and Gross NPA stabilization to ensure non-dilutive book value growth → Report Stage 7 [00:40:56, 00:42:30].
 * **Operating Deleverage & Floor Modeling:** Evaluates profit collapse during top-line drops. Applied by deducting 10% for volume degrowth on TTM PAT and multiplying by historical cycle-bottom P/E → Report Stage 8 [00:58:32, 01:02:31].
 * **Forward P&L & PEG Modeling:** Combines management guidance, 15-year capex depreciation, and debt interest into a 3-year P&L forecast. Applied by calculating forward P/E and PEG (P/E ÷ PAT CAGR %) → Report Stage 9 [01:25:28, 01:42:11, 01:46:57].
 
@@ -385,7 +385,7 @@ Single valuation metrics fail across multi-segment or cyclical businesses; inves
 * **Avenue Supermarts & Asian Paints:** Revenue slowdown (6%–8% or 7 flat quarters) compresses P/E multiples from 313x to 123x and 119x to 45x → Stage 6 [00:34:01, 00:36:46].
 * **Vadilal Industries:** Resolving promoter litigation improves perception, re-rating P/E from 16x to 28x [TVGP: Promoter] → Stage 6 [00:37:33].
 * **AU Small Finance Bank:** Structural ROE (14%–20%) drives ~28x non-dilutive book value compounding over 10 years → Stage 7 [00:47:16].
-* **CDSL:** Fixed costs cause \\(3\times\\) PAT degrowth on a 7% top-line drop; shallow 30x cycle-bottom P/E sets intrinsic floor → Stage 8 [01:00:54, 01:02:31].
+* **CDSL:** Fixed costs cause 3x PAT degrowth on a 7% top-line drop; shallow 30x cycle-bottom P/E sets intrinsic floor → Stage 8 [01:00:54, 01:02:31].
 * **RR Kabel:** Modeling 15% sales growth, 10.5% EBITDA margin, ₹1,450 crore capex, and ₹250 crore debt yields 15x FY28 forward P/E and 1.0x PEG → Stage 9 [01:25:28, 01:42:46].
 
 ### 5. Cautions & red flags

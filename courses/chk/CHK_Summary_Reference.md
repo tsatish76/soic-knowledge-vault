@@ -153,33 +153,33 @@ Detailed report: SOIC_Lec04_Report.docx
 Long-term equity outperformance is overwhelmingly driven by Profit After Tax (PAT) growth compounding rather than static moats, though supernormal growth naturally decelerates due to base effects [0:18:18, 0:24:07]. Active investors generate maximum alpha by capturing valuation inflections at the "Positive Surprise" stage of the Earnings Expectation Life Cycle while enforcing strict thesis-break sell discipline before margin compression occurs [0:37:41, 0:57:32].
 
 ### 2. Frameworks & methods
-*   **Relative Strength Market Scans:** Quantitative tool measuring 30-weekly EMA direction, volume momentum, and 1-month score changes across 4 sector quadrants \\(\rightarrow\\) Report Stage 1 & 3.
-*   **Stock Price Deconstruction (\\(P = \text{PE} \times \text{EPS}\\)):** Separates earnings growth (\\(\text{EPS}\\)) from market perception (\\(\text{PE} = \text{Perception} / \text{Earnings}\\)), tracking PE re-rating or derating \\(\rightarrow\\) Report Stage 4.
-*   **Earnings Expectation Life Cycle:** Maps growth across 5 phases: Contrarian Zone \\(\rightarrow\\) Positive Surprise \\(\rightarrow\\) Estimate Revisions \\(\rightarrow\\) Growth Torpedo \\(\rightarrow\\) Neglected Zone \\(\rightarrow\\) Report Stage 11.
-*   **"EXPANDING" Growth Framework:** Checklist categorizing growth triggers: **E**nd industry, **X**port capex, **P**enetration, **A**cquisitions, **N**ew clients, **D**istribution, **I**ndustry, **N**ew products/brands, **G**eography \\(\rightarrow\\) Report Stage 12.
-*   **DCP Behavioral Framework:** Active investing discipline: **D**iscipline (thesis-break exits), **C**onsistency (weekly scans), **P**atience (refusing FOMO) \\(\rightarrow\\) Report Stage 9.
+*   **Relative Strength Market Scans:** Quantitative tool measuring 30-weekly EMA direction, volume momentum, and 1-month score changes across 4 sector quadrants → Report Stage 1 & 3.
+*   **Stock Price Deconstruction ($P = \text{PE} \times \text{EPS}$):** Separates earnings growth ($\text{EPS}$) from market perception (PE = Perception / Earnings), tracking PE re-rating or derating → Report Stage 4.
+*   **Earnings Expectation Life Cycle:** Maps growth across 5 phases: Contrarian Zone → Positive Surprise → Estimate Revisions → Growth Torpedo → Neglected Zone → Report Stage 11.
+*   **"EXPANDING" Growth Framework:** Checklist categorizing growth triggers: **E**nd industry, **X**port capex, **P**enetration, **A**cquisitions, **N**ew clients, **D**istribution, **I**ndustry, **N**ew products/brands, **G**eography → Report Stage 12.
+*   **DCP Behavioral Framework:** Active investing discipline: **D**iscipline (thesis-break exits), **C**onsistency (weekly scans), **P**atience (refusing FOMO) → Report Stage 9.
 
 ### 3. Rules, thresholds & formulas
 
 | Rule/Formula | Value/Condition | Stage |
 | :--- | :--- | :--- |
 | **Deep Study Scan Threshold** | Relative Strength Score > 70 with positive 1-month score change | Stage 3 |
-| **Systemic Cap Growth Limit** | Financial growth converges to \\(\approx 1.5\times\\) GDP/credit growth (~14–15%) | Stage 4 |
-| **PAT vs. Mcap Contribution** | \\(>50\%\\) of long-term market cap CAGR explained directly by PAT CAGR | Stage 5 |
+| **Systemic Cap Growth Limit** | Financial growth converges to $\approx 1.5\times$ GDP/credit growth (~14–15%) | Stage 4 |
+| **PAT vs. Mcap Contribution** | > 50% of long-term market cap CAGR explained directly by PAT CAGR | Stage 5 |
 | **Consecutive Cohort Repeat Rate** | **0% repeaters** among top-performing stocks across 5-year windows | Stage 5 |
 | **Peter Lynch Magellan Turnover** | ~300% annual portfolio turnover during peak return early fund years | Stage 6 |
 | **Parabolic Trendline Exit Signal** | Price extended 70%–80% above 150-day moving average | Stage 13 |
-| **AI GPU Depreciation Useful Life** | 5-year useful life; \$400B 2026 capex needs \$80B net income for 20% ROIC | Stage 9 |
+| **AI GPU Depreciation Useful Life** | 5-year useful life; $400B 2026 capex needs$80B net income for 20% ROIC | Stage 9 |
 | **Cement Industry M&A Velocity** | 72 MTPA capacity acquired in 3 years (FY22–25) vs 82 MTPA in 10 yrs (FY12–22) | Stage 15 |
 
 ### 4. Key examples
-*   **Trent [0:17:45] [Slide 2]:** Sales growth decelerated from 50% to 15–17%, causing PE derating from 230x to 80–90x \\(\rightarrow\\) Stage 4.
-*   **HDFC Bank [0:18:18] [Slide 2]:** Base effect slowed growth from 50–60% in the 1990s to 14–15% post-2020 \\(\rightarrow\\) Stage 4.
-*   **ITC Ltd (2010–2020) [0:23:05] [Slide 3]:** Dominant cigarette moat yielded zero stock returns for a decade due to flat 5–6% earnings growth ("Rolls-Royce without fuel") \\(\rightarrow\\) Stage 5.
-*   **Meta / Facebook [0:31:53] [Slide 6]:** \$77B Reality Labs spend caused 75% stock collapse; 2023 "Year of Efficiency" capex halt drove 6x rebound \\(\rightarrow\\) Stage 7.
-*   **SK Hynix [1:02:07] [Slide 10]:** HBM memory chip deficit enabled 50% price hikes on Nvidia and sold-out 2026 capacity \\(\rightarrow\\) Stage 12.
-*   **Avanti Feeds [1:16:35] [Slide 13]:** Competitor EMS disease enabled an 80–100x rally, but operating profit plateaued at ₹683 crore for 7+ years post-2017 \\(\rightarrow\\) Stage 14.
-*   **Alkyl Amines [1:20:17] [Slide 14]:** Acetonitrile price collapse (<₹100/kg) crushed operating margins from 42% to 10–11%, trapping bottom-fishers \\(\rightarrow\\) Stage 14.
+*   **Trent [0:17:45] [Slide 2]:** Sales growth decelerated from 50% to 15–17%, causing PE derating from 230x to 80–90x → Stage 4.
+*   **HDFC Bank [0:18:18] [Slide 2]:** Base effect slowed growth from 50–60% in the 1990s to 14–15% post-2020 → Stage 4.
+*   **ITC Ltd (2010–2020) [0:23:05] [Slide 3]:** Dominant cigarette moat yielded zero stock returns for a decade due to flat 5–6% earnings growth ("Rolls-Royce without fuel") → Stage 5.
+*   **Meta / Facebook [0:31:53] [Slide 6]:** \$77B Reality Labs spend caused 75% stock collapse; 2023 "Year of Efficiency" capex halt drove 6x rebound → Stage 7.
+*   **SK Hynix [1:02:07] [Slide 10]:** HBM memory chip deficit enabled 50% price hikes on Nvidia and sold-out 2026 capacity → Stage 12.
+*   **Avanti Feeds [1:16:35] [Slide 13]:** Competitor EMS disease enabled an 80–100x rally, but operating profit plateaued at ₹683 crore for 7+ years post-2017 → Stage 14.
+*   **Alkyl Amines [1:20:17] [Slide 14]:** Acetonitrile price collapse (<₹100/kg) crushed operating margins from 42% to 10–11%, trapping bottom-fishers → Stage 14.
 
 ### 5. Cautions & red flags
 *   **Price Anchor Bias:** Refusing to buy stocks up 50–70% with strong earnings or buying 52-week low value traps down 50% with falling margins [0:03:50–0:06:49].
@@ -193,7 +193,7 @@ Active investors must enter growth opportunities at the "Positive Surprise" stag
 ### 7. Links
 *   **Builds on:** Thematic screening, sectoral rotation, and RRG quadrant concepts (Classes 1–3); basic valuation ratios (PE, EPS).
 *   **Leads to:** Management reading and forensic governance analysis (SOIC-Lec08); advanced valuation and DCF modelling (SOIC-Lec09–11).
-*   **Keywords:** Relative strength scan, \\(P = \text{PE} \times \text{EPS}\\), Earnings Expectation Life Cycle, EXPANDING framework, base effect, operating leverage, SK Hynix, Avanti Feeds, Alkyl Amines, DCP framework.
+*   **Keywords:** Relative strength scan, $P = \text{PE} \times \text{EPS}$, Earnings Expectation Life Cycle, EXPANDING framework, base effect, operating leverage, SK Hynix, Avanti Feeds, Alkyl Amines, DCP framework.
 
 ---
 
@@ -310,7 +310,7 @@ Non-linear J-curve stock returns are driven by sharp rate-of-change acceleration
 - **CATALYST Framework**: Classifies growth triggers across Capex/Capacity, Acquisitions, Turnarounds, Approvals/Policy, Large Orders, Year Zero bases, Management Switches, and Themes [0:00:52–0:03:42] → Report Stages 1, 4–7.
 - **Stage Analysis & Relative Strength**: Uses 30-weekly EMA and Nifty 500 performance to time Stage 2 breakouts and euphoric Stage 3 exits [0:11:33–0:13:38] → Report Stage 3.
 - **Scan Match Intersection**: Intersects 23–24 screeners to filter 1,000+ stocks down to recurring operational inflections [0:50:57–0:53:58] → Report Stage 8.
-- **StockBee 4% Scan**: Tracks daily gains \\(\ge 4\%\\) on \\(>100\text{k}\\) volume above 50-day average to catch institutional smart money [0:55:14–0:58:30] → Report Stage 9.
+- **StockBee 4% Scan**: Tracks daily gains ≥ 4% on $>100\text{k}$ volume above 50-day average to catch institutional smart money [0:55:14–0:58:30] → Report Stage 9.
 - **Congrats Index**: Counts analyst congratulations on con calls as a qualitative proxy for unpriced earnings shocks [0:11:09–0:11:40] → Report Stage 10.
 - **2-4-6-8 Position Sizing**: Allocates 2% to moonshots, 4%–6% to medium conviction, and 6%–8% to high conviction to cap portfolio drawdowns [1:24:59–1:25:31] → Report Stage 11.
 
@@ -318,12 +318,12 @@ Non-linear J-curve stock returns are driven by sharp rate-of-change acceleration
 
 | Rule/Formula | Value/Condition | Stage |
 | :--- | :--- | :--- |
-| **StockBee 4% Rule** | Daily gain \\(\ge 4\%\\), Vol \\(>100\text{k}\\) & \\(>50\\)-day avg | Stage 9 |
-| **Early Stage 2 Filter** | 30-wk EMA up + Rev \\(>15\%\\) QOQ + EPS \\(>20\%\\) | Stage 9 |
-| **Active Growth Target** | PAT Growth \\(\ge 2\text{x}\\)–\\(3\text{x}\\) Index Growth (Min 18%+) | Stage 11 |
+| **StockBee 4% Rule** | Daily gain ≥ 4%, Vol $>100\text{k}$ & > 50-day avg | Stage 9 |
+| **Early Stage 2 Filter** | 30-wk EMA up + Rev > 15% QOQ + EPS > 20% | Stage 9 |
+| **Active Growth Target** | PAT Growth ≥ 2x–3x Index Growth (Min 18%+) | Stage 11 |
 | **Time Stop Loss Rule** | Exit position if fundamental thesis fails for 6–8 qtrs | Stage 11 |
 | **Valuation Sweet Spot** | Accumulate growth in tranches at Nifty 17x–18x P/E | Stage 11 |
-| **Capacity Multiplier** | Capacity expansion \\(>1.5\text{x}\\) (60k to 150k units) | Stage 4 |
+| **Capacity Multiplier** | Capacity expansion > 1.5x (60k to 150k units) | Stage 4 |
 | **Disbelief Lull Window** | Target turnarounds after 6–8 qtrs of flat earnings | Stage 5 & 9 |
 | **Doubt Rule** | "When in doubt, sell half" the position | Stage 11 |
 
@@ -341,7 +341,7 @@ Non-linear J-curve stock returns are driven by sharp rate-of-change acceleration
 - **SME Technical Illusion**: Technical indicators fail on illiquid SME stocks where 2–3 traders manipulate price action [1:21:53–1:22:32].
 
 **6. Decisive takeaway**
-Investors must evaluate candidates using multi-factor Scan Match screening to locate earnings growth accelerating at \\(2\text{x}\\)–\\(3\text{x}\\) the index rate, enforcing strict 30-weekly EMA technical entries and 6–8 quarter time-stop exits. Mastering these systematic frameworks ensures independent identification of non-linear compounders while ruthlessly cutting laggards.
+Investors must evaluate candidates using multi-factor Scan Match screening to locate earnings growth accelerating at 2x–3x the index rate, enforcing strict 30-weekly EMA technical entries and 6–8 quarter time-stop exits. Mastering these systematic frameworks ensures independent identification of non-linear compounders while ruthlessly cutting laggards.
 
 **7. Links**
 - **Builds on**: J-Curve foundations (convexity vs concavity, three trains), Red/Yellow/Green management framework, SOIC Level 4 Stage Analysis.
@@ -356,7 +356,7 @@ Detailed report: TVGP_Lec08_Report.docx
 Business quality and structural tailwinds dictate long-term returns far more than managerial talent, as a strong business carries a weak manager while an exceptional manager cannot salvage a flawed business model [00:03:19–00:04:56]. Evaluating corporate promoters requires auditing capital allocation discipline over a 10-year retained earnings horizon rather than relying on promotional media presence or hyper-precise EPS guidance [00:10:07–00:10:37, 00:20:24–00:21:43]. Assigning management decisions to a Traffic Light framework (Red, Yellow, Green) ensures objective, probabilistic risk management [00:23:39–00:25:09, 00:42:07–00:42:36].
 
 ### 2. Frameworks & methods
-* **10-Year Retained Capital Deployment Formula**: Calculates \\(1 - \frac{1}{(1 + r)^{10}}\\), proving a 10% retention rate gives management authority over ~61.4% of total capital over a decade → Report Stage 2 & 7 [00:10:07–00:10:37, 01:07:12–01:07:50].
+* **10-Year Retained Capital Deployment Formula**: Calculates $1 - \frac{1}{$ (1 + r), proving a 10% retention rate gives management authority over ~61.4% of total capital over a decade → Report Stage 2 & 7 [00:10:07–00:10:37, 01:07:12–01:07:50].
 * **Traffic Light Framework**: Classifies actions into Red (value destruction/private side-cars), Yellow (ambiguous non-core spend), and Green (core reinvestment, promoter-excluded buybacks) → Report Stage 4 [00:23:39–00:25:09, 00:30:34–00:32:32].
 * **6 Softer Warning Indicators**: Screens over-promotion via TV frequency, hyper-precise EPS guidance, post-IPO dilution, salesperson tone, say/do ratio, and whistleblower surges → Report Stage 3 & 9 [00:15:33–00:23:20, 01:21:53–01:23:20].
 * **Time Stop-Loss Rule**: Enforces a 6-to-12-month execution check when massive capex fails to generate top-line growth → Report Stage 5 [00:51:46–00:53:23].
@@ -364,7 +364,7 @@ Business quality and structural tailwinds dictate long-term returns far more tha
 ### 3. Rules, thresholds & formulas
 | Rule/Formula | Value/Condition | Stage |
 | :--- | :--- | :--- |
-| **10-Year Capital Deployment** | \\(1 - \frac{1}{(1+r)^{10}}\\); \\(r=10\% \rightarrow 61.4\%\\) capital controlled [01:07:12–01:07:50] | Stage 7 |
+| **10-Year Capital Deployment** | $1 - \frac{1}{$ (1+r); r = 10% \rightarrow 61.4% capital controlled [01:07:12–01:07:50] | Stage 7 |
 | **Sandbagged Guidance Rule** | Guided growth < Delivered growth (e.g. 15% vs 30%) [00:18:46–00:19:02] | Stage 3 |
 | **Whistleblower Alert Threshold** | >80% complaint surge in leveraged banks = Red Light [00:22:28–00:23:20] | Stage 3 & 6 |
 | **Capex-to-Market Cap Debt Trap** | Capex ≥ Market Cap with high debt = Liquidity crisis risk [01:08:16–01:08:44] | Stage 7 |
@@ -455,7 +455,7 @@ Starting valuation multiples determine long-term investment return (IRR) and pro
 
 ### 2. Frameworks & methods
 *   **Growth-to-P/E Parity Framework:** Matches starting P/E multiples (15x–35x) to expected PAT growth % for small/mid-caps to secure a margin of safety [00:04:19–00:05:29]. → Stage 1
-*   **Equity-to-Bond Valuation Transition:** Strips growth premiums when PAT stops expanding, de-rating equity to baseline bond multiples (\\(\text{P/E} = \frac{1}{\text{Yield}}\\)) [00:47:45–00:49:03]. → Stage 8
+*   **Equity-to-Bond Valuation Transition:** Strips growth premiums when PAT stops expanding, de-rating equity to baseline bond multiples ($\text{P/E} = \frac{1}{\text{Yield}}$) [00:47:45–00:49:03]. → Stage 8
 *   **11-Stage Market Emotion Cycle:** Maps investor sentiment from Hope through Euphoria to Panic/Anger/Depression to guide stage-analysis exits [00:41:41–00:45:01]. → Stage 7
 *   **Peak Exit Framework:** Triggers position reduction when Peak P/E, Peak Margins, and Peak Narrative occur simultaneously in a sector [01:06:23–01:07:06]. → Stage 11
 *   **Con Call Capital Allocation Interrogation:** Evaluates M&A losses, guidance deferments, and loss limits to identify value traps [01:09:50–01:11:31]. → Stage 12
@@ -464,9 +464,9 @@ Starting valuation multiples determine long-term investment return (IRR) and pro
 
 | Rule / Formula | Value / Condition | Stage |
 | :--- | :--- | :--- |
-| **Small/Mid-Cap P/E Sweet Spot** | 15x–35x P/E where PAT Growth % \\(\ge\\) P/E | Stage 1 |
+| **Small/Mid-Cap P/E Sweet Spot** | 15x–35x P/E where PAT Growth % ≥ P/E | Stage 1 |
 | **High P/E Trap Threshold** | >30x–35x P/E with flat/decelerating PAT | Stage 10 |
-| **PEG Upper Bound** | PEG \\(\le\\) 1.5x (Avoid PEG > 1.5x) | Stage 8 |
+| **PEG Upper Bound** | PEG ≤ 1.5x (Avoid PEG > 1.5x) | Stage 8 |
 | **Micro-Cap Avoidance Cap** | Market Cap < ₹500 crore | Stage 6 |
 | **Implied Bond P/E** | 14x–14.5x P/E (at 7% interest rate) | Stage 8 |
 | **Portfolio PAT Benchmark** | 30%–35%+ aggregate semi-annual PAT growth | Stage 8 |
@@ -528,7 +528,7 @@ Cheap starting valuations without earnings growth create stagnant value traps, w
 - **KEI Industries**: Electrification narrative re-rated P/E from 26x to 74x (stock 3x–4x), then de-rated to 34x on competition news [00:07:58–00:10:23] → Stage 3 [00:08:37].
 - **TRIL**: PAT rose from ₹42 crore to ₹275 crore, but starting 148x P/E de-rated to 25x on C-suite exits [00:12:00–00:12:56, 00:36:51] → Stage 4 [00:12:00].
 - **MCX**: Gold mini futures launched turnover up 224%, driving 115% revenue and 151% PAT growth via operating leverage [00:25:19–00:26:30] → Stage 7 [00:25:35].
-- **Monster Beverage**: Quarterly earnings accelerated to 170%, driving EPS 25x and P/E 5x for 125x return (\$0.40 to \$50) [00:31:00, 00:33:49–00:35:15] → Stage 8 [00:34:31].
+- **Monster Beverage**: Quarterly earnings accelerated to 170%, driving EPS 25x and P/E 5x for 125x return ($0.40 to$50) [00:31:00, 00:33:49–00:35:15] → Stage 8 [00:34:31].
 - **Paytm**: UPI subsidy removal (₹128 crore) triggered ₹10 monthly soundbox monetization toward 30%+ EBITDA margins [00:46:41–00:48:07] → Stage 10 [00:47:14].
 
 5. Cautions & red flags

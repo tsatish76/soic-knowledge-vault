@@ -646,7 +646,11 @@ Page Industries (Jockey) provides a recent example of a valuation time correctio
 
 ##### Mechanics of P/E Re-Rating and De-Rating
 The speaker outlines the mathematical equation governing market capitalization [[0:26:37](/transcripts/chk/CHK_Lec09?t=1597)]:
-\\[\text{Market Capitalization} = \text{P/E Multiple} \times \text{Net Earnings (EPS)}\\]
+
+$$
+Market Capitalization = P/E Multiple × Net Earnings (EPS)
+$$
+
 
 * **Re-Rating Scenario**: If a company earns ₹2 EPS at a 10x P/E, its market cap is ₹20 [[0:26:37](/transcripts/chk/CHK_Lec09?t=1597)]. If EPS increases to ₹3 and the P/E re-rates to 20x, market cap expands 3x to ₹60 (`20 × 3 = 60`) [[0:26:37](/transcripts/chk/CHK_Lec09?t=1597)]. Re-rating is driven by an accelerating rate of change in earnings growth, improving EPS trajectories, or expanding business longevity [[0:26:37–0:27:31](/transcripts/chk/CHK_Lec09?t=1597)].
 * **De-Rating Scenario**: De-rating occurs when the rate of change in earnings growth turns negative [[0:27:31](/transcripts/chk/CHK_Lec09?t=1651)].
@@ -734,7 +738,11 @@ PI Industries highlights the risk of product concentration [[0:30:59–0:33:49](
 
 ##### The True Valuation Equation
 The speaker summarizes the relationship between multiples and growth [[0:32:52](/transcripts/chk/CHK_Lec09?t=1972)]:
-\\[\text{Valuation} = \text{Multiples} + \text{Growth Rate}\\]
+
+$$
+Valuation = Multiples + Growth Rate
+$$
+
 
 Valuation multiples cannot be viewed in isolation; they must be evaluated in conjunction with the company's EPS growth rate [[0:32:52](/transcripts/chk/CHK_Lec09?t=1972)].
 
@@ -1009,7 +1017,7 @@ Responding to a question on how to allocate time across Theme, Valuation, Growth
 Valuation requires only a brief sanity check to confirm that risk-reward is favorable; the primary driver of investment returns is identifying strong Themes and accelerating Growth triggers [[0:46:59–0:47:36](/transcripts/chk/CHK_Lec09?t=2819)].
 
 ##### Semiconductor Capex Cycles & Commodity Risk
-Answering a question (Veeresh) on Micron Technology's \$100 billion Capex plan and memory chip supply, the speaker evaluates technology capex cycles [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)]:
+Answering a question (Veeresh) on Micron Technology's $100 billion Capex plan and memory chip supply, the speaker evaluates technology capex cycles [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)]:
 * **Simultaneous Industry Capex**: Micron, Samsung, and SK Hynix [? SKINnings] are all executing large capital expenditure programs simultaneously [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)].
 * **Oversupply Lag**: While demand may absorb capacity over the next 1–2 years, simultaneous Capex by all three major global producers risks creating memory chip oversupply over a 3-year horizon [[0:48:04](/transcripts/chk/CHK_Lec09?t=2884)]. Memory chips are cyclical; investors must track spot memory prices published by brokerages and industry updates on Twitter [[0:48:04](/transcripts/chk/CHK_Lec09?t=2884)].
 
@@ -1033,7 +1041,7 @@ Small-cap stocks can fall 15%–20% without bad company-specific news simply bec
 
 * **Example**: Global Semiconductor Memory Capex (Micron, Samsung, SK Hynix [? SKINnings]) [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)] [Slide N: image not legible — content taken from transcript]
   * **Context**: Evaluating Capex cycles and oversupply risk in technology manufacturing.
-  * **Data/details**: Micron \$100B Capex program combined with simultaneous Capex from Samsung and SK Hynix [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)].
+  * **Data/details**: Micron$100B Capex program combined with simultaneous Capex from Samsung and SK Hynix [[0:47:36–0:48:04](/transcripts/chk/CHK_Lec09?t=2856)].
   * **Walkthrough**: All three memory chip producers initiated massive Capex spending [[0:48:04](/transcripts/chk/CHK_Lec09?t=2884)]. While short-term demand remains solid, simultaneous expansion creates oversupply risk over 3 years, making spot pricing the critical variable to track [[0:48:04](/transcripts/chk/CHK_Lec09?t=2884)].
   * **Takeaway**: Simultaneous Capex expansions by industry oligopolies lead to downcycles; spot price tracking is essential [[0:48:04](/transcripts/chk/CHK_Lec09?t=2884)].
 

@@ -192,7 +192,7 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| VVGP Framework | \\(VVGP = Vyakti + Vastu + Ghatna + Parasthiti\\) | 100% objective classification prior to trade execution | Deconstructs market emotional panic into component facts to force objective decision-making | `[[0:03:25–0:04:10](/transcripts/vp/VP_Lec03?t=205)]` |
+| VVGP Framework | VVGP = Vyakti + Vastu + Ghatna + Parasthiti | 100% objective classification prior to trade execution | Deconstructs market emotional panic into component facts to force objective decision-making | `[[0:03:25–0:04:10](/transcripts/vp/VP_Lec03?t=205)]` |
 
 e) Visual aid
 ```
@@ -266,17 +266,17 @@ c) Examples & case studies
 * **Example:** Avenue Supermarts (DMart - Float Cornering Mechanics) `[[0:20:45–0:22:35](/transcripts/vp/VP_Lec03?t=1245)]` [Slide N: image not legible — content taken from transcript]
   * **Context:** Demonstrating how restricted float inflates P/E multiples to 300x.
   * **Data/details:** Peak P/E = 300x (compressed down to 95x later). Shareholding distribution: Promoter = 75.0%, FIIs = 8.63%–10.0%, DIIs = 6.71%, Company CEO = 2.0%.
-  * **Walkthrough:** Sum locked holding: \\(75\% + 10\% + 6.71\% + 2\% = 93.71\%\\) locked float. True public/retail floating supply = \\(100\% - 93.71\% = 6.29\%\\). With institutional demand far exceeding the tiny 6.29% public float, market price gets bid up to insane multiples (300x P/E).
+  * **Walkthrough:** Sum locked holding: $75% + 10% + 6.71% + 2% = 93.71%$ locked float. True public/retail floating supply = $100% - 93.71% = 6.29%$. With institutional demand far exceeding the tiny 6.29% public float, market price gets bid up to insane multiples (300x P/E).
   * **Takeaway:** Extreme P/E in low-float stocks is driven by supply mechanics, not fundamentals; when floating stock expands or growth slows, multiples compress violently.
 
 d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Core Normalized TTM PAT | \\(\text{Reported TTM PAT} - \text{Non-Recurring/One-Off Income}\\) | Strip 100% of non-operational income | Reveals true operational earnings power | `[[0:14:35–0:17:49](/transcripts/vp/VP_Lec03?t=875)]` |
-| Core P/E Ratio | \\(\frac{\text{Current Market Capitalization}}{\text{Core Normalized TTM PAT}}\\) | Compare against industry peer averages | Eliminates false "cheap P/E" optical illusions | `[[0:15:48–0:17:49](/transcripts/vp/VP_Lec03?t=948)]` |
-| Public Float % | \\(100\% - (\text{Promoter } \% + \text{FII } \% + \text{DII } \% + \text{Insider Key Exec } \%)\\) | Float \\(< 10\%\\) represents severe supply restriction | Float \\(< 10\%\\) artificially inflates P/E ratios to \\(100\text{x}–300\text{x}\\) | `[[0:21:25–0:22:35](/transcripts/vp/VP_Lec03?t=1285)]` |
-| Buffett Initial Yield Rule | \\(\text{Initial Expected Return / Earnings Yield} \ge 15\%\\) | Minimum 15% return expectation | Mandatory entrance threshold for downside protection | `[[0:11:11](/transcripts/vp/VP_Lec03?t=671)]` |
+| Core Normalized TTM PAT | $\text{Reported TTM PAT} - \text{Non-Recurring/One-Off Income}$ | Strip 100% of non-operational income | Reveals true operational earnings power | `[[0:14:35–0:17:49](/transcripts/vp/VP_Lec03?t=875)]` |
+| Core P/E Ratio | $\frac{\text{Current Market Capitalization}}{\text{Core Normalized TTM PAT}}$ | Compare against industry peer averages | Eliminates false "cheap P/E" optical illusions | `[[0:15:48–0:17:49](/transcripts/vp/VP_Lec03?t=948)]` |
+| Public Float % | $100% -$ (\text{Promoter } \% + \text{FII } \% + \text{DII } \% + \text{Insider Key Exec } \%) | Float < 10% represents severe supply restriction | Float < 10% artificially inflates P/E ratios to 100x–300x | `[[0:21:25–0:22:35](/transcripts/vp/VP_Lec03?t=1285)]` |
+| Buffett Initial Yield Rule | $\text{Initial Expected Return / Earnings Yield} \ge 15%$ | Minimum 15% return expectation | Mandatory entrance threshold for downside protection | `[[0:11:11](/transcripts/vp/VP_Lec03?t=671)]` |
 
 e) Visual aid
 ```
@@ -360,11 +360,11 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Volatility Stop Upper Boundary | \\(\text{Moving Average} + (\text{Multiplier} \times \text{10-Month ATR})\\) | Red dots above candle = **SELL SIGNAL** | Indicates downside volatility spike / institutional distribution | `[[0:24:29–0:27:36](/transcripts/vp/VP_Lec03?t=1469)]` |
-| Volatility Stop Lower Boundary | \\(\text{Moving Average} - (\text{Multiplier} \times \text{10-Month ATR})\\) | Green dots below candle = **HOLD / BUY** | Indicates positive volatility / accumulation & markup phase | `[[0:24:29–0:27:04](/transcripts/vp/VP_Lec03?t=1469)]` |
-| Cyclical / Normal Multiplier | \\(2.0 \times \text{ATR}\\) on 10-Month Chart | 2.0x ATR | Default setting for cyclical or moderate valuation stocks | `[[0:24:29](/transcripts/vp/VP_Lec03?t=1469)]` |
-| High-Expectation Multiplier | \\(2.5 \times \text{ATR}\\) on 10-Month Chart | 2.5x ATR | Applied when Reverse DCF signals rich valuations | `[[0:24:29](/transcripts/vp/VP_Lec03?t=1469), [0:37:06](/transcripts/vp/VP_Lec03?t=2226)]` |
-| Long-Term Compounder Multiplier | \\(3.0\text{x}–3.5\text{x} \times \text{ATR}\\) on 10-Month Chart | 3.0x–3.5x ATR | Reserved for 5–15 year horizons with large capital bases | `[[0:35:56–0:36:29](/transcripts/vp/VP_Lec03?t=2156)]` |
+| Volatility Stop Upper Boundary | $\text{Moving Average} +$ (\text{Multiplier} \times \text{10-Month ATR}) | Red dots above candle = **SELL SIGNAL** | Indicates downside volatility spike / institutional distribution | `[[0:24:29–0:27:36](/transcripts/vp/VP_Lec03?t=1469)]` |
+| Volatility Stop Lower Boundary | $\text{Moving Average} -$ (\text{Multiplier} \times \text{10-Month ATR}) | Green dots below candle = **HOLD / BUY** | Indicates positive volatility / accumulation & markup phase | `[[0:24:29–0:27:04](/transcripts/vp/VP_Lec03?t=1469)]` |
+| Cyclical / Normal Multiplier | $2.0 \times \text{ATR}$ on 10-Month Chart | 2.0x ATR | Default setting for cyclical or moderate valuation stocks | `[[0:24:29](/transcripts/vp/VP_Lec03?t=1469)]` |
+| High-Expectation Multiplier | $2.5 \times \text{ATR}$ on 10-Month Chart | 2.5x ATR | Applied when Reverse DCF signals rich valuations | `[[0:24:29](/transcripts/vp/VP_Lec03?t=1469), [0:37:06](/transcripts/vp/VP_Lec03?t=2226)]` |
+| Long-Term Compounder Multiplier | $3.0\text{x}–3.5\text{x} \times \text{ATR}$ on 10-Month Chart | 3.0x–3.5x ATR | Reserved for 5–15 year horizons with large capital bases | `[[0:35:56–0:36:29](/transcripts/vp/VP_Lec03?t=2156)]` |
 
 e) Visual aid
 ```
@@ -433,7 +433,7 @@ c) Examples & case studies
   * **Data/details:** Reserves = ₹8,263 Cr. Share Capital = ₹76 Cr. Total Net Worth = ₹8,339 Cr. Implied liquidation value per share = ₹80–₹89.
   * **Walkthrough:** 
     1. Locate Share Capital (₹76 Cr) and Reserves (₹8,263 Cr) on the balance sheet.
-    2. Sum the two line items: \\(₹76\text{ Cr} + ₹8,263\text{ Cr} = ₹8,339\text{ Cr}\\).
+    2. Sum the two line items: $\text{₹}76\text{ Cr} + \text{₹}8,263\text{ Cr} = \text{₹}8,339\text{ Cr}$.
     3. Divide by total shares outstanding to compute book value per share (₹80–₹89/share).
   * **Takeaway:** Shareholders' Equity is calculated by adding share capital to accumulated reserves.
 
@@ -444,10 +444,10 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Book Value (Net Worth) | \\(\text{Total Assets} - \text{Total Liabilities}\\) | Equals Share Capital + Reserves | Represents residual equity belonging to shareholders | `[[0:43:45–0:44:19](/transcripts/vp/VP_Lec03?t=2625)]` |
-| Banking Financial Leverage | \\(\frac{\text{Total Assets}}{\text{Shareholders' Equity (Net Worth)}}\\) | Benchmark = ~10x | ₹1 of equity finances ₹10 of total leveraged assets | `[[0:49:41](/transcripts/vp/VP_Lec03?t=2981)]` |
-| Capital Adequacy Ratio (CRAR) | \\(\frac{\text{Tier 1 + Tier 2 Capital}}{\text{Risk-Weighted Assets}}\\) | Regulatory baseline = 12%–13% | Mandatory capital cushion required to absorb bad loan hits | `[[0:50:53](/transcripts/vp/VP_Lec03?t=3053)]` |
-| Banking Valuation Triad | \\(\text{Valuation} = f(\text{P/B}, \text{ROA/ROE}, \text{NPAs})\\) | Higher ROA/ROE + Lower NPAs = Higher P/B Multiple | Superior asset returns drive premium price-to-book multiples | `[[0:51:27](/transcripts/vp/VP_Lec03?t=3087)]` |
+| Book Value (Net Worth) | $\text{Total Assets} - \text{Total Liabilities}$ | Equals Share Capital + Reserves | Represents residual equity belonging to shareholders | `[[0:43:45–0:44:19](/transcripts/vp/VP_Lec03?t=2625)]` |
+| Banking Financial Leverage | $\frac{\text{Total Assets}}{\text{Shareholders' Equity$ (Net Worth) | Benchmark = ~10x | ₹1 of equity finances ₹10 of total leveraged assets | `[[0:49:41](/transcripts/vp/VP_Lec03?t=2981)]` |
+| Capital Adequacy Ratio (CRAR) | $\frac{\text{Tier 1 + Tier 2 Capital}}{\text{Risk-Weighted Assets}}$ | Regulatory baseline = 12%–13% | Mandatory capital cushion required to absorb bad loan hits | `[[0:50:53](/transcripts/vp/VP_Lec03?t=3053)]` |
+| Banking Valuation Triad | Valuation = f (P/B, ROA/ROE, NPAs) | Higher ROA/ROE + Lower NPAs = Higher P/B Multiple | Superior asset returns drive premium price-to-book multiples | `[[0:51:27](/transcripts/vp/VP_Lec03?t=3087)]` |
 
 e) Visual aid
 ```
@@ -502,14 +502,14 @@ Because commercial banks retain almost all earnings rather than paying large cas
 For South Indian Bank, modeling projected FY24 PAT at ₹1,256 Cr against a total market cap of ₹3,700 Cr reveals a forward P/E of **~3x** `[[1:08:31–1:09:44](/transcripts/vp/VP_Lec03?t=4111)]`. Adding ₹1,256 Cr PAT to net worth increases forward equity to ₹7,855 Cr, resulting in a forward P/B of **0.47x** `[[1:11:30](/transcripts/vp/VP_Lec03?t=4290)]`. 
 
 Evaluating exit multiple scenarios over a 2-year holding period `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`:
-* Exit at 0.5x P/B \\(\rightarrow\\) **11% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
-* Exit at 0.8x P/B \\(\rightarrow\\) **40% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
-* Exit at 1.0x P/B \\(\rightarrow\\) **57% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
+* Exit at 0.5x P/B → **11% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
+* Exit at 0.8x P/B → **40% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
+* Exit at 1.0x P/B → **57% CAGR** `[[1:13:13](/transcripts/vp/VP_Lec03?t=4393)]`.
 
 c) Examples & case studies
 * **Example:** Valuation Spectrum of Indian Private Banks & SFBs `[[0:52:00–0:55:50](/transcripts/vp/VP_Lec03?t=3120)]` [Slide N: image not legible — content taken from transcript]
   * **Context:** Comparative valuation analysis mapping P/B against ROA and ROE.
-  * **Data/details:** Kotak Mahindra (3.4x P/B, 2.3% ROA, 14% ROE); HDFC Bank (3.3x P/B, 1.9% ROA, 17% ROE); ICICI Bank (2.8x P/B, 2.0% ROA, 16.7% ROE); Axis Bank (1.9x P/B, 2.0% ROA, 19% incremental ROE); Equitas SFB (1.3x P/B, 1.5% \\(\rightarrow\\) 1.8% ROA); AU SFB (4.1x P/B).
+  * **Data/details:** Kotak Mahindra (3.4x P/B, 2.3% ROA, 14% ROE); HDFC Bank (3.3x P/B, 1.9% ROA, 17% ROE); ICICI Bank (2.8x P/B, 2.0% ROA, 16.7% ROE); Axis Bank (1.9x P/B, 2.0% ROA, 19% incremental ROE); Equitas SFB (1.3x P/B, 1.5% → 1.8% ROA); AU SFB (4.1x P/B).
   * **Walkthrough:** 
     1. Kotak commands peak P/B due to top-tier 2.3% ROA with conservative leverage.
     2. Axis Bank presents mispricing: trades at 1.9x P/B despite generating 19% incremental ROE and 2.0% ROA.
@@ -523,20 +523,20 @@ c) Examples & case studies
     1. Model NII and Other Income growth.
     2. Reduce C/I ratio to 58% to incorporate operating leverage, calculating PPOP.
     3. Deduct 1.5% credit costs to arrive at ₹794 Cr PBT and ₹595 Cr PAT (quarterly run-rate expanding to ₹1,256 Cr annualized for FY24).
-    4. Divide ₹3,700 Cr market cap by ₹1,256 Cr PAT \\(\rightarrow\\) 3x Forward P/E.
-    5. Add ₹1,256 Cr PAT to net worth \\(\rightarrow\\) ₹7,855 Cr Forward Net Worth. Divide market cap by forward net worth \\(\rightarrow\\) 0.47x Forward P/B.
+    4. Divide ₹3,700 Cr market cap by ₹1,256 Cr PAT → 3x Forward P/E.
+    5. Add ₹1,256 Cr PAT to net worth → ₹7,855 Cr Forward Net Worth. Divide market cap by forward net worth → 0.47x Forward P/B.
   * **Takeaway:** Buying a compounding bank at 0.47x forward P/B and 3x forward P/E provides a massive margin of safety and multi-bagger return potential.
 
 d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| ROE Breakdown | \\(ROE = ROA \times \text{Financial Leverage}\\) | Sector target ROA \\(\ge 1.5\%–2.0\%\\) | ROE is driven by asset efficiency (ROA) and balance sheet leverage | `[[0:53:13](/transcripts/vp/VP_Lec03?t=3193)]` |
-| Pre-Provision Operating Profit (PPOP) | \\(\text{Total Income (NII + Other Income)} - \text{OPEX}\\) | Track Q-o-Q expansion | Measures core bank operating profitability before credit loss provisions | `[[1:01:00](/transcripts/vp/VP_Lec03?t=3660)]` |
-| Cost-to-Income (C/I) Ratio | \\(\frac{\text{Operating Expenses (OPEX)}}{\text{Total Income}} \times 100\\) | Declining target threshold = 58%–35% | Declining C/I ratio indicates operational leverage across branch networks | `[[0:59:22–1:01:00](/transcripts/vp/VP_Lec03?t=3562)]` |
-| Credit Cost % | \\(\frac{\text{Bad Loan Provisions}}{\text{Total Assets Under Management (AUM)}} \times 100\\) | Normalizing threshold = 1.0%–1.5% | Measures loan loss provisioning burden against total asset book | `[[1:01:53](/transcripts/vp/VP_Lec03?t=3713)]` |
-| Forward Net Worth Compounding | \\(\text{Current Net Worth} + \text{Projected Annual PAT}\\) | Reinvest 100% retained earnings | Net profits directly expand equity net worth on the balance sheet | `[[1:10:25–1:10:47](/transcripts/vp/VP_Lec03?t=4225)]` |
-| Forward P/B Ratio | \\(\frac{\text{Current Market Capitalization}}{\text{Forward Net Worth}}\\) | Deep value threshold = \\(< 0.5\text{x–1.0x}\\) | Valuations below 0.5x forward book indicate severe mispricing | `[[1:11:30–1:12:32](/transcripts/vp/VP_Lec03?t=4290)]` |
+| ROE Breakdown | $ROE = ROA \times \text{Financial Leverage}$ | Sector target ROA ≥ 1.5%–2.0% | ROE is driven by asset efficiency (ROA) and balance sheet leverage | `[[0:53:13](/transcripts/vp/VP_Lec03?t=3193)]` |
+| Pre-Provision Operating Profit (PPOP) | $\text{Total Income$ (NII + Other Income) | Track Q-o-Q expansion | Measures core bank operating profitability before credit loss provisions | `[[1:01:00](/transcripts/vp/VP_Lec03?t=3660)]` |
+| Cost-to-Income (C/I) Ratio | $\frac{\text{Operating Expenses$ (OPEX) | Declining target threshold = 58%–35% | Declining C/I ratio indicates operational leverage across branch networks | `[[0:59:22–1:01:00](/transcripts/vp/VP_Lec03?t=3562)]` |
+| Credit Cost % | $\frac{\text{Bad Loan Provisions}}{\text{Total Assets Under Management$ (AUM) | Normalizing threshold = 1.0%–1.5% | Measures loan loss provisioning burden against total asset book | `[[1:01:53](/transcripts/vp/VP_Lec03?t=3713)]` |
+| Forward Net Worth Compounding | $\text{Current Net Worth} + \text{Projected Annual PAT}$ | Reinvest 100% retained earnings | Net profits directly expand equity net worth on the balance sheet | `[[1:10:25–1:10:47](/transcripts/vp/VP_Lec03?t=4225)]` |
+| Forward P/B Ratio | $\frac{\text{Current Market Capitalization}}{\text{Forward Net Worth}}$ | Deep value threshold = $< 0.5\text{x–1.0x}$ | Valuations below 0.5x forward book indicate severe mispricing | `[[1:11:30–1:12:32](/transcripts/vp/VP_Lec03?t=4290)]` |
 
 e) Visual aid
 ```
@@ -590,8 +590,8 @@ Modeling an NBFC follows similar balance sheet mechanics to banking, but reflect
 5. **Earnings & BVPS Compound:** PAT expands from ₹1,631 Cr to **₹2,545 Cr** by FY25 exit, driving Book Value Per Share (BVPS) to **₹329** `[[1:18:17](/transcripts/vp/VP_Lec03?t=4697)]`.
 
 Applying peer valuation multiples to projected BVPS (₹329) `[[1:18:17–1:19:28](/transcripts/vp/VP_Lec03?t=4697)]`:
-* Exit at **2.5x P/B** \\(\rightarrow\\) **Target Price = ₹824** (vs ₹500 market price) `[[1:18:17–1:19:03](/transcripts/vp/VP_Lec03?t=4697)]`.
-* Exit at **3.0x P/B** \\(\rightarrow\\) **Target Price = ₹989** (~100% upside / doubler) `[[1:19:03](/transcripts/vp/VP_Lec03?t=4743)]`.
+* Exit at **2.5x P/B** → **Target Price = ₹824** (vs ₹500 market price) `[[1:18:17–1:19:03](/transcripts/vp/VP_Lec03?t=4697)]`.
+* Exit at **3.0x P/B** → **Target Price = ₹989** (~100% upside / doubler) `[[1:19:03](/transcripts/vp/VP_Lec03?t=4743)]`.
 
 ### Why NBFCs Earn Higher Multiples and ROAs than Banks
 NBFCs frequently trade at higher Price-to-Book multiples than commercial banks `[[1:21:08](/transcripts/vp/VP_Lec03?t=4868)]`. IIFL Finance, for example, generates an **ROA of 3.6% to 4.0%**, whereas top commercial banks generate **1.5% to 2.0% ROA** `[[1:21:08](/transcripts/vp/VP_Lec03?t=4868)]`. 
@@ -614,7 +614,7 @@ As the bad Old Book is systematically written off or run down, and the clean New
 c) Examples & case studies
 * **Example:** IIFL Finance Modeling & Price Target Matrix `[[1:14:40–1:19:28](/transcripts/vp/VP_Lec03?t=4480)]` [Slide N: image not legible — content taken from transcript]
   * **Context:** Financial modeling of an NBFC and price target estimation.
-  * **Data/details:** Stock price = ₹500 (P/E = 13.7x, P/B = 2.2x on ₹240 BVPS). NII growth = 25%. C/I ratio = 42% \\(\rightarrow\\) 38% \\(\rightarrow\\) 35%. Credit costs = 2.0% of AUM. Projected FY25 PAT = ₹2,545 Cr. Projected BVPS = ₹329. Target at 2.5x P/B = ₹824; Target at 3.0x P/B = ₹989.
+  * **Data/details:** Stock price = ₹500 (P/E = 13.7x, P/B = 2.2x on ₹240 BVPS). NII growth = 25%. C/I ratio = 42% → 38% → 35%. Credit costs = 2.0% of AUM. Projected FY25 PAT = ₹2,545 Cr. Projected BVPS = ₹329. Target at 2.5x P/B = ₹824; Target at 3.0x P/B = ₹989.
   * **Walkthrough:** 
     1. Model 25% NII growth and C/I reduction to 35% to project PAT expansion to ₹2,545 Cr.
     2. Divide projected equity by total shares to derive ₹329 projected BVPS.
@@ -643,9 +643,9 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Net NPA % | \\(\frac{\text{Gross NPA} - \text{Provisions}}{\text{Total Advances}} \times 100\\) | Strategy New Book benchmark = 0.03% | Measures unprovisioned toxic loans relative to total advances | `[[1:23:08](/transcripts/vp/VP_Lec03?t=4988)]` |
-| NBFC Asset Return Yield | \\(\text{ROA} = \frac{\text{Net Profit (PAT)}}{\text{Total Assets}} \times 100\\) | NBFC Target = 3.6%–4.0% (vs Bank = 1.5%–2.0%) | Higher yields due to lack of CRR/SLR statutory reserve lock-ins | `[[1:21:08–1:21:45](/transcripts/vp/VP_Lec03?t=4868)]` |
-| Target Price via P/B | \\(\text{Projected BVPS} \times \text{Target P/B Multiple}\\) | Target multiples = 2.5x–3.0x P/B | Derives target equity price from modeled book value compounding | `[[1:18:17–1:19:03](/transcripts/vp/VP_Lec03?t=4697)]` |
+| Net NPA % | $\frac{\text{Gross NPA} - \text{Provisions}}{\text{Total Advances}} \times 100$ | Strategy New Book benchmark = 0.03% | Measures unprovisioned toxic loans relative to total advances | `[[1:23:08](/transcripts/vp/VP_Lec03?t=4988)]` |
+| NBFC Asset Return Yield | $\text{ROA} = \frac{\text{Net Profit$ (PAT) | NBFC Target = 3.6%–4.0% (vs Bank = 1.5%–2.0%) | Higher yields due to lack of CRR/SLR statutory reserve lock-ins | `[[1:21:08–1:21:45](/transcripts/vp/VP_Lec03?t=4868)]` |
+| Target Price via P/B | $\text{Projected BVPS} \times \text{Target P/B Multiple}$ | Target multiples = 2.5x–3.0x P/B | Derives target equity price from modeled book value compounding | `[[1:18:17–1:19:03](/transcripts/vp/VP_Lec03?t=4697)]` |
 
 e) Visual aid
 ```
@@ -678,7 +678,11 @@ The Fast-Moving Consumer Goods (FMCG) and consumption sector is one of the most 
 
 ### Revenue Deconstruction: Volume Growth vs. Value Growth
 Corporate revenue is mathematically defined as unit volume multiplied by unit price:
-\\[\text{Sales Revenue} = \text{Volume (Units Sold)} \times \text{Value (Realization per Unit)}\\]
+
+$$
+Sales Revenue = Volume (Units Sold) × Value (Realization per Unit)
+$$
+
 
 In a consumer business (e.g., a ₹10 chip packet), revenue increases either because the company sells more packets (volume growth) or increases the price per packet (value/pricing growth) `[[1:30:40](/transcripts/vp/VP_Lec03?t=5440)]`. Speaker's view: Unit volume growth represents a far higher quality of revenue expansion than price-led value growth `[[1:30:40](/transcripts/vp/VP_Lec03?t=5440)]`. When category penetration is saturated, companies rely purely on price hikes or product re-grammage, capping their long-term growth potential `[[1:31:45](/transcripts/vp/VP_Lec03?t=5505), [1:32:23](/transcripts/vp/VP_Lec03?t=5543)]`. High volume growth indicates market share capture, geographic expansion, or category creation, identifying volume growth as the single key variable in consumption valuation `[[1:30:40–1:31:10](/transcripts/vp/VP_Lec03?t=5440)]`.
 
@@ -732,9 +736,9 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Revenue Breakdown Formula | \\(\text{Sales Revenue} = \text{Volume (Units Sold)} \times \text{Value (Price/Unit)}\\) | Double-digit volume growth benchmark | Volume growth reflects true operational market expansion | `[[1:30:40](/transcripts/vp/VP_Lec03?t=5440)]` |
-| FMCG Index Median P/E Baseline | \\(\text{Historical Median P/E of Nifty FMCG Index}\\) | Historical Range = 30x–40x P/E | Current P/E below median signals valuation discount | `[[1:33:43–1:35:27](/transcripts/vp/VP_Lec03?t=5623)]` |
-| Sustainable Consumer Margin Band | \\(\text{Gross Margin Band over 10+ Years}\\) | Band = 35%–38% (e.g., ITC) | Prerequisite stability required for median P/E modeling | `[[1:34:58](/transcripts/vp/VP_Lec03?t=5698)]` |
+| Revenue Breakdown Formula | $\text{Sales Revenue} = \text{Volume$ (Units Sold) | Double-digit volume growth benchmark | Volume growth reflects true operational market expansion | `[[1:30:40](/transcripts/vp/VP_Lec03?t=5440)]` |
+| FMCG Index Median P/E Baseline | $\text{Historical Median P/E of Nifty FMCG Index}$ | Historical Range = 30x–40x P/E | Current P/E below median signals valuation discount | `[[1:33:43–1:35:27](/transcripts/vp/VP_Lec03?t=5623)]` |
+| Sustainable Consumer Margin Band | $\text{Gross Margin Band over 10+ Years}$ | Band = 35%–38% (e.g., ITC) | Prerequisite stability required for median P/E modeling | `[[1:34:58](/transcripts/vp/VP_Lec03?t=5698)]` |
 
 e) Visual aid
 ```
@@ -765,7 +769,11 @@ In asset-heavy service industries like hospitals, accounting net profit (PAT) is
 To eliminate distortions caused by leverage, cash holdings, and depreciation schedules, healthcare facilities are valued using **Enterprise Value to EBITDA (EV/EBITDA)** `[[1:41:40–1:44:45](/transcripts/vp/VP_Lec03?t=6100)]`. Because hospitals operate with negligible working capital requirements, operating profit (EBITDA) converts directly into operating cash flow `[[1:44:45](/transcripts/vp/VP_Lec03?t=6285)]`.
 
 Enterprise Value represents the total acquisition cost a private acquirer would pay to purchase the entire business debt-free `[[1:42:07–1:44:06](/transcripts/vp/VP_Lec03?t=6127)]`:
-\\[\text{Enterprise Value (EV)} = \text{Market Capitalization} + \text{Gross Debt} - \text{Cash \& Cash Equivalents}\\]
+
+$$
+Enterprise Value (EV) = Market Capitalization + Gross Debt - Cash \& Cash Equivalents
+$$
+
 
 Gross debt is added to market capitalization because an acquirer must assume all outstanding liabilities `[[1:44:06](/transcripts/vp/VP_Lec03?t=6246)]`. Balance sheet cash is subtracted because the acquirer immediately uses liquid cash to extinguish debt `[[1:43:05–1:44:06](/transcripts/vp/VP_Lec03?t=6185)]`.
 
@@ -787,8 +795,8 @@ c) Examples & case studies
   * **Data/details:** Market Capitalization = ₹1.0 Cr. Gross Debt = ₹20 Lakhs. Cash & Cash Equivalents = ₹10 Lakhs.
   * **Walkthrough:** 
     1. Total private purchase cost begins with equity Market Cap (₹1.0 Cr).
-    2. Add Gross Debt (₹20 Lakhs) as the buyer must assume repayment obligations: \\(₹1.0\text{ Cr} + ₹20\text{ Lakhs} = ₹1.2\text{ Cr}\\).
-    3. Subtract liquid balance sheet Cash (₹10 Lakhs) which offsets debt: \\(₹1.2\text{ Cr} - ₹10\text{ Lakhs} = ₹1.1\text{ Cr}\\).
+    2. Add Gross Debt (₹20 Lakhs) as the buyer must assume repayment obligations: $\text{₹}1.0\text{ Cr} + \text{₹}20\text{ Lakhs} = \text{₹}1.2\text{ Cr}$.
+    3. Subtract liquid balance sheet Cash (₹10 Lakhs) which offsets debt: $\text{₹}1.2\text{ Cr} - \text{₹}10\text{ Lakhs} = \text{₹}1.1\text{ Cr}$.
     4. Enterprise Value = ₹1.1 Cr.
   * **Takeaway:** Enterprise Value reflects the net total enterprise purchase price after extinguishing net debt.
 
@@ -811,9 +819,9 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Enterprise Value (EV) | \\(\text{Market Cap} + \text{Gross Debt} - \text{Cash \& Cash Equivalents}\\) | Absolute valuation measure | Total debt-adjusted acquisition cost of an enterprise | `[[1:42:07–1:44:06](/transcripts/vp/VP_Lec03?t=6127)]` |
-| EV/EBITDA Multiple | \\(\frac{\text{Enterprise Value}}{\text{Earnings Before Interest, Taxes, Depreciation \& Amortization}}\\) | Hospital sector benchmark = 20x–30x EV/EBITDA | Standard valuation metric for capital-heavy assets converting EBITDA to cash | `[[1:41:40](/transcripts/vp/VP_Lec03?t=6100), [1:48:13](/transcripts/vp/VP_Lec03?t=6493)]` |
-| Metro Greenfield Breakeven | \\(\text{Gestation period to reach positive operating cash flow}\\) | Gestation threshold = 4 to 6 years | Time lag required for new greenfield hospitals to break even | `[[1:46:07](/transcripts/vp/VP_Lec03?t=6367)]` |
+| Enterprise Value (EV) | $\text{Market Cap} + \text{Gross Debt} - \text{Cash \& Cash Equivalents}$ | Absolute valuation measure | Total debt-adjusted acquisition cost of an enterprise | `[[1:42:07–1:44:06](/transcripts/vp/VP_Lec03?t=6127)]` |
+| EV/EBITDA Multiple | $\frac{\text{Enterprise Value}}{\text{Earnings Before Interest, Taxes, Depreciation \& Amortization}}$ | Hospital sector benchmark = 20x–30x EV/EBITDA | Standard valuation metric for capital-heavy assets converting EBITDA to cash | `[[1:41:40](/transcripts/vp/VP_Lec03?t=6100), [1:48:13](/transcripts/vp/VP_Lec03?t=6493)]` |
+| Metro Greenfield Breakeven | $\text{Gestation period to reach positive operating cash flow}$ | Gestation threshold = 4 to 6 years | Time lag required for new greenfield hospitals to break even | `[[1:46:07](/transcripts/vp/VP_Lec03?t=6367)]` |
 
 e) Visual aid
 ```
@@ -879,7 +887,7 @@ c) Examples & case studies
     * Historical average gross margins = 25%–30%; long-term operating margins = 12%–13%.
     * *Peak Phase:* Margins expanded to 16% due to COVID glove demand and raw material inventory gains.
     * *Contraction Phase:* Global glove oversupply depressed margins down to 10%–11%.
-    * *Capex Additions:* Completed ₹200 Cr capex (+₹30 Cr debottlenecking) capable of adding ₹1,000 Cr revenue (₹200 Cr capex \\(\rightarrow\\) ₹700 Cr sales; ₹30 Cr debottlenecking \\(\rightarrow\\) ₹300 Cr sales).
+    * *Capex Additions:* Completed ₹200 Cr capex (+₹30 Cr debottlenecking) capable of adding ₹1,000 Cr revenue (₹200 Cr capex → ₹700 Cr sales; ₹30 Cr debottlenecking → ₹300 Cr sales).
   * **Walkthrough:** 
     1. Buying at 16% operating margins was a Zone of Danger trap because margins were bound to mean-revert lower.
     2. Post-COVID glove oversupply drove margins down to 10%–11% (under-earning state).
@@ -898,9 +906,9 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Zone of Danger Condition | \\(\text{Zone of Danger} = \text{Peak Margins} + \text{Peak P/E Multiple}\\) | Margins far above historical mean | Guaranteed twin de-rating upon earnings normalisation | `[[1:53:56](/transcripts/vp/VP_Lec03?t=6836)]` |
-| Margin of Safety Condition | \\(\text{Margin of Safety} = \text{Under-Earning Margins} + \text{Depressed P/E} + \text{Capex Execution}\\) | Margins below historical mean | Asymmetric upside risk profile for 2–3 year horizon | `[[2:01:54–2:03:18](/transcripts/vp/VP_Lec03?t=7314)]` |
-| Apcotex Capex Asset Turnover Ratio | \\(\frac{\text{Incremental Sales Capacity}}{\text{Total Capex Incurred}}\\) | \\(\frac{₹1,000\text{ Cr Sales}}{₹230\text{ Cr Capex}} = 4.35\text{x}\\) | Demonstrates underlying revenue generation capability once demand recovers | `[[2:02:46](/transcripts/vp/VP_Lec03?t=7366)]` |
+| Zone of Danger Condition | $\text{Zone of Danger} = \text{Peak Margins} + \text{Peak P/E Multiple}$ | Margins far above historical mean | Guaranteed twin de-rating upon earnings normalisation | `[[1:53:56](/transcripts/vp/VP_Lec03?t=6836)]` |
+| Margin of Safety Condition | $\text{Margin of Safety} = \text{Under-Earning Margins} + \text{Depressed P/E} + \text{Capex Execution}$ | Margins below historical mean | Asymmetric upside risk profile for 2–3 year horizon | `[[2:01:54–2:03:18](/transcripts/vp/VP_Lec03?t=7314)]` |
+| Apcotex Capex Asset Turnover Ratio | $\frac{\text{Incremental Sales Capacity}}{\text{Total Capex Incurred}}$ | $\frac{\text{₹}1,000\text{ Cr Sales}}{\text{₹}230\text{ Cr Capex}} = 4.35\text{x}$ | Demonstrates underlying revenue generation capability once demand recovers | `[[2:02:46](/transcripts/vp/VP_Lec03?t=7366)]` |
 
 e) Visual aid
 ```
@@ -1014,7 +1022,7 @@ d) Formulas, metrics & thresholds (if any)
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | Base Formation Condition | Sideways channel consolidation + Flattening 12-week or 30-week EMA | Price stops forming lower lows | Distinguishes valid bottom entry from a falling knife freefall | `[[2:05:57–2:08:12](/transcripts/vp/VP_Lec03?t=7557)]` |
-| PEG Ratio Benchmark | \\(\text{PEG} = \frac{\text{P/E Ratio}}{\text{EPS Growth Rate \%}}\\)` | Benchmark = \\(\le 1.0\\); Avoid \\(> 2.0\\) (e.g., Aarti Ind 36x P/E on <15% growth) | Evaluates whether valuation multiple is justified by growth | `[[2:11:23–2:12:03](/transcripts/vp/VP_Lec03?t=7883)]` |
+| PEG Ratio Benchmark | $\text{PEG} = \frac{\text{P/E Ratio}}{\text{EPS Growth Rate %}}$` | Benchmark = ≤ 1.0; Avoid > 2.0 (e.g., Aarti Ind 36x P/E on <15% growth) | Evaluates whether valuation multiple is justified by growth | `[[2:11:23–2:12:03](/transcripts/vp/VP_Lec03?t=7883)]` |
 
 e) Visual aid
 ```
@@ -1086,8 +1094,8 @@ d) Formulas, metrics & thresholds (if any)
 
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Relative Peer P/E Discount % | \\(\left(1 - \frac{\text{P/E}_{\text{Target}}}{\text{P/E}_{\text{Peer}}}\right) \times 100\\) | Mispricing threshold = 50% discount for superior margin profile | Quantifies relative valuation disconnect between industry peers | `[[2:16:28–2:17:08](/transcripts/vp/VP_Lec03?t=8188)]` |
-| Regulated Market Exposure % | \\(\frac{\text{North America \& Europe Sales}}{\text{Total Sales}} \times 100\\) | Quality benchmark = >50% (Aarti Pharmalabs = 56%) | Higher exposure reflects higher entry barriers and margin sustainability | `[[2:15:47–2:17:08](/transcripts/vp/VP_Lec03?t=8147)]` |
+| Relative Peer P/E Discount % | $\left$ (1 - \frac{\text{P/E}_{\text{Target}}}{\text{P/E}_{\text{Peer}}}\right) | Mispricing threshold = 50% discount for superior margin profile | Quantifies relative valuation disconnect between industry peers | `[[2:16:28–2:17:08](/transcripts/vp/VP_Lec03?t=8188)]` |
+| Regulated Market Exposure % | $\frac{\text{North America \& Europe Sales}}{\text{Total Sales}} \times 100$ | Quality benchmark = >50% (Aarti Pharmalabs = 56%) | Higher exposure reflects higher entry barriers and margin sustainability | `[[2:15:47–2:17:08](/transcripts/vp/VP_Lec03?t=8147)]` |
 
 e) Visual aid
 ```
@@ -1106,5 +1114,3 @@ f) Speaker's cautions & common mistakes
 * **Over-Allocating to Sector Headwind Turnarounds:** Building oversized initial position sizes in deep value stocks before sector headwinds fully dissipate `[[2:17:08](/transcripts/vp/VP_Lec03?t=8228)]`.
 
 ---
-
-
