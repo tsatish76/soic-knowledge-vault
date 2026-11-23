@@ -1,6 +1,9 @@
 {
   "name": "soic-knowledge-vault",
   "version": "1.0.0",
+  "engines": {
+      "node": "20.x"
+    },
   "description": "Structured Reference Engine for SOIC TVGP Investing Framework",
   "main": "index.js",
   "type": "module",
