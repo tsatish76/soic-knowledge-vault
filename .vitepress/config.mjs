@@ -2,6 +2,23 @@ import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { createRequire } from 'module'
+
+const require = createRequire(import.meta.url)
+
+// Patch MathJax to prevent unhandled rejections on undefined asyncLoad for HTML entities
+try {
+  const Entities = require('mathjax-full/js/util/Entities.js')
+  if (Entities && Entities.options) {
+    Entities.options.loadMissingEntities = false
+  }
+  const { mathjax } = require('mathjax-full/js/mathjax.js')
+  if (mathjax) {
+    mathjax.asyncLoad = () => Promise.resolve()
+  }
+} catch (e) {
+  // Ignore if mathjax-full is not resolved directly
+}
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)

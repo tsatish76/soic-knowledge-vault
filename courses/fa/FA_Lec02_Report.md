@@ -953,7 +953,7 @@ As utilization rises from 20% to 90%, fixed depreciation and interest costs rema
 #### d) Formulas, metrics & thresholds
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
-| Gross Profit Margin % | $$ (\text{Sales} - \text{COGS}) | Industry dependent | Profitability after direct material costs | [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)] |
+| Gross Profit Margin % | $(\text{Sales} - \text{COGS}) \div \text{Sales} \times 100$ | Industry dependent | Profitability after direct material costs | [[2:04:28–2:05:10](/transcripts/fa/FA_Lec02?t=7468)] |
 | EBITDA Margin % | $\text{EBITDA} \div \text{Sales} \times 100$ | Operational efficiency baseline | Core operating cash margin | [[2:06:27](/transcripts/fa/FA_Lec02?t=7587)] |
 | Bottom Line (Net Profit / PAT) | $\text{PBT} - \text{Corporate Income Tax}$ | Final residual equity earnings | Profit available for reinvestment or dividends | [[2:06:54–2:07:49](/transcripts/fa/FA_Lec02?t=7614)] |
 | Capacity Utilization Trajectory | Plant production output vs. maximum capacity | Ramping from 20% to 90% | Forecasts operating leverage inflection point | [[2:17:26–2:18:38](/transcripts/fa/FA_Lec02?t=8246)] |

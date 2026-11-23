@@ -620,7 +620,7 @@ Speaker's view: Investors must be "exit happy" and maintain strict discipline in
 | Metric/Formula | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :--- | :--- | :--- | :--- | :--- |
 | **One-Off Order Revenue** | Order Volume × Selling Price per Unit | $2,000,000 \times \text{₹}5 = \text{₹}1\text{ crore}$ | Non-recurring event sales spike | [[00:33:16](/transcripts/vp/VP_Lec08?t=1996)] |
-| **One-Off Net PAT** | (Revenue - Costs) × (1 - Tax Rate) | $$ (₹1\text{ cr} - ₹20\text{ L}) | Peak net profit generated during order execution year | [[00:33:16](/transcripts/vp/VP_Lec08?t=1996)] |
+| **One-Off Net PAT** | (Revenue - Costs) × (1 - Tax Rate) | $\text{₹}1\text{ cr} - \text{₹}20\text{ L} = \text{₹}80\text{ L}$ | Peak net profit generated during order execution year | [[00:33:16](/transcripts/vp/VP_Lec08?t=1996)] |
 | **Order Book Draining** | $\text{Peak Order Book} \rightarrow \text{Current Order Book}$ | ₹9,200 crore → ₹1,000 crore in Tejas case | Signals exhaustion of contract execution and lack of future growth visibility | [[00:34:41](/transcripts/vp/VP_Lec08?t=2081)] |
 
 #### e) Visual aid
