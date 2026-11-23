@@ -14,11 +14,7 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 - **Duration:** [[00:00:02–03:02:01](/transcripts/cc/CC_Lec06?t=2)]  
 - **PPT used:** Yes (1 PDF file provided in `01_Sources`: `Lec06_Valuation_Webinar_2023_Part_2.pdf`, 26.39 MB — exceeds 10 MB direct-download cap and is marked not legible beyond initial search snippet; combined with Marshmallow experiment clip, Jiten Parmar thread, Screener.in, Trendlyne, and live SOTP/P2P spreadsheet walkthroughs)  
 - **Prerequisites referenced:**  
-  - Crash Course Class 5 (Relative Strength, V-Stop, SOIC LTI), Class 6 (Joining Financial Statements), and Class 7 / Valuation Part 1 (P/E ratio, high-P/E dangers, re-rating/de-rating, one-off adjustments) 
-$$
-[00:01:42–00:02:02](/transcripts/cc/CC_Lec06?t=102), [00:08:07](/transcripts/cc/CC_Lec06?t=487), [00:39:50](/transcripts/cc/CC_Lec06?t=2390), [02:48:17
-$$
-(/transcripts/cc/CC_Lec06?t=10097)].
+  - Crash Course Class 5 (Relative Strength, V-Stop, SOIC LTI), Class 6 (Joining Financial Statements), and Class 7 / Valuation Part 1 (P/E ratio, high-P/E dangers, re-rating/de-rating, one-off adjustments)  [[00:01:42–00:02:02](/transcripts/cc/CC_Lec06?t=102), [00:08:07](/transcripts/cc/CC_Lec06?t=487), [00:39:50](/transcripts/cc/CC_Lec06?t=2390), [02:48:17](/transcripts/cc/CC_Lec06?t=10097)].
 
 ---
 
@@ -28,11 +24,7 @@ $$
 - **Delayed Gratification & The Marshmallow Experiment:** Exiting at 70%–80% gains prematurely forfeits multi-bagger trends, whereas waiting patiently with a V-Stop captures full cycles—while recognizing that a "trust deficit" (Piramal wholesale lending) causes crowds to flee [[00:11:35–00:24:32](/transcripts/cc/CC_Lec06?t=695)].  
 - **Consistent Companies from Volatile Sectors Win Highest Returns:** A 2007–2022 study shows volatile businesses whose earnings turn consistent (moving from "potholed" to "smooth Hyderabad roads," e.g., SRF) deliver the sharpest re-rating [[00:26:23–00:36:04](/transcripts/cc/CC_Lec06?t=1583)].  
 - **Hard Ceiling on 10-Year Earnings Compounding (34%–35% Max):** No business compounds earnings at 70% for 10 years (maximum \~34%–35%); paying 80x–160x P/E steals future returns, and 10% growth with a 100x → 50x de-rating wipes out 4–5 years of gains [[00:48:15–00:53:19](/transcripts/cc/CC_Lec06?t=2895)].  
-- **Simpler Variables \= Easier Valuation & PEG ≤ 2.0x:** Following Buffett, focus on businesses with fewer moving parts (avoiding complex names like Rain Industries or unpredictable pricing erosion like $40 →$5 CDMO molecules) and keep **PEG ≤ 1.5x–2.0x** (ideal 0.5x–1.5x), always removing one-off costs 
-$$
-[00:54:27–01:11:48](/transcripts/cc/CC_Lec06?t=3267), [02:59:47–03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10787)].  
+- **Simpler Variables \= Easier Valuation & PEG ≤ 2.0x:** Following Buffett, focus on businesses with fewer moving parts (avoiding complex names like Rain Industries or unpredictable pricing erosion like $40 →$5 CDMO molecules) and keep **PEG ≤ 1.5x–2.0x** (ideal 0.5x–1.5x), always removing one-off costs  [[00:54:27–01:11:48](/transcripts/cc/CC_Lec06?t=3267), [02:59:47–03:01:19](/transcripts/cc/CC_Lec06?t=10787)].  
 - **Enterprise Value ($\text{EV} = \text{Mcap} + \text{Debt} - \text{Cash}$) & EV/EBITDA for Asset-Heavy Firms:** Use EV/EBITDA (\<20x comfortable; 30x expensive; \>20–22x challenging) for asset-heavy sectors (hospitals, cement, steel, packaging, chemicals) rather than asset-light firms (CDSL, IEX with \~4%–4.5% depreciation) [[01:33:15–02:13:47](/transcripts/cc/CC_Lec06?t=5595)].  
 - **Sum-of-the-Parts (SOTP) Valuation ("3-Biscuit Packet"):** Value conglomerate or multi-division businesses (Laurus Labs, ITC, SRF, Gujarat Ambuja Exports, Technocraft) by assigning peer-appropriate EV/EBITDA multiples to each segment based on which division drives bulk growth [[01:36:47–02:07:50](/transcripts/cc/CC_Lec06?t=5807)].  
 - **Sector-Specific Drivers — Exchanges, P/CF & P/S:** Track monthly **volume growth** in exchanges (IEX, MCX), **Price-to-Cash-Flow** when down-cycle Capex inflates depreciation (Sandhar Technologies at 10x P/CF), and **Price-to-Sales \+ P/B** at cycle troughs in deep cyclicals (Thirumalai Chemicals, IG Petrochem) [[02:14:25–02:34:51](/transcripts/cc/CC_Lec06?t=8065)].
@@ -84,9 +76,11 @@ Stage 4: Fewer Variables (Buffett) + PEG ≤ 2.0x + Removing One-Offs
 ## CC-Lec06 – Stage 1: Session Orientation, P/E Re-Rating (Cupid Ltd.) & Sectoral Re-Rating/De-Rating [[00:00:02–00:11:35](/transcripts/cc/CC_Lec06?t=2)] [TVGP: Valuation]
 
 
-$$
+$
+
 [00:00:02–00:02:02: non-content segment — welcome to Valuation Part 2](/transcripts/cc/CC_Lec06?t=2), overview of P2P (peer-to-peer) spreadsheet analysis and sectoral multiples, Google Form Q\&A logistics (no buy/sell questions), SEBI-registered research analyst educational disclaimer, and brief recap of Part 1 (high P/E + high margins + over-owning cocktail, Alkyl Amines, Haunted House → Airport analogy, and P/E fundamentals)
-$$
+$
+
 .
 
 ### a) What this stage answers
@@ -295,18 +289,10 @@ Why do simpler businesses with fewer moving parts make better investments than c
 
 #### Fewer Variables \= Easier Valuation & Circle of Competence
 
-Following Warren Buffett's principle (**lower the variables, easier to understand and value; larger the variables, harder to value and outside the circle of competence**) 
-$$
-[00:53:44–00:59:10](/transcripts/cc/CC_Lec06?t=3224), [01:02:21–01:03:59
-$$
-(/transcripts/cc/CC_Lec06?t=3741)] [PDF: image not legible — content taken from transcript]:
+Following Warren Buffett's principle (**lower the variables, easier to understand and value; larger the variables, harder to value and outside the circle of competence**)  [[00:53:44–00:59:10](/transcripts/cc/CC_Lec06?t=3224), [01:02:21–01:03:59](/transcripts/cc/CC_Lec06?t=3741)] [PDF: image not legible — content taken from transcript]:
 
 - **Buffett's 5-Year Range:** Ask whether you can sensibly estimate an earnings range 5 years out and buy cheaply relative to the **bottom boundary**—ignoring macro/political noise (wars, elections, news headlines) [[00:56:02–00:58:26](/transcripts/cc/CC_Lec06?t=3362)].  
-- **Simple vs. Complex:** A hospital (Capex \+ ARPOB, e.g., ₹30L liver transplant), pipe company (volume growth), or wagon maker (order book) has 2–3 clear variables, whereas multi-division firms or complex cyclicals have too many moving parts 
-$$
-[00:54:27–00:56:02](/transcripts/cc/CC_Lec06?t=3267), [01:02:59–01:03:59
-$$
-(/transcripts/cc/CC_Lec06?t=3779)].
+- **Simple vs. Complex:** A hospital (Capex \+ ARPOB, e.g., ₹30L liver transplant), pipe company (volume growth), or wagon maker (order book) has 2–3 clear variables, whereas multi-division firms or complex cyclicals have too many moving parts  [[00:54:27–00:56:02](/transcripts/cc/CC_Lec06?t=3267), [01:02:59–01:03:59](/transcripts/cc/CC_Lec06?t=3779)].
 
 #### PEG Ratio Mechanics (TTM, Quarterly & Forward) & 2.0x Upper Limit
 
@@ -317,9 +303,11 @@ The **PEG Ratio** ($\text{P/E Ratio} \div \text{EPS Growth Rate %}$) measures ho
 - **One-Offs & Value-Added Products:** Always strip **one-off costs** before computing P/E [[01:10:56](/transcripts/cc/CC_Lec06?t=4256)]. When concalls highlight rising **"value-added products,"** it signals tougher manufacturing, higher entry barriers, less competition, and better margins/realizations [[01:11:48–01:13:54](/transcripts/cc/CC_Lec06?t=4308)].
 
 
-$$
+$
+
 [01:13:54–01:32:05: non-content segment — 15-minute coffee break until 2:52 PM with variable/metrics slide open](/transcripts/cc/CC_Lec06?t=4434), followed by post-break attendance check
-$$
+$
+
 .
 
 ### c) Examples & case studies
@@ -334,11 +322,7 @@ $$
 - **Example: PEG Practice Quiz & Auto Ancillary Forward PEG** [[01:03:59–01:11:48](/transcripts/cc/CC_Lec06?t=3839)]  
     
   - **Data/details:**  
-    - 30x P/E ÷ 20% growth \= **1.5x PEG**; 60x P/E ÷ 10% growth \= **6.0x PEG**; 20x P/E ÷ 20% growth \= **1.0x PEG**; 25x P/E ÷ 25% forward growth \= **1.0x Forward PEG** 
-$$
-[01:03:59–01:05:19](/transcripts/cc/CC_Lec06?t=3839), [01:10:56–01:11:48
-$$
-(/transcripts/cc/CC_Lec06?t=4256)].  
+    - 30x P/E ÷ 20% growth \= **1.5x PEG**; 60x P/E ÷ 10% growth \= **6.0x PEG**; 20x P/E ÷ 20% growth \= **1.0x PEG**; 25x P/E ÷ 25% forward growth \= **1.0x Forward PEG**  [[01:03:59–01:05:19](/transcripts/cc/CC_Lec06?t=3839), [01:10:56–01:11:48](/transcripts/cc/CC_Lec06?t=4256)].  
     - Auto ancillary on Trendlyne: 30x P/E with **64% Year-1 EPS growth** (38% Year-2) → **\~0.5x Forward PEG** (`30 ÷ 60`) [[01:06:36–01:07:54](/transcripts/cc/CC_Lec06?t=3996)].  
   - **Takeaway:** Forward PEG \< 1.0x–1.5x (and strictly ≤ 2.0x at entry) protects against overpaying.
 
@@ -381,43 +365,27 @@ How do you calculate Enterprise Value (EV/EBITDA) and distinguish asset-heavy bu
 
 #### Enterprise Value (EV) & EV/EBITDA Mechanics
 
-When acquiring an entire business, you pay its Market Cap AND assume its net debt [[01:33:15–01:35:11](/transcripts/cc/CC_Lec06?t=5595)] [PDF: image not legible — content taken from transcript]: $$
+When acquiring an entire business, you pay its Market Cap AND assume its net debt [[01:33:15–01:35:11](/transcripts/cc/CC_Lec06?t=5595)] [PDF: image not legible — content taken from transcript]:
+
+$
 \Enterprise Value (EV) \= \Market Cap \+ \Total Debt \- \Cash
-$$ (For example, ₹100 Market Cap \+ ₹20 Debt − ₹10 Cash \= **₹110 EV**). Dividing EV by operating profit (**EBITDA**) yields **EV/EBITDA** (e.g., $\text{₹110} \div \text{₹11} = \mathbf{10x}$, implying a 10-year payback on static EBITDA) [[01:35:11–01:36:47](/transcripts/cc/CC_Lec06?t=5711)]. On Screener.in, simply add the `EV/EBITDA` ratio directly [[01:53:32–01:54:22](/transcripts/cc/CC_Lec06?t=6812)].
+$
+
+(For example, ₹100 Market Cap \+ ₹20 Debt − ₹10 Cash \= **₹110 EV**). Dividing EV by operating profit (**EBITDA**) yields **EV/EBITDA** (e.g., $\text{₹110} \div \text{₹11} = \mathbf{10x}$, implying a 10-year payback on static EBITDA) [[01:35:11–01:36:47](/transcripts/cc/CC_Lec06?t=5711)]. On Screener.in, simply add the `EV/EBITDA` ratio directly [[01:53:32–01:54:22](/transcripts/cc/CC_Lec06?t=6812)].
 
 **Where EV/EBITDA Applies (Asset-Heavy vs. Asset-Light):**
 
-- **Use EV/EBITDA** for **asset-heavy** businesses (hospitals, cement, hotels, telecom, integrated steel/mining) where high depreciation and lease rentals distort P/E 
-$$
-[01:36:47](/transcripts/cc/CC_Lec06?t=5807), [01:51:22–01:52:50](/transcripts/cc/CC_Lec06?t=6682), [02:01:53–02:03:49
-$$
-(/transcripts/cc/CC_Lec06?t=7313)].  
-- **Benchmark:** **\< 20x EV/EBITDA** is comfortable/reasonable; **\> 20x–22x** gets challenging; **30x** is very expensive (though Stanley Druckenmiller notes liquidity/catalysts can push top-end multiples to 30x) 
-$$
-[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [01:59:08–02:00:14
-$$
-(/transcripts/cc/CC_Lec06?t=7148)].  
-- **Do NOT use EV/EBITDA** for **asset-light platforms** (like CDSL or IEX, where depreciation is only \~3.6%–4.5% of sales vs. \~20% in Bharti Airtel) or **real estate** (use NAV/DCF) 
-$$
-[01:53:32](/transcripts/cc/CC_Lec06?t=6812), [02:01:53–02:03:49
-$$
-(/transcripts/cc/CC_Lec06?t=7313)].
+- **Use EV/EBITDA** for **asset-heavy** businesses (hospitals, cement, hotels, telecom, integrated steel/mining) where high depreciation and lease rentals distort P/E  [[01:36:47](/transcripts/cc/CC_Lec06?t=5807), [01:51:22–01:52:50](/transcripts/cc/CC_Lec06?t=6682), [02:01:53–02:03:49](/transcripts/cc/CC_Lec06?t=7313)].  
+- **Benchmark:** **\< 20x EV/EBITDA** is comfortable/reasonable; **\> 20x–22x** gets challenging; **30x** is very expensive (though Stanley Druckenmiller notes liquidity/catalysts can push top-end multiples to 30x)  [[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [01:59:08–02:00:14](/transcripts/cc/CC_Lec06?t=7148)].  
+- **Do NOT use EV/EBITDA** for **asset-light platforms** (like CDSL or IEX, where depreciation is only \~3.6%–4.5% of sales vs. \~20% in Bharti Airtel) or **real estate** (use NAV/DCF)  [[01:53:32](/transcripts/cc/CC_Lec06?t=6812), [02:01:53–02:03:49](/transcripts/cc/CC_Lec06?t=7313)].
 
 #### Sum-of-the-Parts (SOTP) Valuation ("3-Biscuit Packet" Analogy)
 
-Like a packet containing three biscuits—chocolate chip, cream-filled, and salted—each segment in a conglomerate deserves a different multiple based on its ROCE, growth, and peer benchmarks [[01:36:47–01:39:53](/transcripts/cc/CC_Lec06?t=5807)]. Always identify **which division drives the bulk of EBIT/growth**, assign peer-derived multiples to non-core/legacy divisions, subtract them from EV/Market Cap, and check the implied multiple on the core growth engine 
-$$
-[01:48:39–01:49:46](/transcripts/cc/CC_Lec06?t=6519), [02:04:30–02:07:50
-$$
-(/transcripts/cc/CC_Lec06?t=7470)].
+Like a packet containing three biscuits—chocolate chip, cream-filled, and salted—each segment in a conglomerate deserves a different multiple based on its ROCE, growth, and peer benchmarks [[01:36:47–01:39:53](/transcripts/cc/CC_Lec06?t=5807)]. Always identify **which division drives the bulk of EBIT/growth**, assign peer-derived multiples to non-core/legacy divisions, subtract them from EV/Market Cap, and check the implied multiple on the core growth engine  [[01:48:39–01:49:46](/transcripts/cc/CC_Lec06?t=6519), [02:04:30–02:07:50](/transcripts/cc/CC_Lec06?t=7470)].
 
 ### c) Examples & case studies
 
-- **Example: Technocraft Industries & ITC** 
-$$
-[01:38:18–01:39:53](/transcripts/cc/CC_Lec06?t=5898), [01:48:39–01:49:12](/transcripts/cc/CC_Lec06?t=6519), [01:56:44–01:58:21
-$$
-(/transcripts/cc/CC_Lec06?t=7004)]  
+- **Example: Technocraft Industries & ITC**  [[01:38:18–01:39:53](/transcripts/cc/CC_Lec06?t=5898), [01:48:39–01:49:12](/transcripts/cc/CC_Lec06?t=6519), [01:56:44–01:58:21](/transcripts/cc/CC_Lec06?t=7004)]  
     
   - **Context:** Identifying which division drives SOTP re-rating.  
   - **Data/details:** **Technocraft** has high-ROCE scaffolding & drum closures alongside loss-making divisions. **ITC** generates \~₹5,000 Cr of its \~₹6,200–₹6,300 Cr ("62–63 crores" [? verify]) EBIT from cigarettes—when cigarette growth accelerated (29%, 11%, 14%, 15% [? verify]), ITC re-rated; when it slowed, the stock consolidated [[01:57:35–01:58:21](/transcripts/cc/CC_Lec06?t=7055)].  
@@ -453,9 +421,11 @@ $$
 - **Example: SRF Limited SOTP & Polyplex/Cosmo Peer Check** [[02:04:30–02:07:50](/transcripts/cc/CC_Lec06?t=7470)]  
     
   - **Data/details:** ₹68,000 Cr Market Cap. Packaging Films at 10x EBIT (\~₹6,000 Cr; peer Polyplex at ₹3,200 Cr mcap / ₹341 Cr EBIT gets **7x–12x** 
-$$
+$
+
 5–6x trough, 12–13x peak, 7x peak-normalized
-$$
+$
+
 ) \+ Technical Textiles at 10x (\~₹2,600 Cr) \= ₹8,600 Cr → leaves \~₹60,000 Cr for Chemicals/Polymers (₹2,341 Cr EBIT) \= **\~25x** ("20" [? verify]) EV/EBIT, requiring 20%–25% growth.  
   - **Takeaway:** Subtract peer-valued cyclical segments to see the implied multiple on the core growth division.
 
@@ -470,11 +440,7 @@ $$
 | Metric/Formula/Screen Filter | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :---- | :---- | :---- | :---- | :---- |
 | **Enterprise Value (EV)** | $\text{Market Cap} + \text{Total Debt} - \text{Cash}$ | Total takeover price | Captures both equity and net debt obligations | [[01:33:15–01:35:11](/transcripts/cc/CC_Lec06?t=5595)] |
-| **EV / EBITDA Threshold** | $\text{EV} \div \text{EBITDA}$ | **\< 20x** cheap/reasonable; **\> 20–22x** challenging; **30x** expensive | Best for asset-heavy sectors (hospitals, cement, steel, hotels) | 
-$$
-[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [01:59:08–02:00:14
-$$
-(/transcripts/cc/CC_Lec06?t=7148)] |
+| **EV / EBITDA Threshold** | $\text{EV} \div \text{EBITDA}$ | **\< 20x** cheap/reasonable; **\> 20–22x** challenging; **30x** expensive | Best for asset-heavy sectors (hospitals, cement, steel, hotels) |  [[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [01:59:08–02:00:14](/transcripts/cc/CC_Lec06?t=7148)] |
 
 ### e) Visual aid
 
@@ -487,11 +453,7 @@ WHICH MULTIPLE TO USE?
 
 ### f) Speaker's cautions & common mistakes
 
-- Using **EV/EBITDA** on asset-light platforms (CDSL, IEX) or **Real Estate** (use NAV/DCF instead) 
-$$
-[01:53:32](/transcripts/cc/CC_Lec06?t=6812), [02:01:53–02:03:49
-$$
-(/transcripts/cc/CC_Lec06?t=7313)].  
+- Using **EV/EBITDA** on asset-light platforms (CDSL, IEX) or **Real Estate** (use NAV/DCF instead)  [[01:53:32](/transcripts/cc/CC_Lec06?t=6812), [02:01:53–02:03:49](/transcripts/cc/CC_Lec06?t=7313)].  
 - Accepting SOTP target prices without checking whether the implied multiple on the best segment (e.g., 30x on Laurus Synthesis) already exceeds global/domestic peers (Syngene at 27x, Lonza, Catalent) [[01:44:04–01:47:46](/transcripts/cc/CC_Lec06?t=6244)].
 
 Batch complete: 5\.
@@ -512,9 +474,10 @@ In exchange businesses, **volume growth** is the single most important driver to
 
 #### Price to Cash Flow (P/CF): Spotting Operating Leverage & Cash Traps
 
-$$
+$
+
 \Price to Cash Flow (P/CF) \= \\frac{\Market Cap}{\Cash Flow from Operations (CFO)}
-$$
+$
 
 - **Benchmark:** Above **22x–23x P/CF** becomes expensive [[02:25:15](/transcripts/cc/CC_Lec06?t=8715)].  
 - **Two Key Use Cases:**  
@@ -523,9 +486,12 @@ $$
 
 #### Price to Sales (P/S) & Deep Cyclicals
 
-$$
+$
+
 \Price to Sales (P/S) \= \\frac{\Market Cap}{\Annual Sales}
-$$ **Price to Sales** is most useful in **cyclical stocks with volatile margins** [[02:26:03–02:29:19](/transcripts/cc/CC_Lec06?t=8763)]. At the **worst point of a cycle**, trailing P/E looks optically absurd (or infinite) because earnings collapse—whereas **P/S** and **Price-to-Book (P/B)** stay grounded. Conversely, at the **peak of a cycle**, P/E looks deceptively low because earnings are at their peak [[02:29:19–02:34:51](/transcripts/cc/CC_Lec06?t=8959)]. Buying when P/S drops below its historical median and selling when margins/sales recover captures multi-bagger cyclical swings [[02:31:42–02:33:31](/transcripts/cc/CC_Lec06?t=9102)].
+$
+
+**Price to Sales** is most useful in **cyclical stocks with volatile margins** [[02:26:03–02:29:19](/transcripts/cc/CC_Lec06?t=8763)]. At the **worst point of a cycle**, trailing P/E looks optically absurd (or infinite) because earnings collapse—whereas **P/S** and **Price-to-Book (P/B)** stay grounded. Conversely, at the **peak of a cycle**, P/E looks deceptively low because earnings are at their peak [[02:29:19–02:34:51](/transcripts/cc/CC_Lec06?t=8959)]. Buying when P/S drops below its historical median and selling when margins/sales recover captures multi-bagger cyclical swings [[02:31:42–02:33:31](/transcripts/cc/CC_Lec06?t=9102)].
 
 ### c) Examples & case studies
 
@@ -578,45 +544,25 @@ How do Part 2 valuation rules apply to Granules, EPC contractors, Weekly vs. Mon
 ### b) Detailed explanation & Q\&A Highlights
 
 1. **Granules India P/CF Quiz:** Market Cap **₹9,385 Cr** ÷ CFO **₹739 Cr** \= **\~12x–13x P/CF** (at a cyclical low) [[02:37:14](/transcripts/cc/CC_Lec06?t=9434)].  
-2. **EPC & Contractors (Sterling & Wilson, ITD Cementation, Ahluwalia Contracts):** Not fixed-asset heavy, but **working-capital heavy** (20%–25% ROCE in upcycles); value on **Market Cap to Order Book**, **P/E**, and **P/CF**—checking cash collection (Ahluwalia is nearly debt-free) 
-$$
-[02:38:02–02:39:38](/transcripts/cc/CC_Lec06?t=9482), [02:42:34–02:43:12
-$$
-(/transcripts/cc/CC_Lec06?t=9754)].  
+2. **EPC & Contractors (Sterling & Wilson, ITD Cementation, Ahluwalia Contracts):** Not fixed-asset heavy, but **working-capital heavy** (20%–25% ROCE in upcycles); value on **Market Cap to Order Book**, **P/E**, and **P/CF**—checking cash collection (Ahluwalia is nearly debt-free)  [[02:38:02–02:39:38](/transcripts/cc/CC_Lec06?t=9482), [02:42:34–02:43:12](/transcripts/cc/CC_Lec06?t=9754)].  
 3. **CAMS:** Tracks AUM growth and new client wins, but faces **declining yield** as AUM scales—explaining why it hasn't re-rated like CDSL [[02:39:38](/transcripts/cc/CC_Lec06?t=9578)].  
 4. **\>100x Trailing P/E vs. 30x–40x Forward P/E:** Requires 120%–130% earnings growth sustained for 2–3 years; verify earnings certainty before entering Stage 2 [[02:43:44](/transcripts/cc/CC_Lec06?t=9824)].  
 5. **Weekly vs. Monthly V-Stop (Tilaknagar Industries, Ujjivan):** Weekly V-Stop (5-day bars) reacts faster for earlier entries/exits but causes more frequent whipsaws; Monthly V-Stop (20–25 day bars) rides full trends. If Weekly V-Stop turns positive, check fundamentals for a new trigger [[02:44:08–02:46:09](/transcripts/cc/CC_Lec06?t=9848)].  
 6. **Sector Cycles & Froth (EMS, Defense, Agrochemicals):** EMS (120–140x P/E, except PG Electroplast at 30–40x; one stock fell ₹700 → ₹479 on earnings miss) and Defense look frothy—ride only with V-Stop. Domestic Agrochemicals sit near cycle bottoms—use Relative Strength (launching on StockScans in 15–20 days) and watch MarketSmith sector-rotation videos [[02:46:44–02:49:37](/transcripts/cc/CC_Lec06?t=10004)].  
-7. **Real Estate & Simpler Proxies (Nesco):** Favorable view on real estate cycle (Nifty Realty uptrend, promoters/FIIs bullish, retail skeptical). When a sector feels complex (e.g., VFX or PDS), find simpler stories—like **Nesco** (own land, 34x [? verify] sq. ft. commercial land bank, though no 1–2 yr catalyst) or home textiles 
-$$
-[02:50:25–02:51:52](/transcripts/cc/CC_Lec06?t=10225), [02:57:55–02:59:47
-$$
-(/transcripts/cc/CC_Lec06?t=10675)].  
+7. **Real Estate & Simpler Proxies (Nesco):** Favorable view on real estate cycle (Nifty Realty uptrend, promoters/FIIs bullish, retail skeptical). When a sector feels complex (e.g., VFX or PDS), find simpler stories—like **Nesco** (own land, 34x [? verify] sq. ft. commercial land bank, though no 1–2 yr catalyst) or home textiles  [[02:50:25–02:51:52](/transcripts/cc/CC_Lec06?t=10225), [02:57:55–02:59:47](/transcripts/cc/CC_Lec06?t=10675)].  
 8. **Manual Reverse DCF & Telegram Reports:** Manual Reverse DCF uses Excel Goal Seek (covered in Part 3); free brokerage reports available via Sikhar's Telegram group (*Learning 11 / Research Reports*) [[02:51:52–02:52:41](/transcripts/cc/CC_Lec06?t=10312)].  
 9. **SOTP, KEI, SSWL & KPIT:** SOTP works for multi-segment conglomerates (asset-heavy or light) [[02:54:56](/transcripts/cc/CC_Lec06?t=10496)]. In high-momentum stocks like **KPIT** or **KEI** (re-rated 20x → 45–50x), tighten V-Stop or use **1.5x multiplier on Monthly V-Stop / SOIC LTI** to ride momentum without getting shaken out [[02:54:56–02:57:01](/transcripts/cc/CC_Lec06?t=10496)]. For **SSWL**, stick to P/E and P/CF [[02:56:12](/transcripts/cc/CC_Lec06?t=10572)].  
 10. **Five Master Valuation Guardrails (Closing Summary):**  
-    - **PEG Ratio:** **\< 1.5x–2.0x** (1.0x–1.5x sweet spot; e.g., 18x P/E ÷ 25% growth \= 0.72x) 
-$$
-[02:59:47](/transcripts/cc/CC_Lec06?t=10787), [03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10879)].  
+    - **PEG Ratio:** **\< 1.5x–2.0x** (1.0x–1.5x sweet spot; e.g., 18x P/E ÷ 25% growth \= 0.72x)  [[02:59:47](/transcripts/cc/CC_Lec06?t=10787), [03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
     - **Price to Sales:** **\< 3.0x** [[03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
     - **P/E Ratio:** **\< 35x** [[03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
     - **Price to Cash Flow:** **\< 22x–23x** [[03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
     - **EV / EBITDA:** **\< 20x–22x** [[03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
-    - Coupon code `SOICBONUS10` for membership; Part 3 next weekend 
-$$
-[02:35:19](/transcripts/cc/CC_Lec06?t=9319), [03:01:19–03:02:01
-$$
-(/transcripts/cc/CC_Lec06?t=10879)].
+    - Coupon code `SOICBONUS10` for membership; Part 3 next weekend  [[02:35:19](/transcripts/cc/CC_Lec06?t=9319), [03:01:19–03:02:01](/transcripts/cc/CC_Lec06?t=10879)].
 
 ### c) Examples & case studies
 
-- **Example: Granules India & EPC Contractors** 
-$$
-[02:37:14–02:39:38](/transcripts/cc/CC_Lec06?t=9434), [02:42:34–02:43:12
-$$
-(/transcripts/cc/CC_Lec06?t=9754)]  
+- **Example: Granules India & EPC Contractors**  [[02:37:14–02:39:38](/transcripts/cc/CC_Lec06?t=9434), [02:42:34–02:43:12](/transcripts/cc/CC_Lec06?t=9754)]  
   - **Data/details:** Granules: ₹9,385 Cr Mcap ÷ ₹739 Cr CFO \= **\~12x–13x P/CF**. ITD Cementation & Ahluwalia Contracts: working-capital heavy, 20%–25% upcycle ROCE, valued on Mcap/Order Book, P/E, and P/CF.  
   - **Takeaway:** Match the valuation multiple to the sector's balance-sheet and cash-conversion structure.
 
@@ -633,11 +579,7 @@ None needed (Q\&A synthesis).
 ### f) Speaker's cautions & common mistakes
 
 - Using **Weekly V-Stop** without expecting more frequent whipsaw exits compared to **Monthly V-Stop** [[02:44:43–02:46:09](/transcripts/cc/CC_Lec06?t=9883)].  
-- Staying in complex businesses with too many variables (VFX, PDS) instead of switching to simpler stories 
-$$
-[02:49:37–02:50:25](/transcripts/cc/CC_Lec06?t=10177), [02:58:45–02:59:47
-$$
-(/transcripts/cc/CC_Lec06?t=10725)].
+- Staying in complex businesses with too many variables (VFX, PDS) instead of switching to simpler stories  [[02:49:37–02:50:25](/transcripts/cc/CC_Lec06?t=10177), [02:58:45–02:59:47](/transcripts/cc/CC_Lec06?t=10725)].
 
 Batch complete: 6-7.
 
@@ -648,38 +590,14 @@ Batch complete: 6-7.
 | Metric/Screen | Formula/Filter Condition | Speaker's Benchmark | When to Use | Stage | Timestamp |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Sector Return Attribution** | Share of stock return driven by sector | **60%** of total returns | Timing sector tailwinds with Relative Strength | Stage 1 | [[00:07:36–00:08:07](/transcripts/cc/CC_Lec06?t=456)] |
-| **Delayed Gratification Rule** | Holding past initial \+70%–80% gain | Use **V-Stop** (1.5x monthly multiplier for momentum) | Capturing 3–4 baggers instead of exiting early | Stage 2, 7 | 
-$$
-[00:17:12–00:18:42](/transcripts/cc/CC_Lec06?t=1032), [02:57:01
-$$
-(/transcripts/cc/CC_Lec06?t=10621)] |
+| **Delayed Gratification Rule** | Holding past initial \+70%–80% gain | Use **V-Stop** (1.5x monthly multiplier for momentum) | Capturing 3–4 baggers instead of exiting early | Stage 2, 7 |  [[00:17:12–00:18:42](/transcripts/cc/CC_Lec06?t=1032), [02:57:01](/transcripts/cc/CC_Lec06?t=10621)] |
 | **10-Yr Earnings CAGR Ceiling** | Maximum sustainable 10-yr earnings growth | **34%–35% CAGR** max | Reality-checking 70x–160x P/E expectations | Stage 3 | [[00:49:04–00:50:30](/transcripts/cc/CC_Lec06?t=2944)] |
-| **Entry P/E Comfort Zone** | Starting P/E multiple | **10x–25x** (rarely **\>35x–40x**; guardrail **\<35x**) | Avoiding multi-year de-rating traps | Stage 3, 7 | 
-$$
-[00:48:15–00:50:30](/transcripts/cc/CC_Lec06?t=2895), [03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10879)] |
-| **PEG Ratio** | $\text{P/E Ratio} \div \text{EPS Growth Rate (%)}$ | **1.0x–1.5x** sweet spot; **≤ 2.0x** entry ceiling | Growth-adjusted entry discipline (TTM or Forward) | Stage 4, 7 | 
-$$
-[01:07:54–01:09:03](/transcripts/cc/CC_Lec06?t=4074), [02:59:47–03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10787)] |
+| **Entry P/E Comfort Zone** | Starting P/E multiple | **10x–25x** (rarely **\>35x–40x**; guardrail **\<35x**) | Avoiding multi-year de-rating traps | Stage 3, 7 |  [[00:48:15–00:50:30](/transcripts/cc/CC_Lec06?t=2895), [03:01:19](/transcripts/cc/CC_Lec06?t=10879)] |
+| **PEG Ratio** | $\text{P/E Ratio} \div \text{EPS Growth Rate (%)}$ | **1.0x–1.5x** sweet spot; **≤ 2.0x** entry ceiling | Growth-adjusted entry discipline (TTM or Forward) | Stage 4, 7 |  [[01:07:54–01:09:03](/transcripts/cc/CC_Lec06?t=4074), [02:59:47–03:01:19](/transcripts/cc/CC_Lec06?t=10787)] |
 | **Enterprise Value (EV)** | $\text{Market Cap} + \text{Total Debt} - \text{Cash}$ | Total takeover price | Computing EV/EBITDA for leveraged/asset-heavy firms | Stage 5 | [[01:33:15–01:35:11](/transcripts/cc/CC_Lec06?t=5595)] |
-| **EV / EBITDA** | $\text{EV} \div \text{EBITDA}$ | **\< 20x–22x** guardrail; **30x** expensive | Valuing asset-heavy sectors (hospitals, cement, steel, hotels) & SOTP | Stage 5, 7 | 
-$$
-[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10879)] |
-| **Price to Cash Flow (P/CF)** | $\text{Market Cap} \div \text{CFO}$ | **\< 22x–23x** guardrail (e.g., Sandhar 10x; Granules 12–13x) | Spotting hidden operating leverage when P/E is high | Stage 6, 7 | 
-$$
-[02:22:26–02:26:03](/transcripts/cc/CC_Lec06?t=8546), [02:37:14](/transcripts/cc/CC_Lec06?t=9434), [03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10879)] |
-| **Price to Sales (P/S)** | $\text{Market Cap} \div \text{Annual Sales}$ | **\< 3.0x** guardrail; buy below median in cyclicals | Valuing deep cyclicals when trough P/E is infinite | Stage 6, 7 | 
-$$
-[02:26:03–02:33:31](/transcripts/cc/CC_Lec06?t=8763), [03:01:19
-$$
-(/transcripts/cc/CC_Lec06?t=10879)] |
+| **EV / EBITDA** | $\text{EV} \div \text{EBITDA}$ | **\< 20x–22x** guardrail; **30x** expensive | Valuing asset-heavy sectors (hospitals, cement, steel, hotels) & SOTP | Stage 5, 7 |  [[01:52:09](/transcripts/cc/CC_Lec06?t=6729), [01:54:22](/transcripts/cc/CC_Lec06?t=6862), [03:01:19](/transcripts/cc/CC_Lec06?t=10879)] |
+| **Price to Cash Flow (P/CF)** | $\text{Market Cap} \div \text{CFO}$ | **\< 22x–23x** guardrail (e.g., Sandhar 10x; Granules 12–13x) | Spotting hidden operating leverage when P/E is high | Stage 6, 7 |  [[02:22:26–02:26:03](/transcripts/cc/CC_Lec06?t=8546), [02:37:14](/transcripts/cc/CC_Lec06?t=9434), [03:01:19](/transcripts/cc/CC_Lec06?t=10879)] |
+| **Price to Sales (P/S)** | $\text{Market Cap} \div \text{Annual Sales}$ | **\< 3.0x** guardrail; buy below median in cyclicals | Valuing deep cyclicals when trough P/E is infinite | Stage 6, 7 |  [[02:26:03–02:33:31](/transcripts/cc/CC_Lec06?t=8763), [03:01:19](/transcripts/cc/CC_Lec06?t=10879)] |
 | **Market Cap to Order Book** | $\text{Market Cap} \div \text{Order Book}$ | Pair with P/E, P/CF & receivable collection | Valuing working-capital-heavy EPC contractors | Stage 7 | [[02:42:34–02:43:12](/transcripts/cc/CC_Lec06?t=9754)] |
 
 ---
@@ -709,22 +627,10 @@ $$
 | **Neuland Laboratories & SRF** | Pharma / Chemicals | Volatile-to-consistent re-rating (2007–2022 study); 24.5x P/E skepticism | Stage 2 | [[00:28:00–00:36:04](/transcripts/cc/CC_Lec06?t=1680)] |
 | **Usha Martin, Polycab, KEI, GPIL, JSL, Kilburn, Elecon, Tilaknagar, Pennar, Bharat Wire, Kovai** | Multi-Sector | NOS re-rating catalysts (deleveraging, sectoral tailwind, mix, Capex) | Stage 3 | [[00:41:35–00:44:16](/transcripts/cc/CC_Lec06?t=2495)] |
 | **Bajaj Finance & KPIT vs. DMart** | Financials / IT / Retail | 34% earnings \+ 10x→43x P/E \= 70% mcap CAGR; 85–90x P/E stops | Stage 3 | [[00:49:04–00:53:44](/transcripts/cc/CC_Lec06?t=2944)] |
-| **Rain Industries, Laurus Labs & Garware Hi-Tech** | Industrials / Pharma / Films | Variable complexity; $40→$5 molecule erosion; 90–91% value-added mix | Stage 4 | 
-$$
-[00:55:28–01:03:34](/transcripts/cc/CC_Lec06?t=3328), [01:11:48–01:13:54
-$$
-(/transcripts/cc/CC_Lec06?t=4308)] |
-| **Technocraft, ITC, Laurus Labs (vs. Syngene/Divi's/Lonza)** | Conglomerates / Pharma | SOTP valuation (3-biscuit analogy); 30x implied Synthesis vs. 27x Syngene | Stage 5 | 
-$$
-[01:38:18–01:50:21](/transcripts/cc/CC_Lec06?t=5898), [01:56:44–01:58:21
-$$
-(/transcripts/cc/CC_Lec06?t=7004)] |
+| **Rain Industries, Laurus Labs & Garware Hi-Tech** | Industrials / Pharma / Films | Variable complexity; $40→$5 molecule erosion; 90–91% value-added mix | Stage 4 |  [[00:55:28–01:03:34](/transcripts/cc/CC_Lec06?t=3328), [01:11:48–01:13:54](/transcripts/cc/CC_Lec06?t=4308)] |
+| **Technocraft, ITC, Laurus Labs (vs. Syngene/Divi's/Lonza)** | Conglomerates / Pharma | SOTP valuation (3-biscuit analogy); 30x implied Synthesis vs. 27x Syngene | Stage 5 |  [[01:38:18–01:50:21](/transcripts/cc/CC_Lec06?t=5898), [01:56:44–01:58:21](/transcripts/cc/CC_Lec06?t=7004)] |
 | **Apollo, Max, Narayana, Global Health, KIMS, Aster, Rainbow, HCG, Shalby** | Hospitals | Asset-heavy EV/EBITDA (\<20x cheap vs. 30x expensive); Cayman discount | Stage 5 | [[01:50:21–01:52:50](/transcripts/cc/CC_Lec06?t=6621)] |
-| **Gujarat Ambuja Exports, UltraTech, ACC, Shree, Dalmia, JK, CDSL, Bharti Airtel** | Agro / Cement / Platforms | SOTP ROCE tiers; 3.6–4.5% vs. 20% depreciation (asset-light vs. heavy) | Stage 5 | 
-$$
-[01:54:29–01:56:44](/transcripts/cc/CC_Lec06?t=6869), [02:00:14–02:03:49
-$$
-(/transcripts/cc/CC_Lec06?t=7214)] |
+| **Gujarat Ambuja Exports, UltraTech, ACC, Shree, Dalmia, JK, CDSL, Bharti Airtel** | Agro / Cement / Platforms | SOTP ROCE tiers; 3.6–4.5% vs. 20% depreciation (asset-light vs. heavy) | Stage 5 |  [[01:54:29–01:56:44](/transcripts/cc/CC_Lec06?t=6869), [02:00:14–02:03:49](/transcripts/cc/CC_Lec06?t=7214)] |
 | **SRF, Polyplex, Cosmo & Raipur Steel/Pellet Co. (GPIL)** | Chemicals / Packaging / Steel | SOTP residual EBIT (\~25x); \~1.1–1.2x 4-yr forward EV/EBITDA on 2x expansion | Stage 5 | [[02:04:30–02:14:25](/transcripts/cc/CC_Lec06?t=7470)] |
 | **IEX, MCX, BSE & IRCTC** | Exchanges | Monthly/daily volume growth driving re-rating & de-rating | Stage 6 | [[02:14:25–02:21:53](/transcripts/cc/CC_Lec06?t=8065)] |
 | **MTAR Technologies & Sandhar Technologies** | Defense / Auto Ancillaries | 66x P/E with ₹9 Cr CFO (80% 1-customer) vs. 10x P/CF operating leverage | Stage 6 | [[02:22:58–02:26:03](/transcripts/cc/CC_Lec06?t=8578)] |
@@ -736,18 +642,10 @@ $$
 ## 9\. Q\&A HIGHLIGHTS
 
 - **Granules India P/CF:** ₹9,385 Cr Mcap ÷ ₹739 Cr CFO \= **\~12x–13x P/CF** at a cyclical low [[02:37:14](/transcripts/cc/CC_Lec06?t=9434)].  
-- **EPC Contractors (Sterling & Wilson, ITD Cementation, Ahluwalia):** Working-capital heavy (20%–25% upcycle ROCE); value via **Market Cap/Order Book**, **P/E**, and **P/CF** 
-$$
-[02:38:02–02:39:38](/transcripts/cc/CC_Lec06?t=9482), [02:42:34–02:43:12
-$$
-(/transcripts/cc/CC_Lec06?t=9754)].  
+- **EPC Contractors (Sterling & Wilson, ITD Cementation, Ahluwalia):** Working-capital heavy (20%–25% upcycle ROCE); value via **Market Cap/Order Book**, **P/E**, and **P/CF**  [[02:38:02–02:39:38](/transcripts/cc/CC_Lec06?t=9482), [02:42:34–02:43:12](/transcripts/cc/CC_Lec06?t=9754)].  
 - **CAMS:** Declining yield as AUM grows explains why it hasn't re-rated like CDSL [[02:39:38](/transcripts/cc/CC_Lec06?t=9578)].  
 - **Weekly vs. Monthly V-Stop (Tilaknagar, Ujjivan):** Weekly reacts earlier (higher whipsaws); Monthly rides full trends [[02:44:08–02:46:09](/transcripts/cc/CC_Lec06?t=9848)].  
-- **Sector Froth & Real Estate (EMS, Agrochem, Nesco):** EMS (120–140x P/E) is frothy—use V-Stop; domestic agrochem is near cycle bottoms; Nesco offers a simpler own-land commercial real estate story 
-$$
-[02:46:44–02:51:52](/transcripts/cc/CC_Lec06?t=10004), [02:58:45
-$$
-(/transcripts/cc/CC_Lec06?t=10725)].  
+- **Sector Froth & Real Estate (EMS, Agrochem, Nesco):** EMS (120–140x P/E) is frothy—use V-Stop; domestic agrochem is near cycle bottoms; Nesco offers a simpler own-land commercial real estate story  [[02:46:44–02:51:52](/transcripts/cc/CC_Lec06?t=10004), [02:58:45](/transcripts/cc/CC_Lec06?t=10725)].  
 - **Momentum Multipliers (KPIT, KEI):** Use 1.5x Monthly V-Stop / SOIC LTI multiplier to ride momentum without premature exits [[02:54:56–02:57:01](/transcripts/cc/CC_Lec06?t=10496)].
 
 ---
@@ -755,16 +653,8 @@ $$
 ## 10\. CONCLUSION & NEXT STEPS
 
 - **Five Master Valuation Guardrails:** Keep **PEG \< 1.5x–2.0x**, **Price/Sales \< 3.0x**, **P/E \< 35x**, **Price/CFO \< 22x–23x**, and **EV/EBITDA \< 20x–22x** [[03:01:19](/transcripts/cc/CC_Lec06?t=10879)].  
-- **Homework & Giveaway:** Post Part 2 key learnings in the comments for the 5–6 book giveaway; watch MarketSmith's *How to Make Money in Stocks* / sector-rotation videos 
-$$
-[02:40:15](/transcripts/cc/CC_Lec06?t=9615), [02:48:52](/transcripts/cc/CC_Lec06?t=10132), [03:02:01
-$$
-(/transcripts/cc/CC_Lec06?t=10921)].  
-- **Upcoming Session:** Part 3 next weekend covering DCF, Reverse DCF (Goal Seek), Bull/Bear/Base scenarios, terminal value, and mixing valuations with technicals 
-$$
-[02:34:51–02:35:19](/transcripts/cc/CC_Lec06?t=9291), [02:51:52](/transcripts/cc/CC_Lec06?t=10312), [03:00:33
-$$
-(/transcripts/cc/CC_Lec06?t=10833)].
+- **Homework & Giveaway:** Post Part 2 key learnings in the comments for the 5–6 book giveaway; watch MarketSmith's *How to Make Money in Stocks* / sector-rotation videos  [[02:40:15](/transcripts/cc/CC_Lec06?t=9615), [02:48:52](/transcripts/cc/CC_Lec06?t=10132), [03:02:01](/transcripts/cc/CC_Lec06?t=10921)].  
+- **Upcoming Session:** Part 3 next weekend covering DCF, Reverse DCF (Goal Seek), Bull/Bear/Base scenarios, terminal value, and mixing valuations with technicals  [[02:34:51–02:35:19](/transcripts/cc/CC_Lec06?t=9291), [02:51:52](/transcripts/cc/CC_Lec06?t=10312), [03:00:33](/transcripts/cc/CC_Lec06?t=10833)].
 
 ---
 
@@ -797,16 +687,8 @@ $$
 
 ### A. Concepts Only Briefly Mentioned
 
-- **Life Insurance Valuation (Price-to-Embedded Value) & Banking P/B:** Deferred due to 2–3 hour complexity 
-$$
-[01:32:31](/transcripts/cc/CC_Lec06?t=5551), [02:34:20](/transcripts/cc/CC_Lec06?t=9260), [02:52:41
-$$
-(/transcripts/cc/CC_Lec06?t=10361)].  
-- **Manual Reverse DCF (Goal Seek) & Terminal Value:** Deferred to Part 3 
-$$
-[02:51:52](/transcripts/cc/CC_Lec06?t=10312), [03:00:33
-$$
-(/transcripts/cc/CC_Lec06?t=10833)].
+- **Life Insurance Valuation (Price-to-Embedded Value) & Banking P/B:** Deferred due to 2–3 hour complexity  [[01:32:31](/transcripts/cc/CC_Lec06?t=5551), [02:34:20](/transcripts/cc/CC_Lec06?t=9260), [02:52:41](/transcripts/cc/CC_Lec06?t=10361)].  
+- **Manual Reverse DCF (Goal Seek) & Terminal Value:** Deferred to Part 3  [[02:51:52](/transcripts/cc/CC_Lec06?t=10312), [03:00:33](/transcripts/cc/CC_Lec06?t=10833)].
 
 ### B. Items Marked `[?]`, `[? verify]` or `[? Hindi segment unclear]`
 

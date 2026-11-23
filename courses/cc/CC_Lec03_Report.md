@@ -14,46 +14,22 @@ Listen to this lecture in audio mode with synchronized text highlighting, keywor
 * **Duration:** [[00:00:03–03:50:47](/transcripts/cc/CC_Lec03?t=3)]  
 * **PPT used:** Yes (1 PDF file provided: `Lec03_CLASS_5_TECHNICAL_ANALYSIS.pdf` — assess legibility; combined with live TradingView and MarketSmith screen walkthroughs)  
 * **Prerequisites referenced:**  
-  * Classes 1 to 4 of the SOIC Crash Course: Fundamental analysis, forensic analysis, valuation frameworks, Screener.in filtration queries, and operating leverage covered in the preceding session 
-$$
-[00:06:37](/transcripts/cc/CC_Lec03?t=397), [00:11:53–00:12:29](/transcripts/cc/CC_Lec03?t=713), [00:54:59–00:55:30](/transcripts/cc/CC_Lec03?t=3299), [02:00:37
-$$
-(/transcripts/cc/CC_Lec03?t=7237)].  
-  * SOIC L4 & L5 Technical Analysis Modules: Referenced for advanced backtesting of multi-indicator entry/exit setups 
-$$
-[00:07:08–00:08:27](/transcripts/cc/CC_Lec03?t=428), [03:31:45–03:33:39
-$$
-(/transcripts/cc/CC_Lec03?t=12705)].
+  * Classes 1 to 4 of the SOIC Crash Course: Fundamental analysis, forensic analysis, valuation frameworks, Screener.in filtration queries, and operating leverage covered in the preceding session  [[00:06:37](/transcripts/cc/CC_Lec03?t=397), [00:11:53–00:12:29](/transcripts/cc/CC_Lec03?t=713), [00:54:59–00:55:30](/transcripts/cc/CC_Lec03?t=3299), [02:00:37](/transcripts/cc/CC_Lec03?t=7237)].  
+  * SOIC L4 & L5 Technical Analysis Modules: Referenced for advanced backtesting of multi-indicator entry/exit setups  [[00:07:08–00:08:27](/transcripts/cc/CC_Lec03?t=428), [03:31:45–03:33:39](/transcripts/cc/CC_Lec03?t=12705)].
 
 ---
 
 ### 2\. KEY LEARNINGS
 
-* **Division of Labor Between Fundamentals and Technicals:** Fundamental analysis dictates *what* to buy (evaluating business quality, forensic integrity, and valuation), whereas technical analysis dictates *when* to buy, *when* to exit, and how to screen stocks by tracking institutional demand-supply footprints and market "social proof" 
-$$
-[00:11:53–00:15:42](/transcripts/cc/CC_Lec03?t=713), [01:01:27–01:02:02
-$$
-(/transcripts/cc/CC_Lec03?t=3687)].  
+* **Division of Labor Between Fundamentals and Technicals:** Fundamental analysis dictates *what* to buy (evaluating business quality, forensic integrity, and valuation), whereas technical analysis dictates *when* to buy, *when* to exit, and how to screen stocks by tracking institutional demand-supply footprints and market "social proof"  [[00:11:53–00:15:42](/transcripts/cc/CC_Lec03?t=713), [01:01:27–01:02:02](/transcripts/cc/CC_Lec03?t=3687)].  
 * **Price-Volume Duality & The Four Price-Volume Regimes:** Price acts as the **trend former**, while volume acts as the **weight of the evidence** gauging buyer/seller conviction [[00:19:39–00:21:56](/transcripts/cc/CC_Lec03?t=1179)]. The four core regimes are: (1) Price $\uparrow$ \+ Volume $\uparrow$ \= Strong uptrend (bullish institutional accumulation); (2) Price $\uparrow$ \+ Volume $\downarrow$ \= Weakening uptrend (lack of further demand); (3) Price $\downarrow$ \+ Volume $\uparrow$ \= Strong downtrend (institutional dumping where sellers exit at any price); (4) Price $\downarrow$ \+ Volume $\downarrow$ \= Weakening downtrend [[00:41:45–00:42:32](/transcripts/cc/CC_Lec03?t=2505)].  
-* **Selling Climax ("Ditch") & Change of Character:** When a stock in a multi-quarter downtrend experiences a multi-year or lifetime high volume spike (selling climax / "ditch" where weak hands capitulate in one go) followed by a green weekly close or low-volume sideways consolidation, it marks a "change in character" and potential bottoming out (e.g., Sudarshan Chemical Industries with largest public shareholder raising stake from 3% to \~8%, Gland Pharma, and Aarti Industries) 
-$$
-[00:31:56–00:36:28](/transcripts/cc/CC_Lec03?t=1916), [00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [03:30:15–03:31:02
-$$
-(/transcripts/cc/CC_Lec03?t=12615)].  
+* **Selling Climax ("Ditch") & Change of Character:** When a stock in a multi-quarter downtrend experiences a multi-year or lifetime high volume spike (selling climax / "ditch" where weak hands capitulate in one go) followed by a green weekly close or low-volume sideways consolidation, it marks a "change in character" and potential bottoming out (e.g., Sudarshan Chemical Industries with largest public shareholder raising stake from 3% to \~8%, Gland Pharma, and Aarti Industries)  [[00:31:56–00:36:28](/transcripts/cc/CC_Lec03?t=1916), [00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [03:30:15–03:31:02](/transcripts/cc/CC_Lec03?t=12615)].  
 * **Nine Fundamental Growth Catalysts & Inversion Rule for Selling:** Multi-bagger chart trends are powered by 8–9 fundamental earnings catalysts: new product introduction (Varun Beverages' Sting energy drink and ₹10–20 packs; APL Apollo's high-diameter tubes), geographic expansion, end-user industry Capex (TD Power Systems expanding OPM from 7% to 16%), client mining (Newgen Software), market share capture, industry tailwinds (Titagarh/Jupiter Wagons), new brand introduction, distribution expansion (ADF Foods), and value-accretive acquisitions below replacement cost (Steel Strips Wheels acquiring AMW Auto Components via NCLT for ₹138–150 crore vs ₹400–500 crore replacement cost; AGI Greenpac acquiring HNG at \~1/3rd replacement value). Inverting these catalysts provides fundamental exit triggers [[00:51:16–01:00:20](/transcripts/cc/CC_Lec03?t=3076)].  
 * **The 60% Sector Tailwind Rule & Robert Levy's Relative Strength Study:** Approximately 60% of a stock's price return is driven purely by its sector trend ("a strong horse in front of headwinds will go sideways or fall down, whereas even a broken-down horse will start running in tailwinds") [[01:20:12–01:23:09](/transcripts/cc/CC_Lec03?t=4812)]. Citing Robert A. Levy's *Journal of Finance* study, the top 10% strongest relative strength stocks appreciated by an average of 9.6% over the subsequent 26-week period compared to just 2.9% for the weakest 10% [[01:18:10–01:19:33](/transcripts/cc/CC_Lec03?t=4690)].  
-* **Relative Strength (RS) Configuration & Lookback Timeframes:** Using the Relative Strength (Modulus) indicator benchmarked against `NSE:CNX500` (Nifty 500), readings **\> 0** indicate outperformance [[01:24:14–01:27:25](/transcripts/cc/CC_Lec03?t=5054)]. Optimal lookback periods are **3 or 6 months** (max 12\) on monthly charts, **13 or 26 weeks** (or **6–7 weeks** for advanced early inflection detection) on weekly charts, and **30, 61–62, or 123 days** on daily charts; complemented by MarketSmith India RS Rating ($\ge 80$ on Growth 50, or $\ge 75$ on the Blue Dot list) 
-$$
-[01:47:43–01:48:13](/transcripts/cc/CC_Lec03?t=6463), [01:50:31–02:01:21
-$$
-(/transcripts/cc/CC_Lec03?t=6631)].  
+* **Relative Strength (RS) Configuration & Lookback Timeframes:** Using the Relative Strength (Modulus) indicator benchmarked against `NSE:CNX500` (Nifty 500), readings **\> 0** indicate outperformance [[01:24:14–01:27:25](/transcripts/cc/CC_Lec03?t=5054)]. Optimal lookback periods are **3 or 6 months** (max 12\) on monthly charts, **13 or 26 weeks** (or **6–7 weeks** for advanced early inflection detection) on weekly charts, and **30, 61–62, or 123 days** on daily charts; complemented by MarketSmith India RS Rating ($\ge 80$ on Growth 50, or $\ge 75$ on the Blue Dot list)  [[01:47:43–01:48:13](/transcripts/cc/CC_Lec03?t=6463), [01:50:31–02:01:21](/transcripts/cc/CC_Lec03?t=6631)].  
 * **Parabolic / "Eiffel Tower" Momentum Exit Rules (10-Week EMA & 200-Day EMA Extension):** When a stock surges 2x–6x rapidly into a vertical "Eiffel Tower" (*Khamba*) structure, protect gains using the **10-week Exponential Moving Average (EMA)** (selling 50% on the first breakdown and 100% on the second breakdown, e.g., IEX at ₹256–257, IRCTC at ₹826) or exit immediately when daily price stretches **\>80% to 100%+ above the 200-day EMA** on climax volume (e.g., IRCTC at ₹1,200 vs ₹500 200-DMA; Balaji Amines at 103% above 200-DMA) [[02:35:11–02:42:00](/transcripts/cc/CC_Lec03?t=9311)].  
 * **Core Long-Term Trend Exit Framework (30-Week EMA & Volatility Stop / V-Stop):** Never become a "Forced Long-Term Investor" (FLT) enduring 60–80% drawdowns (e.g., Laurus Labs falling 60%+ from ₹700+ peak to ₹288) [[02:42:40–02:44:34](/transcripts/cc/CC_Lec03?t=9760)]. Combine the **30-week EMA** with the **Volatility Stop (V-Stop)** set to **Length \= 10, Multiplier \= 2.0** (or **2.5** for high-conviction positions; optionally 5 or 15 on weekly charts) on weekly and monthly charts, exiting 50% when V-Stop turns red and the remaining 50% when the 30-week EMA breaks down [[03:07:22–03:16:13](/transcripts/cc/CC_Lec03?t=11242)].  
-* **Circle of Expectations, Stage Analysis & The 88% Cycle-Winner Rule:** Stocks progress through the Circle of Expectations (Neglect/Contrarian → Positive Surprise → Estimate Upgrades → EPS Momentum → Growth Torpedoed → Negative Surprise → FLT/Neglect) [[02:50:29–02:55:15](/transcripts/cc/CC_Lec03?t=10229)] and Stan Weinstein's 4 Stages (Stage 1 Base/Darvas Box → Stage 2 Advancing Markup → Stage 3 Distribution Top → Stage 4 Declining Markdown; **strict rule: never buy a stock in Stage 4**) 
-$$
-[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [02:56:38–03:05:14
-$$
-(/transcripts/cc/CC_Lec03?t=10598)]. Empirically, **88% of winners from the previous bull cycle do not lead the next cycle** and take an average of **4 to 5 years** to make a comeback (e.g., Tata Elxsi, IIFL Finance from 2018 to 2022\) [[03:13:20–03:14:34](/transcripts/cc/CC_Lec03?t=11600)].  
+* **Circle of Expectations, Stage Analysis & The 88% Cycle-Winner Rule:** Stocks progress through the Circle of Expectations (Neglect/Contrarian → Positive Surprise → Estimate Upgrades → EPS Momentum → Growth Torpedoed → Negative Surprise → FLT/Neglect) [[02:50:29–02:55:15](/transcripts/cc/CC_Lec03?t=10229)] and Stan Weinstein's 4 Stages (Stage 1 Base/Darvas Box → Stage 2 Advancing Markup → Stage 3 Distribution Top → Stage 4 Declining Markdown; **strict rule: never buy a stock in Stage 4**)  [[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [02:56:38–03:05:14](/transcripts/cc/CC_Lec03?t=10598)]. Empirically, **88% of winners from the previous bull cycle do not lead the next cycle** and take an average of **4 to 5 years** to make a comeback (e.g., Tata Elxsi, IIFL Finance from 2018 to 2022\) [[03:13:20–03:14:34](/transcripts/cc/CC_Lec03?t=11600)].  
 * **Multi-Indicator Buying Setup & Pyramiding Rules:** Initiate Stage 2 long-term entries when four weekly conditions align simultaneously: (1) Price above an upward-sloping **30-week EMA**, (2) **RS (Modulus vs Nifty 500\) \> 0**, (3) **Weekly RSI \> 50**, and (4) **ADX \> 20** confirming breakout from consolidation (automated inside the SOIC LTI tool) [[03:31:45–03:34:18](/transcripts/cc/CC_Lec03?t=12705)]. Pyramid into winning positions using **Donchian Channels (Length \= 20\)** when candles pierce the upper band on new higher highs, or **Parabolic SAR (Step \= 0.02, Max \= 0.2)** when dots flip positive [[03:42:00–03:45:33](/transcripts/cc/CC_Lec03?t=13320)].
 
 ---
@@ -112,9 +88,11 @@ Stage 4: Multi-Timeframe Candlesticks (Monthly/Weekly/Daily) & 4 Price-Volume Re
 ## CC-Lec03 – Stage 1: Session Orientation, Scope & Why Long-Term Investors Struggle with Exits [[00:00:03–00:08:53](/transcripts/cc/CC_Lec03?t=3)]
 
 
-$$
+$
+
 [00:00:03–00:06:37: non-content segment — session welcome](/transcripts/cc/CC_Lec03?t=3), comment check, Navaratri greetings, crash course recording & SOIC membership logistics, global and domestic attendee roll-call across Ireland, London, Jammu, Doha, Bangalore, Punjab, Solapur Maharashtra (noting Balaji Amines' \["Balaji Main's" \[?
-$$
+$
+
 \] plant near Solapur), Japan, Sydney/Australia, Canada, Portugal, Saudi Arabia, South Korea, Warangal, Hyderabad, Telangana, and Delhi, waiting for tribe members to join, Cricket World Cup match win mention, and bilingual Hindi/English delivery note\].
 
 ### a) What this stage answers
@@ -220,17 +198,9 @@ Equity markets operate on a powerful **voting element** or **social proof elemen
 
 #### The Ultimate Auction Market Law: Demand and Supply
 
-Why do sector fancies and stock prices move so violently? Because the stock market is an **auction market**, and *"the ultimate fundamental in any auction marketplace is the law of demand and supply. Technical analysis is the study of demand and supply which inevitably ends up impacting the price"* 
-$$
-[00:15:42–00:16:35](/transcripts/cc/CC_Lec03?t=942), [00:17:23–00:18:56
-$$
-(/transcripts/cc/CC_Lec03?t=1043)] [Slide 5: image not legible — content taken from transcript]:
+Why do sector fancies and stock prices move so violently? Because the stock market is an **auction market**, and *"the ultimate fundamental in any auction marketplace is the law of demand and supply. Technical analysis is the study of demand and supply which inevitably ends up impacting the price"*  [[00:15:42–00:16:35](/transcripts/cc/CC_Lec03?t=942), [00:17:23–00:18:56](/transcripts/cc/CC_Lec03?t=1043)] [Slide 5: image not legible — content taken from transcript]:
 
-* **Excess Demand over Fixed Supply (Demand \> Supply → Price Up):** When buyers urgently compete for scarce inventory, prices surge parabolically regardless of "official" intrinsic value—illustrated by black-market pricing of COVID-19 treatment injections and oxygen cylinders during the pandemic wave 
-$$
-[00:15:42–00:16:35](/transcripts/cc/CC_Lec03?t=942), [00:17:23–00:18:09
-$$
-(/transcripts/cc/CC_Lec03?t=1043)].  
+* **Excess Demand over Fixed Supply (Demand \> Supply → Price Up):** When buyers urgently compete for scarce inventory, prices surge parabolically regardless of "official" intrinsic value—illustrated by black-market pricing of COVID-19 treatment injections and oxygen cylinders during the pandemic wave  [[00:15:42–00:16:35](/transcripts/cc/CC_Lec03?t=942), [00:17:23–00:18:09](/transcripts/cc/CC_Lec03?t=1043)].  
 * **Excess Supply over Collapsing Demand (Supply \> Demand → Price Down):** When fear or negative sentiment causes buyers to vanish while supply floods the market, prices crash vertically—illustrated by the collapse in domestic chicken and egg prices when early pandemic rumors falsely claimed COVID-19 spread through non-vegetarian food [[00:16:35–00:18:56](/transcripts/cc/CC_Lec03?t=995)].
 
 ### c) Examples & case studies
@@ -299,11 +269,7 @@ To explain why a stock cannot sustain an upward breakout without heavy trading v
 
 Retail investors buying a few hundred shares cannot generate massive multi-year volume spikes on a weekly chart. Therefore, extreme volume bars serve as an X-ray of institutional (**"smart money"**) activity [[00:20:25–00:25:18](/transcripts/cc/CC_Lec03?t=1225)] [Slide 8: image not legible — content taken from transcript]:
 
-1. **Institutional Accumulation (Smart Money Entering):** When a stock breaks out of a base and takes off accompanied by towering green volume bars at the bottom of the chart, it proves institutional funds are aggressively accumulating shares 
-$$
-[00:21:11–00:21:56](/transcripts/cc/CC_Lec03?t=1271), [00:23:51–00:25:18
-$$
-(/transcripts/cc/CC_Lec03?t=1431)].  
+1. **Institutional Accumulation (Smart Money Entering):** When a stock breaks out of a base and takes off accompanied by towering green volume bars at the bottom of the chart, it proves institutional funds are aggressively accumulating shares  [[00:21:11–00:21:56](/transcripts/cc/CC_Lec03?t=1271), [00:23:51–00:25:18](/transcripts/cc/CC_Lec03?t=1431)].  
 2. **Institutional Distribution (Smart Money Exiting):** Conversely, when a stock breaks down on a **2-year high red volume bar** (illustrated via **Aarti Industries**), it proves smart money has taken an exit and will only reconsider the stock after a prolonged consolidation [[00:21:56–00:23:51](/transcripts/cc/CC_Lec03?t=1316)].
 
 #### The Psychology of Low-Volume Sideways Consolidation
@@ -318,11 +284,7 @@ What happens *after* an initial institutional thrust moves a stock higher and th
 Every technical indicator is ultimately a derivative of price and volume [[00:31:56–00:32:43](/transcripts/cc/CC_Lec03?t=1916)]. When analyzing a primary downtrend (1 to 2 years) on a clean weekly chart with all moving averages removed (illustrated via **Sudarshan Chemical Industries**):
 
 1. **Defining a Downtrend via Lower Highs:** A stock is in a confirmed downtrend when each subsequent rally peak forms a **lower high** than the previous peak (demonstrated by drawing a descending trendline across four consecutive lower highs) [[00:32:43–00:33:55](/transcripts/cc/CC_Lec03?t=1963)].  
-2. **The Selling Climax ("Parabolic Sell-Off") & Change of Character:** If a stock in a multi-quarter primary downtrend suddenly prints a **multi-year or lifetime high volume bar** (such as the **21st August** volume spike in Sudarshan Chemical Industries) and closes in green or refuses to break lower, it signals a **selling climax** and a **change in character** of the chart 
-$$
-[00:31:04–00:32:43](/transcripts/cc/CC_Lec03?t=1864), [00:33:55–00:34:37
-$$
-(/transcripts/cc/CC_Lec03?t=2035)].  
+2. **The Selling Climax ("Parabolic Sell-Off") & Change of Character:** If a stock in a multi-quarter primary downtrend suddenly prints a **multi-year or lifetime high volume bar** (such as the **21st August** volume spike in Sudarshan Chemical Industries) and closes in green or refuses to break lower, it signals a **selling climax** and a **change in character** of the chart  [[00:31:04–00:32:43](/transcripts/cc/CC_Lec03?t=1864), [00:33:55–00:34:37](/transcripts/cc/CC_Lec03?t=2035)].  
 3. **Connecting Volume Anomalies to Fundamental Probabilistic Work:** A selling climax volume bar forces the analyst to investigate what changed fundamentally [[00:34:37–00:36:28](/transcripts/cc/CC_Lec03?t=2077)]. Checking Sudarshan Chemical's shareholding disclosures revealed that **the company's largest public shareholder increased their stake from 3% to almost 8%** right into that selling climax [[00:34:37–00:35:30](/transcripts/cc/CC_Lec03?t=2077)]. Although a cyclical chemical stock (*"cycles in the Amesha Ghumera"* — *hamesha ghumega* / always moves in cycles) is not immediately out of the woods while sector headwinds persist, the climax candle marks where strong institutional hands absorbed panic selling, turning that price zone into a major long-term support level [[00:35:30–00:36:28](/transcripts/cc/CC_Lec03?t=2130)].
 
 ### c) Examples & case studies
@@ -388,11 +350,7 @@ B. Downtrend Selling Climax & Character Change (e.g., Sudarshan Chemical):
 
 ## CC-Lec03 – Stage 4: Chart Timeframes (Monthly, Quarterly, Weekly, Daily) & The 4 Price-Volume Scenarios [[00:36:28–00:51:16](/transcripts/cc/CC_Lec03?t=2188)] [TVGP: Promoter]
 
-
-$$
-[00:49:55–00:50:45: non-content segment — instructor requesting participants to hold Q\&A questions until the end of the session to preserve teaching flow
-$$
-(/transcripts/cc/CC_Lec03?t=2995)].
+ [[00:49:55–00:50:45: non-content segment — instructor requesting participants to hold Q\&A questions until the end of the session to preserve teaching flow](/transcripts/cc/CC_Lec03?t=2995)].
 
 ### a) What this stage answers
 
@@ -409,11 +367,7 @@ Before applying exit indicators, an investor must understand what a single candl
 * **Matching Timeframes to Investor Horizons:** Long-term investors must ignore noisy intraday charts (1-minute, 1-hour, or 5-hour charts) and focus on four structural timeframes [[00:36:28–00:40:55](/transcripts/cc/CC_Lec03?t=2188)]:  
   1. **Monthly Charts (Primary Trend for Ultra-Long-Term Investors):** One candle represents an entire calendar month of trading. Monthly charts filter out short-term noise and reveal whether the multi-year **primary trend** remains intact [[00:37:02–00:38:48](/transcripts/cc/CC_Lec03?t=2222)].  
   2. **3-Month / Quarterly Charts (Earnings-Aligned Trend):** One candle represents a full 3-month quarter, mapping directly onto quarterly corporate earnings cycles. In **Varun Beverages**, viewing the 3-month chart post-2020 reveals an unbroken sequence of green quarterly candles backed by surging post-COVID institutional buying volume as quarterly results repeatedly surprised the street [[00:39:13–00:39:47](/transcripts/cc/CC_Lec03?t=2353)].  
-  3. **Weekly Charts (Secondary Trend for Long/Medium-Term Investors):** One candle represents 5 trading days (Monday through Friday, e.g., the week of 22nd May followed by the week of 29th May). Weekly charts strip away daily volatility and serve as the core workhorse for tracking the **secondary trend** 
-$$
-[00:38:11–00:38:48](/transcripts/cc/CC_Lec03?t=2291), [00:43:06–00:43:42
-$$
-(/transcripts/cc/CC_Lec03?t=2586)].  
+  3. **Weekly Charts (Secondary Trend for Long/Medium-Term Investors):** One candle represents 5 trading days (Monday through Friday, e.g., the week of 22nd May followed by the week of 29th May). Weekly charts strip away daily volatility and serve as the core workhorse for tracking the **secondary trend**  [[00:38:11–00:38:48](/transcripts/cc/CC_Lec03?t=2291), [00:43:06–00:43:42](/transcripts/cc/CC_Lec03?t=2586)].  
   4. **Daily Charts (Granular Secondary Execution):** One candle represents a single trading session—for example, on **13th October**, a daily candle shows a day's low of **₹911**, a day's high of **₹932**, and a closing price of **₹929.50** [[00:39:47–00:40:55](/transcripts/cc/CC_Lec03?t=2387)].
 
 #### The Four Core Price-Volume Regimes
@@ -441,11 +395,7 @@ Why must fundamental investors master their own technical exit rules instead of 
   * By **April**, after the stock had already fallen to **₹3,100**, the brokerage belatedly cut its target price.  
   * When the stock fell further to **₹3,000** and reported poor quarterly earnings, the brokerage adjusted its target price to **₹3,700**; even when the market price collapsed to **₹2,644**, the published target price still sat at **₹3,700**.  
   * Only after the collapse was complete did the brokerage slash its target price down to **₹2,500 (2.5K)** [[00:48:20–00:49:47](/transcripts/cc/CC_Lec03?t=2900)].  
-* Because nobody else is accountable for a retail investor's hard-earned capital, investors must think independently and execute objective exit strategies rather than anchoring to sell-side target prices 
-$$
-[00:48:20–00:48:59](/transcripts/cc/CC_Lec03?t=2900), [00:50:36–00:51:16
-$$
-(/transcripts/cc/CC_Lec03?t=3036)].
+* Because nobody else is accountable for a retail investor's hard-earned capital, investors must think independently and execute objective exit strategies rather than anchoring to sell-side target prices  [[00:48:20–00:48:59](/transcripts/cc/CC_Lec03?t=2900), [00:50:36–00:51:16](/transcripts/cc/CC_Lec03?t=3036)].
 
 ### c) Examples & case studies
 
@@ -463,11 +413,7 @@ $$
 * **Walkthrough:** On the daily chart for 13th October, the lower wick extends down to ₹911, the upper wick reaches ₹932, and the candle body closes near the top of the daily range at ₹929.50.  
 * **Takeaway:** Each candle visually summarizes the tug-of-war between buyers and sellers over its designated timeframe (1 day, 1 week, 1 month, or 3 months).
 
-#### Gland Pharma (*"land far one" / "Land Farm"*) Selling Climax ("Ditch") & Brokerage Target Cuts 
-$$
-[00:43:06–00:45:58](/transcripts/cc/CC_Lec03?t=2586), [00:48:20–00:49:47
-$$
-(/transcripts/cc/CC_Lec03?t=2900)] [Slide 13–14: image not legible — content taken from transcript]
+#### Gland Pharma (*"land far one" / "Land Farm"*) Selling Climax ("Ditch") & Brokerage Target Cuts  [[00:43:06–00:45:58](/transcripts/cc/CC_Lec03?t=2586), [00:48:20–00:49:47](/transcripts/cc/CC_Lec03?t=2900)] [Slide 13–14: image not legible — content taken from transcript]
 
 * **Context:** Illustrating (1) Scenario 3 downtrend volume culminating in a selling climax ("ditch") and bottoming character change, and (2) the failure of sell-side brokerage target prices during a crash.  
 * **Data/details:** Post-IPO low-float stock; red volume bars expanding on down weeks; massive capitulation volume bar ("ditch") followed by green volume bottoming bar; stock price fell from **₹3,600–₹3,700** (October) → **₹3,100** (April) → **₹3,000** → **₹2,644**, while brokerage target prices lagged at **₹3,700** before finally being cut to **₹2,500 (2.5K)**.  
@@ -514,9 +460,11 @@ Batch complete: 1-4.
 ## CC-Lec03 – Stage 5: The 9 Fundamental Catalysts Driving Charts & Inverting Catalysts for Exits [[00:51:16–01:08:58](/transcripts/cc/CC_Lec03?t=3076)] [TVGP: Growth]
 
 
-$$
+$
+
 [01:02:40–01:08:58: non-content segment — 2-to-3 minute water and coffee break scheduled to resume at 2:10 PM](/transcripts/cc/CC_Lec03?t=3760), followed by post-break audio check and reminder for advanced students to remain considerate of beginners
-$$
+$
+
 .
 
 ### a) What this stage answers
@@ -527,11 +475,7 @@ What are the eight to nine core fundamental earnings catalysts that power multi-
 
 #### Why Fundamental Catalysts Underpin Technical Breakouts [TVGP: Growth]
 
-While technical analysis governs entry and exit timing (see Stages 2–4), a stock chart cannot sustain a multi-year upward trajectory without an underlying fundamental engine [[00:51:16–00:51:46](/transcripts/cc/CC_Lec03?t=3076)] [Slide 15: image not legible — content taken from transcript]. Speaker's view: Apart from **eight to nine specific fundamental drivers**, there are no other structural reasons for a company's earnings to accelerate 
-$$
-[00:51:16–00:51:46](/transcripts/cc/CC_Lec03?t=3076), [00:58:48–00:59:31
-$$
-(/transcripts/cc/CC_Lec03?t=3528)]. Fundamental business changes drive earnings acceleration, and the market's shifting **earnings perception** creates the demand-supply imbalance that propels the stock chart [[00:53:32–00:54:10](/transcripts/cc/CC_Lec03?t=3212)].
+While technical analysis governs entry and exit timing (see Stages 2–4), a stock chart cannot sustain a multi-year upward trajectory without an underlying fundamental engine [[00:51:16–00:51:46](/transcripts/cc/CC_Lec03?t=3076)] [Slide 15: image not legible — content taken from transcript]. Speaker's view: Apart from **eight to nine specific fundamental drivers**, there are no other structural reasons for a company's earnings to accelerate  [[00:51:16–00:51:46](/transcripts/cc/CC_Lec03?t=3076), [00:58:48–00:59:31](/transcripts/cc/CC_Lec03?t=3528)]. Fundamental business changes drive earnings acceleration, and the market's shifting **earnings perception** creates the demand-supply imbalance that propels the stock chart [[00:53:32–00:54:10](/transcripts/cc/CC_Lec03?t=3212)].
 
 #### The Nine Fundamental Growth Catalysts
 
@@ -551,11 +495,7 @@ Every major chart breakout traces back to one or more of the following nine fund
 
 Speaker's view: Retail investors frequently fall into the trap of believing their stock is a unique "consistent compounder" that will rise forever [[00:56:17–00:56:47](/transcripts/cc/CC_Lec03?t=3377)]. In reality, **every company goes through alternating patches of growth and patches of sideways or downward trends**, and sometimes a stock fails to deliver returns for **5 to 6 years** (*"5-1 salni milti"* [? Hindi segment unclear]) [[00:56:17–00:56:47](/transcripts/cc/CC_Lec03?t=3377)].
 
-By **inverting the nine fundamental catalysts**, an investor obtains clear fundamental exit reasons (which often materialize after holding a stock for 4 to 5 years) 
-$$
-[00:56:17–00:56:47](/transcripts/cc/CC_Lec03?t=3377), [00:59:31–01:00:55
-$$
-(/transcripts/cc/CC_Lec03?t=3571)] [Slide 18: image not legible — content taken from transcript]:
+By **inverting the nine fundamental catalysts**, an investor obtains clear fundamental exit reasons (which often materialize after holding a stock for 4 to 5 years)  [[00:56:17–00:56:47](/transcripts/cc/CC_Lec03?t=3377), [00:59:31–01:00:55](/transcripts/cc/CC_Lec03?t=3571)] [Slide 18: image not legible — content taken from transcript]:
 
 - **End-User Industry Slowdown:** When the customer industry decelerates—such as the ongoing slowdown in **Large-Cap IT**—the stock market acts as a forward-looking **discounting machine** and prices in the slowdown well before consensus acknowledges it [[00:59:31–00:59:50](/transcripts/cc/CC_Lec03?t=3571)].  
 - **Competitor Capex / Supply Glut Destroying Margins:** When a major industrial group announces massive competing capacity—such as **Haldia Petrochemicals** (*"Haldiyah group" / "Petrochem group"*) announcing a **₹3,000 crore phenol Capex** plant that directly threatens **Deepak Nitrite's** phenol dominance—the original growth thesis inverts into a structural selling trigger [[00:59:50–01:00:20](/transcripts/cc/CC_Lec03?t=3590)].
@@ -705,11 +645,7 @@ To prove that relative strength is not random chart folklore, the speaker presen
 
 #### The 60% Sector Tailwind Rule & The Horse-in-Wind Maxim [TVGP: Theme]
 
-Why do stocks move in synchronized waves? Empirical research proves that **60% of a stock's price return (or weakness) is purely a function of how its sector is performing** 
-$$
-[01:20:12–01:21:07](/transcripts/cc/CC_Lec03?t=4812), [01:23:09–01:23:46
-$$
-(/transcripts/cc/CC_Lec03?t=4989)] [Slide 24–25: image not legible — content taken from transcript].
+Why do stocks move in synchronized waves? Empirical research proves that **60% of a stock's price return (or weakness) is purely a function of how its sector is performing**  [[01:20:12–01:21:07](/transcripts/cc/CC_Lec03?t=4812), [01:23:09–01:23:46](/transcripts/cc/CC_Lec03?t=4989)] [Slide 24–25: image not legible — content taken from transcript].
 
 The speaker encapsulates this in a golden maxim that must be memorized:
 
@@ -747,11 +683,7 @@ Across the Indian equity market over the past three years, entire sector cohorts
 - **Walkthrough:** On both market rally days, Stock B gains more than double Stock A (+50% vs \+20%, and \+28% vs \+10%). On the market correction day, Stock B loses less than half as much as Stock A (-6.7% vs \-16.7%).  
 - **Takeaway:** High-RS stocks compound faster because they capture outsized upside on bullish days while resisting drawdowns on bearish days.
 
-#### Robert A. Levy (1967) *Journal of Finance* 26-Week US Equity Study 
-$$
-[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [01:18:10–01:20:12
-$$
-(/transcripts/cc/CC_Lec03?t=4690)] [Slide 23: image not legible — content taken from transcript]
+#### Robert A. Levy (1967) *Journal of Finance* 26-Week US Equity Study  [[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [01:18:10–01:20:12](/transcripts/cc/CC_Lec03?t=4690)] [Slide 23: image not legible — content taken from transcript]
 
 - **Context:** Academic empirical validation of relative strength as an investment selection criterion.  
 - **Data/details:** Sample: All listed US stocks; Forward holding period: **26 weeks (6 months)**; Top 10% strongest RS stocks gained **\+9.6%** (average score **90.8** [? verify]) vs. Bottom 10% weakest RS stocks gaining only **\+2.9%**.  
@@ -778,11 +710,7 @@ $$
 | :---: | :---: | :---: | :---: | :---: |
 | **Levy 26-Week Top-Decile RS Return** | Mean 26-week forward return of top 10% strongest RS stocks vs. bottom 10% weakest RS stocks | **\+9.6%** (Top 10% RS) vs. **\+2.9%** (Bottom 10% RS) over **26 weeks** | Establishes 26 weeks (6 months) as the foundational lookback period for RS | [[01:18:10–01:19:33](/transcripts/cc/CC_Lec03?t=4690)] |
 | **Multi-Bagger Master Equation** | Increasing Relative Strength \+ Improving Fundamentals | Both conditions present simultaneously | Core formula for identifying multi-bagger equities | [[01:19:33–01:20:12](/transcripts/cc/CC_Lec03?t=4773)] |
-| **Sector Return Contribution Rule** | Proportion of individual stock price return attributable to sector movement | **60%** of total stock return / weakness | Explains why a strong stock stagnates in sector headwinds while weak stocks rally in sector tailwinds | 
-$$
-[01:20:12–01:21:07](/transcripts/cc/CC_Lec03?t=4812), [01:23:09–01:23:46
-$$
-(/transcripts/cc/CC_Lec03?t=4989)] |
+| **Sector Return Contribution Rule** | Proportion of individual stock price return attributable to sector movement | **60%** of total stock return / weakness | Explains why a strong stock stagnates in sector headwinds while weak stocks rally in sector tailwinds |  [[01:20:12–01:21:07](/transcripts/cc/CC_Lec03?t=4812), [01:23:09–01:23:46](/transcripts/cc/CC_Lec03?t=4989)] |
 
 ### e) Visual aid
 
@@ -798,11 +726,7 @@ $$
 
 ### f) Speaker's cautions & common mistakes
 
-- **Fighting sector headwinds in a "great company":** Because 60% of a stock's movement is sector-driven, holding a fundamentally strong horse in front of sector headwinds still results in sideways stagnation or drawdowns 
-$$
-[01:20:12–01:20:55](/transcripts/cc/CC_Lec03?t=4812), [01:22:45–01:23:46
-$$
-(/transcripts/cc/CC_Lec03?t=4965)].  
+- **Fighting sector headwinds in a "great company":** Because 60% of a stock's movement is sector-driven, holding a fundamentally strong horse in front of sector headwinds still results in sideways stagnation or drawdowns  [[01:20:12–01:20:55](/transcripts/cc/CC_Lec03?t=4812), [01:22:45–01:23:46](/transcripts/cc/CC_Lec03?t=4965)].  
 - **Ignoring academic research in technical analysis:** Treating relative strength as arbitrary chart lines rather than studying foundational empirical research (such as Levy's 26-week study) causes investors to miss the statistical persistence of strong trends [[01:18:53–01:19:33](/transcripts/cc/CC_Lec03?t=4733)].
 
 ---
@@ -817,23 +741,11 @@ How do you configure the Relative Strength (Modulus) indicator on TradingView ac
 
 #### Step-by-Step Configuration of Relative Strength (Modulus) on TradingView
 
-To plot true comparative relative strength on TradingView (free tier supports 1–2 indicators without a paid subscription [[01:49:09–01:49:30](/transcripts/cc/CC_Lec03?t=6549)]), follow this exact setup 
-$$
-[01:23:46–01:28:15](/transcripts/cc/CC_Lec03?t=5026), [01:30:09–01:30:51](/transcripts/cc/CC_Lec03?t=5409), [01:42:45–01:44:15
-$$
-(/transcripts/cc/CC_Lec03?t=6165)] [Slide 26: image not legible — content taken from transcript]:
+To plot true comparative relative strength on TradingView (free tier supports 1–2 indicators without a paid subscription [[01:49:09–01:49:30](/transcripts/cc/CC_Lec03?t=6549)]), follow this exact setup  [[01:23:46–01:28:15](/transcripts/cc/CC_Lec03?t=5026), [01:30:09–01:30:51](/transcripts/cc/CC_Lec03?t=5409), [01:42:45–01:44:15](/transcripts/cc/CC_Lec03?t=6165)] [Slide 26: image not legible — content taken from transcript]:
 
 1. **Select Indicator:** Open the TradingView Indicators menu, search for **"Relative Strength"**, and select the indicator authored by **Modulus** (*"Relative strength modulus"*).  
-2. **Set the Comparative Benchmark Symbol:** Double-click the indicator settings and change the comparative symbol from the default (`S&P 500`) to **`NSE:CNX500`** (**Nifty 500**—representing the top 500 listed companies in India). Optionally, for sector-specific benchmarking (e.g., HDFC Bank), you can compare against **Nifty Bank** (`NSE:BANKNIFTY`) or **Nifty 50** 
-$$
-[01:24:14–01:24:37](/transcripts/cc/CC_Lec03?t=5054), [01:35:55–01:36:25](/transcripts/cc/CC_Lec03?t=5755), [01:42:45–01:43:30
-$$
-(/transcripts/cc/CC_Lec03?t=6165)].  
-3. **Enhance Visual Clarity:** Change the RS plot line to a **bold dark green** color and darken the **zero (`0`) horizontal baseline** so that crossovers above or below zero are immediately visible to the naked eye 
-$$
-[01:25:19–01:26:07](/transcripts/cc/CC_Lec03?t=5119), [01:43:30–01:44:15
-$$
-(/transcripts/cc/CC_Lec03?t=6210)].  
+2. **Set the Comparative Benchmark Symbol:** Double-click the indicator settings and change the comparative symbol from the default (`S&P 500`) to **`NSE:CNX500`** (**Nifty 500**—representing the top 500 listed companies in India). Optionally, for sector-specific benchmarking (e.g., HDFC Bank), you can compare against **Nifty Bank** (`NSE:BANKNIFTY`) or **Nifty 50**  [[01:24:14–01:24:37](/transcripts/cc/CC_Lec03?t=5054), [01:35:55–01:36:25](/transcripts/cc/CC_Lec03?t=5755), [01:42:45–01:43:30](/transcripts/cc/CC_Lec03?t=6165)].  
+3. **Enhance Visual Clarity:** Change the RS plot line to a **bold dark green** color and darken the **zero (`0`) horizontal baseline** so that crossovers above or below zero are immediately visible to the naked eye  [[01:25:19–01:26:07](/transcripts/cc/CC_Lec03?t=5119), [01:43:30–01:44:15](/transcripts/cc/CC_Lec03?t=6210)].  
 4. **Interpret the Zero (`0`) Baseline:**  
    - If a stock (e.g., Ujjivan Small Finance Bank at ₹100) and the Nifty 500 index (at 100\) move at the exact same rate over the lookback period, the indicator reads **`0`** (zero outperformance) [[01:26:13–01:27:05](/transcripts/cc/CC_Lec03?t=5173)].  
    - **RS \> 0 (Crossing & Holding Above Zero):** The stock is outperforming the Nifty 500 over the specified lookback window [[01:27:05–01:28:15](/transcripts/cc/CC_Lec03?t=5225)].  
@@ -841,41 +753,17 @@ $$
 
 #### Multi-Timeframe Lookback Period Rules (Monthly, Weekly & Daily)
 
-Because the TradingView indicator calculates RS over a fixed number of *bars* (candles), switching chart timeframes does **not** automatically convert the lookback period (answering participant Nithin's question: if weekly is set to `26`, switching to a monthly chart will compute 26 *months* unless manually changed) [[01:45:29–01:46:12](/transcripts/cc/CC_Lec03?t=6329)]. Investors must manually set the period according to the active chart timeframe 
-$$
-[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:42:45–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6165)] [Slide 27–28: image not legible — content taken from transcript]:
+Because the TradingView indicator calculates RS over a fixed number of *bars* (candles), switching chart timeframes does **not** automatically convert the lookback period (answering participant Nithin's question: if weekly is set to `26`, switching to a monthly chart will compute 26 *months* unless manually changed) [[01:45:29–01:46:12](/transcripts/cc/CC_Lec03?t=6329)]. Investors must manually set the period according to the active chart timeframe  [[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:42:45–01:48:30](/transcripts/cc/CC_Lec03?t=6165)] [Slide 27–28: image not legible — content taken from transcript]:
 
-- **Monthly Charts:** Set Period \= **3 or 6** (3 months or 6 months; **12** is the maximum but reacts more slowly) 
-$$
-[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:44:45](/transcripts/cc/CC_Lec03?t=6255), [01:47:43–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6463)].  
+- **Monthly Charts:** Set Period \= **3 or 6** (3 months or 6 months; **12** is the maximum but reacts more slowly)  [[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:44:45](/transcripts/cc/CC_Lec03?t=6255), [01:47:43–01:48:30](/transcripts/cc/CC_Lec03?t=6463)].  
 - **Weekly Charts:**  
-  - **Beginners / Core Standard:** Set Period \= **13 or 26** (13 weeks \= 1 quarter; 26 weeks \= 6 months, matching Levy's study). A 52-week setting is the maximum but signals inflection far too late 
-$$
-[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:44:15
-$$
-(/transcripts/cc/CC_Lec03?t=6210)].  
-  - **Advanced Practitioners:** Set Period \= **6 or 7** (or **5 to 6** weeks) when closely tracking a company undergoing a fundamental ROE/ROCE inflection to catch the up-move early 
-$$
-[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:47:43–01:48:13
-$$
-(/transcripts/cc/CC_Lec03?t=6463)].  
-- **Daily Charts:** Set Period \= **30**, **60 / 61–62**, or **120 / 123** trading days (where 123 days is the maximum and tends to be late, while **30** or **60–62** days detects post-earnings inflections promptly) 
-$$
-[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6463)].
+  - **Beginners / Core Standard:** Set Period \= **13 or 26** (13 weeks \= 1 quarter; 26 weeks \= 6 months, matching Levy's study). A 52-week setting is the maximum but signals inflection far too late  [[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:44:15](/transcripts/cc/CC_Lec03?t=6210)].  
+  - **Advanced Practitioners:** Set Period \= **6 or 7** (or **5 to 6** weeks) when closely tracking a company undergoing a fundamental ROE/ROCE inflection to catch the up-move early  [[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:47:43–01:48:13](/transcripts/cc/CC_Lec03?t=6463)].  
+- **Daily Charts:** Set Period \= **30**, **60 / 61–62**, or **120 / 123** trading days (where 123 days is the maximum and tends to be late, while **30** or **60–62** days detects post-earnings inflections promptly)  [[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30](/transcripts/cc/CC_Lec03?t=6463)].
 
 #### Crucial Distinction: Relative Strength (RS) vs. Relative Strength Index (RSI)
 
-Beginners frequently confuse **RS** with **RSI** (*"RSINEs ko RS kete. Don't confuse it"*) 
-$$
-[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06
-$$
-(/transcripts/cc/CC_Lec03?t=6000)]:
+Beginners frequently confuse **RS** with **RSI** (*"RSINEs ko RS kete. Don't confuse it"*)  [[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06](/transcripts/cc/CC_Lec03?t=6000)]:
 
 - **RSI (Relative Strength Index):** A standalone momentum oscillator that measures how overbought, oversold, or stretched a single stock is relative to its own recent price history.  
 - **RS (Relative Strength):** A comparative performance ratio measuring how a stock performs against an external benchmark (`NSE:CNX500`) or another stock—carrying far greater fundamental significance for stock filtration and cycle analysis.
@@ -883,25 +771,13 @@ $$
 #### Diagnosing Sector Peaks, Relative Weakness Exits & Stock-vs-Stock Leadership
 
 1. **Leading Indicator of Breakdowns & Relative Weakness Exits:**  
-   - In **Aarti Industries** (*"RTI industry"*) and **Deepak Nitrite**, weekly RS peaked **before** the absolute stock price peaked, began forming a descending staircase of **lower highs**, and then broke comprehensively **below `0`** (post **2nd March 2022** in Aarti Industries; after a 3-year 2019–2022 run in Deepak Nitrite) accompanied by high down-day dumping volume 
-$$
-[01:28:15–01:30:09](/transcripts/cc/CC_Lec03?t=5295), [01:38:37–01:39:48](/transcripts/cc/CC_Lec03?t=5917), [01:41:39–01:42:45
-$$
-(/transcripts/cc/CC_Lec03?t=6099)].  
-   - Some long-term investors use **RS breaking below `0` on weekly or monthly charts** as a standalone exit strategy to sit out multi-quarter distribution phases 
-$$
-[01:39:14–01:39:48](/transcripts/cc/CC_Lec03?t=5954), [01:41:47–01:42:45](/transcripts/cc/CC_Lec03?t=6107), [01:46:46–01:47:15
-$$
-(/transcripts/cc/CC_Lec03?t=6406)].  
+   - In **Aarti Industries** (*"RTI industry"*) and **Deepak Nitrite**, weekly RS peaked **before** the absolute stock price peaked, began forming a descending staircase of **lower highs**, and then broke comprehensively **below `0`** (post **2nd March 2022** in Aarti Industries; after a 3-year 2019–2022 run in Deepak Nitrite) accompanied by high down-day dumping volume  [[01:28:15–01:30:09](/transcripts/cc/CC_Lec03?t=5295), [01:38:37–01:39:48](/transcripts/cc/CC_Lec03?t=5917), [01:41:39–01:42:45](/transcripts/cc/CC_Lec03?t=6099)].  
+   - Some long-term investors use **RS breaking below `0` on weekly or monthly charts** as a standalone exit strategy to sit out multi-quarter distribution phases  [[01:39:14–01:39:48](/transcripts/cc/CC_Lec03?t=5954), [01:41:47–01:42:45](/transcripts/cc/CC_Lec03?t=6107), [01:46:46–01:47:15](/transcripts/cc/CC_Lec03?t=6406)].  
 2. **The October 2021 Chemical Sector Peak & US Fed Rate Hike Trigger:**  
    - Examining **SRF**—arguably the strongest moat (*"modes"*) business in the Indian chemical industry—shows its weekly RS (13/26 weeks) peaking in **September/October 2021**, making lower highs, and dropping below zero by **October 2022** [[01:30:51–01:32:04](/transcripts/cc/CC_Lec03?t=5451)].  
    - Running a cross-chart experiment across five chemical leaders—**Balaji Amines** (*"Bala GMI"*), **Deepak Nitrite**, **Navin Fluorine**, **SRF**, and **Aarti Industries** (plus **Alkyl Amines**)—reveals that **every single one peaked in October 2021**, triggered by the market discounting the **first US Federal Reserve interest rate hike** [[01:31:45–01:33:13](/transcripts/cc/CC_Lec03?t=5505)].  
 3. **Head-to-Head Stock-vs-Stock RS Ratio Comparisons:**  
-   - Typing a peer ticker instead of `NSE:CNX500` into the Comparative Symbol field compares two stocks directly 
-$$
-[01:30:51](/transcripts/cc/CC_Lec03?t=5451), [01:33:13–01:35:15
-$$
-(/transcripts/cc/CC_Lec03?t=5593)]:  
+   - Typing a peer ticker instead of `NSE:CNX500` into the Comparative Symbol field compares two stocks directly  [[01:30:51](/transcripts/cc/CC_Lec03?t=5451), [01:33:13–01:35:15](/transcripts/cc/CC_Lec03?t=5593)]:  
      - **Intra-Sector Comparison (`SRF` vs. `Balaji Amines`):** Over the two-year chemical downturn, SRF outperformed Balaji Amines in **21 out of 24 months** (underperforming for only 3 months)—moving sideways like a resilient strong horse while Balaji Amines collapsed [[01:33:13–01:33:52](/transcripts/cc/CC_Lec03?t=5593)].  
      - **Cross-Sector Comparison (`Pricol` vs. `Balaji Amines`):** Comparing auto-ancillary leader **Pricol** (*"Pre-call"*) against **Balaji Amines** on weekly charts visually confirms that the auto-ancillary factor is overpowering the chemical factor [[01:33:52–01:35:15](/transcripts/cc/CC_Lec03?t=5632)].  
 4. **Automated Sector Turnaround Email Alerts (`RS > 0.2–0.3`):**  
@@ -916,11 +792,7 @@ $$
 - **Walkthrough:** When Ujjivan SFB's weekly RS crossed above the zero baseline on surging volume, it signaled that the stock had begun outperforming the Nifty 500, driven by a fundamental leap to 30% ROE from deeply depressed valuations (3x P/E, \<1x forward P/B).  
 - **Takeaway:** When weekly RS crosses above zero on high volume alongside a 30% ROE inflection and rock-bottom valuation, probability of a sustained trend is exceptionally high.
 
-#### Aarti Industries, SRF, Deepak Nitrite, Balaji Amines & Navin Fluorine (October 2021 Chemical Peak & Stock-vs-Stock RS) 
-$$
-[01:28:15–01:35:15](/transcripts/cc/CC_Lec03?t=5295), [01:38:37–01:42:45
-$$
-(/transcripts/cc/CC_Lec03?t=5917)]
+#### Aarti Industries, SRF, Deepak Nitrite, Balaji Amines & Navin Fluorine (October 2021 Chemical Peak & Stock-vs-Stock RS)  [[01:28:15–01:35:15](/transcripts/cc/CC_Lec03?t=5295), [01:38:37–01:42:45](/transcripts/cc/CC_Lec03?t=5917)]
 
 - **Context:** Illustrating (1) RS breaking below zero as an exit signal, (2) synchronized sector peaking in October 2021 on the first US Fed rate hike, and (3) stock-vs-stock RS comparisons (`SRF vs. Balaji Amines` and `Pricol vs. Balaji Amines`).  
 - **Data/details:**  
@@ -950,21 +822,9 @@ $$
 | Metric/Formula/Screen Filter | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :---: | :---: | :---: | :---: | :---: |
 | **Relative Strength (Modulus) Baseline** | (Stock Price Change over N bars) vs. (Comparative Index `NSE:CNX500` Change over N bars) | **\> 0** \= Outperforming Nifty 500; **\< 0** \= Underperforming Nifty 500 | Crossing above 0 confirms relative strength; breaking below 0 after a run warns of distribution / exit | [[01:26:07–01:30:09](/transcripts/cc/CC_Lec03?t=5167)] |
-| **Monthly RS Lookback Period** | Number of monthly candles in RS calculation | **3 or 6 months** (max 12 months) | Primary-trend RS filter for ultra-long-term compounders (e.g., KEI Industries since March 2021\) | 
-$$
-[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6255)] |
-| **Weekly RS Lookback Period** | Number of weekly candles in RS calculation | **13 or 26 weeks** for beginners/standard (max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced ROE/ROCE inflection tracking | Workhorse secondary-trend RS setting for long-term investors | 
-$$
-[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6210)] |
-| **Daily RS Lookback Period** | Number of daily candles in RS calculation | **30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late) | Granular confirmation of post-result support bounces (e.g., Equitas SFB at ₹82) | 
-$$
-[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6463)] |
+| **Monthly RS Lookback Period** | Number of monthly candles in RS calculation | **3 or 6 months** (max 12 months) | Primary-trend RS filter for ultra-long-term compounders (e.g., KEI Industries since March 2021\) |  [[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:48:30](/transcripts/cc/CC_Lec03?t=6255)] |
+| **Weekly RS Lookback Period** | Number of weekly candles in RS calculation | **13 or 26 weeks** for beginners/standard (max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced ROE/ROCE inflection tracking | Workhorse secondary-trend RS setting for long-term investors |  [[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:48:30](/transcripts/cc/CC_Lec03?t=6210)] |
+| **Daily RS Lookback Period** | Number of daily candles in RS calculation | **30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late) | Granular confirmation of post-result support bounces (e.g., Equitas SFB at ₹82) |  [[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30](/transcripts/cc/CC_Lec03?t=6463)] |
 | **Sector Turnaround Alert Threshold** | Weekly RS (Modulus vs. Nifty 500\) across all stocks in a beaten-down sector | Crossing comprehensively above **0.2 to 0.3** | Email alert trigger signaling synchronized sector turnaround | [[01:41:06–01:41:39](/transcripts/cc/CC_Lec03?t=6066)] |
 
 ### e) Visual aid
@@ -978,26 +838,20 @@ $$
 
 ### f) Speaker's cautions & common mistakes
 
-- **Confusing RS (Relative Strength) with RSI (Relative Strength Index):** RSI is a single-stock overbought/oversold momentum oscillator, whereas RS compares a stock against the Nifty 500 (`NSE:CNX500`) or another stock 
-$$
-[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06
-$$
-(/transcripts/cc/CC_Lec03?t=6000)].  
+- **Confusing RS (Relative Strength) with RSI (Relative Strength Index):** RSI is a single-stock overbought/oversold momentum oscillator, whereas RS compares a stock against the Nifty 500 (`NSE:CNX500`) or another stock  [[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06](/transcripts/cc/CC_Lec03?t=6000)].  
 - **Forgetting to manually change the RS period when switching timeframes on TradingView:** If you switch from a Weekly chart (period `26`) to a Monthly chart without changing the setting to `3` or `6`, TradingView will calculate 26 *months* of lookback [[01:45:29–01:46:12](/transcripts/cc/CC_Lec03?t=6329)].  
-- **Using overly long lookback periods (`52` on weekly or `123` on daily):** Excessively long lookback windows delay the crossover signal until much of the move has already occurred 
-$$
-[01:43:30–01:44:15](/transcripts/cc/CC_Lec03?t=6210), [01:47:43–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6463)].
+- **Using overly long lookback periods (`52` on weekly or `123` on daily):** Excessively long lookback windows delay the crossover signal until much of the move has already occurred  [[01:43:30–01:44:15](/transcripts/cc/CC_Lec03?t=6210), [01:47:43–01:48:30](/transcripts/cc/CC_Lec03?t=6463)].
 
 ---
 
 ## CC-Lec03 – Stage 8: Screening High-RS Stocks (MarketSmith Growth 50, Blue Dot List, Concall Alignment) & Break [[01:49:30–02:22:59](/transcripts/cc/CC_Lec03?t=6570)] [TVGP: Growth]
 
 
-$$
+$
+
 [02:02:48–02:22:59: non-content segment — 18-minute lunch break with on-screen countdown timer resuming at 3:22 PM](/transcripts/cc/CC_Lec03?t=7368), followed by announcements of next Sunday's offline SOIC workshop in Central Delhi and SOIC tribe merchandise including T-shirts, notebooks, and tote bags
-$$
+$
+
 .
 
 ### a) What this stage answers
@@ -1008,11 +862,7 @@ How can fundamental investors systematically screen for high-relative-strength s
 
 #### Screening Outperformers via MarketSmith India's `Growth 50` List
 
-While fundamentals dictate *what* to buy, technical relative strength screens rapidly surface top-performing candidates across the entire listed universe [[01:49:30–01:51:12](/transcripts/cc/CC_Lec03?t=6570)] [Slide 29: image not legible — content taken from transcript]. Navigating to **`Idea Lists → Growth 50`** in **MarketSmith India** (a tool derived from William O'Neil's book *How to Make Money in Stocks* [*"how to make marine stocks"*]) displays each stock's percentile **RS Rating** 
-$$
-[01:50:31–01:51:12](/transcripts/cc/CC_Lec03?t=6631), [01:55:36–01:56:19
-$$
-(/transcripts/cc/CC_Lec03?t=6936)]:
+While fundamentals dictate *what* to buy, technical relative strength screens rapidly surface top-performing candidates across the entire listed universe [[01:49:30–01:51:12](/transcripts/cc/CC_Lec03?t=6570)] [Slide 29: image not legible — content taken from transcript]. Navigating to **`Idea Lists → Growth 50`** in **MarketSmith India** (a tool derived from William O'Neil's book *How to Make Money in Stocks* [*"how to make marine stocks"*]) displays each stock's percentile **RS Rating**  [[01:50:31–01:51:12](/transcripts/cc/CC_Lec03?t=6631), [01:55:36–01:56:19](/transcripts/cc/CC_Lec03?t=6936)]:
 
 - **Interpreting the RS Rating:** An RS Rating of **79** means the stock has outperformed **79% of all stocks in the benchmark universe** [[01:50:31–01:51:12](/transcripts/cc/CC_Lec03?t=6631)].  
 - **Speaker's Benchmark Threshold:** Look for an **RS Rating $\ge 80$** as a strong outperformance mark (with many multi-bagger leaders clustering between **86 and 98**) [[01:51:12–01:53:20](/transcripts/cc/CC_Lec03?t=6672)].  
@@ -1020,11 +870,7 @@ $$
 
 #### The DIY Investor's Annual Learning OPEX Mindset
 
-Addressing questions about paid screening subscriptions, the speaker notes that SOIC has **zero commercial tie-ups** with MarketSmith India or any third-party software provider (noting that MarketSmith India typically offers a **₹2,500 [`2.5K`] Black Friday** subscription deal) 
-$$
-[01:52:28–01:53:03](/transcripts/cc/CC_Lec03?t=6748), [01:55:15–01:55:36
-$$
-(/transcripts/cc/CC_Lec03?t=6915)]. Speaker's view: Every serious do-it-yourself (DIY) investor should operate with an **abundance mindset**, budgeting a minimum of **₹50,000 to ₹70,000 per year** as personal learning and research-tool OPEX—an investment that has compounded back manifold over the speaker's own 8-to-9-year investing journey [[01:55:20–01:56:19](/transcripts/cc/CC_Lec03?t=6920)].
+Addressing questions about paid screening subscriptions, the speaker notes that SOIC has **zero commercial tie-ups** with MarketSmith India or any third-party software provider (noting that MarketSmith India typically offers a **₹2,500 [`2.5K`] Black Friday** subscription deal)  [[01:52:28–01:53:03](/transcripts/cc/CC_Lec03?t=6748), [01:55:15–01:55:36](/transcripts/cc/CC_Lec03?t=6915)]. Speaker's view: Every serious do-it-yourself (DIY) investor should operate with an **abundance mindset**, budgeting a minimum of **₹50,000 to ₹70,000 per year** as personal learning and research-tool OPEX—an investment that has compounded back manifold over the speaker's own 8-to-9-year investing journey [[01:55:20–01:56:19](/transcripts/cc/CC_Lec03?t=6920)].
 
 #### Killing Retail Price-Anchoring Bias by Pairing High RS with Concall Variant Perception [TVGP: Growth]
 
@@ -1099,11 +945,7 @@ Beyond `Growth 50`, investors can screen for relative strength across four platf
 
 | Metric/Formula/Screen Filter | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :---: | :---: | :---: | :---: | :---: |
-| **MarketSmith RS Rating (`Growth 50`)** | Percentile rank (1–99) of a stock's price performance vs. the entire listed universe | **$\ge 80$** \= Good RS rating (e.g., VST Tillers 79, Linc 86, Jyothy Labs 88, KDDL 89, Sanghvi/Arman/Neuland 90, Newgen 92, Shilchar 98\) | Identifies top-decile/quintile market leaders outperforming 80%+ of all listed equities | 
-$$
-[01:50:31–01:53:20](/transcripts/cc/CC_Lec03?t=6631), [01:57:20–01:57:40
-$$
-(/transcripts/cc/CC_Lec03?t=7040)] |
+| **MarketSmith RS Rating (`Growth 50`)** | Percentile rank (1–99) of a stock's price performance vs. the entire listed universe | **$\ge 80$** \= Good RS rating (e.g., VST Tillers 79, Linc 86, Jyothy Labs 88, KDDL 89, Sanghvi/Arman/Neuland 90, Newgen 92, Shilchar 98\) | Identifies top-decile/quintile market leaders outperforming 80%+ of all listed equities |  [[01:50:31–01:53:20](/transcripts/cc/CC_Lec03?t=6631), [01:57:20–01:57:40](/transcripts/cc/CC_Lec03?t=7040)] |
 | **MarketSmith `Blue Dot` List Filter** | Stocks breaking out where RS has just started inflecting upward | **RS Rating $\ge 75$** | Early-stage filtration list for catching emerging relative strength leaders | [[02:00:37–02:02:06](/transcripts/cc/CC_Lec03?t=7237)] |
 | **DIY Investor Annual Learning & Tool OPEX** | Annual budget allocated to research tools, screeners, and self-education | **₹50,000 to ₹70,000 per year** (e.g., MarketSmith India at \~₹2,500 on Black Friday) | Abundance mindset investment that compounds back via superior stock selection and exits | [[01:55:15–01:56:19](/transcripts/cc/CC_Lec03?t=6915)] |
 
@@ -1155,19 +997,11 @@ How do you classify uptrends, downtrends, and sideways trends, why does an Expon
 
 #### The Three Trend Regimes & The Iron Rule Against Downtrends / Stage 4
 
-Every stock chart operates in one of three structural trend states 
-$$
-[02:23:41–02:27:47](/transcripts/cc/CC_Lec03?t=8621), [02:47:59–02:48:36
-$$
-(/transcripts/cc/CC_Lec03?t=10079)] [Slide 31–32: image not legible — content taken from transcript]:
+Every stock chart operates in one of three structural trend states  [[02:23:41–02:27:47](/transcripts/cc/CC_Lec03?t=8621), [02:47:59–02:48:36](/transcripts/cc/CC_Lec03?t=10079)] [Slide 31–32: image not legible — content taken from transcript]:
 
 1. **Uptrend:** Price forms a continuous sequence of **higher highs and higher lows** (each rally peak exceeds the prior peak, and each pullback trough holds above the prior trough) [[02:47:59–02:48:20](/transcripts/cc/CC_Lec03?t=10079)].  
 2. **Sideways Trend:** Price oscillates horizontally within a range without making net progress—illustrated by **HDFC Bank** moving sideways over the past three years [[02:24:24–02:25:09](/transcripts/cc/CC_Lec03?t=8664)].  
-3. **Downtrend:** Price forms a continuous sequence of **lower highs and lower lows** 
-$$
-[02:26:30–02:27:19](/transcripts/cc/CC_Lec03?t=8790), [02:48:10–02:48:36
-$$
-(/transcripts/cc/CC_Lec03?t=10090)].
+3. **Downtrend:** Price forms a continuous sequence of **lower highs and lower lows**  [[02:26:30–02:27:19](/transcripts/cc/CC_Lec03?t=8790), [02:48:10–02:48:36](/transcripts/cc/CC_Lec03?t=10090)].
 
 From inspecting downtrend charts, the speaker establishes two non-negotiable survival rules [[02:27:19–02:27:47](/transcripts/cc/CC_Lec03?t=8839)]:
 
@@ -1184,9 +1018,13 @@ Why? Because even marquee institutional investors make entry mistakes, and refus
 To eliminate subjective guesswork in defining trend direction, technical analysis uses **moving averages** to smooth out noisy price fluctuations [[02:30:48–02:35:11](/transcripts/cc/CC_Lec03?t=9048)] [Slide 33–34: image not legible — content taken from transcript]:
 
 - **Simple Moving Average (SMA):** Computes the unweighted arithmetic mean of closing prices over the last $N$ periods (e.g., summing 10 days of closing prices and dividing by 10, or plotting 30-day, 50-day, or 200-day averages) [[02:30:48–02:33:01](/transcripts/cc/CC_Lec03?t=9048)].  
-  - *3-Day Numerical Example:* If a stock closes at **₹4 on Day 1**, **₹5 on Day 2**, and **₹7 on Day 3**, the 3-day SMA is: $$
+  - *3-Day Numerical Example:* If a stock closes at **₹4 on Day 1**, **₹5 on Day 2**, and **₹7 on Day 3**, the 3-day SMA is:
+
+$
 \3-Day SMA \= \\frac{4 \+ 5 \+ 7}{3} \= ₹5.33
-$$ Because SMA weights Day 1 and Day 3 equally, it suffers from a **lag effect** when trends reverse [[02:31:52–02:33:48](/transcripts/cc/CC_Lec03?t=9112)].  
+$
+
+Because SMA weights Day 1 and Day 3 equally, it suffers from a **lag effect** when trends reverse [[02:31:52–02:33:48](/transcripts/cc/CC_Lec03?t=9112)].  
 - **Exponential Moving Average (EMA):** Assigns **progressively higher weightage to the most recent closing prices**, making the average respond rapidly to fresh price information [[02:33:01–02:35:11](/transcripts/cc/CC_Lec03?t=9181)].  
   - In a 50-day EMA, days 40 to 50 carry far greater weight than days 1 to 10; if recent prices rise, the EMA immediately curves upward [[02:33:48–02:34:26](/transcripts/cc/CC_Lec03?t=9228)].  
   - *3-Day Numerical Contrast:* If closing prices are **₹2 (Day 1\)**, **₹3 (Day 2\)**, and **₹8 (Day 3\)**, an EMA weights the recent **₹8 and ₹3** heavily over the stale **₹2**, signaling the inflection much earlier than an SMA [[02:34:26–02:35:11](/transcripts/cc/CC_Lec03?t=9266)].
@@ -1227,11 +1065,7 @@ Beyond exits, moving averages provide a powerful entry-screening mental model kn
 
 ### c) Examples & case studies
 
-#### HDFC Bank, Delta Corp (Ashish Kacholia Exit), IEX (Mohnish Pabrai Exit) & Rain Industries 
-$$
-[02:24:24–02:30:48](/transcripts/cc/CC_Lec03?t=8664), [02:35:52–02:38:11
-$$
-(/transcripts/cc/CC_Lec03?t=9352)]
+#### HDFC Bank, Delta Corp (Ashish Kacholia Exit), IEX (Mohnish Pabrai Exit) & Rain Industries  [[02:24:24–02:30:48](/transcripts/cc/CC_Lec03?t=8664), [02:35:52–02:38:11](/transcripts/cc/CC_Lec03?t=9352)]
 
 - **Context:** Classifying sideways vs. downtrend charts, proving that marquee investors are not infallible, and demonstrating the `10-week EMA` parabolic exit.  
 - **Data/details:**  
@@ -1287,11 +1121,7 @@ $$
 
 ### f) Speaker's cautions & common mistakes
 
-- **Becoming a "Forced Long-Term Investor" (FLT):** Refusing to exit when a 6–7x winner breaks its 30-week EMA traps investors in 60%+ drawdowns (as in Laurus Labs) or 40%–50%+ losses (as in Delta Corp) 
-$$
-[02:27:47–02:28:33](/transcripts/cc/CC_Lec03?t=8867), [02:43:39–02:45:21
-$$
-(/transcripts/cc/CC_Lec03?t=9819)].  
+- **Becoming a "Forced Long-Term Investor" (FLT):** Refusing to exit when a 6–7x winner breaks its 30-week EMA traps investors in 60%+ drawdowns (as in Laurus Labs) or 40%–50%+ losses (as in Delta Corp)  [[02:27:47–02:28:33](/transcripts/cc/CC_Lec03?t=8867), [02:43:39–02:45:21](/transcripts/cc/CC_Lec03?t=9819)].  
 - **Giving back parabolic "Eiffel Tower" profits to the market:** When a stock goes up 5x–6x in a single year to 100x+ P/E, using a wide long-term stop gives back massive gains; tighten to the 10-week EMA or \>80% 200-DMA stretch rule [[02:36:53–02:42:00](/transcripts/cc/CC_Lec03?t=9413)].  
 - **Bragging about unrealized gains at peak euphoria:** When neighbors are buying and you are boasting to family/friends about how much money you made in a vertical rocket like IRCTC, the stock is typically \>80%–100% above its 200-DMA and due for a climax reversal [[02:39:45–02:40:45](/transcripts/cc/CC_Lec03?t=9585)].
 
@@ -1332,11 +1162,7 @@ To map the Circle of Expectations directly onto price charts, the speaker introd
   - **The Golden Base Rule:** **"Higher [Longer] the base, bigger the breakout."** [[02:58:30–02:59:24](/transcripts/cc/CC_Lec03?t=10710)].  
 - **Stage 2 — Advancing / Markup Phase:** Institutional smart money enters on a fundamental earnings catalyst, driving a high-volume breakout above the upper resistance of the Darvas rectangle while the **30-week EMA shapes upward** [[02:57:23–03:02:20](/transcripts/cc/CC_Lec03?t=10643)].  
 - **Stage 3 — Distribution / Topping Phase:** Upward momentum stalls, volatility widens, and the 30-week EMA flattens out as smart money distributes shares to late retail buyers [[02:56:38–02:57:23](/transcripts/cc/CC_Lec03?t=10598)].  
-- **Stage 4 — Declining / Markdown Phase:** Price breaks below the 30-week EMA (and even the 100-week EMA, as in **Aarti Industries** when OPM fell from 22% to 14%), and the moving average slopes downward while price prints consecutive lower highs 
-$$
-[02:56:38–02:57:23](/transcripts/cc/CC_Lec03?t=10598), [03:03:02–03:06:01
-$$
-(/transcripts/cc/CC_Lec03?t=10982)].  
+- **Stage 4 — Declining / Markdown Phase:** Price breaks below the 30-week EMA (and even the 100-week EMA, as in **Aarti Industries** when OPM fell from 22% to 14%), and the moving average slopes downward while price prints consecutive lower highs  [[02:56:38–02:57:23](/transcripts/cc/CC_Lec03?t=10598), [03:03:02–03:06:01](/transcripts/cc/CC_Lec03?t=10982)].  
   - **The Cardinal Rule:** **Never ever buy a stock in Stage 4\.** Stage 4 can persist for years (as in **DLF**, which lost **90% of its value after 2008**), destroying an investor's psychology and capital [[03:03:02–03:05:14](/transcripts/cc/CC_Lec03?t=10982)]. Reminder: *"There is only one Warren Buffett; you are the next true version of yourself—never buy in Stage 4."* [[03:04:53–03:05:14](/transcripts/cc/CC_Lec03?t=11093)].
 
 ### c) Examples & case studies
@@ -1394,11 +1220,7 @@ $$
 | **Newton's Law of Business & Earnings Momentum** | Tailwinds persist until headwinds arrive; headwinds persist until positive surprises arrive | Uptrend guidance 15% → delivers 30%; Downtrend claims "won't get worse" → gets worse | Do not fight established EPS momentum or prematurely catch falling knives | [[02:51:50–02:52:40](/transcripts/cc/CC_Lec03?t=10310)] |
 | **Darvas Box Base-to-Breakout Rule** | Duration of Stage 1 horizontal rectangular consolidation (multiple supports & resistances \+ volume dry-up) | **2 to 5 years** (e.g., Aarti Drugs 5-yr base → ₹133 to ₹1,000; 2-yr base → ₹205–206 breakout) | *"Higher [Longer] the base, bigger the breakout"* | [[02:58:30–03:02:15](/transcripts/cc/CC_Lec03?t=10710)] |
 | **Stage 2 Breakout Trigger** | Price \> Darvas Box Upper Resistance \+ High Volume \+ 30-Week EMA sloping upward | First high-volume breakout candle above multi-touch resistance (e.g., Syngene at ₹670) | Optimal low-risk technical entry point into Stage 2 markup | [[02:59:24–03:02:20](/transcripts/cc/CC_Lec03?t=10764)] |
-| **Stage 4 Prohibition Rule** | Price \< downward-sloping 30-Week EMA \+ consecutive lower highs | **0% allocation (Never buy in Stage 4\)** | Prevents 80%–90% capital destruction (e.g., DLF post-2008) | 
-$$
-[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [03:03:02–03:05:14
-$$
-(/transcripts/cc/CC_Lec03?t=10982)] |
+| **Stage 4 Prohibition Rule** | Price \< downward-sloping 30-Week EMA \+ consecutive lower highs | **0% allocation (Never buy in Stage 4\)** | Prevents 80%–90% capital destruction (e.g., DLF post-2008) |  [[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [03:03:02–03:05:14](/transcripts/cc/CC_Lec03?t=10982)] |
 
 ### e) Visual aid
 
@@ -1442,11 +1264,7 @@ THE CIRCLE OF EXPECTATIONS & STAN WEINSTEIN'S 4 STAGES
 
 ## CC-Lec03 – Stage 11: Volatility Stop (V-Stop) Mechanics, The 88% Previous-Cycle Winner Rule & Stage Identification Practice [[03:06:01–03:31:45](/transcripts/cc/CC_Lec03?t=11161)] [TVGP: Growth]
 
-
-$$
-[03:19:47–03:20:39: non-content segment — 30-second pause taken by the instructor
-$$
-(/transcripts/cc/CC_Lec03?t=11987)].
+ [[03:19:47–03:20:39: non-content segment — 30-second pause taken by the instructor](/transcripts/cc/CC_Lec03?t=11987)].
 
 ### a) What this stage answers
 
@@ -1456,32 +1274,16 @@ How does the Volatility Stop (`V-Stop`) indicator work alongside the `30-week EM
 
 #### Volatility Stop (`V-Stop`) Mechanics & The 50/50 Dual Exit System
 
-While a weekly moving average is highly effective, price whipsaws (*"WIPs"*) can occasionally delay or muddy the signal [[03:06:47–03:07:22](/transcripts/cc/CC_Lec03?t=11207)]. To create an institutional-grade exit system, the speaker pairs the **30-week EMA** with the **Volatility Stop (`V-Stop`)** 
-$$
-[03:07:22–03:12:45](/transcripts/cc/CC_Lec03?t=11242), [03:14:55–03:16:13
-$$
-(/transcripts/cc/CC_Lec03?t=11695)] [Slide 45–46: image not legible — content taken from transcript]:
+While a weekly moving average is highly effective, price whipsaws (*"WIPs"*) can occasionally delay or muddy the signal [[03:06:47–03:07:22](/transcripts/cc/CC_Lec03?t=11207)]. To create an institutional-grade exit system, the speaker pairs the **30-week EMA** with the **Volatility Stop (`V-Stop`)**  [[03:07:22–03:12:45](/transcripts/cc/CC_Lec03?t=11242), [03:14:55–03:16:13](/transcripts/cc/CC_Lec03?t=11695)] [Slide 45–46: image not legible — content taken from transcript]:
 
 - **How V-Stop Works Conceptually:** V-Stop calculates the average price volatility band over the last $N$ bars and sets a trailing stop at a chosen multiple of that range. Suppose a stock normally fluctuates in a ₹10 to ₹14–₹15 band over the past 10 periods, and suddenly drops into a ₹4–₹8 or ₹5–₹9 range on rising sell volume—this proves **volatility is expanding on the downside** [[03:07:30–03:09:08](/transcripts/cc/CC_Lec03?t=11250)]. The moment price closes below the V-Stop band, the indicator flips from green (below price) to **red** (above price), triggering an objective stop-loss [[03:08:22–03:09:30](/transcripts/cc/CC_Lec03?t=11302)].  
 - **TradingView Setup & Parameter Rules:**  
   - Search TradingView Indicators for **"Volatility Stop"** (free indicator) [[03:07:30–03:09:20](/transcripts/cc/CC_Lec03?t=11250)].  
-  - Set **Length \= `10`** and **Multiplier \= `2`** ($2\times$ the 10-period average volatility range). If you have very high fundamental conviction in a business and want to give it slightly more breathing room, set **Multiplier \= `2.5`** 
-$$
-[03:07:30–03:09:30](/transcripts/cc/CC_Lec03?t=11250), [03:11:06–03:12:00
-$$
-(/transcripts/cc/CC_Lec03?t=11466)].  
-  - **Timeframes:** Use on **Monthly charts** (10 months) for ultra-long-term core holdings and on **Weekly charts** (10 weeks) for cyclical or faster-moving stocks 
-$$
-[03:09:08–03:11:06](/transcripts/cc/CC_Lec03?t=11348), [03:14:55–03:15:30
-$$
-(/transcripts/cc/CC_Lec03?t=11695)]. (On weekly charts, advanced users may experiment with Length \= **`5`** for faster exits or **`15`** for slower exits with less churn, though **`10`** is the standard across both weekly and monthly charts; never use daily V-Stop for investing, as daily is only for intraday trading [[03:14:55–03:16:40](/transcripts/cc/CC_Lec03?t=11695)]).  
+  - Set **Length \= `10`** and **Multiplier \= `2`** ($2\times$ the 10-period average volatility range). If you have very high fundamental conviction in a business and want to give it slightly more breathing room, set **Multiplier \= `2.5`**  [[03:07:30–03:09:30](/transcripts/cc/CC_Lec03?t=11250), [03:11:06–03:12:00](/transcripts/cc/CC_Lec03?t=11466)].  
+  - **Timeframes:** Use on **Monthly charts** (10 months) for ultra-long-term core holdings and on **Weekly charts** (10 weeks) for cyclical or faster-moving stocks  [[03:09:08–03:11:06](/transcripts/cc/CC_Lec03?t=11348), [03:14:55–03:15:30](/transcripts/cc/CC_Lec03?t=11695)]. (On weekly charts, advanced users may experiment with Length \= **`5`** for faster exits or **`15`** for slower exits with less churn, though **`10`** is the standard across both weekly and monthly charts; never use daily V-Stop for investing, as daily is only for intraday trading [[03:14:55–03:16:40](/transcripts/cc/CC_Lec03?t=11695)]).  
 - **The Ultimate 50/50 Two-Tranche Exit Rule:**  
   - **Tranche 1 (50% Exit):** Sell **50%** of your position the moment weekly/monthly **V-Stop turns red**.  
-  - **Tranche 2 (50% Exit):** Sell the **remaining 50%** when price breaks comprehensively below the **30-week EMA** 
-$$
-[03:09:30–03:10:29](/transcripts/cc/CC_Lec03?t=11370), [03:11:49–03:12:45](/transcripts/cc/CC_Lec03?t=11509), [03:15:45–03:16:13
-$$
-(/transcripts/cc/CC_Lec03?t=11745)].
+  - **Tranche 2 (50% Exit):** Sell the **remaining 50%** when price breaks comprehensively below the **30-week EMA**  [[03:09:30–03:10:29](/transcripts/cc/CC_Lec03?t=11370), [03:11:49–03:12:45](/transcripts/cc/CC_Lec03?t=11509), [03:15:45–03:16:13](/transcripts/cc/CC_Lec03?t=11745)].
 
 #### The 88% Previous-Cycle Winner Rule & 4-to-5-Year Recovery Lag [TVGP: Growth]
 
@@ -1497,11 +1299,7 @@ Through live chart walkthroughs, the speaker demonstrates how to diagnose stages
 
 1. **Forgivable Offense vs. Fatal Error:** Buying a stock in a **sideways trend (Stage 1\)** is a "forgivable offense" (it merely costs time while the base completes), whereas buying in a **downtrend (Stage 4\)** guarantees immediate capital cuts [[03:21:30–03:22:15](/transcripts/cc/CC_Lec03?t=12090)].  
 2. **How to Tell When Stage 4 Actually Transitions into Stage 1 (`Aarti Industries`):**  
-   - In **Aarti Industries**, a yearly-high **selling climax** volume bar printed near **₹480**, proving weak-handed sellers capitulated and value investors began nibbling (a constructive change in character) 
-$$
-[03:24:12–03:24:38](/transcripts/cc/CC_Lec03?t=12252), [03:30:15–03:31:20
-$$
-(/transcripts/cc/CC_Lec03?t=12615)].  
+   - In **Aarti Industries**, a yearly-high **selling climax** volume bar printed near **₹480**, proving weak-handed sellers capitulated and value investors began nibbling (a constructive change in character)  [[03:24:12–03:24:38](/transcripts/cc/CC_Lec03?t=12252), [03:30:15–03:31:20](/transcripts/cc/CC_Lec03?t=12615)].  
    - However, because the stock price is still **below a downward-sloping 30-week EMA**, it remains in **Stage 4** (trying to enter Stage 1\) [[03:23:45–03:25:24](/transcripts/cc/CC_Lec03?t=12225)]. A true Stage 1 sideways trend requires the 30-week EMA to flatten out and price to cut across the moving average **multiple times** [[03:24:38–03:25:24](/transcripts/cc/CC_Lec03?t=12278)].  
    - **Anti-Bottom-Fishing Warning:** Until the base is built and the buying setup triggers, **do not become a bottom fisher**—a stock at **₹480 can easily fall to ₹380**, inflicting an instant **20% loss** in one go [[03:31:02–03:31:45](/transcripts/cc/CC_Lec03?t=12662)].  
 3. **The `ADX > 20` Consolidation Breakout Filter (Inside the SOIC LTI Tool):**  
@@ -1546,16 +1344,8 @@ $$
 
 | Metric/Formula/Screen Filter | Definition or Expression | Speaker's benchmark/threshold | Interpretation | Timestamp |
 | :---: | :---: | :---: | :---: | :---: |
-| **Volatility Stop (`V-Stop`) Configuration** | Trailing volatility stop based on $N$-period average price range $\times$ Multiplier | **Length \= 10, Multiplier \= 2.0** (or **2.5** for high-conviction positions; optional weekly lengths **5** or **15**) | Flips red when downside volatility expands beyond $2\times$ the 10-bar average band | 
-$$
-[03:07:30–03:12:00](/transcripts/cc/CC_Lec03?t=11250), [03:14:55–03:16:13
-$$
-(/transcripts/cc/CC_Lec03?t=11695)] |
-| **50/50 Dual Long-Term Exit Rule** | Tranche 1 \= Weekly/Monthly V-Stop turns red; Tranche 2 \= Weekly Close \< 30-Week EMA | **Sell 50%** on V-Stop red flip \+ **Sell 50%** on 30-Week EMA breakdown | Ultimate long-term exit system (e.g., Aarti Ind. at ₹960 / ₹815 / ₹727–730; Rain Ind. 2018 peak) | 
-$$
-[03:09:30–03:12:45](/transcripts/cc/CC_Lec03?t=11370), [03:15:45–03:16:13
-$$
-(/transcripts/cc/CC_Lec03?t=11745)] |
+| **Volatility Stop (`V-Stop`) Configuration** | Trailing volatility stop based on $N$-period average price range $\times$ Multiplier | **Length \= 10, Multiplier \= 2.0** (or **2.5** for high-conviction positions; optional weekly lengths **5** or **15**) | Flips red when downside volatility expands beyond $2\times$ the 10-bar average band |  [[03:07:30–03:12:00](/transcripts/cc/CC_Lec03?t=11250), [03:14:55–03:16:13](/transcripts/cc/CC_Lec03?t=11695)] |
+| **50/50 Dual Long-Term Exit Rule** | Tranche 1 \= Weekly/Monthly V-Stop turns red; Tranche 2 \= Weekly Close \< 30-Week EMA | **Sell 50%** on V-Stop red flip \+ **Sell 50%** on 30-Week EMA breakdown | Ultimate long-term exit system (e.g., Aarti Ind. at ₹960 / ₹815 / ₹727–730; Rain Ind. 2018 peak) |  [[03:09:30–03:12:45](/transcripts/cc/CC_Lec03?t=11370), [03:15:45–03:16:13](/transcripts/cc/CC_Lec03?t=11745)] |
 | **Last-Cycle Winner Persistence Rule** | Percentage of previous bull-market winners that fail to lead the next cycle & average recovery time | **88%** do not lead the next cycle; **4 to 5 years** average recovery time | Prevents holding exhausted 10x cycle winners through 4–5 year dead zones (e.g., IIFL Finance 2018–2022) | [[03:13:20–03:14:55](/transcripts/cc/CC_Lec03?t=11600)] |
 | **ADX Consolidation Breakout Filter** | Average Directional Index (`ADX`) on weekly/monthly charts | **ADX \> 20** | Confirms stock has broken out of sideways consolidation (built into SOIC LTI tool) | [[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324)] |
 | **Recent IPO / Short-History Adjustment** | Adjusted weekly RS and EMA lengths for newly listed stocks | **Weekly RS Period \= 3**; **Weekly EMA \= 9 or 10** | Enables Stage 2 IPO base breakout detection when \<26 weeks of history exist (e.g., Senco Gold) | [[03:28:06–03:29:45](/transcripts/cc/CC_Lec03?t=12486)] |
@@ -1589,11 +1379,7 @@ B. Stage 4 Selling Climax vs. True Stage 1 Base (Anti-Bottom-Fishing Rule):
 
 ### f) Speaker's cautions & common mistakes
 
-- **Premature bottom-fishing immediately after a selling climax:** Even after a selling climax changes a chart's character (as in Aarti Industries at ₹480), the stock is still in Stage 4 below a falling 30-week EMA and can easily drop from ₹480 to ₹380 (-20%) while building its base 
-$$
-[03:24:12–03:25:24](/transcripts/cc/CC_Lec03?t=12252), [03:30:15–03:31:45
-$$
-(/transcripts/cc/CC_Lec03?t=12615)].  
+- **Premature bottom-fishing immediately after a selling climax:** Even after a selling climax changes a chart's character (as in Aarti Industries at ₹480), the stock is still in Stage 4 below a falling 30-week EMA and can easily drop from ₹480 to ₹380 (-20%) while building its base  [[03:24:12–03:25:24](/transcripts/cc/CC_Lec03?t=12252), [03:30:15–03:31:45](/transcripts/cc/CC_Lec03?t=12615)].  
 - **Using V-Stop on daily charts for long-term portfolios:** Daily V-Stop is noisy and meant only for intraday/short-term traders; long-term investors must restrict V-Stop to weekly and monthly charts [[03:16:13–03:16:40](/transcripts/cc/CC_Lec03?t=11773)].  
 - **Holding exhausted 10x cycle winners assuming immediate continuation:** 88% of prior-cycle winners do not lead the next cycle and take 4–5 years to recover [[03:13:20–03:14:55](/transcripts/cc/CC_Lec03?t=11600)].
 
@@ -1602,13 +1388,17 @@ $$
 ## CC-Lec03 – Stage 12: The 4-Part Buying Setup (SOIC LTI Tool), Position Pyramiding (Donchian Channels & PSAR), Book Giveaway & Q\&A [[03:31:45–03:50:47](/transcripts/cc/CC_Lec03?t=12705)] [TVGP: Valuation]
 
 
-$$
+$
+
 [03:34:55–03:38:21: non-content segment — SOIC 1-year and 3-year tribe membership details](/transcripts/cc/CC_Lec03?t=12895), TradingView white-label script access instructions, and ₹1, 500 one-time developer cost note
-$$
+$
+
 . 
-$$
+$
+
 [03:48:28–03:50:47: non-content segment — registration logistics for next Sunday's 8-hour offline SOIC workshop at India Habitat Centre](/transcripts/cc/CC_Lec03?t=13708), Delhi (350–400 registered, 40–50 seats remaining), tribe merchandise announcements, and closing farewell
-$$
+$
+
 .
 
 ### a) What this stage answers
@@ -1725,11 +1515,7 @@ COMPLETE SOIC TECHNICAL-FUNDAMENTAL EXECUTION CHECKLIST
 ### f) Speaker's cautions & common mistakes
 
 - **Emotional attachment to past winners ("a stock won't love you back"):** Holding a multi-year winner through stretched valuations and negative fundamental events out of loyalty destroys compounding; always remain 100% objective with exits [[03:45:33–03:46:40](/transcripts/cc/CC_Lec03?t=13533)].  
-- **Entering before `ADX > 20` confirms the breakout:** Buying inside a flat consolidation before ADX crosses 20 leads to dead-money whipsaws 
-$$
-[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:32:30–03:33:39
-$$
-(/transcripts/cc/CC_Lec03?t=12750)].  
+- **Entering before `ADX > 20` confirms the breakout:** Buying inside a flat consolidation before ADX crosses 20 leads to dead-money whipsaws  [[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:32:30–03:33:39](/transcripts/cc/CC_Lec03?t=12750)].  
 - **Ignoring forensic red flags in optically cheap stocks:** Never use technical setups to justify buying forensically questionable businesses like Rajesh Exports that refuse to hold conference calls [[03:47:49–03:48:28](/transcripts/cc/CC_Lec03?t=13669)].
 
 Batch complete: 9-12.
@@ -1744,52 +1530,24 @@ Batch complete: 9-12.
 | **Auction Market Demand Surplus** | Demand \> Supply | Buyers willing to bid progressively higher prices | Diagnosing why asset/stock prices surge regardless of historical baseline price | Stage 2 | [[00:15:42–00:18:09](/transcripts/cc/CC_Lec03?t=942)] |
 | **Auction Market Supply Surplus** | Supply \> Demand | Sellers willing to offload inventory at progressively lower prices | Diagnosing why asset/stock prices collapse when buyer demand vanishes | Stage 2 | [[00:18:09–00:18:56](/transcripts/cc/CC_Lec03?t=1089)] |
 | **Weinstein Price-Volume Identity** | Price \= Trend Former; Volume \= Weight of the Evidence | High green volume bars must accompany upward price breakouts; low volume during sideways consolidation | Validating institutional ("smart money") accumulation vs. absence of sellers during pauses | Stage 3 | [[00:19:39–00:29:45](/transcripts/cc/CC_Lec03?t=1179)] |
-| **Downtrend Peak Sequence** | $\text{High}*t \< \text{High}*{t-1} \< \text{High}*{t-2} \< \text{High}*{t-3}$ | Consecutive lower highs on weekly chart (and lower lows) | Confirming a primary or secondary downtrend remains intact | Stage 3, Stage 9 | 
-$$
-[00:32:43–00:33:55](/transcripts/cc/CC_Lec03?t=1963), [02:48:10–02:48:36
-$$
-(/transcripts/cc/CC_Lec03?t=10090)] |
+| **Downtrend Peak Sequence** | $\text{High}*t \< \text{High}*{t-1} \< \text{High}*{t-2} \< \text{High}*{t-3}$ | Consecutive lower highs on weekly chart (and lower lows) | Confirming a primary or secondary downtrend remains intact | Stage 3, Stage 9 |  [[00:32:43–00:33:55](/transcripts/cc/CC_Lec03?t=1963), [02:48:10–02:48:36](/transcripts/cc/CC_Lec03?t=10090)] |
 | **Uptrend Peak-Trough Sequence** | $\text{High}*t \> \text{High}*{t-1}$ and $\text{Low}*t \> \text{Low}*{t-1}$ | Consecutive higher highs and higher lows | Confirming a structural uptrend | Stage 9 | [[02:47:59–02:48:20](/transcripts/cc/CC_Lec03?t=10079)] |
-| **Selling Climax ("Ditch") Signal** | Primary downtrend (1–2 yrs) \+ multi-year/lifetime high weekly volume \+ green/support close | Extreme outlier volume bar after prolonged decline followed by green volume / insider accumulation | Identifying capitulation of weak hands and change in chart character (e.g., Sudarshan Chemical 21st Aug; Gland Pharma) | Stage 3, Stage 4, Stage 11 | 
-$$
-[00:31:04–00:36:28](/transcripts/cc/CC_Lec03?t=1864), [00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [03:30:15–03:31:20
-$$
-(/transcripts/cc/CC_Lec03?t=12615)] |
+| **Selling Climax ("Ditch") Signal** | Primary downtrend (1–2 yrs) \+ multi-year/lifetime high weekly volume \+ green/support close | Extreme outlier volume bar after prolonged decline followed by green volume / insider accumulation | Identifying capitulation of weak hands and change in chart character (e.g., Sudarshan Chemical 21st Aug; Gland Pharma) | Stage 3, Stage 4, Stage 11 |  [[00:31:04–00:36:28](/transcripts/cc/CC_Lec03?t=1864), [00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [03:30:15–03:31:20](/transcripts/cc/CC_Lec03?t=12615)] |
 | **Candlestick Timeframe Hierarchy** | 1 Candle \= 3 Months (Quarterly) / 1 Month / 1 Week (5 trading days, Mon–Fri) / 1 Day | **Monthly / 3-Month** \= Primary Trend; **Weekly / Daily** \= Secondary Trend | Selecting chart resolution aligned with long-term vs. medium-term holding horizons | Stage 4 | [[00:36:28–00:41:45](/transcripts/cc/CC_Lec03?t=2188)] |
 | **Price-Volume Regime 1 (Strong Uptrend)** | Price $\uparrow$ \+ Volume $\uparrow$ | Rising price backed by expanding green volume | Confirming bullish institutional accumulation | Stage 4 | [[00:41:45–00:42:00](/transcripts/cc/CC_Lec03?t=2505)] |
 | **Price-Volume Regime 2 (Weakening Uptrend)** | Price $\uparrow$ \+ Volume $\downarrow$ | Rising price accompanied by contracting volume | Spotting exhaustion of buyer demand at higher prices | Stage 4 | [[00:41:45–00:42:10](/transcripts/cc/CC_Lec03?t=2505)] |
-| **Price-Volume Regime 3 (Strong Downtrend)** | Price $\downarrow$ \+ Volume $\uparrow$ | Falling price accompanied by expanding red volume | Identifying institutional distribution or promoter dumping (exit at any price) | Stage 4 | 
-$$
-[00:42:10–00:42:25](/transcripts/cc/CC_Lec03?t=2530), [00:45:58–00:48:20
-$$
-(/transcripts/cc/CC_Lec03?t=2758)] |
+| **Price-Volume Regime 3 (Strong Downtrend)** | Price $\downarrow$ \+ Volume $\uparrow$ | Falling price accompanied by expanding red volume | Identifying institutional distribution or promoter dumping (exit at any price) | Stage 4 |  [[00:42:10–00:42:25](/transcripts/cc/CC_Lec03?t=2530), [00:45:58–00:48:20](/transcripts/cc/CC_Lec03?t=2758)] |
 | **Price-Volume Regime 4 (Weakening Downtrend)** | Price $\downarrow$ \+ Volume $\downarrow$ | Falling price accompanied by contracting volume | Observing gradual exhaustion of aggressive selling pressure | Stage 4 | [[00:42:25–00:42:35](/transcripts/cc/CC_Lec03?t=2545)] |
 | **Core Fundamental Growth Catalysts** | Structural business drivers capable of accelerating corporate earnings | **8 to 9 catalysts** (New product, geography, end-user Capex, client mining, market share, sector growth, new brand, distribution, acquisition/Capex) | Validating fundamental engine behind technical breakouts; invert catalysts to spot fundamental exits | Stage 5 | [[00:51:16–01:00:55](/transcripts/cc/CC_Lec03?t=3076)] |
 | **Brownfield Acquisition Discount** | $\text{Acquisition Cost} \div \text{Greenfield Replacement Cost}$ | **$\sim 1/3\text{rd}$ (28%–35%) of replacement value** (e.g., Steel Strips ₹138–150 Cr vs ₹400–500 Cr; AGI Greenpac / HNG) | Evaluating value-accretive NCLT or strategic acquisitions | Stage 5 | [[00:57:44–00:59:31](/transcripts/cc/CC_Lec03?t=3464)] |
-| **Forensic Cash-Flow Rejection Filter** | Consecutive years of missing/poor operating cash flow conversion | Reject companies with **6 years** of poor cash flows or frequent corporate name changes | Filtering out fraudulent momentum traps before applying technical setups | Stage 5, Stage 12 | 
-$$
-[00:59:50–01:00:55](/transcripts/cc/CC_Lec03?t=3590), [03:47:49–03:48:28
-$$
-(/transcripts/cc/CC_Lec03?t=13669)] |
+| **Forensic Cash-Flow Rejection Filter** | Consecutive years of missing/poor operating cash flow conversion | Reject companies with **6 years** of poor cash flows or frequent corporate name changes | Filtering out fraudulent momentum traps before applying technical setups | Stage 5, Stage 12 |  [[00:59:50–01:00:55](/transcripts/cc/CC_Lec03?t=3590), [03:47:49–03:48:28](/transcripts/cc/CC_Lec03?t=13669)] |
 | **Levy 26-Week RS Outperformance Spread** | 26-week forward return of Top 10% strongest RS stocks vs. Bottom 10% weakest RS stocks | **\+9.6%** (Top 10% RS, avg score 90.8 [? verify]) vs. **\+2.9%** (Bottom 10% RS) over **26 weeks** | Empirical proof of non-random trend persistence over 6-month windows | Stage 6 | [[01:18:10–01:19:33](/transcripts/cc/CC_Lec03?t=4690)] |
 | **Multi-Bagger Master Equation** | $\text{Increasing Relative Strength} + \text{Improving Fundamentals}$ | Both conditions present simultaneously | Core synthesis rule for finding multi-bagger stocks | Stage 6 | [[01:19:33–01:20:12](/transcripts/cc/CC_Lec03?t=4773)] |
 | **Sector Return Contribution Rule** | Share of individual stock return/weakness driven by sector trend | **60%** of total stock price return | Prioritizing stocks in sector tailwinds over isolated "strong horses" in sector headwinds | Stage 6 | [[01:20:12–01:23:46](/transcripts/cc/CC_Lec03?t=4812)] |
 | **Relative Strength (Modulus) Baseline** | $(\text{Stock Performance over } N \text{ bars}) \text{ vs. } (\text{Comparative Symbol } \text{NSE:CNX500} \text{ over } N \text{ bars})$ | **\> 0** \= Outperforming Nifty 500; **\< 0** \= Underperforming Nifty 500 | Confirming index outperformance on entry or relative weakness divergence on exit | Stage 7 | [[01:24:14–01:30:09](/transcripts/cc/CC_Lec03?t=5054)] |
-| **Monthly RS Lookback Period** | Monthly bars in TradingView RS (Modulus) | **3 or 6 months** (max 12 months) | Primary-trend RS tracking for multi-year compounders (e.g., KEI Industries) | Stage 7 | 
-$$
-[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6255)] |
-| **Weekly RS Lookback Period** | Weekly bars in TradingView RS (Modulus) | **13 or 26 weeks** (standard; max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced early ROE/ROCE inflection | Secondary-trend RS confirmation and peak divergence detection | Stage 7 | 
-$$
-[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6210)] |
-| **Daily RS Lookback Period** | Daily bars in TradingView RS (Modulus) | **30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late) | Checking post-result support bounces (e.g., Equitas SFB at ₹82) | Stage 7 | 
-$$
-[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30
-$$
-(/transcripts/cc/CC_Lec03?t=6463)] |
+| **Monthly RS Lookback Period** | Monthly bars in TradingView RS (Modulus) | **3 or 6 months** (max 12 months) | Primary-trend RS tracking for multi-year compounders (e.g., KEI Industries) | Stage 7 |  [[01:28:15–01:29:21](/transcripts/cc/CC_Lec03?t=5295), [01:44:15–01:48:30](/transcripts/cc/CC_Lec03?t=6255)] |
+| **Weekly RS Lookback Period** | Weekly bars in TradingView RS (Modulus) | **13 or 26 weeks** (standard; max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced early ROE/ROCE inflection | Secondary-trend RS confirmation and peak divergence detection | Stage 7 |  [[01:24:37–01:25:19](/transcripts/cc/CC_Lec03?t=5077), [01:43:30–01:48:30](/transcripts/cc/CC_Lec03?t=6210)] |
+| **Daily RS Lookback Period** | Daily bars in TradingView RS (Modulus) | **30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late) | Checking post-result support bounces (e.g., Equitas SFB at ₹82) | Stage 7 |  [[01:35:34–01:36:12](/transcripts/cc/CC_Lec03?t=5734), [01:47:43–01:48:30](/transcripts/cc/CC_Lec03?t=6463)] |
 | **Sector Turnaround Alert Threshold** | Weekly RS (Modulus vs. Nifty 500\) across all stocks in a beaten-down sector | Crossing comprehensively above **0.2 to 0.3** | Automated TradingView email alert trigger for sector-wide inflection | Stage 7 | [[01:41:06–01:41:39](/transcripts/cc/CC_Lec03?t=6066)] |
 | **MarketSmith India `Growth 50` RS Rating** | Percentile price performance rank (1–99) vs. entire listed equity universe | **$\ge 80$** (e.g., 86–98 for top leaders; VST Tillers at 79\) | Screening top institutional outperformers across the market | Stage 8 | [[01:50:31–01:53:20](/transcripts/cc/CC_Lec03?t=6631)] |
 | **MarketSmith India `Blue Dot` List** | Stocks breaking out with newly inflecting relative strength | **RS Rating $\ge 75$** | Catching early relative-strength breakouts | Stage 8 | [[02:00:37–02:02:06](/transcripts/cc/CC_Lec03?t=7237)] |
@@ -1798,34 +1556,20 @@ $$
 | **Exponential Moving Average (EMA)** | Weighted moving average assigning higher weight to recent closing prices | Recent bars (e.g., days 40–50 in 50 EMA) weighted highest | Responsive trend tracking and timely exit execution | Stage 9 | [[02:33:01–02:35:11](/transcripts/cc/CC_Lec03?t=9181)] |
 | **Parabolic / "Eiffel Tower" Exit (`10-Week EMA`)** | Weekly Close \< 10-Week EMA ($\approx 50$ days) after a 2x–3x run in 3M or 5x–6x run in 1Y | **Sell 50%** on 1st breakdown; **Sell 100%** on 2nd breakdown | Locking in vertical momentum windfalls at 100x+ P/E (e.g., IEX at ₹256–257; IRCTC at ₹826) | Stage 9 | [[02:35:11–02:38:32](/transcripts/cc/CC_Lec03?t=9311)] |
 | **Climax Extension Exit (`200-Day EMA Stretch`)** | \$
-$$
+$
+
 (Daily Price - 200-Day EMA) ÷ 200-Day EMA
-$$
- \\times 100%\$ | **\> 80% to 100%+ extension** above 200-Day EMA \+ 80x–120x P/E \+ climax volume bar | Immediate blow-off top exit ("sell by closing your eyes"; e.g., IRCTC at ₹1,200 vs ₹500 200-DMA; Balaji Amines \+103%) | Stage 9 | [[02:38:32–02:42:40](/transcripts/cc/CC_Lec03?t=9512)] |
-| **Core Long-Term Trend Exit (`30-Week EMA`)** | Weekly Close breaking comprehensively below a flattening/declining 30-Week EMA | Comprehensive breakdown below **30-Week EMA** | Preventing 60%+ "Forced Long-Term Investor" (FLT) drawdowns (e.g., Laurus Labs to ₹288) | Stage 9, Stage 11 | 
-$$
-[02:42:40–02:45:21](/transcripts/cc/CC_Lec03?t=9760), [03:09:30–03:12:45
-$$
-(/transcripts/cc/CC_Lec03?t=11370)] |
+$
+
+\\times 100%\$ | **\> 80% to 100%+ extension** above 200-Day EMA \+ 80x–120x P/E \+ climax volume bar | Immediate blow-off top exit ("sell by closing your eyes"; e.g., IRCTC at ₹1,200 vs ₹500 200-DMA; Balaji Amines \+103%) | Stage 9 | [[02:38:32–02:42:40](/transcripts/cc/CC_Lec03?t=9512)] |
+| **Core Long-Term Trend Exit (`30-Week EMA`)** | Weekly Close breaking comprehensively below a flattening/declining 30-Week EMA | Comprehensive breakdown below **30-Week EMA** | Preventing 60%+ "Forced Long-Term Investor" (FLT) drawdowns (e.g., Laurus Labs to ₹288) | Stage 9, Stage 11 |  [[02:42:40–02:45:21](/transcripts/cc/CC_Lec03?t=9760), [03:09:30–03:12:45](/transcripts/cc/CC_Lec03?t=11370)] |
 | **Golden Crossover Screen** | Daily 50 SMA/DMA crossing above Daily 200 SMA/DMA | **50 DMA \> 200 DMA crossover** | Screening emerging turnaround trends on Trendlyne / StockScans (e.g., Ujjivan SFB at ₹24) | Stage 9 | [[02:46:02–02:47:59](/transcripts/cc/CC_Lec03?t=9962)] |
 | **Darvas Box Stage 2 Breakout Rule** | Multi-quarter/year horizontal rectangle (multiple supports & resistances \+ volume dry-up) pierced on high volume | **2–5 year base** ("Longer the base, bigger the breakout") \+ **30-W EMA sloping up** | Timing high-conviction Stage 2 entries (e.g., Aarti Drugs at ₹133; Syngene at ₹670) | Stage 10 | [[02:58:30–03:02:20](/transcripts/cc/CC_Lec03?t=10710)] |
-| **Stage 4 Prohibition Rule** | Price \< downward-sloping 30-Week EMA \+ consecutive lower highs | **Never buy in Stage 4 (0% allocation)** | Avoiding multi-year 80%–90% wealth destruction (e.g., DLF post-2008) | Stage 9, Stage 10, Stage 11 | 
-$$
-[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [03:03:02–03:05:14](/transcripts/cc/CC_Lec03?t=10982), [03:21:30–03:22:15
-$$
-(/transcripts/cc/CC_Lec03?t=12090)] |
-| **Volatility Stop (`V-Stop`) & 50/50 Dual Exit** | Trailing volatility stop on Monthly/Weekly charts \+ 30-Week EMA | **Length \= 10, Multiplier \= 2.0** (or **2.5** high conviction; optional weekly length **5** or **15**); **Sell 50%** on V-Stop red flip \+ **Sell 50%** on 30-W EMA break | Core two-tranche exit for long-term & cyclical stocks (e.g., Aarti Ind. ₹960 / ₹815 / ₹727–730; Rain Ind.) | Stage 11 | 
-$$
-[03:07:22–03:12:45](/transcripts/cc/CC_Lec03?t=11242), [03:14:55–03:16:13
-$$
-(/transcripts/cc/CC_Lec03?t=11695)] |
+| **Stage 4 Prohibition Rule** | Price \< downward-sloping 30-Week EMA \+ consecutive lower highs | **Never buy in Stage 4 (0% allocation)** | Avoiding multi-year 80%–90% wealth destruction (e.g., DLF post-2008) | Stage 9, Stage 10, Stage 11 |  [[02:27:19](/transcripts/cc/CC_Lec03?t=8839), [03:03:02–03:05:14](/transcripts/cc/CC_Lec03?t=10982), [03:21:30–03:22:15](/transcripts/cc/CC_Lec03?t=12090)] |
+| **Volatility Stop (`V-Stop`) & 50/50 Dual Exit** | Trailing volatility stop on Monthly/Weekly charts \+ 30-Week EMA | **Length \= 10, Multiplier \= 2.0** (or **2.5** high conviction; optional weekly length **5** or **15**); **Sell 50%** on V-Stop red flip \+ **Sell 50%** on 30-W EMA break | Core two-tranche exit for long-term & cyclical stocks (e.g., Aarti Ind. ₹960 / ₹815 / ₹727–730; Rain Ind.) | Stage 11 |  [[03:07:22–03:12:45](/transcripts/cc/CC_Lec03?t=11242), [03:14:55–03:16:13](/transcripts/cc/CC_Lec03?t=11695)] |
 | **Previous-Cycle Winner Persistence Rule** | Share of last bull cycle's winners that fail to lead the next cycle & average recovery lag | **88%** do not lead the next cycle; **4 to 5 years** average comeback time | Exiting exhausted 10x cycle winners once volume dies (e.g., Tata Elxsi; IIFL Finance 2018–2022) | Stage 11 | [[03:13:20–03:14:55](/transcripts/cc/CC_Lec03?t=11600)] |
 | **Recent IPO / Short-History Adjustment** | Adjusted weekly RS and EMA parameters when listing history \< 26–30 weeks | **Weekly RS Period \= 3**; **Weekly EMA \= 9 or 10** | Evaluating IPO rectangular base breakouts into Stage 2 (e.g., Senco Gold) | Stage 11 | [[03:28:06–03:29:45](/transcripts/cc/CC_Lec03?t=12486)] |
-| **4-Part Stage 2 Weekly Buying Setup (`SOIC LTI`)** | (1) Price \> upward-sloping `30-W EMA` \+ (2) `26-W RS (vs Nifty 500) > 0` \+ (3) `Weekly RSI > 50` \+ (4) `Weekly ADX > 20` (plus V-Stop positive) | All **4 conditions met simultaneously** on weekly chart | Complete rule-based Stage 2 entry trigger (e.g., Steel Strips Wheels at ₹240–250 with RSI 52\) | Stage 11, Stage 12 | 
-$$
-[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:31:45–03:34:55
-$$
-(/transcripts/cc/CC_Lec03?t=12705)] |
+| **4-Part Stage 2 Weekly Buying Setup (`SOIC LTI`)** | (1) Price \> upward-sloping `30-W EMA` \+ (2) `26-W RS (vs Nifty 500) > 0` \+ (3) `Weekly RSI > 50` \+ (4) `Weekly ADX > 20` (plus V-Stop positive) | All **4 conditions met simultaneously** on weekly chart | Complete rule-based Stage 2 entry trigger (e.g., Steel Strips Wheels at ₹240–250 with RSI 52\) | Stage 11, Stage 12 |  [[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:31:45–03:34:55](/transcripts/cc/CC_Lec03?t=12705)] |
 | **Donchian Channel Pyramiding Rule** | 20-period channel tracking highest high of last 20 bars | **Length \= 20**; add tranche when weekly candle body/wick cuts **Upper Band** | Scaling up winning Stage 2 positions on fresh higher highs (e.g., Ujjivan SFB, Elecon/Life) | Stage 12 | [[03:42:00–03:45:33](/transcripts/cc/CC_Lec03?t=13320)] |
 | **Parabolic SAR (`PSAR`) Pyramiding Rule** | Stop-and-reverse dots tracking trend continuation | **Step/Increment \= 0.02, Max \= 0.2**; add tranche when PSAR flips positive while buying setup holds | Alternative trend-following pyramid trigger | Stage 12 | [[03:42:00–03:43:15](/transcripts/cc/CC_Lec03?t=13320)] |
 
@@ -1833,75 +1577,35 @@ $$
 
 ## 7\. GLOSSARY
 
-- **ADX (Average Directional Index):** Technical indicator used on weekly/monthly charts with a threshold of **20**; when ADX rises above 20, it confirms that a stock is genuinely breaking out of sideways consolidation 
-$$
-[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:32:30–03:33:39
-$$
-(/transcripts/cc/CC_Lec03?t=12750)].  
+- **ADX (Average Directional Index):** Technical indicator used on weekly/monthly charts with a threshold of **20**; when ADX rises above 20, it confirms that a stock is genuinely breaking out of sideways consolidation  [[03:25:24–03:26:40](/transcripts/cc/CC_Lec03?t=12324), [03:32:30–03:33:39](/transcripts/cc/CC_Lec03?t=12750)].  
 - **Auction Marketplace:** Characterization of the stock market where every price movement is governed by the balance of buyer demand versus seller supply [[00:15:42–00:18:56](/transcripts/cc/CC_Lec03?t=942)].  
 - **Blue Dot List (MarketSmith India):** Idea list in MarketSmith India that filters for stocks whose Relative Strength has just started inflecting upward as they break out, requiring a minimum **RS Rating of 75** [[02:00:37–02:02:06](/transcripts/cc/CC_Lec03?t=7237)].  
 - **Candlestick Body & Wicks:** Visual representation of price over a chosen timeframe (1 day, 1 week, 1 month, or 3 months); a green body indicates price closed higher than it opened, a red body indicates price closed lower, the upper wick marks the high of the period, and the lower wick marks the low [[00:37:02–00:40:55](/transcripts/cc/CC_Lec03?t=2222)].  
-- **Change in Character:** A structural shift in a chart's behavior—either bullish (e.g., a multi-year downtrend printing a selling climax volume bar followed by sideways support, as in Sudarshan Chemical and Gland Pharma) or bearish (e.g., Aarti Industries breaking its 100-week EMA held from 2013 to 2020\) 
-$$
-[00:31:04–00:36:28](/transcripts/cc/CC_Lec03?t=1864), [00:45:11–00:45:58](/transcripts/cc/CC_Lec03?t=2711), [03:05:14–03:06:25
-$$
-(/transcripts/cc/CC_Lec03?t=11114)].  
+- **Change in Character:** A structural shift in a chart's behavior—either bullish (e.g., a multi-year downtrend printing a selling climax volume bar followed by sideways support, as in Sudarshan Chemical and Gland Pharma) or bearish (e.g., Aarti Industries breaking its 100-week EMA held from 2013 to 2020\)  [[00:31:04–00:36:28](/transcripts/cc/CC_Lec03?t=1864), [00:45:11–00:45:58](/transcripts/cc/CC_Lec03?t=2711), [03:05:14–03:06:25](/transcripts/cc/CC_Lec03?t=11114)].  
 - **Circle of Expectations:** The seven-stage institutional expectation lifecycle through which stocks rotate: (1) Low Expectations/Neglect & Contrarians → (2) Positive Surprise → (3) Estimate Revisions (Upgrades) → (4) EPS Momentum / Growth Story → (5) Growth Torpedoed → (6) Negative Surprise & Estimate Cuts → (7) "Stock for the Dogs" (FLT) / Neglect [[02:50:29–02:55:30](/transcripts/cc/CC_Lec03?t=10229)].  
 - **Client Mining:** Fundamental growth catalyst in IT services and product IT companies where a vendor captures an increasing share of total IT spend from existing customers after core product investments are completed, driving top-line acceleration and operating leverage [[00:54:59–00:56:17](/transcripts/cc/CC_Lec03?t=3299)].  
 - **CMS (Custom Manufacturing Solutions):** Used without definition (referenced in Neuland Laboratories' conference call regarding commercialized molecules driving sustainable momentum) [[01:58:09–01:58:30](/transcripts/cc/CC_Lec03?t=7089)].  
 - **Darvas Box:** A rectangular sideways consolidation pattern (popularized by Nicholas Darvas) bounded by multiple horizontal support touches at the bottom and multiple resistance touches at the top while volume dries up, preceding a high-volume Stage 2 breakout [[02:58:49–03:02:15](/transcripts/cc/CC_Lec03?t=10729)].  
 - **DII (Domestic Institutional Investors):** Domestic mutual funds and institutions representing "smart money" accumulation (e.g., entering Steel Strips Wheels for the first time despite promoter selling) [[03:18:10–03:18:35](/transcripts/cc/CC_Lec03?t=11890)].  
-- **Ditch (Selling Climax):** Technical term for a capitulation volume spike at the end of a prolonged downtrend where the last panicked seller dumps their entire holding in one go, allowing strong hands to absorb supply and initiate a bottoming process 
-$$
-[00:31:56–00:36:28](/transcripts/cc/CC_Lec03?t=1916), [00:43:42–00:45:58
-$$
-(/transcripts/cc/CC_Lec03?t=2622)].  
+- **Ditch (Selling Climax):** Technical term for a capitulation volume spike at the end of a prolonged downtrend where the last panicked seller dumps their entire holding in one go, allowing strong hands to absorb supply and initiate a bottoming process  [[00:31:56–00:36:28](/transcripts/cc/CC_Lec03?t=1916), [00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622)].  
 - **Donchian Channels:** A 20-period price channel indicator whose upper band connects the highest highs over the last 20 bars; used for pyramiding into winning positions whenever a candle body or upper wick cuts through the upper band [[03:42:00–03:45:33](/transcripts/cc/CC_Lec03?t=13320)].  
 - **Eiffel Tower / *Khamba* [Pillar] Chart:** A vertical, parabolic stock price surge (e.g., doubling or tripling in 2–3 months or rising 5x–6x in a year to 100x+ P/E) that requires tight profit protection via the 10-week EMA or \>80% 200-DMA extension rule [[02:35:52–02:40:45](/transcripts/cc/CC_Lec03?t=9352)].  
 - **EMA (Exponential Moving Average):** A trend-following moving average that assigns greater weightage to recent closing prices than older prices, reacting faster to trend changes than a Simple Moving Average (SMA) [[02:33:01–02:35:11](/transcripts/cc/CC_Lec03?t=9181)].  
-- **FLT (Forced Long-Term Investor):** A retail investor who refuses to execute an exit when a stock's trend breaks or valuations become extreme, and is consequently forced to hold through a 60%–80% Stage 4 drawdown 
-$$
-[02:43:39–02:45:21](/transcripts/cc/CC_Lec03?t=9819), [02:52:45–02:53:05](/transcripts/cc/CC_Lec03?t=10365), [02:56:38–02:57:35
-$$
-(/transcripts/cc/CC_Lec03?t=10598)].  
+- **FLT (Forced Long-Term Investor):** A retail investor who refuses to execute an exit when a stock's trend breaks or valuations become extreme, and is consequently forced to hold through a 60%–80% Stage 4 drawdown  [[02:43:39–02:45:21](/transcripts/cc/CC_Lec03?t=9819), [02:52:45–02:53:05](/transcripts/cc/CC_Lec03?t=10365), [02:56:38–02:57:35](/transcripts/cc/CC_Lec03?t=10598)].  
 - **Golden Crossover:** A bullish technical screening signal triggered on daily charts when a shorter moving average (**50 DMA/SMA**) crosses above a longer moving average (**200 DMA/SMA**) [[02:45:55–02:47:59](/transcripts/cc/CC_Lec03?t=9955)].  
 - **Growth 50 (MarketSmith India):** Flagship idea list in MarketSmith India ranking outperforming growth stocks with high percentile Relative Strength ratings (benchmark $\ge 80$) [[01:50:31–01:55:20](/transcripts/cc/CC_Lec03?t=6631)].  
 - **NCLT (National Company Law Tribunal):** Used without definition (insolvency resolution tribunal through which Steel Strips Wheels received approval to acquire AMW Auto Components within 90 days) [[00:57:44–00:58:44](/transcripts/cc/CC_Lec03?t=3464)].  
 - **Operating Leverage:** Expansion of operating profit margins (OPM) when revenue scales rapidly over fixed costs (e.g., TD Power Systems expanding OPM from 7% to \~16% during power-sector Capex) [[00:54:59–00:55:30](/transcripts/cc/CC_Lec03?t=3299)].  
 - **Parabolic SAR (`PSAR`):** Stop-and-reverse technical indicator (configured at increment `0.02`, max `0.2`) used to pyramid into an active Stage 2 position whenever its dots flip positive [[03:42:00–03:43:15](/transcripts/cc/CC_Lec03?t=13320)].  
-- **Primary Trend vs. Secondary Trend:** The multi-year structural trend visible on monthly and 3-month (quarterly) charts (**primary trend**) versus the intermediate multi-week/multi-month trend tracked on weekly and daily charts (**secondary trend**) 
-$$
-[00:36:28–00:41:45](/transcripts/cc/CC_Lec03?t=2188), [02:02:06–02:02:48
-$$
-(/transcripts/cc/CC_Lec03?t=7326)].  
+- **Primary Trend vs. Secondary Trend:** The multi-year structural trend visible on monthly and 3-month (quarterly) charts (**primary trend**) versus the intermediate multi-week/multi-month trend tracked on weekly and daily charts (**secondary trend**)  [[00:36:28–00:41:45](/transcripts/cc/CC_Lec03?t=2188), [02:02:06–02:02:48](/transcripts/cc/CC_Lec03?t=7326)].  
 - **Pyramiding:** Systematically adding incremental capital to a winning stock position as it confirms an uptrend by making higher highs [[03:42:00–03:45:33](/transcripts/cc/CC_Lec03?t=13320)].  
 - **Relative Strength (`RS` — Modulus):** A comparative ratio indicator measuring a stock's price performance over $N$ bars against a benchmark index (`NSE:CNX500` / Nifty 500\) or peer stock, where readings **\> 0** signify outperformance and readings **\< 0** signify relative weakness [[01:23:46–01:30:09](/transcripts/cc/CC_Lec03?t=5026)].  
-- **RSI (Relative Strength Index):** A single-stock momentum oscillator measuring whether a stock's internal momentum is above 50 or overbought/oversold—strictly distinct from comparative Relative Strength (`RS`) 
-$$
-[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06](/transcripts/cc/CC_Lec03?t=6000), [03:31:45–03:33:39
-$$
-(/transcripts/cc/CC_Lec03?t=12705)].  
+- **RSI (Relative Strength Index):** A single-stock momentum oscillator measuring whether a stock's internal momentum is above 50 or overbought/oversold—strictly distinct from comparative Relative Strength (`RS`)  [[01:29:21–01:30:09](/transcripts/cc/CC_Lec03?t=5361), [01:40:00–01:41:06](/transcripts/cc/CC_Lec03?t=6000), [03:31:45–03:33:39](/transcripts/cc/CC_Lec03?t=12705)].  
 - **SMA (Simple Moving Average):** An unweighted arithmetic mean of closing prices over $N$ periods (sum of $N$ closing prices divided by $N$) [[02:30:48–02:33:01](/transcripts/cc/CC_Lec03?t=9048)].  
-- **Smart Money:** Institutional investors (mutual funds, DIIs, FIIs, large informed shareholders) whose aggressive buying or selling creates towering multi-year volume bars on weekly charts 
-$$
-[00:20:25–00:25:18](/transcripts/cc/CC_Lec03?t=1225), [01:53:49–01:54:41](/transcripts/cc/CC_Lec03?t=6829), [03:18:10–03:18:35
-$$
-(/transcripts/cc/CC_Lec03?t=11890)].  
-- **SOIC LTI (Long-Term Indicator) Tool:** Custom TradingView indicator built for SOIC tribe members that combines the 30-week EMA, Relative Strength vs. Nifty 500, RSI \> 50, ADX \> 20, and Volatility Stop into a single visual script 
-$$
-[03:16:40–03:17:50](/transcripts/cc/CC_Lec03?t=11800), [03:24:12–03:26:40](/transcripts/cc/CC_Lec03?t=12252), [03:34:18–03:38:21
-$$
-(/transcripts/cc/CC_Lec03?t=12858)].  
-- **Stage Analysis (Stan Weinstein's 4 Stages):** Classification of a stock's lifecycle around the 30-week EMA into **Stage 1** (Sideways Basing/Accumulation), **Stage 2** (Advancing Markup Uptrend), **Stage 3** (Distribution Top), and **Stage 4** (Declining Markdown Downtrend) 
-$$
-[02:56:15–03:06:01](/transcripts/cc/CC_Lec03?t=10575), [03:20:39–03:25:24
-$$
-(/transcripts/cc/CC_Lec03?t=12039)].  
-- **Variant Perception:** An analytical edge derived from identifying a fundamental earnings inflection (via conference calls, export data, or Capex triggers) before consensus prices it in 
-$$
-[01:45:10–01:45:29](/transcripts/cc/CC_Lec03?t=6310), [01:57:37–01:59:09
-$$
-(/transcripts/cc/CC_Lec03?t=7057)].  
+- **Smart Money:** Institutional investors (mutual funds, DIIs, FIIs, large informed shareholders) whose aggressive buying or selling creates towering multi-year volume bars on weekly charts  [[00:20:25–00:25:18](/transcripts/cc/CC_Lec03?t=1225), [01:53:49–01:54:41](/transcripts/cc/CC_Lec03?t=6829), [03:18:10–03:18:35](/transcripts/cc/CC_Lec03?t=11890)].  
+- **SOIC LTI (Long-Term Indicator) Tool:** Custom TradingView indicator built for SOIC tribe members that combines the 30-week EMA, Relative Strength vs. Nifty 500, RSI \> 50, ADX \> 20, and Volatility Stop into a single visual script  [[03:16:40–03:17:50](/transcripts/cc/CC_Lec03?t=11800), [03:24:12–03:26:40](/transcripts/cc/CC_Lec03?t=12252), [03:34:18–03:38:21](/transcripts/cc/CC_Lec03?t=12858)].  
+- **Stage Analysis (Stan Weinstein's 4 Stages):** Classification of a stock's lifecycle around the 30-week EMA into **Stage 1** (Sideways Basing/Accumulation), **Stage 2** (Advancing Markup Uptrend), **Stage 3** (Distribution Top), and **Stage 4** (Declining Markdown Downtrend)  [[02:56:15–03:06:01](/transcripts/cc/CC_Lec03?t=10575), [03:20:39–03:25:24](/transcripts/cc/CC_Lec03?t=12039)].  
+- **Variant Perception:** An analytical edge derived from identifying a fundamental earnings inflection (via conference calls, export data, or Capex triggers) before consensus prices it in  [[01:45:10–01:45:29](/transcripts/cc/CC_Lec03?t=6310), [01:57:37–01:59:09](/transcripts/cc/CC_Lec03?t=7057)].  
 - **Volatility Stop (`V-Stop`):** A trailing stop-loss indicator based on average price volatility over $N$ bars (configured at **Length \= 10, Multiplier \= 2.0 or 2.5** on weekly and monthly charts) that flips red when downside volatility expands [[03:07:22–03:16:13](/transcripts/cc/CC_Lec03?t=11242)].
 
 ---
@@ -1910,110 +1614,42 @@ $$
 
 | Company/Example | Sector | Concept Illustrated | Stage | Timestamp |
 | :---: | :---: | :---: | :---: | :---: |
-| **Balaji Amines** | Specialty Chemicals | Solapur plant mention; October 2021 US Fed rate hike chemical peak; underperforming SRF in headwinds; \+100%–103% stretch above daily 200 EMA (\~₹2,400 to ₹5,000) | Stage 1, Stage 7, Stage 9 | 
-$$
-[00:03:30–00:04:15](/transcripts/cc/CC_Lec03?t=210), [01:31:45–01:35:15](/transcripts/cc/CC_Lec03?t=5505), [02:41:20–02:42:40
-$$
-(/transcripts/cc/CC_Lec03?t=9680)] |
+| **Balaji Amines** | Specialty Chemicals | Solapur plant mention; October 2021 US Fed rate hike chemical peak; underperforming SRF in headwinds; \+100%–103% stretch above daily 200 EMA (\~₹2,400 to ₹5,000) | Stage 1, Stage 7, Stage 9 |  [[00:03:30–00:04:15](/transcripts/cc/CC_Lec03?t=210), [01:31:45–01:35:15](/transcripts/cc/CC_Lec03?t=5505), [02:41:20–02:42:40](/transcripts/cc/CC_Lec03?t=9680)] |
 | **Classroom Math Students (Person A vs. Person B)** | Educational Analogy | Person A (4–5 yr track record \+ 3–4 hrs/day study \= fundamentals) vs. Person B; live class vote \= technicals | Stage 2 | [[00:08:53–00:11:53](/transcripts/cc/CC_Lec03?t=533)] |
 | **Chemicals, Defense & Large-Cap Banks Poll** | Multi-Sector | Market social proof voting: Chemicals in pessimism, Defense trading like hotcakes, Large-cap banks stagnant for 2–3 yrs | Stage 2 | [[00:12:29–00:15:42](/transcripts/cc/CC_Lec03?t=749)] |
-| **HDFC Bank** | Banking | Out of market fancy; 3-year sideways trend; benchmarked against Nifty Bank in RS | Stage 2, Stage 7, Stage 9 | 
-$$
-[00:14:06–00:15:42](/transcripts/cc/CC_Lec03?t=846), [01:42:45–01:43:30](/transcripts/cc/CC_Lec03?t=6165), [02:24:24–02:25:09
-$$
-(/transcripts/cc/CC_Lec03?t=8664)] |
+| **HDFC Bank** | Banking | Out of market fancy; 3-year sideways trend; benchmarked against Nifty Bank in RS | Stage 2, Stage 7, Stage 9 |  [[00:14:06–00:15:42](/transcripts/cc/CC_Lec03?t=846), [01:42:45–01:43:30](/transcripts/cc/CC_Lec03?t=6165), [02:24:24–02:25:09](/transcripts/cc/CC_Lec03?t=8664)] |
 | **Kotak Mahindra Bank** | Banking | Large-cap private bank out of market favor over preceding 2–3 years | Stage 2 | [[00:14:06–00:15:42](/transcripts/cc/CC_Lec03?t=846)] |
 | **COVID-19 Injections (Remdesivir), Oxygen Cylinders & Poultry Crash** | Healthcare / Poultry (Macro Analogy) | Law of demand and supply: ₹5,000 MRP injections sold at ₹50,000–₹1 lakh on excess demand; chicken/egg crash on rumor-driven demand collapse | Stage 2 | [[00:15:42–00:18:56](/transcripts/cc/CC_Lec03?t=942)] |
 | **Aeroplane Takeoff (Thrust vs. Drag)** | Physics Analogy | Price \= trend former (direction), Volume \= weight of the evidence (engine thrust overcoming drag) | Stage 3 | [[00:18:56–00:20:25](/transcripts/cc/CC_Lec03?t=1136)] |
-| **Aarti Industries** | Specialty Chemicals | 2-yr high red volume smart-money exit; RS \< 0 post-2nd March 2022; Oct 2021 peak; estimate cuts; 100-W EMA break (held 2013–2020 from ₹17) as OPM fell 22% → 14%; V-Stop (₹960 W / ₹727–730 M) \+ 30-W EMA (₹815) exit avoiding drop to ₹480; selling climax at ₹480 while still in Stage 4 below 30-W EMA (SOIC LTI red from ₹1,100) | Stage 3, Stage 6, Stage 7, Stage 10, Stage 11 | 
-$$
-[00:21:56–00:23:51](/transcripts/cc/CC_Lec03?t=1316), [01:22:45–01:33:13](/transcripts/cc/CC_Lec03?t=4965), [01:38:37–01:41:47](/transcripts/cc/CC_Lec03?t=5917), [02:50:29–02:53:10](/transcripts/cc/CC_Lec03?t=10229), [03:05:14–03:10:45](/transcripts/cc/CC_Lec03?t=11114), [03:23:45–03:26:40](/transcripts/cc/CC_Lec03?t=12225), [03:30:15–03:31:45
-$$
-(/transcripts/cc/CC_Lec03?t=12615)] |
-| **Pricol** | Auto Ancillaries | High-volume breakout \+ low-volume sideways consolidation ("strong hands"); weekly RS outperforming Balaji Amines; recurring `Growth 50` appearance since ₹180–190 | Stage 3, Stage 7, Stage 8 | 
-$$
-[00:25:18–00:29:45](/transcripts/cc/CC_Lec03?t=1518), [01:33:52–01:35:15](/transcripts/cc/CC_Lec03?t=5632), [01:52:10–01:52:35
-$$
-(/transcripts/cc/CC_Lec03?t=6730)] |
-| **Sudarshan Chemical Industries** | Specialty Chemicals | 4 lower highs in downtrend; 21st August selling climax volume bar changing chart character as largest public shareholder raised stake from 3% to \~8%; sector cycle & contrarian phase | Stage 3, Stage 4, Stage 6, Stage 10 | 
-$$
-[00:32:43–00:36:28](/transcripts/cc/CC_Lec03?t=1963), [00:43:06–00:43:42](/transcripts/cc/CC_Lec03?t=2586), [01:22:29–01:23:09](/transcripts/cc/CC_Lec03?t=4949), [02:50:29–02:51:02
-$$
-(/transcripts/cc/CC_Lec03?t=10229)] |
-| **Varun Beverages (VBL)** | Beverages / FMCG | 3-month quarterly candle trend post-2020; PAT \>2x and 3–4x stock over 2 yrs via Sting energy drink, ₹10–20 Gatorade packs, dairy drinks & geographic expansion; scarce large-cap growth leader | Stage 4, Stage 5, Stage 8 | 
-$$
-[00:39:13–00:39:47](/transcripts/cc/CC_Lec03?t=2353), [00:51:46–00:54:59](/transcripts/cc/CC_Lec03?t=3106), [01:54:41–01:55:15
-$$
-(/transcripts/cc/CC_Lec03?t=6881)] |
-| **Gland Pharma** | Pharmaceuticals | Scenario 3 downtrend ending in selling climax ("ditch") \+ green volume bottoming; brokerage target prices lagging crash (₹3,600–3,700 Oct → ₹3,100 Apr → ₹2,644 price while target stayed ₹3,700 before cut to ₹2,500) | Stage 4 | 
-$$
-[00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [00:48:20–00:49:47
-$$
-(/transcripts/cc/CC_Lec03?t=2900)] |
+| **Aarti Industries** | Specialty Chemicals | 2-yr high red volume smart-money exit; RS \< 0 post-2nd March 2022; Oct 2021 peak; estimate cuts; 100-W EMA break (held 2013–2020 from ₹17) as OPM fell 22% → 14%; V-Stop (₹960 W / ₹727–730 M) \+ 30-W EMA (₹815) exit avoiding drop to ₹480; selling climax at ₹480 while still in Stage 4 below 30-W EMA (SOIC LTI red from ₹1,100) | Stage 3, Stage 6, Stage 7, Stage 10, Stage 11 |  [[00:21:56–00:23:51](/transcripts/cc/CC_Lec03?t=1316), [01:22:45–01:33:13](/transcripts/cc/CC_Lec03?t=4965), [01:38:37–01:41:47](/transcripts/cc/CC_Lec03?t=5917), [02:50:29–02:53:10](/transcripts/cc/CC_Lec03?t=10229), [03:05:14–03:10:45](/transcripts/cc/CC_Lec03?t=11114), [03:23:45–03:26:40](/transcripts/cc/CC_Lec03?t=12225), [03:30:15–03:31:45](/transcripts/cc/CC_Lec03?t=12615)] |
+| **Pricol** | Auto Ancillaries | High-volume breakout \+ low-volume sideways consolidation ("strong hands"); weekly RS outperforming Balaji Amines; recurring `Growth 50` appearance since ₹180–190 | Stage 3, Stage 7, Stage 8 |  [[00:25:18–00:29:45](/transcripts/cc/CC_Lec03?t=1518), [01:33:52–01:35:15](/transcripts/cc/CC_Lec03?t=5632), [01:52:10–01:52:35](/transcripts/cc/CC_Lec03?t=6730)] |
+| **Sudarshan Chemical Industries** | Specialty Chemicals | 4 lower highs in downtrend; 21st August selling climax volume bar changing chart character as largest public shareholder raised stake from 3% to \~8%; sector cycle & contrarian phase | Stage 3, Stage 4, Stage 6, Stage 10 |  [[00:32:43–00:36:28](/transcripts/cc/CC_Lec03?t=1963), [00:43:06–00:43:42](/transcripts/cc/CC_Lec03?t=2586), [01:22:29–01:23:09](/transcripts/cc/CC_Lec03?t=4949), [02:50:29–02:51:02](/transcripts/cc/CC_Lec03?t=10229)] |
+| **Varun Beverages (VBL)** | Beverages / FMCG | 3-month quarterly candle trend post-2020; PAT \>2x and 3–4x stock over 2 yrs via Sting energy drink, ₹10–20 Gatorade packs, dairy drinks & geographic expansion; scarce large-cap growth leader | Stage 4, Stage 5, Stage 8 |  [[00:39:13–00:39:47](/transcripts/cc/CC_Lec03?t=2353), [00:51:46–00:54:59](/transcripts/cc/CC_Lec03?t=3106), [01:54:41–01:55:15](/transcripts/cc/CC_Lec03?t=6881)] |
+| **Gland Pharma** | Pharmaceuticals | Scenario 3 downtrend ending in selling climax ("ditch") \+ green volume bottoming; brokerage target prices lagging crash (₹3,600–3,700 Oct → ₹3,100 Apr → ₹2,644 price while target stayed ₹3,700 before cut to ₹2,500) | Stage 4 |  [[00:43:42–00:45:58](/transcripts/cc/CC_Lec03?t=2622), [00:48:20–00:49:47](/transcripts/cc/CC_Lec03?t=2900)] |
 | **Shivalik Bimetal Controls** | Industrial / Metals | Massive weekly red volume breakdown bar warning of insider exit as promoter dumped 10% of total shareholding in one go | Stage 4 | [[00:45:58–00:48:20](/transcripts/cc/CC_Lec03?t=2758)] |
-| **APL Apollo Tubes** | Steel Tubes | High-diameter structural steel tubes driving volume acceleration and 8–9x return over 3 years; steel tube sector factor | Stage 5, Stage 6 | 
-$$
-[00:52:50–00:53:32](/transcripts/cc/CC_Lec03?t=3170), [01:22:15–01:22:45
-$$
-(/transcripts/cc/CC_Lec03?t=4935)] |
+| **APL Apollo Tubes** | Steel Tubes | High-diameter structural steel tubes driving volume acceleration and 8–9x return over 3 years; steel tube sector factor | Stage 5, Stage 6 |  [[00:52:50–00:53:32](/transcripts/cc/CC_Lec03?t=3170), [01:22:15–01:22:45](/transcripts/cc/CC_Lec03?t=4935)] |
 | **TD Power Systems** | Capital Goods / Power | Power-sector Capex revival driving operating leverage and expanding OPM from 7% to almost 16% | Stage 5 | [[00:54:24–00:55:30](/transcripts/cc/CC_Lec03?t=3264)] |
-| **Newgen Software** | IT Software Products | Client mining mental model; YoY operating profit surge (Q4 FY23 ₹91 Cr vs ₹64 Cr; Q1 FY24 ₹28 Cr vs ₹18 Cr); MarketSmith `Growth 50` RS Rating \= 92 | Stage 5, Stage 8 | 
-$$
-[00:54:59–00:56:17](/transcripts/cc/CC_Lec03?t=3299), [01:51:30–01:51:50
-$$
-(/transcripts/cc/CC_Lec03?t=6690)] |
-| **Titagarh Rail Systems & Jupiter Wagons** | Railways / Wagons | Railway Capex acceleration lifting entire wagon manufacturing cluster | Stage 5, Stage 6 | 
-$$
-[00:56:47–00:57:15](/transcripts/cc/CC_Lec03?t=3407), [01:21:58–01:22:15
-$$
-(/transcripts/cc/CC_Lec03?t=4918)] |
+| **Newgen Software** | IT Software Products | Client mining mental model; YoY operating profit surge (Q4 FY23 ₹91 Cr vs ₹64 Cr; Q1 FY24 ₹28 Cr vs ₹18 Cr); MarketSmith `Growth 50` RS Rating \= 92 | Stage 5, Stage 8 |  [[00:54:59–00:56:17](/transcripts/cc/CC_Lec03?t=3299), [01:51:30–01:51:50](/transcripts/cc/CC_Lec03?t=6690)] |
+| **Titagarh Rail Systems & Jupiter Wagons** | Railways / Wagons | Railway Capex acceleration lifting entire wagon manufacturing cluster | Stage 5, Stage 6 |  [[00:56:47–00:57:15](/transcripts/cc/CC_Lec03?t=3407), [01:21:58–01:22:15](/transcripts/cc/CC_Lec03?t=4918)] |
 | **ADF Foods** | Packaged Foods | Expanding distribution reach as a core fundamental growth catalyst | Stage 5 | [[00:57:15–00:57:44](/transcripts/cc/CC_Lec03?t=3435)] |
-| **Steel Strips Wheels** | Auto Ancillaries | NCLT approval to acquire AMW Auto Components (90 days to implement) for ₹138–150 Cr cash vs ₹400–500 Cr+ replacement cost; Darvas box breakout \+ DII entry despite Manoj promoter selling; 4-part weekly buying setup (RSI 52, RS \> 0, ADX \> 20, 30-W EMA $\uparrow$ at ₹240–250) | Stage 5, Stage 11, Stage 12 | 
-$$
-[00:57:44–00:58:44](/transcripts/cc/CC_Lec03?t=3464), [03:16:40–03:18:45](/transcripts/cc/CC_Lec03?t=11800), [03:31:45–03:34:55
-$$
-(/transcripts/cc/CC_Lec03?t=12705)] |
+| **Steel Strips Wheels** | Auto Ancillaries | NCLT approval to acquire AMW Auto Components (90 days to implement) for ₹138–150 Cr cash vs ₹400–500 Cr+ replacement cost; Darvas box breakout \+ DII entry despite Manoj promoter selling; 4-part weekly buying setup (RSI 52, RS \> 0, ADX \> 20, 30-W EMA $\uparrow$ at ₹240–250) | Stage 5, Stage 11, Stage 12 |  [[00:57:44–00:58:44](/transcripts/cc/CC_Lec03?t=3464), [03:16:40–03:18:45](/transcripts/cc/CC_Lec03?t=11800), [03:31:45–03:34:55](/transcripts/cc/CC_Lec03?t=12705)] |
 | **AGI Greenpac** | Packaging / Glass | Acquisition-led growth via buying larger competitor HNG at \~1/3rd of replacement value | Stage 5 | [[00:58:44–00:59:31](/transcripts/cc/CC_Lec03?t=3524)] |
 | **Large-Cap IT Sector** | Information Technology | End-user industry slowdown discounted ahead of time by the equity market | Stage 5 | [[00:59:15–00:59:50](/transcripts/cc/CC_Lec03?t=3555)] |
-| **Deepak Nitrite & Haldia Petrochemicals** | Specialty Chemicals | Catalyst inversion: Haldia group announcing ₹3,000 Cr phenol Capex; Oct 2021 US Fed rate hike peak; weekly RS peaking ahead of price and breaking \< 0 after a 3-yr run from 2019 | Stage 5, Stage 7 | 
-$$
-[00:59:50–01:00:20](/transcripts/cc/CC_Lec03?t=3590), [01:31:45–01:32:45](/transcripts/cc/CC_Lec03?t=5505), [01:41:39–01:42:45
-$$
-(/transcripts/cc/CC_Lec03?t=6099)] |
+| **Deepak Nitrite & Haldia Petrochemicals** | Specialty Chemicals | Catalyst inversion: Haldia group announcing ₹3,000 Cr phenol Capex; Oct 2021 US Fed rate hike peak; weekly RS peaking ahead of price and breaking \< 0 after a 3-yr run from 2019 | Stage 5, Stage 7 |  [[00:59:50–01:00:20](/transcripts/cc/CC_Lec03?t=3590), [01:31:45–01:32:45](/transcripts/cc/CC_Lec03?t=5505), [01:41:39–01:42:45](/transcripts/cc/CC_Lec03?t=6099)] |
 | **Roger Federer, Rafael Nadal & Novak Djokovic** | Tennis Analogy | Surface specialization RS: Federer \= 192 grass wins ("King of Grass"); Nadal \= 92 titles, 36 Masters, 63 clay titles ("King of Clay") | Stage 6 | [[01:10:30–01:12:55](/transcripts/cc/CC_Lec03?t=4230)] |
 | **Cristiano Ronaldo vs. Lionel Messi** | Football Analogy | Skill specialization RS: Ronaldo leads in headed goals & weak-foot goals (81 weak-foot goals); Messi leads in free kicks & dribbling | Stage 6 | [[01:12:55–01:14:15](/transcripts/cc/CC_Lec03?t=4375)] |
 | **Virender Sehwag vs. Sachin Tendulkar** | Cricket Analogy | Metric specialization RS: Sehwag ODI SR 104 (Avg 35 ODI / 49 Test) vs. Tendulkar ODI SR 86 (Avg 44 ODI / \~54 Test) | Stage 6 | [[01:14:15–01:15:01](/transcripts/cc/CC_Lec03?t=4455)] |
 | **4-Day Security A vs. Security B** | Quantitative Case Study | Stock B (+50%, \-6.7%, \+28%) outperforms Stock A (+20%, \-16.7%, \+10%) by rising more on up-days and falling less on down-days | Stage 6 | [[01:16:33–01:18:10](/transcripts/cc/CC_Lec03?t=4593)] |
-| **Robert A. Levy (1967) US Equity Study** | Empirical Research | Top 10% RS stocks gained \+9.6% over next 26 weeks vs \+2.9% for bottom 10% RS stocks | Stage 6 | 
-$$
-[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [01:18:10–01:20:12
-$$
-(/transcripts/cc/CC_Lec03?t=4690)] |
+| **Robert A. Levy (1967) US Equity Study** | Empirical Research | Top 10% RS stocks gained \+9.6% over next 26 weeks vs \+2.9% for bottom 10% RS stocks | Stage 6 |  [[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [01:18:10–01:20:12](/transcripts/cc/CC_Lec03?t=4690)] |
 | **Eimco Elecon (India)** | Mining Equipment | \~₹1,000 Cr coal mining equipment proxy rallying on Coal India thermal power mining Capex | Stage 6 | [[01:21:07–01:21:36](/transcripts/cc/CC_Lec03?t=4867)] |
 | **Sarda Energy, GPIL & Sandur Manganese** | Iron Ore & Metals | Factor cohort rallying together on iron ore tailwinds | Stage 6 | [[01:21:36–01:21:58](/transcripts/cc/CC_Lec03?t=4896)] |
 | **Narayana Hrudayalaya, Rainbow, Max & Kovai Medical** | Hospitals | Healthcare sector cohort rallying together | Stage 6 | [[01:21:36–01:21:58](/transcripts/cc/CC_Lec03?t=4896)] |
 | **HBL Power, Texmaco, IRFC & IRCON** | Railways | Railway ecosystem factor rally (HBL Power discussed at Bangalore meet; Texmaco strong results) | Stage 6 | [[01:21:58–01:22:15](/transcripts/cc/CC_Lec03?t=4918)] |
-| **REC, PFC, NTPC, NLC India & Transformers** | Power & Utilities | Power financing, generation, and transformer ancillary factor wave; PFC confirmed in Stage 2 | Stage 6, Stage 11 | 
-$$
-[01:21:58–01:22:29](/transcripts/cc/CC_Lec03?t=4918), [03:20:39–03:21:10
-$$
-(/transcripts/cc/CC_Lec03?t=12039)] |
+| **REC, PFC, NTPC, NLC India & Transformers** | Power & Utilities | Power financing, generation, and transformer ancillary factor wave; PFC confirmed in Stage 2 | Stage 6, Stage 11 |  [[01:21:58–01:22:29](/transcripts/cc/CC_Lec03?t=4918), [03:20:39–03:21:10](/transcripts/cc/CC_Lec03?t=12039)] |
 | **Hi-Tech Pipes, JTL, Venus Pipes, Ratnamani & Hariom Pipe** | Steel & Stainless Tubes | Tube and pipe manufacturers rallying together as a sector factor | Stage 6 | [[01:22:15–01:23:09](/transcripts/cc/CC_Lec03?t=4935)] |
-| **Alkyl Amines, Vishnu Chemicals & Gujarat Fluorochemicals** | Specialty Chemicals | Chemical cohort that boomed together up to Oct 2021 and entered sideways/downtrend headwinds together | Stage 6, Stage 7, Stage 10 | 
-$$
-[01:22:29–01:23:46](/transcripts/cc/CC_Lec03?t=4949), [01:32:04–01:32:45](/transcripts/cc/CC_Lec03?t=5524), [02:50:29–02:51:02
-$$
-(/transcripts/cc/CC_Lec03?t=10229)] |
-| **Ujjivan Small Finance Bank** | Banking / SFB | Weekly 26-period RS crossing \> 0 on high volume as ROE hit 30% at 3x P/E and \~1x P/B; Golden Crossover (50 DMA \> 200 DMA) at ₹24; Donchian Channel 20 upper-band pyramiding cuts | Stage 7, Stage 9, Stage 12 | 
-$$
-[01:23:46–01:28:15](/transcripts/cc/CC_Lec03?t=5026), [02:46:20–02:46:55](/transcripts/cc/CC_Lec03?t=9980), [03:43:34–03:44:20
-$$
-(/transcripts/cc/CC_Lec03?t=13414)] |
-| **SRF** | Specialty Chemicals | Strongest chemical moat company still going sideways under 60% sector headwind (RS peaked Sept 2021, \< 0 since Oct 2022), yet outperforming Balaji Amines in 21 of 24 months; trading in ₹2,040 sideways box; expensive large-cap mention | Stage 6, Stage 7, Stage 8, Stage 10 | 
-$$
-[01:22:45–01:23:09](/transcripts/cc/CC_Lec03?t=4965), [01:30:51–01:33:52](/transcripts/cc/CC_Lec03?t=5451), [01:54:41–01:55:15](/transcripts/cc/CC_Lec03?t=6881), [03:02:20–03:03:05
-$$
-(/transcripts/cc/CC_Lec03?t=10940)] |
+| **Alkyl Amines, Vishnu Chemicals & Gujarat Fluorochemicals** | Specialty Chemicals | Chemical cohort that boomed together up to Oct 2021 and entered sideways/downtrend headwinds together | Stage 6, Stage 7, Stage 10 |  [[01:22:29–01:23:46](/transcripts/cc/CC_Lec03?t=4949), [01:32:04–01:32:45](/transcripts/cc/CC_Lec03?t=5524), [02:50:29–02:51:02](/transcripts/cc/CC_Lec03?t=10229)] |
+| **Ujjivan Small Finance Bank** | Banking / SFB | Weekly 26-period RS crossing \> 0 on high volume as ROE hit 30% at 3x P/E and \~1x P/B; Golden Crossover (50 DMA \> 200 DMA) at ₹24; Donchian Channel 20 upper-band pyramiding cuts | Stage 7, Stage 9, Stage 12 |  [[01:23:46–01:28:15](/transcripts/cc/CC_Lec03?t=5026), [02:46:20–02:46:55](/transcripts/cc/CC_Lec03?t=9980), [03:43:34–03:44:20](/transcripts/cc/CC_Lec03?t=13414)] |
+| **SRF** | Specialty Chemicals | Strongest chemical moat company still going sideways under 60% sector headwind (RS peaked Sept 2021, \< 0 since Oct 2022), yet outperforming Balaji Amines in 21 of 24 months; trading in ₹2,040 sideways box; expensive large-cap mention | Stage 6, Stage 7, Stage 8, Stage 10 |  [[01:22:45–01:23:09](/transcripts/cc/CC_Lec03?t=4965), [01:30:51–01:33:52](/transcripts/cc/CC_Lec03?t=5451), [01:54:41–01:55:15](/transcripts/cc/CC_Lec03?t=6881), [03:02:20–03:03:05](/transcripts/cc/CC_Lec03?t=10940)] |
 | **Equitas Small Finance Bank** | Banking / SFB | Holding ₹82 daily support multiple times with 30-day RS bouncing above 0 on Q2 update (37% advances growth, 42% deposit growth, outpacing AU SFB) | Stage 7 | [[01:35:15–01:38:37](/transcripts/cc/CC_Lec03?t=5715)] |
 | **KEI Industries** | Cables & Wires | Monthly RS (6-period vs Nifty 500\) crossing \> 0 in March 2021 at ₹402–442 for a 5–6x rally on power and real estate Capex | Stage 7 | [[01:44:15–01:45:29](/transcripts/cc/CC_Lec03?t=6255)] |
 | **VST Tillers, Sanghvi Movers, Shilchar Tech, Jyothy Labs, KDDL (Ethos), MPS, Nucleus Software, Safari Industries, Linc, EMIL, Tasty Bite, Tilaknagar, Anant Raj, Arman Financial, Usha Martin & Bharat Wire Ropes** | Multi-Sector (`Growth 50`) | High-RS screening on MarketSmith `Growth 50`: VST (RS 79), Sanghvi (90), Shilchar (98), Jyothy (88), KDDL/Ethos (89), Safari (from ₹1,200–1,300), Linc (86), Tilaknagar (from ₹60–70), Anant Raj (from ₹100), Arman (from ₹600–700, RS 90\) | Stage 8 | [[01:50:31–01:53:20](/transcripts/cc/CC_Lec03?t=6631)] |
@@ -2022,16 +1658,8 @@ $$
 | **Kolte-Patil Developers** | Real Estate | Fresh `Growth 50` entrant backed by YoY volume/realization growth and guidance to \>2x pre-sales | Stage 8 | [[01:56:19–01:57:20](/transcripts/cc/CC_Lec03?t=6979)] |
 | **Neuland Laboratories** | Pharmaceuticals (CMS) | RS Rating \= 90 paired with concall variant perception as management called CMS commercialization momentum "sustainable" for the first time in 5 years | Stage 8 | [[01:57:20–01:59:09](/transcripts/cc/CC_Lec03?t=7040)] |
 | **Delta Corp** | Gaming & Hospitality | GST tax demand headwind; missed 20%–30% exits turning into 40%–50%+ loss; Ashish Kacholia selling 15 lakh shares after 17% Monday drop | Stage 9 | [[02:27:47–02:30:12](/transcripts/cc/CC_Lec03?t=8867)] |
-| **Indian Energy Exchange (IEX)** | Financial Exchanges | Mohnish Pabrai 2020 exit before 5–7x run; 5-bagger in 1 yr from 20th Oct (₹65 to ₹256–257 at 100–110x P/E) exited via 10-week EMA breakdown | Stage 9 | 
-$$
-[02:28:33–02:29:24](/transcripts/cc/CC_Lec03?t=8913), [02:35:52–02:38:11
-$$
-(/transcripts/cc/CC_Lec03?t=9352)] |
-| **Rain Industries** | Carbon / Commodities | Peaked in 2018 and never reclaimed high; cleanly exited at 2018 peak via weekly V-Stop (50%) \+ 30-week EMA (50%) | Stage 9, Stage 11 | 
-$$
-[02:29:45–02:30:48](/transcripts/cc/CC_Lec03?t=8985), [03:10:45–03:12:35
-$$
-(/transcripts/cc/CC_Lec03?t=11445)] |
+| **Indian Energy Exchange (IEX)** | Financial Exchanges | Mohnish Pabrai 2020 exit before 5–7x run; 5-bagger in 1 yr from 20th Oct (₹65 to ₹256–257 at 100–110x P/E) exited via 10-week EMA breakdown | Stage 9 |  [[02:28:33–02:29:24](/transcripts/cc/CC_Lec03?t=8913), [02:35:52–02:38:11](/transcripts/cc/CC_Lec03?t=9352)] |
+| **Rain Industries** | Carbon / Commodities | Peaked in 2018 and never reclaimed high; cleanly exited at 2018 peak via weekly V-Stop (50%) \+ 30-week EMA (50%) | Stage 9, Stage 11 |  [[02:29:45–02:30:48](/transcripts/cc/CC_Lec03?t=8985), [03:10:45–03:12:35](/transcripts/cc/CC_Lec03?t=11445)] |
 | **IRCTC** | Railways / Tourism | Parabolic Eiffel Tower exited at ₹1,200 via \>100% (120–150%) stretch above ₹500 200-DMA on climax volume (govt ticket-sharing news) and at ₹826 via 10-week EMA | Stage 9 | [[02:38:11–02:41:20](/transcripts/cc/CC_Lec03?t=9491)] |
 | **Laurus Labs** | Pharmaceuticals | 30-week EMA breakdown after 6–7x run saving investors from a 60%+ FLT drawdown to ₹288 | Stage 9 | [[02:42:40–02:45:21](/transcripts/cc/CC_Lec03?t=9760)] |
 | **JK Paper, Hindustan Motors & Cantabil Retail** | Paper / Auto / Retail | Surfaced via 50 DMA \> 200 DMA Golden Crossover screen | Stage 9 | [[02:46:55–02:47:59](/transcripts/cc/CC_Lec03?t=10015)] |
@@ -2046,11 +1674,7 @@ $$
 | **Vascon Engineers** | Real Estate / EPC | Breaking above 2017 highs on high volume in Stage 2 at 17x P/E | Stage 11 | [[03:18:45–03:19:47](/transcripts/cc/CC_Lec03?t=11925)] |
 | **Senco Gold & Kalyan Jewellers** | Jewelry Retail | Recent IPO rectangular base breakout into Stage 2 tracked via 3-period RS & 9–10 EMA at 1/3rd the valuation of Kalyan Jewellers | Stage 11 | [[03:28:06–03:30:15](/transcripts/cc/CC_Lec03?t=12486)] |
 | **Elecon Engineering / Life (*"the life"*)** | Capital Goods / Financials | Pyramiding via 20-period Donchian Channel upper-band candle cuts | Stage 12 | [[03:44:11–03:45:33](/transcripts/cc/CC_Lec03?t=13451)] |
-| **Navin Fluorine** | Specialty Chemicals | Held 3–4 years; exited 50% on high valuation/opportunity cost and 50% on negative fundamental event ("stock won't love you back") | Stage 6, Stage 7, Stage 12 | 
-$$
-[01:22:45–01:23:09](/transcripts/cc/CC_Lec03?t=4965), [01:31:45–01:32:45](/transcripts/cc/CC_Lec03?t=5505), [03:45:33–03:46:40
-$$
-(/transcripts/cc/CC_Lec03?t=13533)] |
+| **Navin Fluorine** | Specialty Chemicals | Held 3–4 years; exited 50% on high valuation/opportunity cost and 50% on negative fundamental event ("stock won't love you back") | Stage 6, Stage 7, Stage 12 |  [[01:22:45–01:23:09](/transcripts/cc/CC_Lec03?t=4965), [01:31:45–01:32:45](/transcripts/cc/CC_Lec03?t=5505), [03:45:33–03:46:40](/transcripts/cc/CC_Lec03?t=13533)] |
 | **Rajesh Exports** | Gold / Exports | Rejected despite optical cheapness due to absence of concalls and public forensic accounting red flags | Stage 12 | [[03:47:49–03:48:28](/transcripts/cc/CC_Lec03?t=13669)] |
 
 ---
@@ -2076,72 +1700,24 @@ $$
 
 ## 10\. CONCLUSION & NEXT STEPS
 
-- **Core Session Message:** Fundamentals tell you *what* to buy (stringent business, forensic, and valuation filtering), while technicals tell you *when* to buy, *how* to screen active sector tailwinds, and *when* to exit. Never become a **"Forced Long-Term Investor" (FLT)** holding through 60%–80% Stage 4 drawdowns, never buy a stock in Stage 4, and remain 100% objective with exits because *"a stock won't love you back"* 
-$$
-[00:11:53–00:12:29](/transcripts/cc/CC_Lec03?t=713), [02:27:19](/transcripts/cc/CC_Lec03?t=8839), [02:43:39–02:45:21](/transcripts/cc/CC_Lec03?t=9819), [03:46:10–03:46:35
-$$
-(/transcripts/cc/CC_Lec03?t=13570)].  
+- **Core Session Message:** Fundamentals tell you *what* to buy (stringent business, forensic, and valuation filtering), while technicals tell you *when* to buy, *how* to screen active sector tailwinds, and *when* to exit. Never become a **"Forced Long-Term Investor" (FLT)** holding through 60%–80% Stage 4 drawdowns, never buy a stock in Stage 4, and remain 100% objective with exits because *"a stock won't love you back"*  [[00:11:53–00:12:29](/transcripts/cc/CC_Lec03?t=713), [02:27:19](/transcripts/cc/CC_Lec03?t=8839), [02:43:39–02:45:21](/transcripts/cc/CC_Lec03?t=9819), [03:46:10–03:46:35](/transcripts/cc/CC_Lec03?t=13570)].  
 - **Homework & Twitter Book Giveaway Assignment:**  
   - Independently inspect the weekly charts of five chemical companies (**Balaji Amines, Deepak Nitrite, Navin Fluorine, SRF, and Aarti Industries**) against Nifty 500 to verify how all five peaked in October 2021 on the first US Fed rate hike [[01:31:45–01:32:45](/transcripts/cc/CC_Lec03?t=5505)].  
-  - Post your **top 5 comprehensive key learnings** from Class 5 in the comments of the speaker's Twitter thread to enter the giveaway where two winners receive 5 technical analysis books each 
-$$
-[03:39:15–03:41:59](/transcripts/cc/CC_Lec03?t=13155), [03:50:47
-$$
-(/transcripts/cc/CC_Lec03?t=13847)].  
+  - Post your **top 5 comprehensive key learnings** from Class 5 in the comments of the speaker's Twitter thread to enter the giveaway where two winners receive 5 technical analysis books each  [[03:39:15–03:41:59](/transcripts/cc/CC_Lec03?t=13155), [03:50:47](/transcripts/cc/CC_Lec03?t=13847)].  
 - **Tools & Screeners Recommended:**  
-  - **TradingView:** For charting Monthly/Weekly/Daily Candlesticks, Volume, `Relative Strength (Modulus)` vs. `NSE:CNX500`, `10-week EMA`, `30-week EMA`, `100-week EMA`, `200-day EMA`, `Volatility Stop (10, 2.0)`, `RSI (> 50)`, `ADX (> 20)`, `Donchian Channels (20)`, `Parabolic SAR (0.02, 0.2)`, and the custom **SOIC LTI tool** 
-$$
-[01:23:46–01:49:30](/transcripts/cc/CC_Lec03?t=5026), [02:35:11–02:45:21](/transcripts/cc/CC_Lec03?t=9311), [03:07:22–03:45:33
-$$
-(/transcripts/cc/CC_Lec03?t=11242)].  
+  - **TradingView:** For charting Monthly/Weekly/Daily Candlesticks, Volume, `Relative Strength (Modulus)` vs. `NSE:CNX500`, `10-week EMA`, `30-week EMA`, `100-week EMA`, `200-day EMA`, `Volatility Stop (10, 2.0)`, `RSI (> 50)`, `ADX (> 20)`, `Donchian Channels (20)`, `Parabolic SAR (0.02, 0.2)`, and the custom **SOIC LTI tool**  [[01:23:46–01:49:30](/transcripts/cc/CC_Lec03?t=5026), [02:35:11–02:45:21](/transcripts/cc/CC_Lec03?t=9311), [03:07:22–03:45:33](/transcripts/cc/CC_Lec03?t=11242)].  
   - **MarketSmith India:** `Growth 50` list ($\text{RS Rating} \ge 80$) and `Blue Dot` list ($\text{RS Rating} \ge 75$) [[01:50:31–02:02:06](/transcripts/cc/CC_Lec03?t=6631)].  
-  - **Trendlyne, StockEdge & StockScans:** For alternative RS filtering and `50 DMA > 200 DMA` Golden Crossover screens 
-$$
-[01:59:09–02:00:05](/transcripts/cc/CC_Lec03?t=7149), [02:46:47–02:47:59
-$$
-(/transcripts/cc/CC_Lec03?t=10007)].  
+  - **Trendlyne, StockEdge & StockScans:** For alternative RS filtering and `50 DMA > 200 DMA` Golden Crossover screens  [[01:59:09–02:00:05](/transcripts/cc/CC_Lec03?t=7149), [02:46:47–02:47:59](/transcripts/cc/CC_Lec03?t=10007)].  
 - **Books Recommended:**  
-  1. *Technical Analysis Explained* by Martin J. Pring 
-$$
-[00:07:57–00:08:27](/transcripts/cc/CC_Lec03?t=477), [01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:39:39–03:40:11
-$$
-(/transcripts/cc/CC_Lec03?t=13179)]  
-  2. *Superperformance Stocks* by Richard Love 
-$$
-[01:16:03](/transcripts/cc/CC_Lec03?t=4563), [01:46:12–01:47:15](/transcripts/cc/CC_Lec03?t=6372), [03:38:52–03:40:11
-$$
-(/transcripts/cc/CC_Lec03?t=13132)]  
-  3. *Secrets for Profiting in Bull and Bear Markets* by Stan Weinstein 
-$$
-[00:19:39–00:20:25](/transcripts/cc/CC_Lec03?t=1179), [01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:38:52–03:40:11
-$$
-(/transcripts/cc/CC_Lec03?t=13132)]  
-  4. *Trade Like a Stock Market Wizard* by Mark Minervini 
-$$
-[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:39:39–03:40:11
-$$
-(/transcripts/cc/CC_Lec03?t=13179)]  
-  5. *How to Make Money in Stocks* by William J. O'Neil 
-$$
-[01:55:36–01:56:19](/transcripts/cc/CC_Lec03?t=6936), [02:38:50–02:39:15](/transcripts/cc/CC_Lec03?t=9530), [03:38:52–03:40:11
-$$
-(/transcripts/cc/CC_Lec03?t=13132)]  
-  6. *How I Made \$2,000,000 in the Stock Market* by Nicholas Darvas 
-$$
-[03:00:55–03:01:22](/transcripts/cc/CC_Lec03?t=10855), [03:38:52–03:39:15
-$$
-(/transcripts/cc/CC_Lec03?t=13132)]  
+  1. *Technical Analysis Explained* by Martin J. Pring  [[00:07:57–00:08:27](/transcripts/cc/CC_Lec03?t=477), [01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:39:39–03:40:11](/transcripts/cc/CC_Lec03?t=13179)]  
+  2. *Superperformance Stocks* by Richard Love  [[01:16:03](/transcripts/cc/CC_Lec03?t=4563), [01:46:12–01:47:15](/transcripts/cc/CC_Lec03?t=6372), [03:38:52–03:40:11](/transcripts/cc/CC_Lec03?t=13132)]  
+  3. *Secrets for Profiting in Bull and Bear Markets* by Stan Weinstein  [[00:19:39–00:20:25](/transcripts/cc/CC_Lec03?t=1179), [01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:38:52–03:40:11](/transcripts/cc/CC_Lec03?t=13132)]  
+  4. *Trade Like a Stock Market Wizard* by Mark Minervini  [[01:15:27–01:16:03](/transcripts/cc/CC_Lec03?t=4527), [03:39:39–03:40:11](/transcripts/cc/CC_Lec03?t=13179)]  
+  5. *How to Make Money in Stocks* by William J. O'Neil  [[01:55:36–01:56:19](/transcripts/cc/CC_Lec03?t=6936), [02:38:50–02:39:15](/transcripts/cc/CC_Lec03?t=9530), [03:38:52–03:40:11](/transcripts/cc/CC_Lec03?t=13132)]  
+  6. *How I Made \$2,000,000 in the Stock Market* by Nicholas Darvas  [[03:00:55–03:01:22](/transcripts/cc/CC_Lec03?t=10855), [03:38:52–03:39:15](/transcripts/cc/CC_Lec03?t=13132)]  
 - **Upcoming Sessions Announced:**  
-  - **Next Crash Course Classes (Classes 6–9):** Joining the financial statements (Income Statement, Balance Sheet, and Cash Flow) and the dedicated **Valuation Workshop** (including valuing real estate developers like Kolte-Patil Developers and retail high-P/E case studies like DMart) 
-$$
-[01:56:19–01:56:40](/transcripts/cc/CC_Lec03?t=6979), [02:53:33–02:54:00
-$$
-(/transcripts/cc/CC_Lec03?t=10413)].  
-  - **Next Sunday Offline Workshop (India Habitat Centre, New Delhi):** 8-hour in-person SOIC session including a 15–20 minute macro view discussion 
-$$
-[02:21:53–02:22:59](/transcripts/cc/CC_Lec03?t=8513), [03:48:28–03:50:30
-$$
-(/transcripts/cc/CC_Lec03?t=13708)].
+  - **Next Crash Course Classes (Classes 6–9):** Joining the financial statements (Income Statement, Balance Sheet, and Cash Flow) and the dedicated **Valuation Workshop** (including valuing real estate developers like Kolte-Patil Developers and retail high-P/E case studies like DMart)  [[01:56:19–01:56:40](/transcripts/cc/CC_Lec03?t=6979), [02:53:33–02:54:00](/transcripts/cc/CC_Lec03?t=10413)].  
+  - **Next Sunday Offline Workshop (India Habitat Centre, New Delhi):** 8-hour in-person SOIC session including a 15–20 minute macro view discussion  [[02:21:53–02:22:59](/transcripts/cc/CC_Lec03?t=8513), [03:48:28–03:50:30](/transcripts/cc/CC_Lec03?t=13708)].
 
 ---
 
@@ -2175,21 +1751,9 @@ $$
 ### A. Concepts Only Briefly Mentioned (Not Elaborated in the Lecture)
 
 - **Balaji Amines' Solapur Manufacturing Plant Geography [[00:03:30–00:04:15](/transcripts/cc/CC_Lec03?t=210)]:** Mentioned briefly during the attendee roll-call when a participant joined from Solapur, Maharashtra.  
-- **SOIC Level 4 (L4) & Level 5 (L5) Advanced Technical Backtesting Modules 
-$$
-[00:07:08–00:08:27](/transcripts/cc/CC_Lec03?t=428), [03:31:45–03:33:39
-$$
-(/transcripts/cc/CC_Lec03?t=12705)]:** Referenced as the advanced courses where the 4-part buying setup was backtested in detail.  
-- **Screener.in Fundamental Filtration Queries & Operating Leverage Mechanics 
-$$
-[00:06:37](/transcripts/cc/CC_Lec03?t=397), [00:54:59–00:55:30](/transcripts/cc/CC_Lec03?t=3299), [02:00:37
-$$
-(/transcripts/cc/CC_Lec03?t=7237)]:** Referenced as having been covered in the preceding Crash Course session (Class 4).  
-- **Upcoming Valuation Workshop for Real Estate (Kolte-Patil) & Retail (DMart) 
-$$
-[01:56:19–01:56:40](/transcripts/cc/CC_Lec03?t=6979), [02:53:33–02:54:00
-$$
-(/transcripts/cc/CC_Lec03?t=10413)]:** Deferred to Classes 7–9 (Valuation पार्ट 1–3).  
+- **SOIC Level 4 (L4) & Level 5 (L5) Advanced Technical Backtesting Modules  [[00:07:08–00:08:27](/transcripts/cc/CC_Lec03?t=428), [03:31:45–03:33:39](/transcripts/cc/CC_Lec03?t=12705)]:** Referenced as the advanced courses where the 4-part buying setup was backtested in detail.  
+- **Screener.in Fundamental Filtration Queries & Operating Leverage Mechanics  [[00:06:37](/transcripts/cc/CC_Lec03?t=397), [00:54:59–00:55:30](/transcripts/cc/CC_Lec03?t=3299), [02:00:37](/transcripts/cc/CC_Lec03?t=7237)]:** Referenced as having been covered in the preceding Crash Course session (Class 4).  
+- **Upcoming Valuation Workshop for Real Estate (Kolte-Patil) & Retail (DMart)  [[01:56:19–01:56:40](/transcripts/cc/CC_Lec03?t=6979), [02:53:33–02:54:00](/transcripts/cc/CC_Lec03?t=10413)]:** Deferred to Classes 7–9 (Valuation पार्ट 1–3).  
 - **Macroeconomic View Discussion [[03:49:45–03:50:15](/transcripts/cc/CC_Lec03?t=13785)]:** Deferred to a 15–20 minute segment at the upcoming Sunday offline workshop in Delhi.
 
 ### B. Items Marked `[?]`, `[? verify]` or `[? Hindi segment unclear]` (To Verify Against Video Recording)

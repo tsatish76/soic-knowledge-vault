@@ -2056,9 +2056,54 @@
     "lecture": "CC_LEC03_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**Weekly RS Lookback Period**",
+    "threshold": "**13 or 26 weeks** for beginners/standard (max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced ROE/ROCE inflection tracking",
+    "rationale": "Workhorse secondary-trend RS setting for long-term investors"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**Daily RS Lookback Period**",
+    "threshold": "**30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late)",
+    "rationale": "Granular confirmation of post-result support bounces (e.g., Equitas SFB at ₹82)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**Sector Turnaround Alert Threshold**",
+    "threshold": "Crossing comprehensively above **0.2 to 0.3**",
+    "rationale": "Email alert trigger signaling synchronized sector turnaround"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
     "metric": "**MarketSmith RS Rating (`Growth 50`)**",
     "threshold": "**$\\ge 80$** \\= Good RS rating (e.g., VST Tillers 79, Linc 86, Jyothy Labs 88, KDDL 89, Sanghvi/Arman/Neuland 90, Newgen 92, Shilchar 98\\)",
     "rationale": "Identifies top-decile/quintile market leaders outperforming 80%+ of all listed equities"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**MarketSmith `Blue Dot` List Filter**",
+    "threshold": "**RS Rating $\\ge 75$**",
+    "rationale": "Early-stage filtration list for catching emerging relative strength leaders"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**DIY Investor Annual Learning & Tool OPEX**",
+    "threshold": "**₹50,000 to ₹70,000 per year** (e.g., MarketSmith India at \\~₹2,500 on Black Friday)",
+    "rationale": "Abundance mindset investment that compounds back via superior stock selection and exits"
   },
   {
     "course": "CC",
@@ -2200,6 +2245,42 @@
     "lecture": "CC_LEC03_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**50/50 Dual Long-Term Exit Rule**",
+    "threshold": "**Sell 50%** on V-Stop red flip \\+ **Sell 50%** on 30-Week EMA breakdown",
+    "rationale": "Ultimate long-term exit system (e.g., Aarti Ind. at ₹960 / ₹815 / ₹727–730; Rain Ind. 2018 peak)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**Last-Cycle Winner Persistence Rule**",
+    "threshold": "**88%** do not lead the next cycle; **4 to 5 years** average recovery time",
+    "rationale": "Prevents holding exhausted 10x cycle winners through 4–5 year dead zones (e.g., IIFL Finance 2018–2022)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**ADX Consolidation Breakout Filter**",
+    "threshold": "**ADX \\> 20**",
+    "rationale": "Confirms stock has broken out of sideways consolidation (built into SOIC LTI tool)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
+    "metric": "**Recent IPO / Short-History Adjustment**",
+    "threshold": "**Weekly RS Period \\= 3**; **Weekly EMA \\= 9 or 10**",
+    "rationale": "Enables Stage 2 IPO base breakout detection when \\<26 weeks of history exist (e.g., Senco Gold)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec03_Report#d-formulas-metrics-thresholds",
     "metric": "**4-Part Stage 2 Weekly Buying Setup (`SOIC LTI`)**",
     "threshold": "All **4 conditions met simultaneously** on weekly chart (e.g., Steel Strips Wheels with RSI \\= 52\\)",
     "rationale": "High-probability institutional Stage 2 breakout entry trigger"
@@ -2272,7 +2353,115 @@
     "lecture": "CC_LEC03_REPORT",
     "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
     "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
-    "metric": "Prioritizing stocks in sector tailwinds over isolated \"strong horses\" in sector headwinds",
+    "metric": "**Uptrend Peak-Trough Sequence**",
+    "threshold": "Consecutive higher highs and higher lows",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Selling Climax (\"Ditch\") Signal**",
+    "threshold": "Extreme outlier volume bar after prolonged decline followed by green volume / insider accumulation",
+    "rationale": "Stage 3, Stage 4, Stage 11"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Candlestick Timeframe Hierarchy**",
+    "threshold": "**Monthly / 3-Month** \\= Primary Trend; **Weekly / Daily** \\= Secondary Trend",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price-Volume Regime 1 (Strong Uptrend)**",
+    "threshold": "Rising price backed by expanding green volume",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price-Volume Regime 2 (Weakening Uptrend)**",
+    "threshold": "Rising price accompanied by contracting volume",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price-Volume Regime 3 (Strong Downtrend)**",
+    "threshold": "Falling price accompanied by expanding red volume",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price-Volume Regime 4 (Weakening Downtrend)**",
+    "threshold": "Falling price accompanied by contracting volume",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Core Fundamental Growth Catalysts**",
+    "threshold": "**8 to 9 catalysts** (New product, geography, end-user Capex, client mining, market share, sector growth, new brand, distribution, acquisition/Capex)",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Brownfield Acquisition Discount**",
+    "threshold": "**$\\sim 1/3\\text{rd}$ (28%–35%) of replacement value** (e.g., Steel Strips ₹138–150 Cr vs ₹400–500 Cr; AGI Greenpac / HNG)",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Forensic Cash-Flow Rejection Filter**",
+    "threshold": "Reject companies with **6 years** of poor cash flows or frequent corporate name changes",
+    "rationale": "Stage 5, Stage 12"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Levy 26-Week RS Outperformance Spread**",
+    "threshold": "**\\+9.6%** (Top 10% RS, avg score 90.8 [? verify]) vs. **\\+2.9%** (Bottom 10% RS) over **26 weeks**",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Multi-Bagger Master Equation**",
+    "threshold": "Both conditions present simultaneously",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Sector Return Contribution Rule**",
     "threshold": "**60%** of total stock price return",
     "rationale": "Stage 6"
   },
@@ -2281,7 +2470,7 @@
     "lecture": "CC_LEC03_REPORT",
     "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
     "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
-    "metric": "Confirming index outperformance on entry or relative weakness divergence on exit",
+    "metric": "**Relative Strength (Modulus) Baseline**",
     "threshold": "**\\> 0** \\= Outperforming Nifty 500; **\\< 0** \\= Underperforming Nifty 500",
     "rationale": "Stage 7"
   },
@@ -2290,9 +2479,90 @@
     "lecture": "CC_LEC03_REPORT",
     "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
     "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
-    "metric": "Primary-trend RS tracking for multi-year compounders (e.g., KEI Industries)",
+    "metric": "**Monthly RS Lookback Period**",
     "threshold": "**3 or 6 months** (max 12 months)",
     "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Weekly RS Lookback Period**",
+    "threshold": "**13 or 26 weeks** (standard; max 52 is too late); **6 or 7 weeks** (or 5–6) for advanced early ROE/ROCE inflection",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Daily RS Lookback Period**",
+    "threshold": "**30 days** or **60 / 61–62 days** (max **120 / 123 days**, which is late)",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Sector Turnaround Alert Threshold**",
+    "threshold": "Crossing comprehensively above **0.2 to 0.3**",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**MarketSmith India `Growth 50` RS Rating**",
+    "threshold": "**$\\ge 80$** (e.g., 86–98 for top leaders; VST Tillers at 79\\)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**MarketSmith India `Blue Dot` List**",
+    "threshold": "**RS Rating $\\ge 75$**",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**DIY Investor Annual Learning OPEX**",
+    "threshold": "**₹50,000 to ₹70,000 per year** (e.g., MarketSmith \\~₹2,500 on Black Friday)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Simple Moving Average (SMA)**",
+    "threshold": "Unweighted arithmetic mean over $N$ periods",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Exponential Moving Average (EMA)**",
+    "threshold": "Recent bars (e.g., days 40–50 in 50 EMA) weighted highest",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC03_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Parabolic / \"Eiffel Tower\" Exit (`10-Week EMA`)**",
+    "threshold": "**Sell 50%** on 1st breakdown; **Sell 100%** on 2nd breakdown",
+    "rationale": "Stage 9"
   },
   {
     "course": "CC",
@@ -2566,6 +2836,177 @@
   },
   {
     "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**5-Year CFO vs. PAT Check**",
+    "threshold": "CFO should broadly track or exceed PAT",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Debt vs. 3-Year CFO Coverage**",
+    "threshold": "3-yr CFO must comfortably service debt",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Debt-to-Equity (D/E) Ratio**",
+    "threshold": "Neogen cap $\\<1.25\\text{x}$ (ideally $\\<1.0\\text{x}$); Pricol $\\<0.2\\text{x}$",
+    "rationale": "Stage 2, 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Cash Conversion Ratio (CFO \\> PAT)**",
+    "threshold": "$\\>100%$ when depreciation is high & WC is low (Pricol: 219%)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Implied Revenue CAGR**",
+    "threshold": "Pricol: 22% organic / 22%–27% total",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Self-Funded Capex Test**",
+    "threshold": "Projected CFO $\\ge$ Planned Capex (Pricol: ₹510 Cr vs ₹400 Cr)",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Fixed Asset Turnover**",
+    "threshold": "\\~10x in asset-light models (Shilchar: ₹400 Cr ÷ ₹38–40 Cr)",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Greenfield Hospital Breakeven**",
+    "threshold": "**5 to 6 years**",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Operating Leverage Mechanism**",
+    "threshold": "Flat cost base (e.g., Newgen ₹212 Cr Q2) \\+ 25%–30% sales growth",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Spare Capacity Inflection**",
+    "threshold": "**40%–45%** idle capacity \\+ double-digit growth guidance",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Profit from Operations Bridge**",
+    "threshold": "Explains CFO \\> PAT (Aarti: ₹545 Cr PAT → ₹1,089 Cr Op. Profit → ₹1,310 Cr CFO)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Peak Debt Ceiling Check**",
+    "threshold": "Aarti: ₹5,000 Cr × 0.7x \\= ₹3,500 Cr max vs ₹350 Cr/yr repayment",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Future Revenue Power**",
+    "threshold": "Aarti: ₹9,300 Cr × 1.5x \\= \\~₹14,000 Cr",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Earnings Per Share (EPS)**",
+    "threshold": "Increases post-buyback",
+    "rationale": "Stage 9, 12"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Return on Equity (ROE)**",
+    "threshold": "Expands on buybacks; compresses on idle cash (\\~50% assets)",
+    "rationale": "Stage 9, 10"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Net Working Capital (NWC) Days**",
+    "threshold": "Declining trend (Polycab: 65 days → 51 days)",
+    "rationale": "Stage 11"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**DuPont ROCE**",
+    "threshold": "Expands as Working Capital falls",
+    "rationale": "Stage 11"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**B2B & B2C CFO / PAT Benchmarks**",
+    "threshold": "**B2B: ≥ 60%–70%**; **B2C: ≥ 80%–90%**",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC04_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**P\\&L Margin Waterfall**",
+    "threshold": "Standard accounting waterfall",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "CC",
     "lecture": "CC_LEC05_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec05_Report#d-formulas-metrics-thresholds",
@@ -2746,6 +3187,78 @@
   },
   {
     "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Earnings Yield**",
+    "threshold": "10x P/E \\= 10%; 20x P/E \\= 5%",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**PEG Ratio**",
+    "threshold": "**0.6x** (Alkyl) ideal; **\\< 1.5x–2.0x** buy zone; **\\< 1.0x** on surprises; **10x** exorbitant",
+    "rationale": "Stage 3, 8, 10"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Return Equation**",
+    "threshold": "Both Earnings and P/E must hold or expand",
+    "rationale": "Stage 3, 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Global Retail & Tyre P/E Ceilings**",
+    "threshold": "Retail **220x–230x** (DMart); BKT **\\>40x**",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Core Adjusted P/E**",
+    "threshold": "Aarti: ₹26,000 Cr ÷ ₹586 Cr \\= **\\~45x** (vs. 19x headline)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Forward P/E (Static Mcap)**",
+    "threshold": "Max **2 years forward** (e.g., 33.3x → 20x → 12.5x)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price-to-Book Applicability**",
+    "threshold": "Financials & asset-heavy businesses only",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC05_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Thesis Sequence**",
+    "threshold": "Max 4–5 dominant variables",
+    "rationale": "Stage 2, 9"
+  },
+  {
+    "course": "CC",
     "lecture": "CC_LEC06_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec06_Report#d-formulas-metrics-thresholds",
@@ -2881,6 +3394,78 @@
   },
   {
     "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**10-Yr Earnings CAGR Ceiling**",
+    "threshold": "**34%–35% CAGR** max",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Entry P/E Comfort Zone**",
+    "threshold": "**10x–25x** (rarely **\\>35x–40x**; guardrail **\\<35x**)",
+    "rationale": "Stage 3, 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**PEG Ratio**",
+    "threshold": "**1.0x–1.5x** sweet spot; **≤ 2.0x** entry ceiling",
+    "rationale": "Stage 4, 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Enterprise Value (EV)**",
+    "threshold": "Total takeover price",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**EV / EBITDA**",
+    "threshold": "**\\< 20x–22x** guardrail; **30x** expensive",
+    "rationale": "Stage 5, 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price to Cash Flow (P/CF)**",
+    "threshold": "**\\< 22x–23x** guardrail (e.g., Sandhar 10x; Granules 12–13x)",
+    "rationale": "Stage 6, 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Price to Sales (P/S)**",
+    "threshold": "**\\< 3.0x** guardrail; buy below median in cyclicals",
+    "rationale": "Stage 6, 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC06_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec06_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Market Cap to Order Book**",
+    "threshold": "Pair with P/E, P/CF & receivable collection",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "CC",
     "lecture": "CC_LEC07_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
@@ -2893,9 +3478,72 @@
     "lecture": "CC_LEC07_REPORT",
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Starting P/E Sweet Spot**",
+    "threshold": "**30x–40x P/E** (50x rare max)",
+    "rationale": "Historical sweet spot for positive 3-year alpha"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**PEG Ratio**",
+    "threshold": "**≤ 1.5x** hard rule (**≤ 2.0x** only for consumer stocks)",
+    "rationale": "0–0.5x PEG \\= \\+26% 3-yr alpha; 0.5–1x \\= \\+11%; 1–1.5x \\= \\+3%; \\>1.5x turns negative (-3%)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Risk-Averse Family PF Filter**",
+    "threshold": "**Market Cap ≥ ₹4,000 Cr**, **PEG \\< 2.0x**, 16–17 stocks across sectors, 0 SME / 100x P/E",
+    "rationale": "Prevents portfolio-level loss of capital"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
     "metric": "**P/E Re-Rating Drivers**",
     "threshold": "Low P/E vs. sector \\+ growth inflection",
     "rationale": "Drives multiple expansion (e.g., VBL 50x P/E at 50% growth vs. peers at 70–80x)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**P/B Re-Rating Drivers**",
+    "threshold": "Low P/B vs. sector \\+ ROE inflection",
+    "rationale": "Triggers rapid re-rating in financials (Arman ROE \\-1% → \\+40%; Ujjivan 3x P/E & 33% ROE)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**P/S Re-Rating Drivers**",
+    "threshold": "Low P/S in cyclical businesses \\+ margin inflection",
+    "rationale": "Used for cyclical turnarounds (e.g., chemicals)"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**EV/EBITDA Re-Rating Drivers**",
+    "threshold": "Shift from greenfield to brownfield/high ROIC",
+    "rationale": "Post-COVID hospital sector re-rating"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Normalized P/E (Over-Earning Adjustment)**",
+    "threshold": "Strip out one-off realization spikes (e.g., Fine Organics 34–36% → 18–22% margin \\= ₹280–300 Cr PAT → **45x Normalized P/E**)",
+    "rationale": "Reveals true multiple when peak margins revert"
   },
   {
     "course": "CC",
@@ -2914,6 +3562,51 @@
     "metric": "**Depreciation Shortcut 1 (Capex Life)**",
     "threshold": "**10–15 years** useful life (e.g., ₹50 Cr Capex ÷ 10 \\= \\+₹5 Cr/yr; ₹350 Cr ÷ 10 \\= \\+₹35 Cr/yr)",
     "rationale": "Quickly estimates incremental depreciation without complex schedules"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Depreciation Shortcut 2 (% of Sales)**",
+    "threshold": "Keep ratio constant across forecast (e.g., Technocraft $64 \\div 1,985 = 3.22% \\rightarrow \\text{₹}97\\text{ Cr}$ on ₹3,000 Cr sales)",
+    "rationale": "Automatically scales depreciation with Capex-driven revenue growth"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Incremental Debt Interest**",
+    "threshold": "**\\~9% standard Indian borrowing rate** (or \\+5%–5.5% annual step-up)",
+    "rationale": "Accounts for debt-funded Capex and working capital before cash flows repay debt"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**PBT & PAT Formula**",
+    "threshold": "**\\~25% corporate tax rate** (varies 20%–27%)",
+    "rationale": "Core bottom-line driver for exit valuation"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Projected Market Cap & Target Share Price**",
+    "threshold": "Use conservative/3-yr avg P/E for Bull/Base (e.g., Technocraft 2.3 Cr shares)",
+    "rationale": "Converts projected earnings into target valuation"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Base Case Margin of Safety (MoS) Hurdle**",
+    "threshold": "**Base Case CAGR \\> 15%** (vs. 12%–15% Nifty 50 index return)",
+    "rationale": "If Base Case \\> 15% (e.g., Technocraft 24%), MoS exists today; if \\< 15% (RACL 9%), wait for drawdown"
   },
   {
     "course": "CC",
@@ -2981,11 +3674,236 @@
   {
     "course": "CC",
     "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Late-Stage Base Count**",
+    "threshold": "**Base ≥ 3 to 5+** \\= Late-Stage Base (Apar at 5–6 bases; KEI at 8 bases)",
+    "rationale": "High risk of topping post-QIP unless earnings keep surprising"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Six Technical Exit Triggers**",
+    "threshold": "V-Stop exits **10%–20% off peak**; Price-to-150 EMA gap **\\> 80%** \\= climax",
+    "rationale": "Protects parabolic winners (\"riding a tiger\") from Stage 4 round-trips"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Portfolio Sizing (2-4-6-8% Rule)**",
+    "threshold": "**20–25 stocks max**; **4% min, 6% core, 8%–10% max** (\"2-4-6-8%\" framework)",
+    "rationale": "Diversifies away company-specific and cyclical blow-up risks"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Cyclical Peak Revenue Potential**",
+    "threshold": "Thirumalai Chem: ₹670 Cr FA → ₹2,000 Cr sales (**3x turn**); ₹1,500 Cr Gross Block $\\times 3 = \\mathbf{\\text{₹}4,500\\text{ Cr}}$ sales",
+    "rationale": "Estimates top-line capacity once expansion is fully utilized"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Cyclical Peak EBITDA**",
+    "threshold": "$\\text{₹}4,500\\text{ Cr} \\times 20%\\text{ OPM} = \\mathbf{\\text{₹}900\\text{ Cr}}$ EBITDA",
+    "rationale": "Estimates peak operating profit when commodity cycle turns"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Cyclical Peak Valuation (EV/EBITDA & P/S)**",
+    "threshold": "**7x–10x EV/EBITDA** ($\\text{₹}6,300\\text{–}9,000\\text{ Cr}$) or **2x P/S** ($\\text{₹}4,500\\text{ Cr} \\times 2 = \\mathbf{\\text{₹}9,000\\text{ Cr}}$)",
+    "rationale": "Cross-checks upside potential from 10-yr low P/S and 5-yr P/B"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/cc/CC_Lec07_Report#d-formulas-metrics-thresholds",
+    "metric": "**Cyclical Technical Entry Trigger**",
+    "threshold": "Crosses **30-W EMA** with very high volume \\+ credit rating Capex check",
+    "rationale": "Confirms commodity price inflection before committing capital"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
     "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
     "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
     "metric": "**BAP Valuation Danger Zone**",
     "threshold": "**P/E \\> 50x–60x** (≥ 3x Index P/E); **75x+ P/E** \\= **\\-8%** [? verify] 3-yr alpha",
     "rationale": "Stage 1"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Starting P/E Sweet Spot**",
+    "threshold": "**30x–40x P/E** (50x rare ceiling)",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**PEG Ratio**",
+    "threshold": "**≤ 1.5x** hard rule (**≤ 2.0x** strictly for predictable consumer franchises like VBL at 1.67x)",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Risk-Averse Family Portfolio Filter**",
+    "threshold": "**Market Cap ≥ ₹4,000 Cr**, **PEG \\< 2.0x**, 16–17 stocks across sectors, 0 SME / 100x P/E",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**P/E Re-Rating Drivers**",
+    "threshold": "Low P/E relative to sector peers \\+ upward earnings growth inflection",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**P/B Re-Rating Drivers**",
+    "threshold": "Low P/B relative to sector \\+ sharp ROE inflection",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**P/S Re-Rating Drivers**",
+    "threshold": "Low P/S relative to 10-yr history \\+ margin inflection",
+    "rationale": "Stage 2, Stage 7"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**EV/EBITDA Re-Rating Drivers**",
+    "threshold": "Shift from greenfield Capex to brownfield utilization",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Normalized P/E (Over-Earning Adjustment)**",
+    "threshold": "Strip out one-off realization spikes (e.g., Fine Organics 34%–36% OPM → 18%–22% OPM \\= ₹280–300 Cr PAT → **\\~45x Normalized P/E**)",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Capex Revenue Potential**",
+    "threshold": "Cross-check with management guidance (e.g., RACL ₹250 Cr Capex $\\times$ 2x \\= ₹500 Cr sales)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Depreciation Shortcut 1 (Asset Life)**",
+    "threshold": "**10–15 years** plant life (e.g., ₹50 Cr Capex $\\div 10 = \\text{+\\text{₹}5 Cr/yr}$; ₹350 Cr $\\div 10 = \\text{+\\text{₹}35 Cr/yr}$)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Depreciation Shortcut 2 (% of Sales)**",
+    "threshold": "Hold constant across forecast (e.g., Technocraft ₹64 Cr $\\div$ ₹1,985 Cr \\= **3.22%** → ₹97 Cr on ₹3,000 Cr sales)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Incremental Debt Interest**",
+    "threshold": "**\\~9% Indian borrowing cost** (or \\+5%–5.5% annual step-up during Capex phase)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Scenario PBT & PAT**",
+    "threshold": "**\\~25% corporate tax rate** (range 20%–27%)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Projected Market Cap & Target Price**",
+    "threshold": "Bull \\= 3-yr avg / re-rated P/E; Base \\= current/conservative P/E; Bear \\= de-rated P/E",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Base Case Margin of Safety (MoS) Rule**",
+    "threshold": "**Base Case CAGR \\> 15%** (beating Nifty 50's 12%–15% return without P/E re-rating)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Perpetual Asset Value**",
+    "threshold": "₹100 annual cash flow $\\div 10% = \\mathbf{\\text{₹}1,000}$",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Compounding vs. Discounting**",
+    "threshold": "Domestic $r = \\mathbf{10%\\text{–}12%}$; FII $r = \\mathbf{6%}$ (1%–3% home cost of capital)",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "CC",
+    "lecture": "CC_LEC07_REPORT",
+    "stage": "6\\. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/cc/CC_Lec07_Report#6-consolidated-formula-metric-sheet",
+    "metric": "**Owner's Earnings (Free Cash Flow)**",
+    "threshold": "VBL FY24 base: ₹2,000 Cr CFO $-$ ₹700 Cr Depreciation \\= **₹1,300 Cr FCF**",
+    "rationale": "Stage 4"
   },
   {
     "course": "CC",
@@ -13847,7 +14765,7 @@
     "stage": "d) Formulas, metrics & thresholds",
     "anchor": "/courses/vp/VP_Lec08_Report#d-formulas-metrics-thresholds",
     "metric": "**One-Off Net PAT**",
-    "threshold": "$$ (₹1\\text{ cr} - ₹20\\text{ L})",
+    "threshold": "$\\text{₹}1\\text{ cr} - \\text{₹}20\\text{ L} = \\text{₹}80\\text{ L}$",
     "rationale": "Peak net profit generated during order execution year"
   },
   {

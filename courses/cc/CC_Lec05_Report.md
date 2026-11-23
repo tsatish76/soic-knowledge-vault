@@ -87,9 +87,11 @@ Stage 2: Buffett Key Variables + Samir Arora Odds & High-P/E Ceiling
 ## CC-Lec05 – Stage 1: Session Orientation, 3-Part Valuation Roadmap & Decision-Making Mindset [[00:00:03–00:07:48](/transcripts/cc/CC_Lec05?t=3)] [TVGP: Valuation]
 
 
-$$
+$
+
 [00:00:03–00:01:36: non-content segment — greeting](/transcripts/cc/CC_Lec05?t=3), comments check, World Cup India jersey mention, and audio volume check
-$$
+$
+
 .
 
 ### a) What this stage answers
@@ -225,15 +227,23 @@ Industries cycle through 3–4 year doublings followed by 3–4 year slowdowns (
 Applying Buffett's key-variables approach \+ Arora's odds [[00:30:44–00:34:21](/transcripts/cc/CC_Lec05?t=1844)]:
 
 - Focus on 3–4 dominant variables (industry structure, Capex, fixed-asset turns) rather than complex DCF jugglery.  
-- Compute the **PEG Ratio**: $$
+- Compute the **PEG Ratio**:
+
+$
 \PEG Ratio \= \\frac{\P/E Ratio}{\Expected Earnings Growth (%)}
-$$ Buying at **0.6x PEG** means paying **60 paise for ₹1 of growth**—stacking odds heavily in your favor [[00:32:00–00:33:44](/transcripts/cc/CC_Lec05?t=1920)].
+$
+
+Buying at **0.6x PEG** means paying **60 paise for ₹1 of growth**—stacking odds heavily in your favor [[00:32:00–00:33:44](/transcripts/cc/CC_Lec05?t=1920)].
 
 #### The Entry vs. Exit Risk-Reward Equation
 
-Stock returns are governed by [[00:35:01–00:37:28](/transcripts/cc/CC_Lec05?t=2101)]: $$
+Stock returns are governed by [[00:35:01–00:37:28](/transcripts/cc/CC_Lec05?t=2101)]:
+
+$
 \Entry Price \= \Entry P/E \× \Entry Earnings \\quad \\longrightarrow \\quad \Exit Price \= \Exit P/E \× \Exit Earnings
-$$ For most businesses, paying **40x–45x P/E** becomes risky (aside from rare consumer exceptions) [[00:35:45](/transcripts/cc/CC_Lec05?t=2145)]. Buying at **75x P/E** on peak earnings bets simultaneously that earnings will grow 3–4x in 2–3 years AND that the 75x P/E will sustain—if the cycle turns, **both earnings and P/E collapse together** [[00:35:45–00:37:28](/transcripts/cc/CC_Lec05?t=2145)].
+$
+
+For most businesses, paying **40x–45x P/E** becomes risky (aside from rare consumer exceptions) [[00:35:45](/transcripts/cc/CC_Lec05?t=2145)]. Buying at **75x P/E** on peak earnings bets simultaneously that earnings will grow 3–4x in 2–3 years AND that the 75x P/E will sustain—if the cycle turns, **both earnings and P/E collapse together** [[00:35:45–00:37:28](/transcripts/cc/CC_Lec05?t=2145)].
 
 #### Five Reasons Why Valuations Matter
 
@@ -440,9 +450,13 @@ What does the P/E ratio mean from first principles (and as Earnings Yield), and 
 
 #### P/E Ratio & Earnings Yield from First Principles
 
-The **P/E Ratio** measures how many rupees you are willing to pay for ₹1 of an asset's annual earnings [[01:18:04–01:21:40](/transcripts/cc/CC_Lec05?t=4684)] [PDF: image not legible — content taken from transcript]: $$
+The **P/E Ratio** measures how many rupees you are willing to pay for ₹1 of an asset's annual earnings [[01:18:04–01:21:40](/transcripts/cc/CC_Lec05?t=4684)] [PDF: image not legible — content taken from transcript]:
+
+$
 \P/E Ratio \= \\frac{\Market Cap}{\Net Profit (TTM)} \= \\frac{\Stock Price}{\EPS}
-$$ Inverting P/E gives **Earnings Yield** ($\frac{\text{Earnings}}{\text{Price}} \times 100$), allowing direct comparison with real estate rental yields or fixed deposits (10x P/E \= 10% yield; 20x P/E \= 5% yield) [[01:19:25–01:21:00](/transcripts/cc/CC_Lec05?t=4765)].
+$
+
+Inverting P/E gives **Earnings Yield** ($\frac{\text{Earnings}}{\text{Price}} \times 100$), allowing direct comparison with real estate rental yields or fixed deposits (10x P/E \= 10% yield; 20x P/E \= 5% yield) [[01:19:25–01:21:00](/transcripts/cc/CC_Lec05?t=4765)].
 
 #### Intrinsic Value vs. Transactional Value ("Perception-to-Earnings")
 
@@ -522,9 +536,11 @@ Similarly, when multi-year accrual PAT looks strong while cumulative CFO is a fr
 A stock trading at 20x–22x P/E with 40%–50% projected growth (**0.5x PEG**) can still collapse if **government or regulatory action** hits the sector [[01:40:32–01:43:27](/transcripts/cc/CC_Lec05?t=6032)]. Adverse regulatory shocks simultaneously impair **Intrinsic Value** (future cash flows) and **Transactional Value** (investor perception), creating a multi-year **overhang** that keeps capital trapped [[01:42:23–01:46:46](/transcripts/cc/CC_Lec05?t=6143)].
 
 
-$$
+$
+
 [01:46:46–02:08:59: non-content segment — 20-minute session break until 2:10 PM](/transcripts/cc/CC_Lec05?t=6406), timer, and post-break attendee check-in
-$$
+$
+
 .
 
 ### c) Examples & case studies
@@ -661,9 +677,13 @@ How do you calculate 2-year Forward P/E while keeping market cap static, why do 
 
 #### Two-Year Forward P/E Mechanics & Buffett's Mental DCF
 
-When Capex or order books are scaling earnings rapidly, compute **Forward P/E** by holding today's Market Cap (or Share Price) static and dividing by estimated future PAT (or EPS) **at most 2 years out** (forecasting beyond 2 years is overreach) [[02:27:57–02:36:37](/transcripts/cc/CC_Lec05?t=8877)] [PDF: image not legible — content taken from transcript]: $$
+When Capex or order books are scaling earnings rapidly, compute **Forward P/E** by holding today's Market Cap (or Share Price) static and dividing by estimated future PAT (or EPS) **at most 2 years out** (forecasting beyond 2 years is overreach) [[02:27:57–02:36:37](/transcripts/cc/CC_Lec05?t=8877)] [PDF: image not legible — content taken from transcript]:
+
+$
 \Forward P/E \= \\frac{\Current Market Cap}{\Estimated Future PAT (Year 1 or Year 2)} \= \\frac{\Current Stock Price}{\Estimated Future EPS}
-$$ Charlie Munger noted he had never seen Warren Buffett build a formal spreadsheet DCF—instead, Buffett thinks in terms of **forward multiples** (e.g., if ₹4,000 crore market cap generates ₹500 crore PAT in 2 years, that is an **8x 2-year forward P/E**, or ₹10,000 crore market cap at a 20x exit multiple) [[02:29:48–02:31:04](/transcripts/cc/CC_Lec05?t=8988)].
+$
+
+Charlie Munger noted he had never seen Warren Buffett build a formal spreadsheet DCF—instead, Buffett thinks in terms of **forward multiples** (e.g., if ₹4,000 crore market cap generates ₹500 crore PAT in 2 years, that is an **8x 2-year forward P/E**, or ₹10,000 crore market cap at a 20x exit multiple) [[02:29:48–02:31:04](/transcripts/cc/CC_Lec05?t=8988)].
 
 #### First-to-File One-Offs & The 4–5 Key Variables Filter
 
