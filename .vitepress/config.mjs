@@ -7,6 +7,7 @@ import { createRequire } from 'module'
 
 const require = createRequire(import.meta.url)
 
+
 // Patch MathJax to prevent unhandled rejections on undefined asyncLoad for HTML entities
 try {
   const Entities = require('mathjax-full/js/util/Entities.js')
@@ -42,7 +43,7 @@ export default defineConfig({
   lastUpdated: true,
 
   markdown: {
-    math: true,
+    math: false, // Disable MathJax rendering for now
     lineNumbers: true
   },
 
