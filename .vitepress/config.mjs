@@ -1,3 +1,4 @@
+import 'mathjax-full/js/util/entities/all.js'
 import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
