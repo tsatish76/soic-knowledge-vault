@@ -43,7 +43,12 @@ export default defineConfig({
   lastUpdated: true,
 
   markdown: {
-    math: false, // Disable MathJax rendering for now
+math: {
+      tex: {
+        inlineMath: [['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      }
+    },
     lineNumbers: true
   },
 
