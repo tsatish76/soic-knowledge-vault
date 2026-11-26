@@ -1,0 +1,15 @@
+# BS-Lec01 — Gaps & Verification List
+- **Concepts only briefly mentioned**:
+  - ADX and Moving Averages (21-EMA / 50-EMA) — deferred to upcoming mid-week/Sunday sessions [1:49:05, 2:04:47].
+  - Valuation webinar framework — deferred to upcoming valuation session [0:24:57, 0:41:50].
+- **Items marked `[?]`, `[? verify]`, or `[? Hindi segment unclear]` to check against recording**:
+  - `[0:01:08]` `"not severely disturbed"` `[?]` — STT for "not SEBI registered".
+  - `[0:20:08–0:21:46]` `"land farmer"` `[? verify]` — likely Gland Pharma (CMP ₹3,694 → ₹1,450; ₹40,000 Cr mcap).
+  - `[0:27:12, 0:32:13]` Laurus Labs `₹90–120` consolidation and `54550` (`₹545–550`) exit `[? verify]`.
+  - `[0:53:08]` `"money game book adams with cake"` `[?]` — *The Money Game* by Adam Smith.
+  - `[0:55:32]` `"67x price to book"` `[? verify]` — likely 6–7x P/B for Arman Financial.
+  - `[1:20:33]` South Indian Bank `₹2,000–3,000 Cr` mcap `[? verify]`.
+  - `[1:38:38]` Relaxo `₹455 → ~₹1,000` vs. `₹238–250 → ₹1,100` `[? verify]`.
+  - `[2:06:14]` `"B20s"` `[?]` — garbled STT in closing schedule note.
+- **Slides not legible / skipped**:
+  - `Holy_Grail_of_Selling_lyst1940.pdf` was not read in this pass; all figures and charts are grounded in the transcript.

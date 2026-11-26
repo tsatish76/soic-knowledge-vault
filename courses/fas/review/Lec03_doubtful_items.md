@@ -1,0 +1,17 @@
+# BS-Lec03 – Gaps & Verification List (`05_Review`)
+- **Concepts only briefly mentioned:**
+  - *AU Small Finance Bank:* Mentioned only as a peer comparison candidate for Equitas SFB — not elaborated `[00:03:41]`.
+  - *ADX:* Briefly mentioned as an alternative pairing with V-Stop — not elaborated in this lecture `[00:13:15]`.
+  - *Reverse DCF:* Referenced in Dixon Technologies (15–20 years growth priced in) without methodology details `[00:09:58]`.
+  - *StockEdge "Increasing relative strength" scan:* Shown as a screen option but had zero qualifying stocks during the demo `[00:13:44]`.
+- **Items marked `[?]`, `[? verify]`, or `[? Hindi segment unclear]`:**
+  - `VIT VLKV [?]` — Author name of *Comparative Relative Strength* indicator on TradingView `[00:16:14]`.
+  - `SNB 500` — STT error for S&P 500 `[00:02:32]`.
+  - `Nifty Bees [? verify]` — Transcript states `"bank Nifty or Nifty Bank which is also known as Nifty Bees"` `[00:04:08]` (verify if speaker meant Bank BeES vs. Nifty BeES).
+  - `Mahindra CI auto [?]` — STT for Mahindra CIE Auto `[00:11:28]`.
+  - `Carbohydrate Universal [?]` — STT for Carborundum Universal `[00:13:44]`.
+  - `drop a helios [?]` — Garbled STT at `[00:16:14]` (likely "drop a yes").
+  - `long term initials [?]` — STT for "long term investors" `[00:16:44]`.
+  - `PB FinTech ₹425 / ₹384 low [? verify]` — Verify exact low price and ₹1,290 listing figure against chart `[00:12:43]`.
+- **Slides not legible / missing:**
+  - No slide deck PDF available in `01_Sources` for BS-Lec03; content is grounded solely in the transcript.

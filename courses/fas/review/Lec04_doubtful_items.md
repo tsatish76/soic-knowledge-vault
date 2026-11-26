@@ -1,0 +1,11 @@
+# BS-Lec04 – Gaps & Verification List (`05_Review`)
+- **Concepts only briefly mentioned:**
+  - Earlier course classes referenced without re-teaching: Volatility Stop (VSTOP) mechanics, ADX mechanics, TradingView RSI 50 class, Comparative Strength class, On Balance Volume (OBV) 5–10 minute class, and BS-Lec03 satellite portfolio moving-average + VSTOP framework [00:00:00–00:00:32, 00:04:09–00:04:42, 00:16:53–00:20:33].
+  - Dedicated "when to sell" framework deferred to the next class [00:00:00–00:00:32].
+- **Items marked `[?]`, `[? verify]`, or `[? Hindi segment unclear]` to check against recording:**
+  - `[07:54–08:29]` Dixon Technologies initial entry date: `"20th July"` [? verify] — year not spoken in transcript.
+  - `[09:22–09:46]` Dixon Technologies return multiple: `"1.5 or 1.7 bagger types"` [? verify] — spoken figure against ₹1,400 average cost and ₹3,800 exit.
+  - `[21:41–22:08]` `"Eiffel finance [?]"` — likely phonetic STT error (possibly IIFL Finance); no PPT slides to verify.
+  - `[22:08]` `"Winnerty organics [?]"` — likely phonetic STT error (possibly Vinati Organics); no PPT slides to verify.
+- **Slides that were not legible:**
+  - None — no PPT PDF was provided for this lecture (transcript only).

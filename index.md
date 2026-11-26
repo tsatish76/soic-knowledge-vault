@@ -49,3 +49,4 @@ features:
 | **FA** | **Mastering Fundamental Analysis** | Forensics, balance sheet deconstruction, cash flows, and auditor notes | [Open FA Overview](/courses/fa/) |
 | **V&P** | **Corporate Valuation & Portfolio Strategy** | Reverse DCF, margin traps, cyclical PE adjustments, and portfolio sizing | [Open V&P Overview](/courses/vp/) |
 | **BF** | **Behavioural Finance** | System 1 vs 2, cognitive biases, loss aversion, and portfolio-level anchoring | [Open BF Overview](/courses/bf/) |
+| **FAS** | **Buy Sell (When to Buy & Sell)** | Stage Analysis, V-Stop, ADX, CRS, Sector Rotation, Entry Archetypes & Exits | [Open FAS Overview](/courses/fas/) |
