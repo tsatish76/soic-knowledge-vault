@@ -1,0 +1,13 @@
+# BS-Lec09 — Gaps & Verification List
+- **Concepts only briefly mentioned**:
+  - L3 valuation framework (referenced as prerequisite validation before averaging up on Parabolic SAR flags) [00:11:09, 00:12:19].
+- **Items marked `[?]`, `[? verify]`, or `[? Hindi segment unclear]` to check against recording**:
+  - `[00:07:45]` `"living financial services"` `[?]` — unclear company name (₹278 weekly / ₹196 monthly buy).
+  - `[00:08:57]` `"Appcotex"` `[?]` — likely Apcotex Industries.
+  - `[00:09:41]` `"Mr. James Wilder"` `[?]` — STT for J. Welles Wilder.
+  - `[00:10:25]` Parabolic SAR settings `"0.02 0.05 as increment max value as 0.2"` `[? verify]` — verify whether start = `0.02` and increment = `0.05` (or `0.02`).
+  - `[00:12:19]` `"singin"` `[?]` — likely Syngene.
+  - `[00:15:25]` `"TV's laboratories"` `[?]` — STT for Divi's Laboratories.
+  - `[00:17:36]` `"drop a helios"` `[?]` — STT for "drop a hell yes".
+- **Slides not legible / skipped**:
+  - No standalone PPT file in `01_Sources`; grounded solely in transcript.

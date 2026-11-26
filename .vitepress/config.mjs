@@ -59,7 +59,8 @@ export default defineConfig({
           { text: 'CC: TVGP Crash Course', link: '/courses/cc/' },
           { text: 'FA: Fundamental Analysis', link: '/courses/fa/' },
           { text: 'V&P: Valuation & Portfolio Construction', link: '/courses/vp/' },
-          { text: 'BF: Behavioural Finance & Biases', link: '/courses/bf/' }
+          { text: 'BF: Behavioural Finance & Biases', link: '/courses/bf/' },
+          { text: 'BS: Buy Sell (When to Buy & Sell)', link: '/courses/bs/' }
         ]
       },
       { text: '🎙️ Transcripts', link: '/transcripts/' },
