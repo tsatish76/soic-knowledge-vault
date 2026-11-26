@@ -110,8 +110,7 @@ const courseNames = {
   cc: 'CC: TVGP Crash Course',
   fa: 'FA: Mastering Fundamental Analysis',
   vp: 'V&P: Corporate Valuation & Strategy',
-  bf: 'BF: Behavioural Finance',
-  fas: 'FAS: Buy Sell (When to Buy & Sell)'
+  bf: 'BF: Behavioural Finance'
 };
 
 subcourses.forEach(sub => {
@@ -166,7 +165,7 @@ if (fs.existsSync(manifestFile)) {
       { text: '🎙️ Transcripts Library', link: '/transcripts/' }
     ];
 
-    ['chk', 'cc', 'fa', 'vp', 'bf', 'fas'].forEach(sub => {
+    ['chk', 'cc', 'fa', 'vp', 'bf'].forEach(sub => {
       if (manifest[sub] && manifest[sub].length > 0) {
         transcriptItems.push({
           text: courseNames[sub] || sub.toUpperCase(),
@@ -236,7 +235,6 @@ allMdFiles.forEach(file => {
   else if (relPath.includes('/fa/')) currentCourse = 'FA';
   else if (relPath.includes('/vp/')) currentCourse = 'V&P';
   else if (relPath.includes('/bf/')) currentCourse = 'BF';
-  else if (relPath.includes('/fas/')) currentCourse = 'FAS';
 
   let currentLecture = path.basename(file, '.md').toUpperCase();
   let currentStage = 'General';

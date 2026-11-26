@@ -91,7 +91,7 @@ let totalTimestampsLinked = 0;
 let reportsWithTranscripts = 0;
 let reportsWithoutTranscripts = 0;
 
-const subcourses = ['chk', 'cc', 'fa', 'vp', 'bf', 'fas'];
+const subcourses = ['chk', 'cc', 'fa', 'vp', 'bf'];
 
 subcourses.forEach(sub => {
   const subDir = path.join(coursesDir, sub);
@@ -106,23 +106,14 @@ subcourses.forEach(sub => {
     const filePath = path.join(subDir, file);
     let content = fs.readFileSync(filePath, 'utf-8');
 
-    // Extract lecture number and optional file prefix
-    const prefixMatch = file.match(/^([A-Z]+)_Lec(\d+)/i);
+    // Extract lecture number
     const match = file.match(/lec(\d+)/i);
     const lecNumStr = match ? match[1].padStart(2, '0') : null;
-    const candidateIds = [];
-    if (lecNumStr) {
-      candidateIds.push(`${sub.toUpperCase()}_Lec${lecNumStr}`);
-      if (prefixMatch) {
-        candidateIds.push(`${prefixMatch[1].toUpperCase()}_Lec${lecNumStr}`);
-      }
-    }
+    const candidateId = lecNumStr ? `${sub.toUpperCase()}_Lec${lecNumStr}` : null;
 
     // Find transcript in manifest
     const subManifest = manifest[sub] || [];
-    const matchedTranscript = subManifest.find(t =>
-      candidateIds.some(cid => t.lectureId.toLowerCase() === cid.toLowerCase())
-    );
+    const matchedTranscript = subManifest.find(t => t.lectureId.toLowerCase() === (candidateId ? candidateId.toLowerCase() : ''));
 
     if (matchedTranscript) {
       // 1. Injected banner
