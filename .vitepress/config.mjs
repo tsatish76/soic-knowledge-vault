@@ -60,7 +60,8 @@ export default defineConfig({
           { text: 'FA: Fundamental Analysis', link: '/courses/fa/' },
           { text: 'V&P: Valuation & Portfolio Construction', link: '/courses/vp/' },
           { text: 'BF: Behavioural Finance & Biases', link: '/courses/bf/' },
-          { text: 'BS: Buy Sell (When to Buy & Sell)', link: '/courses/bs/' }
+          { text: 'BS: Buy Sell (When to Buy & Sell)', link: '/courses/bs/' },
+          { text: 'FAS: Filter A Stock', link: '/courses/fas/' }
         ]
       },
       { text: '🎙️ Transcripts', link: '/transcripts/' },

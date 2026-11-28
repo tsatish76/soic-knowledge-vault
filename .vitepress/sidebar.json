@@ -272,6 +272,47 @@
       ]
     }
   ],
+  "/courses/fas/": [
+    {
+      "text": "FAS: Filter A Stock",
+      "items": [
+        {
+          "text": "🗺️ Sub-Course Overview (D3)",
+          "link": "/courses/fas/"
+        },
+        {
+          "text": "⚡ Summary Reference Cards (D2)",
+          "link": "/courses/fas/FAS_Summary_References"
+        },
+        {
+          "text": "📑 Detailed Lecture Reports (D1)",
+          "collapsed": false,
+          "items": [
+            {
+              "text": "Lec 01: Identifying Growth Catalysts with StockScans (Level 5: How to Screen & Filter Epic Stocks)",
+              "link": "/courses/fas/FAS_Lec01_Report"
+            },
+            {
+              "text": "Lec 02: Screening Domestic Businesses: Relative Strength, Earnings Breakouts, Margin Expansion & Qualitative Scans (Level 5: How to Screen & Filter Epic Stocks)",
+              "link": "/courses/fas/FAS_Lec02_Report"
+            },
+            {
+              "text": "Lec 03: Screening International Businesses: TradingView, IBD, Perplexity Finance/Automation, Substacks & X Handles (Level 5: How to Screen & Filter Epic Stocks)",
+              "link": "/courses/fas/FAS_Lec03_Report"
+            },
+            {
+              "text": "Lec 04: Tools to Find Epic Stocks: CANSLIM, Screener, MarketSmith, StockScans, Relative Strength & Google Alerts (Level 5: How to Screen & Filter Epic Stocks)",
+              "link": "/courses/fas/FAS_Lec04_Report"
+            },
+            {
+              "text": "Lec 05: Learn Stage Analysis to Avoid Falling Knives: Price-Volume Behaviour & Techno-Fundamental Framework (Level 5: How to Screen & Filter Epic Stocks)",
+              "link": "/courses/fas/FAS_Lec05_Report"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "/courses/vp/": [
     {
       "text": "V&P: Corporate Valuation & Strategy",

@@ -111,7 +111,8 @@ const courseNames = {
   fa: 'FA: Mastering Fundamental Analysis',
   vp: 'V&P: Corporate Valuation & Strategy',
   bf: 'BF: Behavioural Finance',
-  bs: 'BS: Buy Sell (When to Buy & Sell)'
+  bs: 'BS: Buy Sell (When to Buy & Sell)',
+  fas: 'FAS: Filter A Stock'
 };
 
 subcourses.forEach(sub => {
@@ -166,7 +167,7 @@ if (fs.existsSync(manifestFile)) {
       { text: '🎙️ Transcripts Library', link: '/transcripts/' }
     ];
 
-    ['chk', 'cc', 'fa', 'vp', 'bf', 'bs'].forEach(sub => {
+    ['chk', 'cc', 'fa', 'vp', 'bf', 'bs', 'fas'].forEach(sub => {
       if (manifest[sub] && manifest[sub].length > 0) {
         transcriptItems.push({
           text: courseNames[sub] || sub.toUpperCase(),
@@ -212,17 +213,23 @@ allMdFiles.forEach(file => {
   const relPath = path.relative(rootDir, file).replace(/\\/g, '/');
   
   // Sanitize rogue angle bracket placeholders like <N>, <Stage Title>, <pillar>, <name>
-  // Avoid replacing valid HTML like <span, <a, <div, </
+  // Avoid replacing valid HTML like <span, <a, <div, </ or anything already inside code blocks / backticks
   let sanitized = false;
-  const sanitizedContent = content.replace(/<([a-zA-Z0-9_\s]{1,30})>/g, (match, tag) => {
-    // If it's not a common HTML tag, wrap it in backticks
-    const htmlTags = ['div', 'span', 'b', 'i', 'a', 'p', 'details', 'summary', 'br', 'hr', 'code', 'pre'];
-    if (!htmlTags.includes(tag.toLowerCase().trim())) {
-      sanitized = true;
-      return `\`<${tag}>\``;
-    }
-    return match;
-  });
+  const htmlTags = ['div', 'span', 'b', 'i', 'a', 'p', 'details', 'summary', 'br', 'hr', 'code', 'pre'];
+  const sanitizedContent = content
+    .split(/(```[\s\S]*?```|`[^`\n]+`)/g)
+    .map((segment, idx) => {
+      // Odd indices are fenced code blocks or inline code spans; leave untouched
+      if (idx % 2 === 1) return segment;
+      return segment.replace(/<([a-zA-Z0-9_\s]{1,30})>/g, (match, tag) => {
+        if (!htmlTags.includes(tag.toLowerCase().trim())) {
+          sanitized = true;
+          return `\`<${tag}>\``;
+        }
+        return match;
+      });
+    })
+    .join('');
 
   if (sanitized) {
     fs.writeFileSync(file, sanitizedContent);
@@ -237,6 +244,7 @@ allMdFiles.forEach(file => {
   else if (relPath.includes('/vp/')) currentCourse = 'V&P';
   else if (relPath.includes('/bf/')) currentCourse = 'BF';
   else if (relPath.includes('/bs/')) currentCourse = 'BS';
+  else if (relPath.includes('/fas/')) currentCourse = 'FAS';
 
   let currentLecture = path.basename(file, '.md').toUpperCase();
   let currentStage = 'General';

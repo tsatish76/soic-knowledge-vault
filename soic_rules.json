@@ -16191,6 +16191,2490 @@
     "rationale": "Stage 3 [00:19:34]"
   },
   {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Portfolio Trend vs. Contra Split",
+    "threshold": "70–80% trend (6–7 of 10 stocks); 20–30% contra (3–4 stocks)",
+    "rationale": "Align core portfolio with prevailing market/industry momentum; cap contrarian patience bets"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Abnormal Growth Window",
+    "threshold": "≥ 2 years",
+    "rationale": "Core focus of the growth-catalyst framework"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Market Breadth (StockScans)",
+    "threshold": "70% (>50D), 68% (>100D), 61% (>200D) on 10 Jul 2026",
+    "rationale": "Gauges overall market participation and trend health"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "P/E Ratio (Behavioral)",
+    "threshold": "Dynamic, non-static",
+    "rationale": "Valuation reflects market perception per unit of earnings"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Stock Return Equation",
+    "threshold": "All three positive/expanding",
+    "rationale": "Maximum multi-bagger potential occurs when perception, earnings, and rate-of-change align"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Exponential Compounding Rule",
+    "threshold": "≥ 1x conversion of prior revenue to current PAT",
+    "rationale": "Hallmark of operating leverage + J-curve inflection"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Active Investing Hurdle",
+    "threshold": "Must meaningfully exceed 8–10%",
+    "rationale": "Below 8–10% EPS growth, passive index/MFs/AIFs are superior"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "S-Curve Inflection Threshold",
+    "threshold": "> 10% (sustained)",
+    "rationale": "Confirms S-curve takeoff in technology adoption (per Rohit Chauhan)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Order Book Explosion Window",
+    "threshold": "8–9+ quarters of accelerating backlog",
+    "rationale": "Signals structural tailwinds and upcoming operating leverage"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "US Grid Connection Lead Time",
+    "threshold": "~5 years",
+    "rationale": "Forces shift to Behind-the-Meter (BTM) on-site power"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "CCPP Turbine Backlog",
+    "threshold": "Till 2031",
+    "rationale": "Creates multi-year visibility for steam turbine & HRSG suppliers"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Modular Gas Engine Configuration",
+    "threshold": "5 × 5 MW = 25 MW",
+    "rationale": "Modular alternative bypassing long-lead CCPP turbines"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Quarterly Growth Catalyst Screen",
+    "threshold": ">20–25% growth",
+    "rationale": "Starting universe: read 100–150 one-pagers every quarter"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Catalyst Hit-Rate Expectation",
+    "threshold": "60–70%",
+    "rationale": "Probabilistic sport; pair with Level 4 sell rules for the rest"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Catalyst Gestation Window",
+    "threshold": "1–2 years",
+    "rationale": "Requires patience before earnings materialize"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Order Book Inflection",
+    "threshold": "~10x jump (e.g., ₹283 cr → ~₹3,000 cr)",
+    "rationale": "Signals multi-year structural scale-up"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Regulatory Revenue Exposure",
+    "threshold": "~30–40%",
+    "rationale": "High exposure creates severe downside when rules tighten"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Warrant Backtest Universe",
+    "threshold": "Market Cap > ₹500 crore (686 events)",
+    "rationale": "Excludes illiquid microcaps"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Promoter Warrant Upfront & Lock-in",
+    "threshold": "25% upfront; 18-month conversion",
+    "rationale": "Promoter forfeits 25% if unexercised → strong skin-in-the-game"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Warrant 3Y / 5Y Hit Rate",
+    "threshold": "72.4% (3Y) / 77.8% (5Y)",
+    "rationale": "+145.3% avg (3Y) and +459.9% avg (5Y)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Announcement Scan Keywords",
+    "threshold": "`Preferential allotment of warrants`, `preferential equity raise`, `convertible warrants`",
+    "rationale": "Real-time tracking of capital-structure catalysts"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Absolute EBITDA / Tonne",
+    "threshold": "₹65,000–70,000/tonne guided (KSH hit ₹74,018 in Q4 FY26)",
+    "rationale": "Tracks real unit profitability when raw material (copper) is pass-through"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Spirits Value-Chain Margin Shift",
+    "threshold": "+100–200 bps OPM expansion; 2–4x EBITDA/case vs. Economy",
+    "rationale": "Fixed excise + uncapped pricing creates disproportionate operating leverage"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Forward Valuation Check",
+    "threshold": "Model using stated capex × asset turn (e.g., 6x on ₹333 Cr)",
+    "rationale": "Avoids trailing P/E bias during new-base creation"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Strong Quarterly Growth",
+    "threshold": ">20% PAT growth",
+    "rationale": "Flags immediate quarterly earnings acceleration"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Explosive Growth",
+    "threshold": ">20% top-line growth",
+    "rationale": "Identifies high-revenue-growth businesses"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Buoyant Growth",
+    "threshold": ">20% sales AND >20% PAT",
+    "rationale": "Ensures profitable, non-margin-dilutive growth"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Margin Mavericks",
+    "threshold": "YoY margin expansion",
+    "rationale": "Captures operating leverage or product-mix shift"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Scan Match",
+    "threshold": "Rank top ~100 overlapping stocks",
+    "rationale": "Combines earnings momentum with smart-money price/volume"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "2-4-6-8 Portfolio Sizing",
+    "threshold": "2% (low), 4% (OK), 6% (good), 8% (very high)",
+    "rationale": "Concentrates capital in highest-conviction catalysts (mostly 4–6%)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec01_Report#d-formulas-metrics-thresholds",
+    "metric": "Small-Cap MF Agility Filter",
+    "threshold": "<₹3,000 Cr AUM (e.g., ₹1,000–2,500 Cr)",
+    "rationale": "Smaller AUM preserves flexibility to spot micro/small caps early"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Portfolio Trend vs. Contra Split",
+    "threshold": "70–80% trend (6–7 of 10 stocks); 20–30% contra (3–4 stocks)",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Abnormal Growth Window",
+    "threshold": "≥ 2 years",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Market Breadth (StockScans)",
+    "threshold": "70% (>50D), 68% (>100D), 61% (>200D) on 10 Jul 2026",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "P/E Ratio (Behavioral)",
+    "threshold": "Dynamic, non-static",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Stock Return Equation",
+    "threshold": "All three positive/expanding",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Exponential Compounding Rule",
+    "threshold": "≥ 1x conversion of prior revenue to current PAT",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Active Investing Hurdle",
+    "threshold": "Meaningfully > 8–10%",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "S-Curve Inflection Threshold",
+    "threshold": "> 10% (sustained)",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Order Book Explosion Window",
+    "threshold": "8–9+ quarters of accelerating backlog",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "US Grid Connection Lead Time",
+    "threshold": "~5 years",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "CCPP Turbine Backlog",
+    "threshold": "Till 2031",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Modular Gas Engine Setup",
+    "threshold": "5 × 5 MW = 25 MW",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Quarterly Growth Catalyst Screen",
+    "threshold": "> 20–25% growth",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Catalyst Hit-Rate Expectation",
+    "threshold": "60–70%",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Catalyst Gestation Window",
+    "threshold": "1–2 years",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Post-IPO Order Book Inflection",
+    "threshold": "~10x jump (e.g., ₹283 cr → ~₹3,000 cr)",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Regulatory Revenue Exposure",
+    "threshold": "~30–40%",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Warrant Backtest Universe",
+    "threshold": "Market Cap > ₹500 crore (686 events)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Promoter Warrant Lock-in",
+    "threshold": "25% upfront; 18-month conversion",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Warrant 3Y / 5Y Hit Rate",
+    "threshold": "72.4% (3Y, +145.3% avg) / 77.8% (5Y, +459.9% avg)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Absolute EBITDA / Tonne",
+    "threshold": "₹65,000–70,000/tonne guided (KSH hit ₹74,018)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Spirits Value-Chain Margin Shift",
+    "threshold": "+100–200 bps OPM; 2–4x EBITDA/case vs. Economy",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Forward Valuation Check",
+    "threshold": "Model using stated capex × asset turn (e.g., 6x on ₹333 cr)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Strong Quarterly Growth Scan",
+    "threshold": "> 20% PAT growth",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Explosive Growth Scan",
+    "threshold": "> 20% top-line growth",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Buoyant Growth Scan",
+    "threshold": "> 20% sales AND > 20% PAT",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Margin Mavericks Scan",
+    "threshold": "YoY margin expansion",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Scan Match",
+    "threshold": "Rank top ~100 overlapping stocks",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "2-4-6-8 Portfolio Sizing",
+    "threshold": "2% (low), 4% (OK), 6% (good), 8% (very high)",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC01_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec01_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Small-Cap MF Agility Filter",
+    "threshold": "< ₹3,000 cr AUM (e.g., ₹1,000–2,500 cr)",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Relative Strength (Weinstein)",
+    "threshold": "Rising ratio / outperforming benchmark",
+    "rationale": "Identifies leadership vs. the broader market"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Sector + Industry Group Weight",
+    "threshold": "~49% of a stock's move",
+    "rationale": "A stock rarely moves alone; check industry group strength first"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Custom Index Liquidity Floor",
+    "threshold": "> ₹1,000 crore (stated for custom index construction)",
+    "rationale": "Ensures sufficient liquidity in custom industry baskets"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Trend Filter 1",
+    "threshold": "`Close Price > EMA`",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Trend Filter 2",
+    "threshold": "`Close Price > VSTOP` (10, 2 W [?])",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Proximity to High",
+    "threshold": "`52-Week High Distance < 20%`",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Custom Index Liquidity Filter",
+    "threshold": "`Market Cap > ₹1,000 crore`",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Prior 4Q PAT Consolidation",
+    "threshold": "≤ 10% band across 4 prior quarters",
+    "rationale": "Mirrors technical sideways consolidation in fundamentals"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Latest Quarter PAT Breakout",
+    "threshold": "> 30%",
+    "rationale": "Confirms sudden upside earnings inflection"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Market Cap Window",
+    "threshold": "₹1,000 crore – ₹20,000 crore",
+    "rationale": "Focuses on small/mid-cap universe (320 → 13 companies)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Long-Term Breakout Window",
+    "threshold": "`200` to `1,000` days (~1–5 years)",
+    "rationale": "Captures major multi-year base breakouts (\"bigger the base, bigger the breakout\")"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Short-Term Breakout Window",
+    "threshold": "`> 40` days and `< 200` days",
+    "rationale": "Captures intermediate 2–12 month consolidation breakouts"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "26-Week High Distance",
+    "threshold": "`< 10%`",
+    "rationale": "Ensures stock is already near 6-month highs"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Weekly Trend & Volatility Filter",
+    "threshold": "Close `> 30W EMA`, VSTOP positive, high volume spike",
+    "rationale": "Confirms upside volatility and institutional accumulation on breakout"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Warrant Upfront Payment",
+    "threshold": "`25%` of issue price upfront",
+    "rationale": "Standard structure; remainder paid upon conversion"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Warrant Keyword Scan",
+    "threshold": "`\"warrant issue\"`, `\"preferential issue of warrant\"`, `\"allotment\"`, `\"conversion\"`",
+    "rationale": "Captures filings in both notices and attached PPTs"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Market Breadth (200D EMA)",
+    "threshold": "`9–15%` during weak breadth phases",
+    "rationale": "Shows how earnings-breakout stocks outperform even in narrow/weak markets"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "3-Step Discovery Framework",
+    "threshold": "All 3 aligned",
+    "rationale": "Completes watchlist qualification"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Consistent OPM Scan (3–4Q)",
+    "threshold": "`≥ 10%` sequential OPM growth per quarter; `OPM > 1%` excludes banks",
+    "rationale": "Identifies structural margin/mix expansion rather than 1-quarter blips"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Result Tracker Scan",
+    "threshold": "Margin exp. `> 20%`, Sales growth `> 10%`, Latest OPM `> 6%`",
+    "rationale": "Catches strong YoY margin + top-line expanders missed by strict QoQ filters"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Consistent 4Q PAT Growth",
+    "threshold": "`> 10%` in each of the last 4 quarters",
+    "rationale": "Signals sustained earnings momentum / product-mix shift"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Loss-to-Profit Turnaround (IPO)",
+    "threshold": "`Listed Days < 600`; `PAT 1Q back < 0`; `PAT YoY Q < 0`; `Latest PAT > ₹1 cr`",
+    "rationale": "Isolates recent IPOs turning profitable YoY after post-IPO consolidation"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Institutional Interest Scan",
+    "threshold": "`MCap >= ₹1,000 cr` (slide) / `₹2,500 cr` (live); `FII + DII Δ >= 2%`",
+    "rationale": "Prompt to study ownership change; ~46% 1Y outperformance rate alone"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Concall Investor Search",
+    "threshold": "Up to 10 marquee investor/fund names",
+    "rationale": "Identifies where smart analysts are actively probing fundamentals"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "BSE Shareholding Scan",
+    "threshold": "`>= 1%` disclosed stake",
+    "rationale": "Tracks entry, accumulation, and exit of marquee investors/funds"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Acquisition Scan",
+    "threshold": "Keyword: `acquisition` (or `@Company` + `acquisition`)",
+    "rationale": "Surfaces M&A filings; check 8–12Q history on portfolio watchlists"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec02_Report#d-formulas-metrics-thresholds",
+    "metric": "Combined Volume + Earnings Scan",
+    "threshold": "5,000 → 236 (Tech+Vol) → 83 (with Earnings)",
+    "rationale": "High-conviction convergence of Stage 2 trend, volume surge, RS, and earnings"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Relative Strength (Weinstein)",
+    "threshold": "Rising ratio / outperforming benchmark",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Sector + Industry Group Weight",
+    "threshold": "~49% of a stock's move",
+    "rationale": "Stage 1"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "RSI vs. RS",
+    "threshold": "Do not confuse RSI (e.g., 40) with RS leadership",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Custom Industry Index Strength Scan",
+    "threshold": "~597 stocks narrowed into liquid custom industry baskets",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Fundamental Earnings Breakout Scan",
+    "threshold": "320 companies narrowed to 13 candidates",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Long-Term Technical Breakout",
+    "threshold": "1 to 3–5 year base resolution",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Short-Term Technical Breakout",
+    "threshold": "Weekly volume spike + Close > 30W EMA",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Warrant Issue Keyword Scan",
+    "threshold": "25% upfront; Two-Check Rule (capex/promoter + Stage 2 industry)",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Equal-Weighted Earnings Breakout Index",
+    "threshold": "Outperforms even when market breadth (stocks > 200D EMA) is 9–15%",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Consistent OPM Expansion (3–4Q)",
+    "threshold": "≥ 10% sequential OPM growth per quarter; OPM > 1% excludes banks",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Result Tracker Scan (YoY)",
+    "threshold": "Catches YoY margin surges missed by strict QoQ filters",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Consistent 4Q PAT Growth Scan",
+    "threshold": "> 10% PAT growth for 4 straight quarters (PAT over EPS)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Loss-to-Profit Turnaround (IPO)",
+    "threshold": "~2-year IPOs turning profitable YoY; automate weekly email alerts",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Institutional Interest Scan (FII + DII)",
+    "threshold": "1Y backtest: 25 of 54 outperformed (~46%)",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Concall Marquee Investor Search",
+    "threshold": "Track question frequency in Table View + verify filing context",
+    "rationale": "Stage 11"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "BSE >1% Shareholding Scan",
+    "threshold": "≥ 1% disclosed stake",
+    "rationale": "Stage 11"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Acquisition & Merger Scan",
+    "threshold": "Audit 8–12Q M&A history on portfolio watchlists; check RPT/swap ratio",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Combined Volume + Earnings Scan",
+    "threshold": "5,000 → 236 (Tech+Vol) → 83 (with Earnings)",
+    "rationale": "Stage 13"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC02_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec02_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Peer-to-Peer (P2P) Comparison",
+    "threshold": "Pick the industry peer with strongest earnings growth (Minervini)",
+    "rationale": "Stage 13"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Country of Origin",
+    "threshold": "Entire World, USA, Germany, or Japan",
+    "rationale": "Scopes the Stage 2 technical scan to target global markets"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Average Directional Index (ADX)",
+    "threshold": "Crosses up / > 20",
+    "rationale": "Signals the stock is entering an emerging trend"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Relative Strength Index (RSI)",
+    "threshold": "Weekly RSI crosses above 50",
+    "rationale": "Signals the stock is entering fresh momentum"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "30-Week EMA",
+    "threshold": "Close ≥ 30-week EMA (just above / crossing up)",
+    "rationale": "Confirms Stage 2 uptrend positioning"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "IBD Subscription",
+    "threshold": "\\$10 / month",
+    "rationale": "Cost-effective Stage 2 leader screen (IBD 50)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "MarketSurge Subscription",
+    "threshold": "\\$40 / month",
+    "rationale": "Deeper MarketSmith-style alternative"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Universe & Top-N Funnel",
+    "threshold": "~1,200 stocks (USA & Europe) → Top 50",
+    "rationale": "Focuses attention on the strongest 50 leaders"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Multi-Factor Ranking Criteria",
+    "threshold": "Stage Analysis + Earnings upgrades + Fundamental strength + Margin expansion + PAT growth",
+    "rationale": "Combines technical Stage 2 momentum with fundamental acceleration"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "\"Just Broke Out\" Base",
+    "threshold": "2–3 years of flat/rounding bottom → fresh Stage 2 entry",
+    "rationale": "Targets early inflection before earnings explode"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "AI GARP Screen",
+    "threshold": "PEG < 1.5x",
+    "rationale": "Filters reasonably priced AI beneficiaries with improving earnings momentum"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Advanced Packaging Screen",
+    "threshold": "Accelerating earnings growth",
+    "rationale": "Translates qualitative Substack supply-chain insights into an actionable stock list"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Perplexity Computer Universe",
+    "threshold": "879 US + 311 European (~1,200 total) → Top 50 (or 100)",
+    "rationale": "Balances breadth across Western markets with a focused weekly reading list"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Ranking & Projection Criteria",
+    "threshold": "Stan Weinstein Stage 2 methodology",
+    "rationale": "Ranks leaders and isolates fresh \"Just Broke Out\" Stage 2 setups"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Daily Reading Commitment",
+    "threshold": "6–7 hours/day",
+    "rationale": "Core edge comes from continuous reading and inference rather than offline meetings"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Wolfspeed Valuation Check",
+    "threshold": "~3–4x forward FCF",
+    "rationale": "Deep-value inflection when paired with Stage 2 breakout and earnings upgrades"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Global Portfolio Allocation",
+    "threshold": "80–85% India / 10–20% International",
+    "rationale": "Keeps core wealth in domestic compounding while capturing global AI/semi leaders"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "d) Formulas, metrics & thresholds (if any)",
+    "anchor": "/courses/fas/FAS_Lec03_Report#d-formulas-metrics-thresholds-if-any",
+    "metric": "Global AIF Minimum Ticket",
+    "threshold": "₹50 lakh (launching June 15)",
+    "rationale": "Institutional/HNI route for global exposure"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "TradingView Country Filter",
+    "threshold": "Focus on target global geographies",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "ADX Emerging Trend Filter",
+    "threshold": "Crosses up / > 20",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Weekly RSI Momentum Filter",
+    "threshold": "Crosses above 50",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "30-Week EMA Stage 2 Filter",
+    "threshold": "Close ≥ 30-week EMA (weekly)",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "IBD / MarketSurge Cost",
+    "threshold": "IBD: \\$10/mo; MarketSurge: \\$40/mo",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Perplexity Weekly Funnel",
+    "threshold": "~1,200 stocks (879 US + 311 Europe) → Top 50 (or 100)",
+    "rationale": "Stage 4 & 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "\"Just Broke Out\" Base",
+    "threshold": "2–3 years flat / rounding bottom → fresh breakout",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Perplexity AI GARP + Theme Screen",
+    "threshold": "PEG < 1.5x + AI theme + accelerating earnings growth",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Daily Reading Commitment",
+    "threshold": "6–7 hours per day",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Turnaround FCF Multiple (Wolfspeed)",
+    "threshold": "~3–4x forward FCF",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Global Asset Allocation Split",
+    "threshold": "80–85% India / 10–20% International",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC03_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec03_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Global AIF Minimum Ticket",
+    "threshold": "₹50 lakh (launching June 15)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Stock Return Formula",
+    "threshold": "Both positive",
+    "rationale": "Growth drives both earnings and multiple expansion"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Indian CANSLIM \"C\" Sales",
+    "threshold": "`> 15%`",
+    "rationale": "Minimum top-line momentum filter in India"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Indian CANSLIM \"C\" PAT",
+    "threshold": "`> 20%`",
+    "rationale": "Minimum bottom-line momentum filter in India"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Fundamental Momentum Hit Rate",
+    "threshold": "`60–70%` of the time",
+    "rationale": "Strong quarters tend to cluster; expect 30–40% misses"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "India vs. China Corporate ROE",
+    "threshold": "India: `14–15%` vs. China SOEs: `8–9%`",
+    "rationale": "Explains India's superior long-term multibagger creation"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Earnings Explosion Duration",
+    "threshold": "`5–6 quarters`",
+    "rationale": "Typical runway before high base sets in without new capex"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Free Screener.in Growth Query",
+    "threshold": "Yields `~63 stocks`",
+    "rationale": "Core free quarterly screen (drop ROCE for turnarounds)"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "P/E Rerating Sweet Spot",
+    "threshold": "`15–30x` (up to `35x`)",
+    "rationale": "Leaves room for multiple expansion alongside earnings growth"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Volume Rocketing (Standard)",
+    "threshold": "≥ 1.5x (or 5-day avg > 10-day avg)",
+    "rationale": "Flags abnormal institutional volume spikes"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Absolute Delivery Rule",
+    "threshold": "Absolute shares delivered > normal day",
+    "rationale": "Delivery % drops on news/breakout days while actual accumulation rises"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Microcap Volume Guardrail",
+    "threshold": "Avoid < ₹300 crore market cap",
+    "rationale": "In <₹300 cr stocks, 2–3 buyers can create fake volume; requires AGM/promoter visits"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Learning & Tool Budget",
+    "threshold": "≥ 1%–1.5% of AUM",
+    "rationale": "Essential investment in optionality for active investors"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Blue Dot Trigger",
+    "threshold": "52-week high in RS line",
+    "rationale": "Flags emerging earnings/sector leaders before price highs"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Industry/Sector Attribution",
+    "threshold": "37% industry group + 12% sector (~49%; 60%+ group moves)",
+    "rationale": "Explains why RS naturally pulls you into leading themes"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Nifty Earnings Hurdle",
+    "threshold": "12–14%",
+    "rationale": "Outperforming Nifty implies superior underlying earnings growth"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Institutional Lapping-Up (1Y)",
+    "threshold": "> 3% (strict) / > 2% (~15 stocks) / > 1% (~51 stocks)",
+    "rationale": "Captures sustained institutional accumulation"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "Promoter Skin-in-the-Game",
+    "threshold": "> 2% increase AND MCap > ₹1,000 cr",
+    "rationale": "Flags warrants, preferential allotments, or open-market buys"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec04_Report#d-formulas-metrics-thresholds",
+    "metric": "QoQ Smart Money + RS",
+    "threshold": "FII > +0.5%, DII > +0.5%, + 52W High (or 3M RS > 2%)",
+    "rationale": "Isolates fresh quarterly institutional buying with price strength"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Stock Return Formula",
+    "threshold": "Both positive",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Indian CANSLIM \"C\" Sales",
+    "threshold": "`> 15%`",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Indian CANSLIM \"C\" PAT",
+    "threshold": "`> 20%`",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Fundamental Momentum Hit Rate",
+    "threshold": "`60–70%` of the time",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "India vs. China Corporate ROE",
+    "threshold": "India `14–15%` vs. China SOEs `8–9%`",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Earnings Explosion Duration",
+    "threshold": "`5–6 quarters`",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Free Screener.in Growth Query",
+    "threshold": "Yields `~63 stocks`",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "P/E Rerating Sweet Spot",
+    "threshold": "`15–30x` (up to `35x`)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Volume Rocketing (StockScans)",
+    "threshold": "`≥ 1.5x` (or 5-day avg > 10-day avg)",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Absolute Delivery Rule",
+    "threshold": "Absolute delivered shares > normal day",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Microcap Volume Guardrail",
+    "threshold": "Avoid `< ₹300 crore` MCap",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Learning & Tool Budget",
+    "threshold": "`≥ 1%–1.5%` of AUM",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Blue Dot Trigger (MarketSmith)",
+    "threshold": "`52-week high` in RS line",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Industry / Sector Attribution",
+    "threshold": "`37%` industry group + `12%` sector (`~49%`; `60%+` group moves)",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Nifty Earnings Hurdle",
+    "threshold": "`12–14%`",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Institutional Lapping-Up (1Y)",
+    "threshold": "`> 3%` (strict) / `> 2%` (`~15` stocks) / `> 1%` (`~51` stocks)",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Promoter Skin-in-the-Game",
+    "threshold": "`> 2%` increase AND `MCap > ₹1,000 cr`",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "QoQ Smart Money + RS",
+    "threshold": "`FII > +0.5%`, `DII > +0.5%` + `52W High` (or `3M RS > 2%`)",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Relative Strength (Weinstein)",
+    "threshold": "Rising vs. Nifty 50",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "TradingView RS Lookback",
+    "threshold": "`26 weeks`",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Levy 1967 RS Benchmark",
+    "threshold": "`9.6% / 26W` (`~20.1% p.a.`) vs. `2.9% / 26W`",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Moving Average Anchors",
+    "threshold": "`30-week EMA` (Stage 1–3) / `200 DMA/EMA` (Stage 4)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "StockScans Weekly RS",
+    "threshold": "`> 2%` and `< 10%`",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "StockScans Index RS",
+    "threshold": "`13, 26, or 52 weeks` (`26W` default)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "StockEdge 21-Day RS",
+    "threshold": "`68 stocks` outperforming benchmark",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC04_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec04_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Google Alerts (Marquee)",
+    "threshold": "Email alert on bulk/block deal or media",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Tightening Pattern",
+    "threshold": "Very low / drying volume; 3–5 weeks to 2–3 months",
+    "rationale": "Bullish; selling force is missing, preparing for next breakout"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Weekly Trend Filter",
+    "threshold": "Price above rising EMA = Stage 2; below declining EMA = Stage 4",
+    "rationale": "Separates Stage 2 uptrends from Stage 4 overhead supply"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Institutional Volume Footprint",
+    "threshold": "₹1,800–4,000 cr MCap with high volume",
+    "rationale": "Signals institutional participation rather than retail flow"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Stage 1 Base",
+    "threshold": "Longer base = stronger support; 2–3 yrs hidden capex",
+    "rationale": "Weak hands → strong hands; observe for Stage 2 breakout"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Stage 2 Entry",
+    "threshold": "Start of Stage 2 or pullback (investors); continuation (traders)",
+    "rationale": "Optimal risk-reward entry when catalysts & QoQ growth align"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "d) Formulas, metrics & thresholds",
+    "anchor": "/courses/fas/FAS_Lec05_Report#d-formulas-metrics-thresholds",
+    "metric": "Stage 3 / 4 Exit",
+    "threshold": "After 4–5 bases: sell half in Stage 3, full on Stage 4 breakdown",
+    "rationale": "Protects capital from prolonged Stage 4 drawdowns"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Scenario 1 (Markup)",
+    "threshold": "Positive fundamental change likely underway",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Dumping / Distribution",
+    "threshold": "Urgent selling / institutional exit",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Scenario 3 (Downtrend Volume Spike)",
+    "threshold": "Fundamental change occurring in the business",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Tightening Pattern",
+    "threshold": "Very low / drying volume for 3–5 weeks to 2–3 months",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Weekly Trend Filter",
+    "threshold": "Price > rising EMA = Stage 2; Price < declining EMA = Stage 4",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Institutional Volume Footprint",
+    "threshold": "High weekly volume in ₹1,800–4,000 cr MCap companies",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Low-Float Illiquid Watchlist",
+    "threshold": "₹6,000–7,000 cr MCap trading ₹10–20 cr/day",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Stage 1 Horizontal Base",
+    "threshold": "Longer horizontal base = stronger support (2–3 yrs hidden capex)",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Stage 2 Entry Timing",
+    "threshold": "Investors: Stage 2 start or pullback; Traders: continuation",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_LEC05_REPORT",
+    "stage": "6. CONSOLIDATED FORMULA & METRIC SHEET",
+    "anchor": "/courses/fas/FAS_Lec05_Report#6-consolidated-formula-metric-sheet",
+    "metric": "Stage 3 / Stage 4 Exit Trigger",
+    "threshold": "After 4–5 bases: sell half in Stage 3, full on Stage 4 breakdown",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Return Equation**",
+    "threshold": "`Perception × Earnings Growth × Rate of Change of Perception`",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Portfolio Trend vs. Contrarian Split**",
+    "threshold": "70–80% active industry trends / 20–30% contrarian",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Global Asset Allocation**",
+    "threshold": "80–85% India / 10–20% International",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Position Sizing (2-4-6-8)**",
+    "threshold": "20–25 stocks; 2% (low), 4% (OK), 6% (good), 8% (high conviction)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Industry / Sector Attribution**",
+    "threshold": "37% industry group + 12% sector (~49%; 60%+ in group moves)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Catalyst Screen Universe**",
+    "threshold": ">20–25% actual or guided growth (100–150 one-pagers/qtr)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Buoyant Growth Scan**",
+    "threshold": "Sales growth > 20% AND PAT growth > 20%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Indian CANSLIM \"C\" Query**",
+    "threshold": "Sales YoY > 15%, PAT YoY > 20%, ROCE > 15%, MCap > ₹1,000 cr, P/E 15–30x (< 40), 5–6Q runway",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Earnings Breakout Scan**",
+    "threshold": "MCap ₹1,000–20,000 cr; prior 4Q PAT within 1.10 (10%) band; latest PAT > 30%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Consistent OPM Scan (3–4Q)**",
+    "threshold": "MCap ≥ ₹1,000 cr; OPM(t) > OPM(t-1) × 1.10; latest OPM > 1%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Result Tracker Scan (YoY)**",
+    "threshold": "Margin expansion > 20%; sales growth > 10%; latest OPM > 6%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Consistent 4Q PAT Growth**",
+    "threshold": "PAT growth > 10% for 4 consecutive quarters",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Loss-to-Profit IPO Scan**",
+    "threshold": "Listed < 600 days; PAT 1Q back < 0; PAT YoY Q < 0; latest PAT > ₹1 cr",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Promoter Warrant Backtest**",
+    "threshold": "25% upfront, 18-month lock-in",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Institutional Interest (FII+DII)**",
+    "threshold": "**FAS-Lec02:** MCap ≥ ₹1,000–2,500 cr, FII+DII Δ ≥ 2% (~46% 1Y hit rate, 25/54). **FAS-Lec04:** 1Y FII+DII > 1–3%, Promoter > 2%, or QoQ > 0.5% + 3M RS > 2%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Volume Rocketing / Combined Volume**",
+    "threshold": "**FAS-Lec02:** Close > 30W EMA, 10D Vol > 1.20 × 50D Vol, RS > 2%, PAT > 20%. **FAS-Lec04:** 10D avg vol ≥ 1.5x 20D avg vol; avoid < ₹300 cr MCap",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Relative Strength Benchmarks**",
+    "threshold": "**Levy 1967:** Top 10% 26W RS = 9.6%/26W (~20.1% p.a.) vs. 2.9%/26W. **StockScans:** Weekly RS > 2% and < 10% vs. Nifty 50 (26W lookback)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**TradingView Global Stage 2 Scan**",
+    "threshold": "Close ≥ 30W EMA + ADX > 20 + Weekly RSI > 50",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Perplexity Max Weekly Funnel**",
+    "threshold": "~1,200 tickers (879 US + 311 EU) → Top 50 + \"Just Broke Out\" (2–3 yr rounding bottoms)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**AI GARP + Theme Screen**",
+    "threshold": "PEG < 1.5x + AI theme + accelerating earnings",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Tightening Pattern**",
+    "threshold": "Narrow sideways range on very low volume for 3–5 weeks to 2–3 months",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**Stage 3 / 4 Exit Rule**",
+    "threshold": "After 4–5 bases: sell half in Stage 3, full exit on weekly close < 30W MA",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUBCOURSE_SUMMARY",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/FAS_SubCourse_Summary#6-consolidated-rules-thresholds",
+    "metric": "**S-Curve Inflection & Saturation**",
+    "threshold": ">10% adoption inflection (EV 2W); saturation risk at high share (e.g., EV 3W at 60%)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Return Equation",
+    "threshold": "Perception × Earnings Growth × Rate of Change",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Exponential Compounding",
+    "threshold": "Prior top line (1–3 yrs ago) ≈ Today's bottom line",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "S-Curve Inflection",
+    "threshold": ">10% EV 2W share of registrations",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Catalyst Screen Universe",
+    "threshold": ">20–25% actual or guided growth (100–150/qtr)",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Promoter Warrant Backtest",
+    "threshold": "25% upfront, 18-mo lock-in; 72.4% 3Y / 77.8% 5Y hit rate",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Buoyant Growth Scan",
+    "threshold": ">20% Sales growth AND >20% PAT growth",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "2-4-6-8 Sizing",
+    "threshold": "20–25 stocks; 2% / 4% / 6% / 8% weights",
+    "rationale": "Stage 12"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Earnings Breakout Scan",
+    "threshold": "MCap ₹1,000–20,000 cr; prior 4Q PAT within 1.10 (10%) band; latest PAT > 30% (320 → 13 stocks)",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Consistent OPM Scan (3–4Q)",
+    "threshold": "MCap ≥ ₹1,000 cr; OPM(t) > OPM(t-1) × 1.10; latest OPM > 1% (excludes banks)",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Result Tracker Scan (YoY)",
+    "threshold": "Margin expansion > 20%; sales growth > 10%; latest OPM > 6%",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Consistent 4Q PAT Growth",
+    "threshold": "PAT growth > 10% for 4 straight quarters (PAT preferred over EPS)",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Loss-to-Profit IPO Scan",
+    "threshold": "Listed < 600 days; PAT 1Q back < 0; PAT YoY Q < 0; latest PAT > ₹1 cr",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Institutional Interest (FII+DII)",
+    "threshold": "MCap ≥ ₹1,000–2,500 cr; FII+DII Δ ≥ 2% (1Y backtest: 25/54 outperformed, ~46%)",
+    "rationale": "Stage 10"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Combined Volume + Earnings",
+    "threshold": "Close > 30W EMA; 10D Vol > 1.20 × 50D Vol; RS > 2%; PAT > 20% (5,000 → 236 → 83)",
+    "rationale": "Stage 13"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "TradingView Stage 2 Scan",
+    "threshold": "Close ≥ 30W EMA + ADX > 20 + Weekly RSI > 50",
+    "rationale": "Stage 2"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "IBD vs. MarketSurge",
+    "threshold": "\\$10/mo (IBD 50) vs. \\$40/mo (MarketSurge)",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Perplexity Weekly Universe",
+    "threshold": "~1,200 tickers (879 US + 311 EU) → Top 50",
+    "rationale": "Stage 4 & 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "\"Just Broke Out\" Base",
+    "threshold": "2–3 years flat / rounding bottom → Stage 2",
+    "rationale": "Stage 4"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "AI GARP + Theme Prompt",
+    "threshold": "PEG < 1.5x + AI theme + accelerating earnings",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Daily Reading Benchmark",
+    "threshold": "6–7 hours/day on Substacks & filings",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Global Asset Allocation",
+    "threshold": "80–85% India / 10–20% International",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Indian CANSLIM \"C\"",
+    "threshold": "Sales > 15%, PAT > 20%, P/E 15–30x (< 40), 5–6Q runway",
+    "rationale": "Stage 2–3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Volume Rocketing",
+    "threshold": "10D avg vol ≥ 1.5x 20D avg vol; avoid < ₹300 cr MCap",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Industry/Sector Attribution",
+    "threshold": "37% industry group + 12% sector (~49%; 60%+ group moves)",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Institutional Lapping-Up",
+    "threshold": "FII & DII 1Y > 1–3%; Promoter > 2%; QoQ > 0.5% + RS",
+    "rationale": "Stage 7"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Levy 1967 RS Benchmark",
+    "threshold": "Top 10% 26W RS: 9.6%/26W (~20.1% p.a.) vs. 2.9%/26W",
+    "rationale": "Stage 8"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "StockScans Weekly RS",
+    "threshold": "> 2% and < 10% vs. Nifty 50; 26W index lookback",
+    "rationale": "Stage 9"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Tightening Pattern",
+    "threshold": "Narrow range, very low volume for 3–5 wks / 2–3 mos",
+    "rationale": "Stage 3"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Weekly Trend Filter",
+    "threshold": "Price > rising 30W/40W EMA (Stage 2); < declining EMA (Stage 4)",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Institutional Volume",
+    "threshold": "High weekly volume spikes in ₹1,800–4,000 cr MCap stocks",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Low-Float Watchlist",
+    "threshold": "₹6,000–7,000 cr MCap, ₹10–20 cr/day turnover + post-Stage 4 volume",
+    "rationale": "Stage 5"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Stage 1 Hidden Capex",
+    "threshold": "2–3 yrs for new products/capex to reflect in numbers",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Stage 4 Buy Risk",
+    "threshold": "Immediate 10–20% drawdowns when buying Stage 4",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "FAS_SUMMARY_REFERENCES",
+    "stage": "3. Rules, thresholds & formulas",
+    "anchor": "/courses/fas/FAS_Summary_References#3-rules-thresholds-formulas",
+    "metric": "Stage 3 / 4 Exit Rule",
+    "threshold": "After 4–5 bases: sell half in Stage 3, full on close < 30W MA",
+    "rationale": "Stage 6"
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Return Equation**",
+    "threshold": "`Perception × Earnings Growth × Rate of Change of Perception`",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Portfolio Trend vs. Contrarian Split**",
+    "threshold": "70–80% active industry trends / 20–30% contrarian",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Global Asset Allocation**",
+    "threshold": "80–85% India / 10–20% International",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Position Sizing (2-4-6-8)**",
+    "threshold": "20–25 stocks; 2% (low), 4% (OK), 6% (good), 8% (high conviction)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Industry / Sector Attribution**",
+    "threshold": "37% industry group + 12% sector (~49%; 60%+ in group moves)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Catalyst Screen Universe**",
+    "threshold": ">20–25% actual or guided growth (100–150 one-pagers/qtr)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Buoyant Growth Scan**",
+    "threshold": "Sales growth > 20% AND PAT growth > 20%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Indian CANSLIM \"C\" Query**",
+    "threshold": "Sales YoY > 15%, PAT YoY > 20%, ROCE > 15%, MCap > ₹1,000 cr, P/E 15–30x (< 40), 5–6Q runway",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Earnings Breakout Scan**",
+    "threshold": "MCap ₹1,000–20,000 cr; prior 4Q PAT within 1.10 (10%) band; latest PAT > 30%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Consistent OPM Scan (3–4Q)**",
+    "threshold": "MCap ≥ ₹1,000 cr; OPM(t) > OPM(t-1) × 1.10; latest OPM > 1%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Result Tracker Scan (YoY)**",
+    "threshold": "Margin expansion > 20%; sales growth > 10%; latest OPM > 6%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Consistent 4Q PAT Growth**",
+    "threshold": "PAT growth > 10% for 4 consecutive quarters",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Loss-to-Profit IPO Scan**",
+    "threshold": "Listed < 600 days; PAT 1Q back < 0; PAT YoY Q < 0; latest PAT > ₹1 cr",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Promoter Warrant Backtest**",
+    "threshold": "25% upfront, 18-month lock-in",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Institutional Interest (FII+DII)**",
+    "threshold": "**FAS-Lec02:** MCap ≥ ₹1,000–2,500 cr, FII+DII Δ ≥ 2% (~46% 1Y hit rate, 25/54). **FAS-Lec04:** 1Y FII+DII > 1–3%, Promoter > 2%, or QoQ > 0.5% + 3M RS > 2%",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Volume Rocketing / Combined Volume**",
+    "threshold": "**FAS-Lec02:** Close > 30W EMA, 10D Vol > 1.20 × 50D Vol, RS > 2%, PAT > 20%. **FAS-Lec04:** 10D avg vol ≥ 1.5x 20D avg vol; avoid < ₹300 cr MCap",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Relative Strength Benchmarks**",
+    "threshold": "**Levy 1967:** Top 10% 26W RS = 9.6%/26W (~20.1% p.a.) vs. 2.9%/26W. **StockScans:** Weekly RS > 2% and < 10% vs. Nifty 50 (26W lookback)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**TradingView Global Stage 2 Scan**",
+    "threshold": "Close ≥ 30W EMA + ADX > 20 + Weekly RSI > 50",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Perplexity Max Weekly Funnel**",
+    "threshold": "~1,200 tickers (879 US + 311 EU) → Top 50 + \"Just Broke Out\" (2–3 yr rounding bottoms)",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**AI GARP + Theme Screen**",
+    "threshold": "PEG < 1.5x + AI theme + accelerating earnings",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Tightening Pattern**",
+    "threshold": "Narrow sideways range on very low volume for 3–5 weeks to 2–3 months",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**Stage 3 / 4 Exit Rule**",
+    "threshold": "After 4–5 bases: sell half in Stage 3, full exit on weekly close < 30W MA",
+    "rationale": ""
+  },
+  {
+    "course": "FAS",
+    "lecture": "INDEX",
+    "stage": "6. CONSOLIDATED RULES & THRESHOLDS",
+    "anchor": "/courses/fas/index#6-consolidated-rules-thresholds",
+    "metric": "**S-Curve Inflection & Saturation**",
+    "threshold": ">10% adoption inflection (EV 2W); saturation risk at high share (e.g., EV 3W at 60%)",
+    "rationale": ""
+  },
+  {
     "course": "V&P",
     "lecture": "VP_LEC02_REPORT",
     "stage": "Recommended Valuation Talks & Research Platforms",

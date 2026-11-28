@@ -50,3 +50,4 @@ features:
 | **V&P** | **Corporate Valuation & Portfolio Strategy** | Reverse DCF, margin traps, cyclical PE adjustments, and portfolio sizing | [Open V&P Overview](/courses/vp/) |
 | **BF** | **Behavioural Finance** | System 1 vs 2, cognitive biases, loss aversion, and portfolio-level anchoring | [Open BF Overview](/courses/bf/) |
 | **BS** | **Buy Sell (When to Buy & Sell)** | Stage Analysis, V-Stop, ADX, CRS, Sector Rotation, Entry Archetypes & Exits | [Open BS Overview](/courses/bs/) |
+| **FAS** | **Filter A Stock** | Automated growth catalysts, "NEW" triggers, Stage 2 scans, CANSLIM & global screens | [Open FAS Overview](/courses/fas/) |
