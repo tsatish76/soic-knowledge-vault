@@ -8,7 +8,6 @@ const isOpen = ref(false)
 const searchQuery = ref('')
 const headers = ref([])
 const activeId = ref('')
-const searchInputEl = ref(null)
 
 // Compute filtered headers based on search query
 const filteredHeaders = computed(() => {
@@ -102,13 +101,6 @@ function updateActiveHeader() {
 
 function toggleDrawer() {
   isOpen.value = !isOpen.value
-  if (isOpen.value) {
-    nextTick(() => {
-      if (searchInputEl.value) {
-        searchInputEl.value.focus()
-      }
-    })
-  }
 }
 
 function closeDrawer() {
@@ -212,7 +204,6 @@ onUnmounted(() => {
           <div class="drawer-search-box">
             <span class="search-icon">🔍</span>
             <input
-              ref="searchInputEl"
               v-model="searchQuery"
               type="text"
               placeholder="Filter sections..."
