@@ -14,71 +14,79 @@ const isDragging = ref(false)
 const hoveredItem = ref(null)
 const tooltipStyle = ref({ top: '0px', left: '0px' })
 
-// Extract items for the mini-rail from the active sidebar group
+// Extract items for the mini-rail from active sidebar groups
 const miniRailItems = computed(() => {
   if (!sidebarGroups.value || sidebarGroups.value.length === 0) return []
 
-  const group = sidebarGroups.value[0]
-  if (!group || !group.items) return []
-
   const list = []
 
-  group.items.forEach(item => {
-    // Check if it's Overview (D3)
-    if (/overview|\(D3\)/i.test(item.text)) {
-      list.push({
-        type: 'overview',
-        badge: 'D3',
-        subLabel: 'OVR',
-        icon: '🗺️',
-        fullTitle: item.text.replace(/^[🗺️\s]+/, ''),
-        link: item.link,
-        isActive: isLinkActive(item.link)
-      })
-    }
-    // Check if it's Summary Reference Cards (D2)
-    else if (/summary|\(D2\)/i.test(item.text)) {
-      list.push({
-        type: 'summary',
-        badge: 'D2',
-        subLabel: 'REF',
-        icon: '⚡',
-        fullTitle: item.text.replace(/^[⚡\s]+/, ''),
-        link: item.link,
-        isActive: isLinkActive(item.link)
-      })
-    }
-    // Check if it's Detailed Lecture Reports (D1)
-    else if (item.items && item.items.length > 0) {
-      item.items.forEach((child, index) => {
-        const lecMatch = child.text.match(/Lec\s*(\d+)/i)
-        const lecNum = lecMatch ? lecMatch[1].padStart(2, '0') : (index + 1).toString().padStart(2, '0')
+  sidebarGroups.value.forEach(group => {
+    if (!group || !group.items) return
+
+    group.items.forEach(item => {
+      // Check if it's Overview (D3)
+      if (/overview|\(D3\)/i.test(item.text)) {
         list.push({
-          type: 'lecture',
-          badge: lecNum,
-          subLabel: null,
-          icon: null,
-          fullTitle: child.text,
-          link: child.link,
-          isActive: isLinkActive(child.link)
+          type: 'overview',
+          badge: 'D3',
+          fullTitle: item.text.replace(/^[^\w\d]+/, ''),
+          link: item.link,
+          isActive: isLinkActive(item.link)
         })
-      })
-    } else if (item.link) {
-      // Fallback for standalone links (e.g. Verification Queue, Transcripts)
-      list.push({
-        type: 'standalone',
-        badge: item.text.slice(0, 2).toUpperCase(),
-        subLabel: null,
-        icon: '📌',
-        fullTitle: item.text,
-        link: item.link,
-        isActive: isLinkActive(item.link)
-      })
-    }
+      }
+      // Check if it's Summary Reference Cards (D2)
+      else if (/summary|\(D2\)/i.test(item.text)) {
+        list.push({
+          type: 'summary',
+          badge: 'D2',
+          fullTitle: item.text.replace(/^[^\w\d]+/, ''),
+          link: item.link,
+          isActive: isLinkActive(item.link)
+        })
+      }
+      // Check if it's Detailed Lecture Reports (D1) or nested groups
+      else if (item.items && item.items.length > 0) {
+        item.items.forEach((child, index) => {
+          const lecMatch = child.text.match(/Lec\s*(\d+)/i)
+          const lecNum = lecMatch
+            ? lecMatch[1].padStart(2, '0')
+            : (index + 1).toString().padStart(2, '0')
+          list.push({
+            type: 'lecture',
+            badge: lecNum,
+            fullTitle: child.text,
+            link: child.link,
+            isActive: isLinkActive(child.link)
+          })
+        })
+      } else if (item.link) {
+        // Standalone links (e.g. Verification Queue, Transcripts Library)
+        const shortCode = /transcript/i.test(item.text)
+          ? 'TR'
+          : /verification/i.test(item.text)
+          ? 'QA'
+          : item.text.replace(/^[^\w\d]+/, '').slice(0, 2).toUpperCase()
+        list.push({
+          type: 'standalone',
+          badge: shortCode,
+          fullTitle: item.text.replace(/^[^\w\d]+/, ''),
+          link: item.link,
+          isActive: isLinkActive(item.link)
+        })
+      }
+    })
   })
 
   return list
 })
+
+const hasTierItems = computed(() =>
+  miniRailItems.value.some(i => i.type === 'overview' || i.type === 'summary' || i.type === 'standalone')
+)
+
+const hasLectureItems = computed(() =>
+  miniRailItems.value.some(i => i.type === 'lecture')
+)
 
 function isLinkActive(link) {
   if (!link || !inBrowser) return false
@@ -89,6 +97,7 @@ function isLinkActive(link) {
 
 function toggleCollapse() {
   isCollapsed.value = !isCollapsed.value
+  hoveredItem.value = null
   applySidebarState()
 }
 
@@ -99,7 +108,7 @@ function applySidebarState() {
 
   if (isCollapsed.value) {
     document.documentElement.classList.add('sidebar-collapsed')
-    document.documentElement.style.setProperty('--vp-sidebar-width', '58px')
+    document.documentElement.style.setProperty('--vp-sidebar-width', '64px')
     localStorage.setItem('soic-sidebar-collapsed', 'true')
     siblingGroups.forEach(g => {
       g.style.setProperty('display', 'none', 'important')
@@ -118,7 +127,7 @@ function onHoverBadge(e, item) {
   const rect = e.currentTarget.getBoundingClientRect()
   tooltipStyle.value = {
     top: `${rect.top}px`,
-    left: `${rect.right + 12}px`
+    left: `${rect.right + 14}px`
   }
   hoveredItem.value = item
 }
@@ -128,7 +137,7 @@ function onLeaveBadge() {
 }
 
 // Resizer logic
-function startResize(e) {
+function startResize() {
   if (isCollapsed.value) return
   isDragging.value = true
   document.body.style.userSelect = 'none'
@@ -230,29 +239,37 @@ onUnmounted(() => {
         title="Collapse to Mini-Rail (Ctrl+B)"
         aria-label="Collapse Sidebar"
       >
-        <span class="icon">◀</span>
+        <svg class="btn-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect width="18" height="18" x="3" y="3" rx="2" />
+          <path d="M9 3v18" />
+          <path d="m16 15-3-3 3-3" />
+        </svg>
         <span class="shortcut">Ctrl+B</span>
       </button>
     </div>
 
     <!-- Mini-Rail Dock in Collapsed Mode (Option A2) -->
     <div v-else class="soic-mini-rail">
-      <!-- Expand Button at top of dock -->
+      <!-- Expand Button at top of dock (PanelLeftOpen SVG) -->
       <button
         class="soic-expand-btn"
         @click="toggleCollapse"
         title="Expand Sidebar (Ctrl+B)"
         aria-label="Expand Sidebar"
       >
-        <span class="icon">▶</span>
+        <svg class="expand-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect width="18" height="18" x="3" y="3" rx="2" />
+          <path d="M9 3v18" />
+          <path d="m14 9 3 3-3 3" />
+        </svg>
       </button>
 
-      <div class="rail-divider"></div>
+      <div v-if="hasTierItems" class="rail-divider"></div>
 
-      <!-- D3 (Overview) & D2 (Summary Reference Cards) Short Form Badges -->
-      <div class="rail-tier-group">
+      <!-- D3 (Overview), D2 (Summary Reference Cards), & Standalone Short Form Tiles -->
+      <div v-if="hasTierItems" class="rail-tier-group">
         <template v-for="item in miniRailItems" :key="item.link">
-          <!-- Short-form D3 Overview Badge -->
+          <!-- Short-form D3 Overview Badge (Compass/Map Vector SVG) -->
           <a
             v-if="item.type === 'overview'"
             :href="item.link"
@@ -262,13 +279,16 @@ onUnmounted(() => {
             @mouseleave="onLeaveBadge"
             aria-label="Sub-Course Overview (D3)"
           >
-            <span class="badge-icon">🗺️</span>
+            <svg class="tier-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="9" />
+              <polygon points="15.5 8.5 13.5 13.5 8.5 15.5 10.5 10.5 15.5 8.5" />
+            </svg>
             <span class="badge-code">D3</span>
           </a>
 
-          <!-- Short-form D2 Summary Reference Cards Badge -->
+          <!-- Short-form D2 Summary Reference Cards Badge (Zap Vector SVG) -->
           <a
-            v-if="item.type === 'summary'"
+            v-else-if="item.type === 'summary'"
             :href="item.link"
             class="rail-badge action-badge d2-badge"
             :class="{ 'is-active': item.isActive }"
@@ -276,31 +296,51 @@ onUnmounted(() => {
             @mouseleave="onLeaveBadge"
             aria-label="Summary Reference Cards (D2)"
           >
-            <span class="badge-icon">⚡</span>
+            <svg class="tier-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
+            </svg>
             <span class="badge-code">D2</span>
           </a>
-        </template>
-      </div>
 
-      <div class="rail-divider"></div>
-      <div class="rail-section-tag">LECS</div>
-
-      <!-- D1 Detailed Lectures (01, 02, 03, ...) Short Form Badges -->
-      <div class="rail-lectures-scroll">
-        <template v-for="item in miniRailItems" :key="item.link">
+          <!-- Standalone Tile (Transcripts Library / Verification Queue) -->
           <a
-            v-if="item.type === 'lecture'"
+            v-else-if="item.type === 'standalone'"
             :href="item.link"
-            class="rail-badge lecture-badge"
+            class="rail-badge action-badge standalone-badge"
             :class="{ 'is-active': item.isActive }"
             @mouseenter="onHoverBadge($event, item)"
             @mouseleave="onLeaveBadge"
             :aria-label="item.fullTitle"
           >
-            <span>{{ item.badge }}</span>
+            <svg class="tier-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" />
+            </svg>
+            <span class="badge-code">{{ item.badge }}</span>
           </a>
         </template>
       </div>
+
+      <template v-if="hasLectureItems">
+        <div class="rail-divider"></div>
+        <div class="rail-section-tag">LECS</div>
+
+        <!-- D1 Detailed Lectures (01, 02, 03, ...) Short Form Badges -->
+        <div class="rail-lectures-scroll">
+          <template v-for="item in miniRailItems" :key="item.link">
+            <a
+              v-if="item.type === 'lecture'"
+              :href="item.link"
+              class="rail-badge lecture-badge"
+              :class="{ 'is-active': item.isActive }"
+              @mouseenter="onHoverBadge($event, item)"
+              @mouseleave="onLeaveBadge"
+              :aria-label="item.fullTitle"
+            >
+              <span>{{ item.badge }}</span>
+            </a>
+          </template>
+        </div>
+      </template>
     </div>
 
     <!-- Draggable Edge Resizer Handle (Only in Expanded mode) -->
@@ -335,6 +375,8 @@ onUnmounted(() => {
                 ? 'Sub-Course Overview'
                 : hoveredItem.type === 'summary'
                 ? 'Summary Reference Cards'
+                : hoveredItem.type === 'standalone'
+                ? 'Vault Section'
                 : 'Detailed Lecture Report'
             }}
           </span>
@@ -377,11 +419,16 @@ onUnmounted(() => {
   color: var(--vp-c-text-2, #64748b);
   border: 1px solid var(--vp-c-border, #cbd5e1);
   border-radius: 6px;
-  padding: 3px 8px;
+  padding: 4px 8px;
   font-size: 0.72rem;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
+}
+
+.soic-collapse-btn .btn-svg {
+  width: 14px;
+  height: 14px;
 }
 
 .soic-collapse-btn:hover {
@@ -404,46 +451,55 @@ onUnmounted(() => {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
   width: 100%;
-  padding: 4px 0 24px 0;
+  padding: 2px 2px 24px 0;
 }
 
 .soic-expand-btn {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 38px;
-  height: 38px;
+  width: 40px;
+  height: 36px;
   border-radius: 8px;
-  background: var(--vp-c-bg-soft, #1e293b);
-  color: var(--vp-c-brand-1, #10b981);
-  border: 1px solid var(--vp-c-brand-1, #10b981);
+  background: var(--vp-c-bg-soft, #f1f5f9);
+  color: var(--vp-c-text-2, #475569);
+  border: 1px solid var(--vp-c-border, #cbd5e1);
   cursor: pointer;
-  font-size: 0.85rem;
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.18s ease;
+}
+
+.dark .soic-expand-btn {
+  background: rgba(30, 41, 59, 0.65);
+  color: #94a3b8;
+  border-color: #334155;
+}
+
+.soic-expand-btn .expand-svg {
+  width: 17px;
+  height: 17px;
 }
 
 .soic-expand-btn:hover {
-  background: var(--vp-c-brand-1, #10b981);
-  color: #ffffff;
-  transform: scale(1.05);
+  background: var(--vp-c-brand-soft, rgba(16, 185, 129, 0.16));
+  color: var(--vp-c-brand-1, #10b981);
+  border-color: var(--vp-c-brand-1, #10b981);
 }
 
 .rail-divider {
-  width: 32px;
+  width: 28px;
   height: 1px;
   background: var(--vp-c-divider, #334155);
-  margin: 4px 0;
+  margin: 2px 0;
 }
 
 .rail-section-tag {
-  font-size: 0.58rem;
-  font-weight: 800;
+  font-size: 0.6rem;
+  font-weight: 700;
   letter-spacing: 0.1em;
   color: var(--vp-c-text-3, #64748b);
-  margin: 2px 0 4px 0;
+  margin: 0 0 2px 0;
 }
 
 .rail-tier-group {
@@ -459,92 +515,115 @@ onUnmounted(() => {
   align-items: center;
   justify-content: center;
   text-decoration: none !important;
-  transition: all 0.18s ease;
+  transition: all 0.16s ease;
   position: relative;
+}
+
+.action-badge {
+  width: 42px;
+  height: 42px;
+  border-radius: 9px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+
+.action-badge .tier-svg {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
+
+.action-badge .badge-code {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1;
 }
 
 /* D3 Overview Short Form Badge */
 .d3-badge {
-  width: 38px;
-  height: 38px;
-  border-radius: 8px;
-  background: rgba(6, 182, 212, 0.12);
-  border: 1px solid rgba(6, 182, 212, 0.35);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 1px;
+  background: rgba(6, 182, 212, 0.08);
+  border: 1px solid rgba(6, 182, 212, 0.24);
   color: #0891b2;
 }
 
 .dark .d3-badge {
-  background: rgba(6, 182, 212, 0.15);
-  border-color: rgba(6, 182, 212, 0.4);
+  background: rgba(6, 182, 212, 0.09);
+  border-color: rgba(6, 182, 212, 0.28);
   color: #22d3ee;
 }
 
-.d3-badge .badge-icon {
-  font-size: 0.9rem;
-  line-height: 1;
+.d3-badge:hover {
+  background: rgba(6, 182, 212, 0.16);
+  border-color: #06b6d4;
 }
 
-.d3-badge .badge-code {
-  font-size: 0.6rem;
-  font-weight: 800;
-  letter-spacing: 0.05em;
-  font-family: monospace;
-}
-
-.d3-badge:hover,
 .d3-badge.is-active {
-  background: #0891b2 !important;
-  color: #ffffff !important;
+  background: rgba(6, 182, 212, 0.2) !important;
+  color: #0e7490 !important;
+  border-color: #06b6d4 !important;
+  box-shadow: inset 0 0 0 1px rgba(6, 182, 212, 0.35);
+}
+
+.dark .d3-badge.is-active {
+  background: rgba(6, 182, 212, 0.22) !important;
+  color: #67e8f9 !important;
   border-color: #22d3ee !important;
-  box-shadow: 0 0 10px rgba(6, 182, 212, 0.5);
-  transform: scale(1.05);
+  box-shadow: inset 0 0 0 1px rgba(34, 211, 238, 0.3);
 }
 
 /* D2 Summary Cards Short Form Badge */
 .d2-badge {
-  width: 38px;
-  height: 38px;
-  border-radius: 8px;
-  background: rgba(245, 158, 11, 0.12);
-  border: 1px solid rgba(245, 158, 11, 0.35);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 1px;
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.24);
   color: #b45309;
 }
 
 .dark .d2-badge {
-  background: rgba(245, 158, 11, 0.15);
-  border-color: rgba(245, 158, 11, 0.4);
+  background: rgba(245, 158, 11, 0.09);
+  border-color: rgba(245, 158, 11, 0.28);
   color: #fbbf24;
 }
 
-.d2-badge .badge-icon {
-  font-size: 0.9rem;
-  line-height: 1;
+.d2-badge:hover {
+  background: rgba(245, 158, 11, 0.16);
+  border-color: #f59e0b;
 }
 
-.d2-badge .badge-code {
-  font-size: 0.6rem;
-  font-weight: 800;
-  letter-spacing: 0.05em;
-  font-family: monospace;
-}
-
-.d2-badge:hover,
 .d2-badge.is-active {
-  background: #d97706 !important;
-  color: #ffffff !important;
+  background: rgba(245, 158, 11, 0.2) !important;
+  color: #92400e !important;
+  border-color: #f59e0b !important;
+  box-shadow: inset 0 0 0 1px rgba(245, 158, 11, 0.35);
+}
+
+.dark .d2-badge.is-active {
+  background: rgba(245, 158, 11, 0.22) !important;
+  color: #fde68a !important;
   border-color: #fbbf24 !important;
-  box-shadow: 0 0 10px rgba(245, 158, 11, 0.5);
-  transform: scale(1.05);
+  box-shadow: inset 0 0 0 1px rgba(251, 191, 36, 0.3);
+}
+
+/* Standalone badge */
+.standalone-badge {
+  background: var(--vp-c-bg-soft, #f1f5f9);
+  border: 1px solid var(--vp-c-border, #cbd5e1);
+  color: var(--vp-c-text-2, #475569);
+}
+
+.dark .standalone-badge {
+  background: rgba(30, 41, 59, 0.55);
+  border-color: #334155;
+  color: #94a3b8;
+}
+
+.standalone-badge.is-active {
+  background: var(--vp-c-brand-soft, rgba(16, 185, 129, 0.18));
+  border-color: var(--vp-c-brand-1, #10b981);
+  color: var(--vp-c-brand-1, #10b981);
 }
 
 /* D1 Lecture Badges (01, 02, ...) */
@@ -557,30 +636,43 @@ onUnmounted(() => {
 }
 
 .lecture-badge {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 34px;
   border-radius: 8px;
-  background: var(--vp-c-bg-soft, #0f172a);
-  border: 1px solid var(--vp-c-border, #334155);
+  background: var(--vp-c-bg-soft, #f8fafc);
+  border: 1px solid var(--vp-c-border, #e2e8f0);
   font-size: 0.78rem;
   font-weight: 600;
-  font-family: monospace;
-  color: var(--vp-c-text-2, #94a3b8);
+  font-variant-numeric: tabular-nums;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  color: var(--vp-c-text-2, #475569);
+}
+
+.dark .lecture-badge {
+  background: rgba(15, 23, 42, 0.8);
+  border-color: #1e293b;
+  color: #94a3b8;
 }
 
 .lecture-badge:hover {
-  background: rgba(16, 185, 129, 0.15);
+  background: rgba(16, 185, 129, 0.12);
   border-color: var(--vp-c-brand-1, #10b981);
   color: var(--vp-c-brand-1, #10b981);
-  transform: scale(1.06);
 }
 
 .lecture-badge.is-active {
-  background: var(--vp-c-brand-1, #10b981) !important;
-  color: #090d16 !important;
-  border-color: var(--vp-c-brand-1, #10b981) !important;
-  font-weight: 800 !important;
-  box-shadow: 0 0 10px rgba(16, 185, 129, 0.45);
+  background: rgba(16, 185, 129, 0.18) !important;
+  color: #047857 !important;
+  border-color: #10b981 !important;
+  font-weight: 700 !important;
+  box-shadow: inset 0 0 0 1px rgba(16, 185, 129, 0.3);
+}
+
+.dark .lecture-badge.is-active {
+  background: rgba(16, 185, 129, 0.2) !important;
+  color: #34d399 !important;
+  border-color: #10b981 !important;
+  box-shadow: inset 0 0 0 1px rgba(52, 211, 153, 0.3);
 }
 
 /* Resizer Handle */
